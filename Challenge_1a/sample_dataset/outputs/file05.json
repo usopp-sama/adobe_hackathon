@@ -38,15 +38,9 @@
       "page": 1,
       "section_type": "Unknown",
       "persona_focus": [],
-      "paragraphs": []
-    },
-    {
-      "level": "H2",
-      "text": "(NEAR DIXIE STAMPEDE  ON  THE PARKWAY)",
-      "page": 1,
-      "section_type": "Unknown",
-      "persona_focus": [],
-      "paragraphs": []
+      "paragraphs": [
+        "(NEAR DIXIE STAMPEDE  ON  THE PARKWAY)"
+      ]
     },
     {
       "level": "H1",
@@ -56,8 +50,16 @@
       "persona_focus": [],
       "paragraphs": [
         "CLOSED TOED SHOES  ARE  REQUIRED FOR CLIMBING",
-        "PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,",
-        "PLEASE VISIT  TOPJUMP.COM  TO  FILL  OUT  WAIVER",
+        "PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,"
+      ]
+    },
+    {
+      "level": "H1",
+      "text": "PLEASE VISIT  TOPJUMP.COM  TO  FILL  OUT  WAIVER",
+      "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": [
         "SO YOUR CHILD CAN ATTEND."
       ]
     },
