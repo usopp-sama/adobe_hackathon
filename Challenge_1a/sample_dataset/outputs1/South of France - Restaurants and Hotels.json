@@ -6,6 +6,10 @@
       "level": "H1",
       "text": "Introduction",
       "page": 1,
+      "section_type": "Introduction",
+      "persona_focus": [
+        "Everyone"
+      ],
       "paragraphs": [
         "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite",
         "cuisine, is a dream destination for travelers. From the glamorous beaches of the French",
@@ -14,19 +18,14 @@
         "luxurious experiences, this guide will help you find the perfect restaurants and hotels for your",
         "trip.",
         "Restaurants"
-      ],
-      "keywords": [
-        "France",
-        "South",
-        "landscapes",
-        "rich",
-        "heritage"
       ]
     },
     {
       "level": "H1",
       "text": "Budget-Friendly Restaurants",
       "page": 2,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Chez Pipo (Nice): Famous for its socca, a traditional Ni\u00e7oise chickpea pancake, this",
@@ -210,19 +209,14 @@
         "made with fresh, local ingredients. The elegant setting and exceptional service make it",
         "a top choice for fine dining.",
         "Hotels"
-      ],
-      "keywords": [
-        "make",
-        "dishes",
-        "restaurant",
-        "o\ufb00ering",
-        "variety"
       ]
     },
     {
       "level": "H1",
       "text": "Budget-Friendly Hotels",
       "page": 8,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel o\ufb00ering comfortable",
@@ -399,13 +393,6 @@
         "to eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming",
         "villages of Provence, the South of France promises an unforgettable travel experience. Bon",
         "voyage!"
-      ],
-      "keywords": [
-        "hotel",
-        "o\ufb00ering",
-        "rooms",
-        "make",
-        "luxurious"
       ]
     }
   ]

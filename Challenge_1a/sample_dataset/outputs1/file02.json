@@ -6,24 +6,28 @@
       "level": "H1",
       "text": "Overview",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Summary",
+      "persona_focus": [
+        "Everyone"
+      ],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "Foundation Level Extensions",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "Version 1.0"
-      ],
-      "keywords": [
-        "Version"
       ]
     },
     {
       "level": "H1",
       "text": "International Software Testing Qualifications Board",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "Copyright Notice",
         "This document may be copied in its entirety, or extracts made, if the source is acknowledged.",
@@ -43,26 +47,26 @@
         "Overview",
         "Software Testing",
         "Foundation Level Extension \u2013   Agile Tester"
-      ],
-      "keywords": [
-        "Software",
-        "Testing",
-        "Qualifications",
-        "Board",
-        "International"
       ]
     },
     {
       "level": "H1",
       "text": "Revision History",
       "page": 3,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Background",
+      "persona_focus": [
+        "Researcher",
+        "Student",
+        "Professional"
+      ],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "Version",
       "page": 3,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "Date",
         "Remarks",
@@ -110,26 +114,26 @@
         "Foundation Level Extension \u2013   Agile Tester",
         "Qualifications",
         "Board"
-      ],
-      "keywords": [
-        "DEC",
-        "version",
-        "amended",
-        "JUNE",
-        "JULY"
       ]
     },
     {
       "level": "H1",
       "text": "Table of Contents",
       "page": 4,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "Revision History",
       "page": 4,
+      "section_type": "Background",
+      "persona_focus": [
+        "Researcher",
+        "Student",
+        "Professional"
+      ],
       "paragraphs": [
         "3",
         "Table of Contents",
@@ -186,19 +190,14 @@
         "Foundation Level Extension \u2013   Agile Tester",
         "Qualifications",
         "Board"
-      ],
-      "keywords": [
-        "Level",
-        "Extension",
-        "Foundation",
-        "Table",
-        "Agile"
       ]
     },
     {
       "level": "H1",
       "text": "Acknowledgements",
       "page": 5,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "This document was produced by a team from the International Software Testing Qualifications Board",
         "Foundation Level Working Group.",
@@ -234,19 +233,16 @@
         "Overview",
         "Software Testing",
         "Foundation Level Extension \u2013   Agile Tester"
-      ],
-      "keywords": [
-        "Agile",
-        "Extension",
-        "Lead",
-        "van",
-        "Foundation"
       ]
     },
     {
       "level": "H1",
       "text": "1.  Introduction to the Foundation Level Extensions",
       "page": 6,
+      "section_type": "Introduction",
+      "persona_focus": [
+        "Everyone"
+      ],
       "paragraphs": [
         "This overview document is intended for anyone with an interest in the ISTQB Foundation Level",
         "Extensions who wants a high-level introduction to the leading principles and an overview of the individual",
@@ -278,38 +274,30 @@
         "Overview",
         "Software Testing",
         "Foundation Level Extension \u2013   Agile Tester"
-      ],
-      "keywords": [
-        "Level",
-        "ISTQB",
-        "Foundation",
-        "extension",
-        "document"
       ]
     },
     {
       "level": "H1",
       "text": "2.  Introduction to Foundation Level Agile Tester Extension",
       "page": 7,
+      "section_type": "Introduction",
+      "persona_focus": [
+        "Everyone"
+      ],
       "paragraphs": [
         "The certification for Foundation Level Extension \u2013   Agile Tester is designed for professionals who are",
         "working within Agile environments. It is also for professionals who are planning to start implementing",
         "Agile methods in the near future, or are working within companies that plan to do so, The certification",
         "provides an advantage for those who would like to know the required Agile activities, roles, methods, and",
         "methodologies specific to their role."
-      ],
-      "keywords": [
-        "Agile",
-        "Extension",
-        "Foundation",
-        "Level",
-        "Tester"
       ]
     },
     {
       "level": "H1",
       "text": "2.1 Intended Audience",
       "page": 7,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "The Foundation Level Extension \u2013   Agile Tester qualification is aimed at four main groups of professionals:",
         "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
@@ -328,19 +316,14 @@
         "wants a deeper understanding of software testing in the Agile world, such as project managers, quality",
         "managers, software development managers, business analysts, IT directors, and management",
         "consultants."
-      ],
-      "keywords": [
-        "Agile",
-        "Foundation",
-        "professionals",
-        "Tester",
-        "Level"
       ]
     },
     {
       "level": "H1",
       "text": "2.2 Career Paths for Testers",
       "page": 7,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "Building on the Foundation Level, the Agile Tester Extension supports the definition of career paths for",
         "professional testers. A person with the Agile Tester certificate has extended the broad understanding of",
@@ -348,19 +331,14 @@
         "an Agile project.",
         "People possessing an ISTQB Foundation Level Extension \u2013   Agile Tester certificate may use the Certified",
         "Tester Foundation Level acronym CTFL-AT."
-      ],
-      "keywords": [
-        "Foundation",
-        "Agile",
-        "Tester",
-        "Level",
-        "Extension"
       ]
     },
     {
       "level": "H1",
       "text": "2.3 Learning Objectives",
       "page": 7,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize,",
         "remember and recall terms and concepts stated in the Foundation Level syllabus.",
@@ -378,52 +356,37 @@
         "That said, each extension level exam focuses on the learning objectives defined in that extension",
         "syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each",
         "chapter within each particular extension syllabus."
-      ],
-      "keywords": [
-        "Level",
-        "Foundation",
-        "syllabus",
-        "extension",
-        "learning"
       ]
     },
     {
       "level": "H1",
       "text": "2.4 Entry Requirements",
       "page": 8,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "To be able to participate in a Foundation Level Extension \u2013   Agile Tester exam, candidates must have",
         "obtained the ISTQB Foundation Level certificate."
-      ],
-      "keywords": [
-        "Foundation",
-        "Level",
-        "Extension",
-        "Agile",
-        "Tester"
       ]
     },
     {
       "level": "H1",
       "text": "2.5 Structure and Course Duration",
       "page": 8,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "The Foundation Level Extension \u2013   Agile Tester syllabus has no shared or common elements with the",
         "Foundation Level syllabus.",
         "The syllabi must be taught in the following minimum number of days:"
-      ],
-      "keywords": [
-        "Foundation",
-        "Level",
-        "Extension",
-        "Agile",
-        "Tester"
       ]
     },
     {
       "level": "H1",
       "text": "Syllabus",
       "page": 8,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "Days",
         "Baseline: Foundation",
@@ -441,19 +404,14 @@
         "Overview",
         "Software Testing",
         "Foundation Level Extension \u2013   Agile Tester"
-      ],
-      "keywords": [
-        "Agile",
-        "Tester",
-        "Foundation",
-        "Baseline",
-        "Extension"
       ]
     },
     {
       "level": "H1",
       "text": "2.6 Keeping It Current",
       "page": 9,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "The software industry changes rapidly. To deal with these changes and to provide the stakeholders with",
         "access to relevant and current information, the ISTQB working groups have created links on the",
@@ -468,33 +426,32 @@
         "Overview",
         "Software Testing",
         "Foundation Level Extension \u2013   Agile Tester"
-      ],
-      "keywords": [
-        "software",
-        "rapidly",
-        "industry",
-        "Testing",
-        "Qualifications"
       ]
     },
     {
       "level": "H1",
       "text": "3.  Overview of the Foundation Level Extension \u2013   Agile Tester",
       "page": 10,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Summary",
+      "persona_focus": [
+        "Everyone"
+      ],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "Syllabus",
       "page": 10,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "3.1 Business Outcomes",
       "page": 10,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level",
         "Extension \u2013   Agile Tester certification.",
@@ -518,19 +475,14 @@
         "styles and channels.",
         "In general, a Certified Tester Foundation Level \u2013   Agile Tester is expected to have acquired the necessary",
         "skills to working effectively within an Agile team and environment."
-      ],
-      "keywords": [
-        "Agile",
-        "Tester",
-        "Extension",
-        "Outcomes",
-        "team"
       ]
     },
     {
       "level": "H1",
       "text": "3.2 Content",
       "page": 10,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "Chapter 1: Agile Software Development",
         "\uf0b7",
@@ -621,49 +573,44 @@
         "Overview",
         "Software Testing",
         "Foundation Level Extension \u2013   Agile Tester"
-      ],
-      "keywords": [
-        "tester",
-        "Agile",
-        "Testing",
-        "Software",
-        "Development"
       ]
     },
     {
       "level": "H1",
       "text": "4.  References",
       "page": 12,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "References",
+      "persona_focus": [
+        "Researcher",
+        "Student"
+      ],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "4.1 Trademarks",
       "page": 12,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "The following registered trademarks and service marks are used in this document:",
         "ISTQB \u00ae  is a registered trademark of the International Software Testing Qualifications Board"
-      ],
-      "keywords": [
-        "ISTQB",
-        "Board",
-        "International",
-        "Software",
-        "Testing"
       ]
     },
     {
       "level": "H1",
       "text": "4.2 Documents and Web Sites",
       "page": 12,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "Identifier",
       "page": 12,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "Reference",
         "[ISTQB-Web]",
@@ -673,13 +620,6 @@
         "Page 12 of 12",
         "May 31, 2014",
         "\u00a9 International Software Testing Qualifications Board"
-      ],
-      "keywords": [
-        "Web",
-        "Board",
-        "Reference",
-        "ISTQB-Web",
-        "Software"
       ]
     }
   ]

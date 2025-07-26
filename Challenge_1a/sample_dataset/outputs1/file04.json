@@ -27,38 +27,37 @@
       "level": "H1",
       "text": "Parsippany -Troy Hills STEM Pathways",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "Mission Statement:\u00a0   To provide PTHSD high school students with the opportunity to",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "concentrate their studies, beyond those required in high school, in the areas of science,",
         "technology, engineering, and mathematics, and expose students to relevant real world",
         "experiences through project work, conferences and presentations to enhance their high school",
         "experience."
-      ],
-      "keywords": [
-        "technology",
-        "engineering",
-        "high",
-        "school",
-        "concentrate"
       ]
     },
     {
       "level": "H1",
       "text": "PATHWAY OPTIONS",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "REGULAR PATHWAY",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u25cf",
         "4 credits of Math",
@@ -78,19 +77,14 @@
         "Join and actively participate in a",
         "STEM-related extracurricular activity or",
         "club every year of attendance. -"
-      ],
-      "keywords": [
-        "credits",
-        "Participate",
-        "GPA",
-        "presentations",
-        "conferences"
       ]
     },
     {
       "level": "H1",
       "text": "DISTINCTION PATHWAY",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u25cf",
         "4 credits of Math - At least one math",
@@ -119,19 +113,14 @@
         "Either participate in an internship or",
         "design and implement a community",
         "impact project."
-      ],
-      "keywords": [
-        "Math",
-        "credits",
-        "class",
-        "Science",
-        "Participate"
       ]
     },
     {
       "level": "H1",
       "text": "Goals:",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022  Inspire keen interest in mathematics, science, engineering, and",
         "technology, develop strong scholarship in the subject and",
@@ -148,13 +137,6 @@
         "of study in a specialized area.",
         "\u2022 Cultivate transferable work habits such as perseverance, goal",
         "setting, and self-direction."
-      ],
-      "keywords": [
-        "Inspire",
-        "science",
-        "engineering",
-        "mathematics",
-        "technology"
       ]
     }
   ]

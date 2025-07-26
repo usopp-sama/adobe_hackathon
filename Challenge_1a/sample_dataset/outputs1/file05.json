@@ -12,77 +12,72 @@
       "level": "H1",
       "text": "ADDRESS:",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "TOPJUMP",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "3735  PARKWAY",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "PIGEON FORGE, TN 37863",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "(NEAR DIXIE STAMPEDE  ON  THE PARKWAY)"
-      ],
-      "keywords": [
-        "PARKWAY",
-        "DIXIE",
-        "STAMPEDE"
       ]
     },
     {
       "level": "H1",
       "text": "RSVP:  ----------------",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "CLOSED TOED SHOES  ARE  REQUIRED FOR CLIMBING",
         "PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,"
-      ],
-      "keywords": [
-        "CLOSED",
-        "PARTY",
-        "TOED",
-        "SHOES",
-        "REQUIRED"
       ]
     },
     {
       "level": "H1",
       "text": "PLEASE VISIT  TOPJUMP.COM  TO  FILL  OUT  WAIVER",
       "page": 1,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "SO YOUR CHILD CAN ATTEND."
-      ],
-      "keywords": [
-        "ATTEND",
-        "CHILD"
       ]
     },
     {
       "level": "H1",
       "text": "HOPE  To  SEE  Y ou  T HERE !",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "WWW.TOPJUMP.COM",
       "page": 1,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     }
   ]
 }

@@ -6,6 +6,10 @@
       "level": "H1",
       "text": "Introduction",
       "page": 1,
+      "section_type": "Introduction",
+      "persona_focus": [
+        "Everyone"
+      ],
       "paragraphs": [
         "Planning a trip to the South of France requires thoughtful preparation to ensure a",
         "comfortable and enjoyable experience. This guide covers everything from packing essentials",
@@ -95,19 +99,14 @@
         "pack warm clothing for cooler evenings. Consider packing thermal underwear for",
         "extra warmth.",
         "Packing for Adults"
-      ],
-      "keywords": [
-        "comfortable",
-        "packing",
-        "tips",
-        "shoes",
-        "Clothing"
       ]
     },
     {
       "level": "H1",
       "text": "Clothing",
       "page": 4,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Casual Wear:  Comfortable clothes for sightseeing and casual dining, like jeans, t-",
@@ -125,19 +124,14 @@
         "\u2022",
         "Additional Tips:  Pack a few statement pieces that can be dressed up or down, such as",
         "a versatile dress or a pair of stylish shoes."
-      ],
-      "keywords": [
-        "Casual",
-        "Wear",
-        "Comfortable",
-        "Pack",
-        "dining"
       ]
     },
     {
       "level": "H1",
       "text": "Toiletries",
       "page": 4,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Basic Toiletries:  Toothbrush, toothpaste, shampoo, conditioner, body wash,",
@@ -164,19 +158,14 @@
         "Additional Tips:  Download maps and travel guides to your devices for o\ufb04ine use.",
         "Consider bringing a portable Wi-Fi hotspot for reliable internet access.",
         "Packing for Kids"
-      ],
-      "keywords": [
-        "Toothbrush",
-        "Basic",
-        "Toiletries",
-        "Additional",
-        "items"
       ]
     },
     {
       "level": "H1",
       "text": "Clothing",
       "page": 6,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Comfortable Wear:  T-shirts, shorts, pants, dresses, pajamas, and underwear.",
@@ -189,19 +178,14 @@
         "\u2022",
         "Additional Tips:  Pack extra clothing for kids, as they may need more changes of",
         "clothes than adults."
-      ],
-      "keywords": [
-        "T-shirts",
-        "Comfortable",
-        "Wear",
-        "shorts",
-        "pants"
       ]
     },
     {
       "level": "H1",
       "text": "Essentials",
       "page": 6,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Diapers and Wipes:  For babies or toddlers, pack enough diapers and wipes.",
@@ -213,19 +197,14 @@
         "\u2022",
         "Additional Tips:  Pack a small backpack for each child with their essentials to keep",
         "them engaged. Include comfort items like a favorite blanket or stu\ufb00ed animal."
-      ],
-      "keywords": [
-        "Wipes",
-        "Diapers",
-        "pack",
-        "toddlers",
-        "Snacks"
       ]
     },
     {
       "level": "H1",
       "text": "Toiletries",
       "page": 6,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Basic Toiletries:  Toothbrush, toothpaste, shampoo, body wash, and personal hygiene",
@@ -248,26 +227,22 @@
         "\u2022",
         "Additional Tips:  Bring a favorite stu\ufb00ed animal or comfort item to help kids feel at",
         "home. Consider packing a travel potty for young children."
-      ],
-      "keywords": [
-        "Toothbrush",
-        "Basic",
-        "Additional",
-        "Car",
-        "Sunscreen"
       ]
     },
     {
       "level": "H1",
       "text": "Special Considerations",
       "page": 7,
-      "paragraphs": [],
-      "keywords": []
+      "section_type": "Unknown",
+      "persona_focus": [],
+      "paragraphs": []
     },
     {
       "level": "H1",
       "text": "Beach Trips",
       "page": 7,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Beach Bag:  A large, waterproof bag for essentials.",
@@ -292,19 +267,14 @@
         "\u2022",
         "Additional Tips:  Wear moisture-wicking clothing and sturdy hiking boots. Bring a map",
         "and compass or GPS device. Pack energy bars or snacks for long hikes."
-      ],
-      "keywords": [
-        "Bag",
-        "Beach",
-        "Towels",
-        "Additional",
-        "Tips"
       ]
     },
     {
       "level": "H1",
       "text": "City Exploration",
       "page": 7,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Day Bag:  A small, secure day bag for carrying essentials like water, snacks, and a",
@@ -316,19 +286,14 @@
         "\u2022",
         "Additional Tips:  Use a money belt or hidden pouch to keep valuables safe. Consider",
         "using public transportation to explore cities e\ufb03ciently."
-      ],
-      "keywords": [
-        "Day",
-        "Bag",
-        "snacks",
-        "small",
-        "secure"
       ]
     },
     {
       "level": "H1",
       "text": "Wine Tours",
       "page": 7,
+      "section_type": "Unknown",
+      "persona_focus": [],
       "paragraphs": [
         "\u2022",
         "Comfortable Clothing:  Wear comfortable, casual clothing suitable for walking and",
@@ -369,13 +334,6 @@
         "incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and",
         "enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the",
         "most of your travel experience. Bon voyage!"
-      ],
-      "keywords": [
-        "Packing",
-        "items",
-        "pack",
-        "Wear",
-        "Tips"
       ]
     }
   ]
