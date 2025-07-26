@@ -13,21 +13,27 @@
       "text": "ADDRESS:",
       "page": 1,
       "paragraphs": [],
-      "keywords": []
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
       "text": "TOPJUMP",
       "page": 1,
       "paragraphs": [],
-      "keywords": []
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
       "text": "3735  PARKWAY",
       "page": 1,
       "paragraphs": [],
-      "keywords": []
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
@@ -37,10 +43,28 @@
         "(NEAR DIXIE STAMPEDE  ON  THE PARKWAY)"
       ],
       "keywords": [
-        "PARKWAY",
-        "DIXIE",
-        "STAMPEDE"
-      ]
+        "dixie stampede",
+        "parkway"
+      ],
+      "sentences": [
+        "(NEAR DIXIE STAMPEDE  ON  THE PARKWAY)"
+      ],
+      "semantic": {
+        "tokens": [
+          "NEAR",
+          "DIXIE",
+          "STAMPEDE",
+          "PARKWAY"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "STAMPEDE",
+          "NEAR",
+          "DIXIE",
+          "PARKWAY"
+        ]
+      }
     },
     {
       "level": "H1",
@@ -51,12 +75,51 @@
         "PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,"
       ],
       "keywords": [
-        "CLOSED",
-        "PARTY",
-        "TOED",
-        "SHOES",
-        "REQUIRED"
-      ]
+        "closed toed shoes",
+        "attending the party",
+        "shoes are required",
+        "required for climbing",
+        "climbing parents",
+        "parents or guardians",
+        "guardians not attending"
+      ],
+      "sentences": [
+        "CLOSED TOED SHOES  ARE  REQUIRED FOR CLIMBING PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,"
+      ],
+      "semantic": {
+        "tokens": [
+          "CLOSED",
+          "TOED",
+          "SHOES",
+          "REQUIRED",
+          "CLIMBING",
+          "PARENTS",
+          "GUARDIANS",
+          "ATTENDING",
+          "PARTY"
+        ],
+        "nouns": [
+          "climbing",
+          "party",
+          "shoe",
+          "guardian"
+        ],
+        "verbs": [
+          "require",
+          "attend"
+        ],
+        "lemmas": [
+          "party",
+          "PARENTS",
+          "TOED",
+          "climbing",
+          "guardian",
+          "require",
+          "CLOSED",
+          "shoe",
+          "attend"
+        ]
+      }
     },
     {
       "level": "H1",
@@ -66,23 +129,43 @@
         "SO YOUR CHILD CAN ATTEND."
       ],
       "keywords": [
-        "ATTEND",
-        "CHILD"
-      ]
+        "child can attend"
+      ],
+      "sentences": [
+        "SO YOUR CHILD CAN ATTEND."
+      ],
+      "semantic": {
+        "tokens": [
+          "CHILD",
+          "ATTEND"
+        ],
+        "nouns": [
+          "child"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "child",
+          "ATTEND"
+        ]
+      }
     },
     {
       "level": "H1",
       "text": "HOPE  To  SEE  Y ou  T HERE !",
       "page": 1,
       "paragraphs": [],
-      "keywords": []
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
       "text": "WWW.TOPJUMP.COM",
       "page": 1,
       "paragraphs": [],
-      "keywords": []
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     }
   ]
 }

@@ -7,12 +7,14 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Download spaCy model only (no NLTK since it's unused)
+# Download spaCy model
 RUN python -m spacy download en_core_web_sm
 
 # Copy application files
 COPY process_pdfs.py .
-COPY sample_dataset/schema /app/schema
+COPY nlp_utils.py .
+COPY __init__.py .
+COPY sample_dataset /app/sample_dataset
 
 # Set default command
 CMD ["python", "process_pdfs.py"]

@@ -24,12 +24,111 @@
         "advance, I undertake to refund the entire advance in one lump sum."
       ],
       "keywords": [
-        "Relationship",
-        "Amount",
-        "Age",
-        "advance",
-        "required"
-      ]
+        "relationship",
+        "ten days",
+        "days of receipt",
+        "produce the tickets",
+        "advance required",
+        "undertake to produce",
+        "fail to produce",
+        "undertake to refund",
+        "entire advance",
+        "true and correct"
+      ],
+      "sentences": [
+        "Name Relationship 12.",
+        "Amount of advance required.",
+        "I declare that the particulars furnished above are true and correct to the best of my knowledge.",
+        "I undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+        "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of advance, I undertake to refund the entire advance in one lump sum."
+      ],
+      "semantic": {
+        "tokens": [
+          "Relationship",
+          "12",
+          "advance",
+          "required",
+          "declare",
+          "particulars",
+          "furnished",
+          "true",
+          "correct",
+          "best",
+          "knowledge",
+          "undertake",
+          "produce",
+          "tickets",
+          "outward",
+          "journey",
+          "days",
+          "receipt",
+          "advance",
+          "event",
+          "cancellation",
+          "journey",
+          "fail",
+          "produce",
+          "tickets",
+          "days",
+          "receipt",
+          "advance",
+          "undertake",
+          "refund",
+          "entire",
+          "advance",
+          "lump",
+          "sum"
+        ],
+        "nouns": [
+          "sum",
+          "knowledge",
+          "journey",
+          "lump",
+          "day",
+          "ticket",
+          "event",
+          "particular",
+          "receipt",
+          "advance",
+          "cancellation"
+        ],
+        "verbs": [
+          "declare",
+          "furnish",
+          "refund",
+          "require",
+          "undertake",
+          "produce",
+          "fail"
+        ],
+        "lemmas": [
+          "entire",
+          "lump",
+          "furnish",
+          "correct",
+          "event",
+          "good",
+          "undertake",
+          "advance",
+          "refund",
+          "true",
+          "12",
+          "sum",
+          "declare",
+          "particular",
+          "outward",
+          "cancellation",
+          "fail",
+          "knowledge",
+          "journey",
+          "day",
+          "ticket",
+          "require",
+          "receipt",
+          "produce",
+          "Relationship"
+        ]
+      }
     },
     {
       "level": "H1",
@@ -39,10 +138,28 @@
         "Signature of Government Servant."
       ],
       "keywords": [
-        "Servant",
-        "Government",
-        "Signature"
-      ]
+        "government servant",
+        "signature of government"
+      ],
+      "sentences": [
+        "Signature of Government Servant."
+      ],
+      "semantic": {
+        "tokens": [
+          "Signature",
+          "Government",
+          "Servant"
+        ],
+        "nouns": [
+          "signature"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "Servant",
+          "signature",
+          "Government"
+        ]
+      }
     }
   ]
 }
