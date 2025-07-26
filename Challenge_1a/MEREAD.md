@@ -154,3 +154,89 @@ from nlp_utils import extract_keywords, rank_section_by_task
 Would you like me to go ahead and build this module for you, starting from sentence segmentation and ending in semantic keyword + scoring support?
 
 Let’s do this step-by-step.
+
+
+
+---
+
+Great question — and you're absolutely right to think strategically about compute utilization. Python by default is **single-threaded for CPU-bound tasks** due to the **Global Interpreter Lock (GIL)**, but we **can absolutely leverage all 8 cores and 16 GB RAM** using the right approaches.
+
+---
+
+## 🔥 How We Can Leverage All Your Compute (8 cores, 16 GB RAM)
+
+### 1. **Parallel Processing with `multiprocessing`**
+
+* Python’s `multiprocessing` library **spawns separate processes** (not threads), avoiding the GIL entirely.
+* Each PDF section or each document can be processed independently.
+* We'll process multiple PDFs or paragraphs **in parallel across cores.**
+
+✅ **Advantage**: Direct use of 8 cores
+✅ **Use case**: Embed all paragraphs simultaneously
+
+---
+
+### 2. **Batch Embedding with Sentence Transformers**
+
+* The embedding model (`paraphrase-MiniLM-L6-v2`) supports **batching**.
+* We can group \~64–256 paragraphs per batch to accelerate encoding.
+* It uses **NumPy or PyTorch under the hood**, and will use BLAS multithreaded libraries like OpenBLAS or Intel MKL if installed.
+
+✅ **Advantage**: Efficient memory + CPU use
+✅ **Use case**: Speed up large input batches
+
+---
+
+### 3. **Memory Efficiency**
+
+We’ll keep:
+
+* All document processing **in RAM**
+* Only one lightweight model loaded
+* No redundant copies of text in memory
+
+✅ **Advantage**: Fits well under your 16GB RAM limit even for 100+ PDFs
+
+---
+
+### 4. **Optional: Use `joblib` or `concurrent.futures`**
+
+For higher-level parallel mapping:
+
+* `joblib.Parallel(n_jobs=8)` works beautifully
+* `concurrent.futures.ProcessPoolExecutor` is also very efficient and easier to integrate
+
+---
+
+## 🧪 Practical Strategy We’ll Follow
+
+| Step                        | Parallel? | Strategy                      |
+| --------------------------- | --------- | ----------------------------- |
+| Load PDFs                   | No        | One-time file read            |
+| Embed all section texts     | ✅ Yes     | Batch & parallel encode       |
+| Embed task string           | No        | Single embedding              |
+| Compute cosine similarities | ✅ Yes     | Vectorized matrix ops (NumPy) |
+| Select top-k matches        | No        | Fast sort, constant-time      |
+| Generate output JSON        | No        | Simple serial write           |
+
+---
+
+## 🚀 TL;DR
+
+Yes — we’ll absolutely leverage **all 8 cores and your full 16 GB RAM** using:
+
+* `multiprocessing` for parallel encoding
+* SentenceTransformer’s batching
+* Efficient memory handling
+* Optional multithreading via joblib/futures
+
+---
+
+### ✅ Let’s proceed
+
+Would you like me to:
+
+* Integrate `multiprocessing` into the semantic matcher from the start?
+* Or keep it simple first, and add parallelism as a second pass?
+
+Your call — I can scaffold both ways.
