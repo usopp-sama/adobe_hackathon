@@ -6,23 +6,47 @@ import yake
 
 from nlp_utils import clean_text, analyze_text, get_sentences
 
-# Place your full `extract_document_outline()` function here
-# Include helper functions: is_heading_candidate, clean_paragraph_lines, extract_keywords_yake
-
-
-# ------------------------ Helper Function ------------------------
-def is_heading_candidate(line_text, spans, vertical_gap, font_size_thresholds):
+# ------------------------ Helper: Improved Heading Detector ------------------------
+def is_heading_candidate(line_text, spans, vertical_gap, font_size_thresholds, next_line_indent=False):
     text = line_text.strip()
     avg_font_size = sum(span["size"] for span in spans) / len(spans)
     is_bold = any("bold" in span["font"].lower() for span in spans)
+    is_italic = any("italic" in span["font"].lower() for span in spans)
+    is_underlined = any(span.get("flags", 0) & 4 for span in spans)
+
     is_short = len(text.split()) <= 10
     is_caps = text.isupper() or text.istitle()
-    is_centered = all(abs(span["bbox"][0] - span["bbox"][2]) < 400 for span in spans)
 
     font_based = avg_font_size >= font_size_thresholds["h1"]
     visual_clue = (is_bold and is_short and is_caps and vertical_gap > 5)
+    indent_clue = next_line_indent
 
-    return font_based or visual_clue
+    # NEW: Force heading if underline + (bold or italic)
+    force_heading = is_underlined and (is_bold or is_italic)
+
+    return font_based or visual_clue or indent_clue or force_heading
+
+# ------------------------ Improved Heading Level Mapper ------------------------
+def get_heading_level(avg_font_size, font_size_thresholds, spans, body_font_size):
+    if avg_font_size >= font_size_thresholds["h1"]:
+        level = "H1"
+    elif avg_font_size >= font_size_thresholds["h2"] and avg_font_size > body_font_size:
+        level = "H2"
+    elif avg_font_size >= font_size_thresholds["h3"] and avg_font_size > body_font_size:
+        level = "H3"
+    else:
+        level = "H3"
+
+    is_bold = any("bold" in span["font"].lower() for span in spans)
+    is_italic = any("italic" in span["font"].lower() for span in spans)
+    is_underlined = any(span.get("flags", 0) & 4 for span in spans)
+
+    # Only underline + (bold or italic) at body font size forces H2
+    if round(avg_font_size, 1) == round(body_font_size, 1):
+        if is_underlined and (is_bold or is_italic):
+            level = "H2"
+
+    return level
 
 # ------------------------ Keyword Extractor ------------------------
 def extract_keywords_yake(text: str, max_keywords: int = 10) -> list:
@@ -38,14 +62,12 @@ def extract_keywords_yake(text: str, max_keywords: int = 10) -> list:
 
     for kw, score in raw_keywords:
         kw = kw.strip("\u2022o•").strip().lower()
-
         if kw in {"cup", "tablespoon", "teaspoon", "ingredient", "instructions"}:
             continue
         if len(kw) < 3 or kw.isdigit():
             continue
         if re.match(r"^(page|version|may|june|july|©|international|qualifications board)", kw):
             continue
-
         kw = re.sub(r"^(page|version|©)?\s?\d{1,4}", '', kw).strip()
         keywords.append(kw)
 
@@ -61,7 +83,6 @@ def clean_paragraph_lines(paragraphs: list[str]) -> list[str]:
     filtered = []
     for line in paragraphs:
         line = line.strip()
-
         if not line:
             continue
         if re.match(r"^page\s?\d+", line.lower()):
@@ -76,7 +97,6 @@ def clean_paragraph_lines(paragraphs: list[str]) -> list[str]:
             continue
         if len(line) < 4:
             continue
-
         filtered.append(line)
     return filtered
 
@@ -135,46 +155,86 @@ def extract_document_outline(pdf_path: Path) -> dict:
             page = doc.load_page(page_num)
             blocks = page.get_text('dict')['blocks']
 
+            lines = []
             for b in blocks:
-                if b['type'] != 0:
+                if b['type'] == 0:
+                    for line in b['lines']:
+                        lines.append(line)
+
+            i = 0
+            while i < len(lines):
+                line = lines[i]
+                if not line['spans']:
+                    i += 1
                     continue
 
-                for line in b['lines']:
-                    if not line['spans']:
-                        continue
+                line_text = " ".join([span['text'] for span in line['spans']]).strip()
+                if not line_text:
+                    i += 1
+                    continue
 
-                    line_text = " ".join([span['text'] for span in line['spans']]).strip()
-                    if not line_text:
-                        continue
+                line_y = line['spans'][0]['bbox'][1]
+                vertical_gap = line_y - prev_y if prev_y is not None else 0
+                prev_y = line_y
 
-                    line_y = line['spans'][0]['bbox'][1]
-                    vertical_gap = line_y - prev_y if prev_y is not None else 0
-                    prev_y = line_y
+                this_x = line['spans'][0]['bbox'][0]
 
-                    if is_heading_candidate(line_text, line['spans'], vertical_gap, font_thresholds):
-                        if current_section and current_section["paragraphs"]:
-                            cleaned_paragraphs = clean_paragraph_lines(current_section["paragraphs"])
-                            full_text = " ".join(cleaned_paragraphs)
-                            current_section["keywords"] = extract_keywords_yake(full_text)
-                            current_section["sentences"] = get_sentences(full_text)
-                            current_section["semantic"] = analyze_text(clean_text(full_text))
+                avg_font_size = sum(span["size"] for span in line['spans']) / len(line['spans'])
+                heading_level = get_heading_level(avg_font_size, font_thresholds, line['spans'], body_font_size)
 
-                        current_section = {
-                            "level": "H1",
-                            "text": line_text,
-                            "page": page_num + 1,
-                            "paragraphs": [],
-                            "keywords": [],
-                            "sentences": [],
-                            "semantic": {}
-                        }
-                        outline.append(current_section)
-                    elif current_section:
-                        current_section["paragraphs"].append(line_text)
+                next_line_indent = False
+                if i + 1 < len(lines):
+                    next_x = lines[i + 1]['spans'][0]['bbox'][0]
+                    if next_x - this_x > 10:
+                        next_line_indent = True
+
+                if is_heading_candidate(line_text, line['spans'], vertical_gap, font_thresholds, next_line_indent):
+                    if current_section and current_section["paragraphs"]:
+                        cleaned = clean_paragraph_lines(current_section["paragraphs"])
+                        full_text = " ".join(cleaned)
+                        current_section["keywords"] = extract_keywords_yake(full_text)
+                        current_section["sentences"] = get_sentences(full_text)
+                        current_section["semantic"] = analyze_text(clean_text(full_text))
+
+                    current_section = {
+                        "level": heading_level,
+                        "text": line_text,
+                        "page": page_num + 1,
+                        "paragraphs": [],
+                        "keywords": [],
+                        "sentences": [],
+                        "semantic": {}
+                    }
+                    outline.append(current_section)
+
+                    j = i + 1
+                    while j < len(lines):
+                        next_line = lines[j]
+                        if not next_line['spans']:
+                            j += 1
+                            continue
+
+                        next_line_text = " ".join([span['text'] for span in next_line['spans']]).strip()
+                        if not next_line_text:
+                            j += 1
+                            continue
+
+                        next_x = next_line['spans'][0]['bbox'][0]
+                        if next_x - this_x > 10:
+                            current_section["paragraphs"].append(next_line_text)
+                            j += 1
+                        else:
+                            break
+                    i = j
+                elif current_section:
+                    current_section["paragraphs"].append(line_text)
+                    i += 1
+                else:
+                    i += 1
 
         if current_section and current_section["paragraphs"] and not current_section["keywords"]:
-            cleaned_paragraphs = clean_paragraph_lines(current_section["paragraphs"])
-            full_text = " ".join(cleaned_paragraphs)
+            cleaned = clean_paragraph_lines(current_section["paragraphs"])
+            full_text = " ".join(cleaned)
             current_section["keywords"] = extract_keywords_yake(full_text)
             current_section["sentences"] = get_sentences(full_text)
             current_section["semantic"] = analyze_text(clean_text(full_text))
@@ -195,3 +255,4 @@ def extract_document_outline(pdf_path: Path) -> dict:
         "toc": toc,
         "outline": outline
     }
+
