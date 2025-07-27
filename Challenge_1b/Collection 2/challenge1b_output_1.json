@@ -1,0 +1,189 @@
+{
+  "task": "Create and manage fillable forms for onboarding and compliance.",
+  "matches": [
+    {
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 1,
+      "section_heading": "Fill and Sign PDF Forms",
+      "matched_content": "You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types of PDF forms",
+      "keywords": [
+        "acrobat fill",
+        "sign tool",
+        "documents using acrobat",
+        "easily fill",
+        "share your documents",
+        "types of pdf",
+        "pdf forms"
+      ],
+      "score": 0.5624371767044067,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 2,
+      "section_heading": "Types of PDF forms",
+      "matched_content": "\u2022 Interactive forms : These contain fields that you can select and fill in. \u2022 Flat forms : These do  not have interactive fields. It could be a paper form or PDF that hasn\u2019t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. You can complete the forms by entering information and adding your signatures. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage.",
+      "keywords": [
+        "interactive fields",
+        "sign tool automatically",
+        "interactive forms",
+        "select and fill",
+        "form fields",
+        "flat forms",
+        "text fields",
+        "comb fields",
+        "form filling",
+        "paper form"
+      ],
+      "score": 0.5190433263778687,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 12,
+      "section_heading": "Change flat forms to fillable (Acrobat Pro)",
+      "matched_content": "You can change a flat form to a fillable form by either using the  Prepare Form  tool or enabling the  Fill & Sign  tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms. Interactive form To create an interactive form, use the  Prepare Forms  tool. See  Create a form from an existing document . Flat form To enable the  Fill & Sign  tools, from the hamburger menu ( File  menu in macOS) choose  Save As Other   >  Acrobat Reader Extended PDF  >  Enable More Tools (includes Form Fill-in & Save) . The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools.",
+      "keywords": [
+        "acrobat reader users",
+        "sign tools",
+        "prepare form tool",
+        "acrobat reader extended",
+        "reader extended pdf",
+        "enable acrobat reader",
+        "enabling the fill",
+        "fillable form",
+        "flat forms",
+        "includes form fill-in"
+      ],
+      "score": 0.48138687014579773,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 10,
+      "section_heading": "Note:",
+      "matched_content": "The forms preferences apply to the way that the application handles open forms as you work. The preferences aren\u2019t saved with the PDF forms themselves.",
+      "keywords": [
+        "application handles open",
+        "handles open forms",
+        "forms preferences apply",
+        "pdf forms",
+        "work",
+        "n\u2019t saved",
+        "preferences are n\u2019t"
+      ],
+      "score": 0.4802184998989105,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Export_1.pdf",
+      "page": 18,
+      "section_heading": "Excel Workbook Settings",
+      "matched_content": "Specifies whether to create a Worksheet for each table or page, or the entire document.",
+      "keywords": [
+        "create a worksheet",
+        "table or page",
+        "entire document",
+        "specifies"
+      ],
+      "score": 0.48011893033981323,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Fill and Sign.pdf",
+      "page": 2,
+      "section_heading": "Fill and sign PDF forms",
+      "matched_content": "To complete and sign PDF forms, open the form in Acrobat and then select  E-Sign  from the global bar. Alternatively, you can select  All tools  >   Fill & Sign . It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following topics.",
+      "keywords": [
+        "sign pdf forms",
+        "global bar",
+        "sign tools",
+        "select e-sign",
+        "pen the form",
+        "form in acrobat",
+        "complete and sign",
+        "left pane",
+        "form fields",
+        "sign the form"
+      ],
+      "score": 0.47810983657836914,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page": 21,
+      "section_heading": "based signatures?",
+      "matched_content": "Consider signing up for  Adobe Acrobat Sign  online, the leader in  e-signatures  and web contracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent, signed, and filed instantly. And best of all, Adobe hosts it securely, so your IT department doesn\u2019t have to do the work of setting up a signature infrastructure.",
+      "keywords": [
+        "acrobat sign online",
+        "adobe acrobat sign",
+        "web contracting",
+        "leader in e-signatures",
+        "e-signatures and web",
+        "microsoft word",
+        "adobe hosts",
+        "filed instantly",
+        "signing",
+        "pdf"
+      ],
+      "score": 0.45306724309921265,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page": 8,
+      "section_heading": "Signer's experience",
+      "matched_content": "A signer receives an email with a link to sign the agreement. Also, if the signer uses Acrobat or Acrobat Reader desktop application, the signer sees a notification that an agreement has been shared for signing. Note:  Signers are not required to sign up or purchase any Adobe product to sign agreements. They can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader desktop application. Send in bulk  allows you to upload a form and use that as a template to create and send many (hundreds!) of unique agreements, each dedicated to one external signer. Each agreement is insulated from the others and contains its own audit report. Each recipient is unaware of all other recipients. The sender has access to the agreements through their Home or Documents tab or through the  Send in bulk  template, which contains an Agreements report that tracks the overall status of the child agreements created from the template. Additionally, the sender can export the field-level data of all completed agreements in a CSV format using the Download Form Field Data action. To access the Send in bulk feature, do one of the following: \u2022 In the Acrobat desktop app, go to the  Tools  center ,  scroll down to the  E-Sign   section, and then select  Send in bulk . \u2022 Sign in to  Acrobat online , select the  E-Sign  menu in the top navigation bar, and then select  Send in bulk .",
+      "keywords": [
+        "acrobat reader desktop",
+        "reader desktop application",
+        "send in bulk",
+        "sign agreements",
+        "receives an email",
+        "signer receives",
+        "select send",
+        "acrobat desktop app",
+        "download form field",
+        "link to sign"
+      ],
+      "score": 0.4475986063480377,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page": 24,
+      "section_heading": "Setting up certificate-based signatures",
+      "matched_content": "You can expedite the signing process and optimize your results by making the following preparations in advance.",
+      "keywords": [
+        "preparations in advance",
+        "expedite the signing",
+        "signing process",
+        "process and optimize",
+        "ptimize your results",
+        "results by making"
+      ],
+      "score": 0.4337577223777771,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "Learn Acrobat - Generative AI_1.pdf",
+      "page": 10,
+      "section_heading": "Get AI-generated answers",
+      "matched_content": "AI Assistant supports scanned documents. You can scan your paper documents and upload them to Acrobat to get concise summaries and accurate answers to your questions. It also breaks down complex language into key details, making it easy to read and understand contracts directly in Acrobat.",
+      "keywords": [
+        "assistant supports scanned",
+        "supports scanned documents",
+        "paper documents",
+        "scan your paper",
+        "concise summaries",
+        "summaries and accurate",
+        "accurate answers",
+        "understand contracts directly",
+        "key details",
+        "making it easy"
+      ],
+      "score": 0.4248497486114502,
+      "semantic_summary": ""
+    }
+  ]
+}
