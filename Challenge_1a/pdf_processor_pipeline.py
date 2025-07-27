@@ -3,6 +3,7 @@ import fitz
 import re
 from collections import Counter
 import yake
+import unicodedata
 
 from nlp_utils import clean_text, analyze_text, get_sentences
 
@@ -99,6 +100,51 @@ def clean_paragraph_lines(paragraphs: list[str]) -> list[str]:
             continue
         filtered.append(line)
     return filtered
+
+
+# ------------------------ Unicode Cleaner ------------------------
+def clean_text(text):
+    if not text:
+        return ""
+    # Replace common artifacts with proper equivalents
+    replacements = {
+        "\u2022": "-",  # bullet
+        "\u2019": "'",  # smart single quote
+        "\u201c": '"',  # smart left double quote
+        "\u201d": '"',  # smart right double quote
+        "\u2014": "-",  # em dash
+        "\u2013": "-",  # en dash
+        "\ufb00": "ff", # ff ligature
+        "\ufb01": "fi", # fi ligature
+        "\u2018": "'",  # left single quote
+        "\u2026": "...", # ellipsis
+        "\u00a0": " ",  # non-breaking space
+    }
+    
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    
+    # Normalize other Unicode characters
+    text = unicodedata.normalize('NFKD', text)
+    # Remove remaining non-ASCII characters
+    text = re.sub(r'[^\x00-\x7F]+', '', text)
+    return text.strip()
+
+def clean_section_data(section):
+    """Clean all text fields in a section dictionary"""
+    section["text"] = clean_text(section["text"])
+    section["paragraphs"] = [clean_text(p) for p in section["paragraphs"]]
+    section["keywords"] = [clean_text(k) for k in section["keywords"]]
+    section["sentences"] = [clean_text(s) for s in section["sentences"]]
+    
+    if "semantic" in section:
+        semantic = section["semantic"]
+        for key in ["tokens", "nouns", "verbs", "lemmas"]:
+            if key in semantic:
+                semantic[key] = [clean_text(t) for t in semantic[key]]
+    
+    return section
+
 
 # ------------------------ Core Processing ------------------------
 def extract_document_outline(pdf_path: Path) -> dict:
@@ -250,6 +296,11 @@ def extract_document_outline(pdf_path: Path) -> dict:
     if not title:
         title = pdf_path.stem.replace("_", " ").title()
 
+    # Clean the data before returning
+    title = clean_text(title)
+    toc = [{"level": t["level"], "text": clean_text(t["text"]), "page": t["page"]} for t in toc]
+    outline = [clean_section_data(section) for section in outline]
+    
     return {
         "title": title,
         "toc": toc,

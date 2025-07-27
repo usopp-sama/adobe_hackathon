@@ -1,5 +1,596 @@
 {
   "title": "Test Your Acrobat Exporting Skills",
   "toc": [],
-  "outline": []
+  "outline": [
+    {
+      "level": "H3",
+      "text": "3.   Scenario:  Imagine you're working on an important report and your computer crashes.",
+      "page": 1,
+      "paragraphs": [
+        "Do you rely on the Autosave feature to recover your work or start from scratch?",
+        "4.   Yes or No:  Can you recover the last saved version of a PDF if you accidentally delete it?"
+      ],
+      "keywords": [
+        "autosave feature",
+        "start from scratch",
+        "work or start",
+        "feature to recover",
+        "recover your work",
+        "rely",
+        "saved version",
+        "accidentally delete",
+        "pdf"
+      ],
+      "sentences": [
+        "Do you rely on the Autosave feature to recover your work or start from scratch?",
+        "Yes or No:  Can you recover the last saved version of a PDF if you accidentally delete it?"
+      ],
+      "semantic": {
+        "tokens": [
+          "rely",
+          "Autosave",
+          "feature",
+          "recover",
+          "work",
+          "start",
+          "scratch",
+          "4",
+          "Yes",
+          "recover",
+          "saved",
+          "version",
+          "PDF",
+          "accidentally",
+          "delete"
+        ],
+        "nouns": [
+          "scratch",
+          "feature",
+          "pdf",
+          "version",
+          "work"
+        ],
+        "verbs": [
+          "save",
+          "recover",
+          "delete",
+          "rely",
+          "start"
+        ],
+        "lemmas": [
+          "scratch",
+          "save",
+          "feature",
+          "accidentally",
+          "pdf",
+          "version",
+          "recover",
+          "delete",
+          "Autosave",
+          "rely",
+          "yes",
+          "4",
+          "work",
+          "start"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "5.   True or False:  The Autosave feature in Acrobat saves your work every 15 minutes by",
+      "page": 1,
+      "paragraphs": [
+        "default."
+      ],
+      "keywords": [
+        "default"
+      ],
+      "sentences": [
+        "default."
+      ],
+      "semantic": {
+        "tokens": [
+          "default"
+        ],
+        "nouns": [
+          "default"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "default"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "6.   Scenario:  You're preparing a presentation for a big meeting. Do you use Acrobat to",
+      "page": 1,
+      "paragraphs": [
+        "convert your PDF to a PowerPoint file or manually recreate the slides?",
+        "7.   Yes or No:  Can you export a PDF to a reusable format like Microsoft Word?"
+      ],
+      "keywords": [
+        "recreate the slides",
+        "powerpoint file",
+        "file or manually",
+        "manually recreate",
+        "microsoft word",
+        "convert your pdf",
+        "format like microsoft",
+        "export a pdf",
+        "reusable format"
+      ],
+      "sentences": [
+        "convert your PDF to a PowerPoint file or manually recreate the slides?",
+        "Yes or No:  Can you export a PDF to a reusable format like Microsoft Word?"
+      ],
+      "semantic": {
+        "tokens": [
+          "convert",
+          "PDF",
+          "PowerPoint",
+          "file",
+          "manually",
+          "recreate",
+          "slides",
+          "7",
+          "Yes",
+          "export",
+          "PDF",
+          "reusable",
+          "format",
+          "like",
+          "Microsoft",
+          "Word"
+        ],
+        "nouns": [
+          "pdf",
+          "slide",
+          "format",
+          "file"
+        ],
+        "verbs": [
+          "export",
+          "recreate",
+          "convert"
+        ],
+        "lemmas": [
+          "reusable",
+          "export",
+          "pdf",
+          "recreate",
+          "manually",
+          "file",
+          "convert",
+          "Microsoft",
+          "format",
+          "slide",
+          "yes",
+          "7",
+          "Word",
+          "PowerPoint",
+          "like"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "8.   True or False:  Acrobat Reader users can save a copy of a PDF if the creator has enabled",
+      "page": 1,
+      "paragraphs": [
+        "usage rights."
+      ],
+      "keywords": [
+        "usage"
+      ],
+      "sentences": [
+        "usage rights."
+      ],
+      "semantic": {
+        "tokens": [
+          "usage",
+          "rights"
+        ],
+        "nouns": [
+          "usage",
+          "right"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "usage",
+          "right"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "9.   Scenario:  You're a graphic designer who needs to save a copy of a PDF Portfolio for a",
+      "page": 1,
+      "paragraphs": [
+        "client. Do you use \"File > Save\" or \"File > Save As\"?"
+      ],
+      "keywords": [
+        "file",
+        "client",
+        "save"
+      ],
+      "sentences": [
+        "client.",
+        "Do you use \"File > Save\" or \"File > Save As\"?"
+      ],
+      "semantic": {
+        "tokens": [
+          "client",
+          "use",
+          "File",
+          ">",
+          "Save",
+          "File",
+          ">",
+          "Save"
+        ],
+        "nouns": [
+          "client",
+          "save",
+          "file"
+        ],
+        "verbs": [
+          "save",
+          "use"
+        ],
+        "lemmas": [
+          "client",
+          "save",
+          "use",
+          "file",
+          ">"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "10.   Yes or No:  Does the Autosave feature work if a document's security settings are",
+      "page": 1,
+      "paragraphs": [
+        "changed?"
+      ],
+      "keywords": [
+        "changed"
+      ],
+      "sentences": [
+        "changed?"
+      ],
+      "semantic": {
+        "tokens": [
+          "changed"
+        ],
+        "nouns": [],
+        "verbs": [
+          "change"
+        ],
+        "lemmas": [
+          "change"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "11.   True or False:  You can convert a PDF to a Microsoft PowerPoint presentation using",
+      "page": 1,
+      "paragraphs": [
+        "Acrobat."
+      ],
+      "keywords": [
+        "acrobat"
+      ],
+      "sentences": [
+        "Acrobat."
+      ],
+      "semantic": {
+        "tokens": [
+          "Acrobat"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Acrobat"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "12.   Scenario:  You're a student who needs to convert a PDF to a DOCX file for your thesis. Do",
+      "page": 1,
+      "paragraphs": [
+        "you use the \"Convert\" button in Acrobat or retype the entire document?",
+        "13.   Yes or No:  Can you export images from a PDF to another format using Acrobat?",
+        "14.   True or False:  Higher resolutions, like 2400 ppi, are suitable for small page sizes."
+      ],
+      "keywords": [
+        "entire document",
+        "retype the entire",
+        "convert",
+        "button in acrobat",
+        "true or false",
+        "acrobat or retype",
+        "higher resolutions",
+        "format using acrobat",
+        "pdf",
+        "export images"
+      ],
+      "sentences": [
+        "you use the \"Convert\" button in Acrobat or retype the entire document?",
+        "Yes or No:  Can you export images from a PDF to another format using Acrobat?",
+        "True or False:  Higher resolutions, like 2400 ppi, are suitable for small page sizes."
+      ],
+      "semantic": {
+        "tokens": [
+          "use",
+          "Convert",
+          "button",
+          "Acrobat",
+          "retype",
+          "entire",
+          "document",
+          "13",
+          "Yes",
+          "export",
+          "images",
+          "PDF",
+          "format",
+          "Acrobat",
+          "14",
+          "True",
+          "False",
+          "Higher",
+          "resolutions",
+          "like",
+          "2400",
+          "ppi",
+          "suitable",
+          "small",
+          "page",
+          "sizes"
+        ],
+        "nouns": [
+          "resolution",
+          "pdf",
+          "ppi",
+          "format",
+          "size",
+          "page",
+          "document",
+          "button",
+          "image"
+        ],
+        "verbs": [
+          "retype",
+          "export",
+          "use"
+        ],
+        "lemmas": [
+          "pdf",
+          "use",
+          "retype",
+          "2400",
+          "14",
+          "button",
+          "like",
+          "13",
+          "resolution",
+          "entire",
+          "small",
+          "true",
+          "false",
+          "format",
+          "Convert",
+          "size",
+          "document",
+          "high",
+          "export",
+          "suitable",
+          "page",
+          "Acrobat",
+          "ppi",
+          "yes",
+          "image"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "15.   Scenario:  You're a photographer who wants to save a PDF as a JPEG image for your",
+      "page": 1,
+      "paragraphs": [
+        "portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
+        "16.   Yes or No:  Can you export a PDF to XML format using Acrobat?",
+        "17.   True or False:  You can use the Snapshot tool to copy selected content as an image."
+      ],
+      "keywords": [
+        "convert to jpeg",
+        "portfoli",
+        "true or false",
+        "pdf to xml",
+        "format using acrobat",
+        "export a pdf",
+        "xml format",
+        "snapshot tool",
+        "ption",
+        "screenshot"
+      ],
+      "sentences": [
+        "portfolio.",
+        "Do you use the \"Convert to JPEG\" option or take a screenshot?",
+        "Yes or No:  Can you export a PDF to XML format using Acrobat? 17.",
+        "True or False:  You can use the Snapshot tool to copy selected content as an image."
+      ],
+      "semantic": {
+        "tokens": [
+          "portfolio",
+          "use",
+          "Convert",
+          "JPEG",
+          "option",
+          "screenshot",
+          "16",
+          "Yes",
+          "export",
+          "PDF",
+          "XML",
+          "format",
+          "Acrobat",
+          "17",
+          "True",
+          "False",
+          "use",
+          "Snapshot",
+          "tool",
+          "copy",
+          "selected",
+          "content",
+          "image"
+        ],
+        "nouns": [
+          "portfolio",
+          "tool",
+          "pdf",
+          "option",
+          "format",
+          "xml",
+          "content",
+          "jpeg",
+          "screenshot",
+          "image"
+        ],
+        "verbs": [
+          "export",
+          "select",
+          "copy",
+          "use"
+        ],
+        "lemmas": [
+          "pdf",
+          "use",
+          "jpeg",
+          "screenshot",
+          "portfolio",
+          "true",
+          "false",
+          "Snapshot",
+          "format",
+          "Convert",
+          "xml",
+          "content",
+          "tool",
+          "export",
+          "17",
+          "Acrobat",
+          "16",
+          "select",
+          "option",
+          "yes",
+          "copy",
+          "image"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "18.   Scenario:  You're a web developer who needs to export a PDF to HTML for your website.",
+      "page": 2,
+      "paragraphs": [
+        "Do you use the \"Convert to HTML\" option or manually code the content?",
+        "19.   Yes or No:  Can you select and copy text and images from a PDF using the Select tool?",
+        "20.   True or False:  The Autosave feature is disabled by default in Acrobat."
+      ],
+      "keywords": [
+        "convert to html",
+        "ption or manually",
+        "code the content",
+        "manually code",
+        "true or false",
+        "select tool",
+        "default in acrobat",
+        "autosave feature",
+        "copy text",
+        "text and images"
+      ],
+      "sentences": [
+        "Do you use the \"Convert to HTML\" option or manually code the content?",
+        "Yes or No:  Can you select and copy text and images from a PDF using the Select tool?",
+        "True or False:  The Autosave feature is disabled by default in Acrobat."
+      ],
+      "semantic": {
+        "tokens": [
+          "use",
+          "Convert",
+          "HTML",
+          "option",
+          "manually",
+          "code",
+          "content",
+          "19",
+          "Yes",
+          "select",
+          "copy",
+          "text",
+          "images",
+          "PDF",
+          "Select",
+          "tool",
+          "20",
+          "True",
+          "False",
+          "Autosave",
+          "feature",
+          "disabled",
+          "default",
+          "Acrobat"
+        ],
+        "nouns": [
+          "text",
+          "feature",
+          "pdf",
+          "option",
+          "default",
+          "content",
+          "tool",
+          "image"
+        ],
+        "verbs": [
+          "disable",
+          "select",
+          "use",
+          "code",
+          "copy"
+        ],
+        "lemmas": [
+          "pdf",
+          "use",
+          "disable",
+          "true",
+          "false",
+          "Convert",
+          "content",
+          "tool",
+          "20",
+          "Autosave",
+          "Select",
+          "Acrobat",
+          "text",
+          "select",
+          "feature",
+          "option",
+          "19",
+          "HTML",
+          "default",
+          "yes",
+          "code",
+          "manually",
+          "copy",
+          "image"
+        ]
+      }
+    }
+  ]
 }

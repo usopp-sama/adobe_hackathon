@@ -91,45 +91,25 @@
         "You can quickly share a link to a PDF document with others for viewing or commenting. The",
         "document shared as a link opens in any browser on any device. The document is stored",
         "securely in Adobe cloud storage. Recipients get an email with a link, and they can click the",
-        "link to view and comment on the document in a browser; no sign-in is required.",
-        "1.   Open a PDF in Acrobat or Acrobat Reader and select  Share  in the upper-right corner.",
-        "2.   (Optional) Select  Link Setting  and ensure that  People can comment  toggle is on.",
-        "3.   Select the appropriate option to share the PDF:",
-        "\u2022",
-        "Enter the recipient's name or email and select  Invite . You can add a message",
-        "and a deadline.",
-        "\u2022",
-        "Select any third-party App and follow the onscreen instructions.",
-        "\u2022",
-        "Select  Create a link to share  and share copied link with recipients.",
-        "\u2022",
-        "Select  Send a link or attach this file to an email  and follow the onscreen",
-        "instructions."
+        "link to view and comment on the document in a browser; no sign-in is required."
       ],
       "keywords": [
         "viewing or commenting",
-        "select link setting",
         "pdf document",
         "quickly share",
-        "acrobat reader",
-        "email",
-        "link opens",
-        "select invite",
+        "share a link",
         "adobe cloud storage",
-        "securely in adobe"
+        "link opens",
+        "securely in adobe",
+        "document shared",
+        "browser",
+        "device"
       ],
       "sentences": [
         "You can quickly share a link to a PDF document with others for viewing or commenting.",
         "The document shared as a link opens in any browser on any device.",
         "The document is stored securely in Adobe cloud storage.",
-        "Recipients get an email with a link, and they can click the link to view and comment on the document in a browser; no sign-in is required.",
-        "1.   Open a PDF in Acrobat or Acrobat Reader and select  Share  in the upper-right corner.",
-        "2.   (Optional) Select  Link Setting  and ensure that  People can comment  toggle is on.",
-        "3.   Select the appropriate option to share the PDF: Enter the recipient's name or email and select  Invite .",
-        "You can add a message and a deadline.",
-        "Select any third-party App and follow the onscreen instructions.",
-        "Select  Create a link to share  and share copied link with recipients.",
-        "Select  Send a link or attach this file to an email  and follow the onscreen instructions."
+        "Recipients get an email with a link, and they can click the link to view and comment on the document in a browser; no sign-in is required."
       ],
       "semantic": {
         "tokens": [
@@ -162,33 +142,107 @@
           "document",
           "browser",
           "sign",
-          "required",
-          "1",
-          "Open",
-          "PDF",
-          "Acrobat",
-          "Acrobat",
-          "Reader",
-          "select",
-          "Share",
-          "upper",
-          "right",
-          "corner",
-          "2",
-          "Optional",
-          "Select",
-          "Link",
-          "Setting",
-          "ensure",
-          "People",
-          "comment",
-          "toggle",
-          "3",
-          "Select",
-          "appropriate",
-          "option",
+          "required"
+        ],
+        "nouns": [
+          "sign",
+          "recipient",
+          "browser",
+          "storage",
+          "cloud",
+          "document",
+          "device",
+          "link",
+          "email"
+        ],
+        "verbs": [
           "share",
+          "open",
+          "comment",
+          "view",
+          "click",
+          "require",
+          "store"
+        ],
+        "lemmas": [
+          "recipient",
+          "Adobe",
+          "cloud",
+          "document",
+          "device",
+          "sign",
+          "share",
+          "open",
+          "browser",
+          "comment",
+          "view",
+          "require",
+          "email",
           "PDF",
+          "securely",
+          "storage",
+          "quickly",
+          "click",
+          "store",
+          "link"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "1.   Open a PDF in Acrobat or Acrobat Reader and select  Share  in the upper-right corner.",
+      "page": 2,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "2.   (Optional) Select  Link Setting  and ensure that  People can comment  toggle is on.",
+      "page": 2,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "3.   Select the appropriate option to share the PDF:",
+      "page": 2,
+      "paragraphs": [
+        "-",
+        "Enter the recipient's name or email and select  Invite . You can add a message",
+        "and a deadline.",
+        "-",
+        "Select any third-party App and follow the onscreen instructions.",
+        "-",
+        "Select  Create a link to share  and share copied link with recipients.",
+        "-",
+        "Select  Send a link or attach this file to an email  and follow the onscreen",
+        "instructions."
+      ],
+      "keywords": [
+        "select invite",
+        "add a message",
+        "nscreen instructions",
+        "follow the onscreen",
+        "app and follow",
+        "third-party app",
+        "enter the recipient",
+        "deadline",
+        "select create",
+        "email and follow"
+      ],
+      "sentences": [
+        "Enter the recipient's name or email and select  Invite .",
+        "You can add a message and a deadline.",
+        "Select any third-party App and follow the onscreen instructions.",
+        "Select  Create a link to share  and share copied link with recipients.",
+        "Select  Send a link or attach this file to an email  and follow the onscreen instructions."
+      ],
+      "semantic": {
+        "tokens": [
           "Enter",
           "recipient",
           "email",
@@ -222,100 +276,48 @@
           "instructions"
         ],
         "nouns": [
-          "message",
           "deadline",
-          "sign",
-          "storage",
-          "link",
-          "party",
-          "document",
-          "browser",
-          "cloud",
-          "instruction",
+          "message",
           "recipient",
-          "device",
-          "email",
-          "People",
+          "instruction",
           "file",
-          "option",
-          "corner",
-          "toggle",
-          "pdf"
+          "party",
+          "link",
+          "email"
         ],
         "verbs": [
-          "store",
-          "select",
-          "send",
-          "click",
-          "follow",
-          "enter",
           "share",
-          "create",
-          "copy",
-          "require",
-          "add",
           "attach",
-          "ensure",
-          "open",
-          "view",
-          "comment"
+          "select",
+          "enter",
+          "add",
+          "create",
+          "follow",
+          "copy",
+          "send"
         ],
         "lemmas": [
-          "Adobe",
           "message",
-          "deadline",
-          "1",
-          "Invite",
-          "Share",
-          "send",
-          "sign",
-          "storage",
-          "open",
-          "view",
-          "Optional",
-          "Link",
-          "store",
-          "onscreen",
-          "App",
-          "link",
-          "party",
-          "create",
-          "enter",
-          "Select",
-          "document",
-          "right",
-          "upper",
-          "add",
-          "securely",
-          "comment",
-          "browser",
-          "quickly",
-          "Setting",
-          "cloud",
-          "appropriate",
-          "Acrobat",
-          "instruction",
-          "share",
-          "copy",
-          "attach",
           "recipient",
+          "enter",
+          "instruction",
+          "create",
+          "link",
+          "deadline",
+          "onscreen",
+          "Invite",
+          "add",
+          "send",
+          "share",
+          "attach",
+          "App",
+          "Select",
           "follow",
-          "device",
           "email",
-          "Reader",
           "select",
-          "People",
-          "click",
-          "PDF",
           "file",
-          "2",
-          "option",
-          "corner",
-          "require",
-          "ensure",
-          "3",
-          "toggle",
-          "pdf"
+          "party",
+          "copy"
         ]
       }
     },
@@ -324,37 +326,21 @@
       "text": "PDF sharing options",
       "page": 2,
       "paragraphs": [
-        "\u2022",
+        "-",
         "Add name or email to invite  - Enter the name or email of the recipient. If necessary,",
-        "add a message, or Add deadline, and select Invite.",
-        "Add name or email to invite",
-        "\u2022",
-        "Create a link and share using third-party apps.  When you select any available third-",
-        "party app like Microsoft Outlook, Gmail, WhatsApp, Microsoft Teams, or the default",
-        "email client, Acrobat creates a shareable link and opens the respective application",
-        "with the copied link in the message draft. Alternatively, select  Create a link to share ,",
-        "then copy and share it with the intended recipients.",
-        "Share a link to the file"
+        "add a message, or Add deadline, and select Invite."
       ],
       "keywords": [
         "enter",
-        "invite create",
-        "acrobat creates",
-        "microsoft outlook",
-        "microsoft teams",
-        "create a link",
-        "email to invite",
-        "add deadline",
         "select invite",
-        "select create"
+        "email to invite",
+        "recipient",
+        "add deadline",
+        "add a message"
       ],
       "sentences": [
         "Add name or email to invite  - Enter the name or email of the recipient.",
-        "If necessary, add a message, or Add deadline, and select Invite.",
-        "Add name or email to invite Create a link and share using third-party apps.",
-        "When you select any available third- party app like Microsoft Outlook, Gmail, WhatsApp, Microsoft Teams, or the default email client, Acrobat creates a shareable link and opens the respective application with the copied link in the message draft.",
-        "Alternatively, select  Create a link to share , then copy and share it with the intended recipients.",
-        "Share a link to the file"
+        "If necessary, add a message, or Add deadline, and select Invite."
       ],
       "semantic": {
         "tokens": [
@@ -370,10 +356,72 @@
           "Add",
           "deadline",
           "select",
+          "Invite"
+        ],
+        "nouns": [
+          "deadline",
+          "recipient",
+          "message",
+          "email"
+        ],
+        "verbs": [
+          "add",
+          "enter",
+          "invite"
+        ],
+        "lemmas": [
+          "deadline",
+          "message",
           "Invite",
-          "Add",
+          "recipient",
+          "enter",
+          "select",
+          "necessary",
+          "add",
           "email",
-          "invite",
+          "invite"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Add name or email to invite",
+      "page": 3,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 3,
+      "paragraphs": [
+        "Create a link and share using third-party apps.  When you select any available third-",
+        "party app like Microsoft Outlook, Gmail, WhatsApp, Microsoft Teams, or the default",
+        "email client, Acrobat creates a shareable link and opens the respective application",
+        "with the copied link in the message draft. Alternatively, select  Create a link to share ,",
+        "then copy and share it with the intended recipients."
+      ],
+      "keywords": [
+        "microsoft outlook",
+        "microsoft teams",
+        "acrobat creates",
+        "third-party apps",
+        "create a link",
+        "default email client",
+        "creates a shareable",
+        "select create",
+        "gmail",
+        "shareable link"
+      ],
+      "sentences": [
+        "Create a link and share using third-party apps.",
+        "When you select any available third- party app like Microsoft Outlook, Gmail, WhatsApp, Microsoft Teams, or the default email client, Acrobat creates a shareable link and opens the respective application with the copied link in the message draft.",
+        "Alternatively, select  Create a link to share , then copy and share it with the intended recipients."
+      ],
+      "semantic": {
+        "tokens": [
           "Create",
           "link",
           "share",
@@ -413,75 +461,69 @@
           "copy",
           "share",
           "intended",
-          "recipients",
-          "Share",
-          "link",
-          "file"
+          "recipients"
         ],
         "nouns": [
-          "email",
-          "message",
-          "deadline",
-          "third-",
-          "app",
-          "default",
-          "link",
-          "draft",
-          "party",
+          "client",
           "application",
-          "file",
-          "invite",
+          "third-",
+          "message",
           "recipient",
-          "client"
+          "default",
+          "app",
+          "party",
+          "draft",
+          "link",
+          "email"
         ],
         "verbs": [
           "intend",
-          "select",
-          "create",
-          "enter",
-          "invite",
           "share",
-          "copy",
-          "add",
-          "open"
+          "select",
+          "open",
+          "create",
+          "copy"
         ],
         "lemmas": [
-          "message",
-          "deadline",
-          "default",
-          "application",
-          "open",
           "client",
-          "necessary",
-          "link",
-          "party",
-          "create",
-          "enter",
-          "invite",
           "shareable",
-          "add",
-          "Acrobat",
           "third-",
-          "alternatively",
-          "like",
-          "app",
-          "draft",
-          "Microsoft",
-          "available",
-          "share",
-          "copy",
+          "message",
           "recipient",
-          "respective",
-          "Gmail",
+          "alternatively",
+          "create",
+          "like",
           "intend",
-          "email",
-          "select",
-          "file",
-          "WhatsApp",
+          "application",
+          "copy",
+          "share",
           "Outlook",
-          "Teams"
+          "open",
+          "app",
+          "available",
+          "Acrobat",
+          "Teams",
+          "email",
+          "respective",
+          "select",
+          "WhatsApp",
+          "Microsoft",
+          "default",
+          "party",
+          "draft",
+          "Gmail",
+          "link"
         ]
       }
+    },
+    {
+      "level": "H3",
+      "text": "Share a link to the file",
+      "page": 4,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
@@ -492,38 +534,22 @@
         "Follow the steps below to create a review link, and share it using your email client.",
         "1.   Open the PDF in Acrobat.",
         "2.   Select  Share  in the upper right. You get either of the two options:",
-        "\u2022",
+        "-",
         "Get link : You get this option when a file isn't synced to the cloud. Select  Get",
         "link  to sync the file to the cloud. Once the file is synced, the get link option",
-        "changes to  Copy link . Select  Copy link  and share it as desired.",
-        "\u2022",
-        "Copy link: You get this option if the file is already synced to the cloud or shared",
-        "with someone.",
-        "3.   By default, the  People can comment  switch is turned on. To share the file only for",
-        "viewing, select  Anyone can access and comment  in the Share dialog box, and then",
-        "switch the toggle next to  People can comment  to turn it off.",
-        "4.   The link is created and copied by default. Share the link with other recipients. You can",
-        "also perform any of the following actions from the right pane:",
-        "\u2022",
-        "Add People:  Select  Share , then enter the email addresses of the people you",
-        "want to share the file with.",
-        "\u2022",
-        "Unshare File:  Select  Share.  The profile icons of the people you have shared the",
-        "file with are displayed next to  Shared with . Select the profile icon to open the",
-        "Shared with the dialog box. Select  Unshare  in the lower-right to stop sharing",
-        "the file with others."
+        "changes to  Copy link . Select  Copy link  and share it as desired."
       ],
       "keywords": [
-        "select share",
         "public link makes",
-        "select copy link",
         "anonymous or public",
+        "open the pdf",
         "pdf in acrobat",
+        "select copy link",
         "files accessible",
-        "shared",
+        "select share",
         "makes the files",
-        "share the file",
-        "select unshare"
+        "clicks",
+        "cloud"
       ],
       "sentences": [
         "An anonymous or public link makes the files accessible to anyone who clicks the link.",
@@ -533,17 +559,7 @@
         "You get either of the two options: Get link : You get this option when a file isn't synced to the cloud.",
         "Select  Get link  to sync the file to the cloud.",
         "Once the file is synced, the get link option changes to  Copy link .",
-        "Select  Copy link  and share it as desired.",
-        "Copy link: You get this option if the file is already synced to the cloud or shared with someone.",
-        "By default, the  People can comment  switch is turned on.",
-        "To share the file only for viewing, select  Anyone can access and comment  in the Share dialog box, and then switch the toggle next to  People can comment  to turn it off.",
-        "The link is created and copied by default.",
-        "Share the link with other recipients.",
-        "You can also perform any of the following actions from the right pane: Add People:  Select  Share , then enter the email addresses of the people you want to share the file with.",
-        "Unshare File:  Select  Share.",
-        "The profile icons of the people you have shared the file with are displayed next to  Shared with .",
-        "Select the profile icon to open the Shared with the dialog box.",
-        "Select  Unshare  in the lower-right to stop sharing the file with others."
+        "Select  Copy link  and share it as desired."
       ],
       "semantic": {
         "tokens": [
@@ -594,22 +610,137 @@
           "Copy",
           "link",
           "share",
-          "desired",
+          "desired"
+        ],
+        "nouns": [
+          "right",
+          "share",
+          "review",
+          "client",
+          "option",
+          "change",
+          "file",
+          "step",
+          "cloud",
+          "link",
+          "email"
+        ],
+        "verbs": [
+          "share",
+          "make",
+          "open",
+          "sync",
+          "desire",
+          "click",
+          "create",
+          "follow",
+          "copy"
+        ],
+        "lemmas": [
+          "review",
+          "make",
+          "client",
+          "desire",
+          "cloud",
+          "upper",
+          "create",
+          "public",
+          "sync",
+          "Copy",
+          "2",
+          "accessible",
+          "anonymous",
+          "copy",
+          "share",
+          "open",
+          "change",
+          "1",
+          "step",
+          "Select",
+          "Acrobat",
+          "follow",
+          "email",
+          "right",
+          "PDF",
+          "option",
+          "file",
+          "click",
+          "link"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 5,
+      "paragraphs": [
+        "Copy link: You get this option if the file is already synced to the cloud or shared",
+        "with someone."
+      ],
+      "keywords": [
+        "copy link",
+        "cloud or shared",
+        "ption",
+        "file",
+        "synced"
+      ],
+      "sentences": [
+        "Copy link: You get this option if the file is already synced to the cloud or shared with someone."
+      ],
+      "semantic": {
+        "tokens": [
           "Copy",
           "link",
           "option",
           "file",
           "synced",
           "cloud",
-          "shared",
-          "3",
-          "default",
-          "People",
-          "comment",
-          "switch",
-          "turned",
-          "share",
+          "shared"
+        ],
+        "nouns": [
+          "option",
           "file",
+          "cloud",
+          "copy",
+          "link"
+        ],
+        "verbs": [
+          "share",
+          "sync"
+        ],
+        "lemmas": [
+          "share",
+          "option",
+          "sync",
+          "file",
+          "cloud",
+          "copy",
+          "link"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "3.   By default, the  People can comment  switch is turned on. To share the file only for",
+      "page": 5,
+      "paragraphs": [
+        "viewing, select  Anyone can access and comment  in the Share dialog box, and then",
+        "switch the toggle next to  People can comment  to turn it off."
+      ],
+      "keywords": [
+        "share dialog box",
+        "switch the toggle",
+        "viewing",
+        "people can comment",
+        "access and comment",
+        "comment to turn",
+        "select"
+      ],
+      "sentences": [
+        "viewing, select  Anyone can access and comment  in the Share dialog box, and then switch the toggle next to  People can comment  to turn it off."
+      ],
+      "semantic": {
+        "tokens": [
           "viewing",
           "select",
           "access",
@@ -621,15 +752,68 @@
           "toggle",
           "People",
           "comment",
-          "turn",
-          "4",
-          "link",
-          "created",
-          "copied",
-          "default",
+          "turn"
+        ],
+        "nouns": [
+          "toggle",
+          "comment",
+          "dialog",
+          "box",
+          "People"
+        ],
+        "verbs": [
+          "switch",
+          "comment",
+          "access",
+          "view",
+          "turn"
+        ],
+        "lemmas": [
+          "switch",
+          "toggle",
           "Share",
-          "link",
-          "recipients",
+          "select",
+          "comment",
+          "access",
+          "view",
+          "People",
+          "dialog",
+          "turn",
+          "box"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "4.   The link is created and copied by default. Share the link with other recipients. You can",
+      "page": 5,
+      "paragraphs": [
+        "also perform any of the following actions from the right pane:",
+        "-",
+        "Add People:  Select  Share , then enter the email addresses of the people you",
+        "want to share the file with.",
+        "-",
+        "Unshare File:  Select  Share.  The profile icons of the people you have shared the"
+      ],
+      "keywords": [
+        "select share",
+        "add people",
+        "enter the email",
+        "email addresses",
+        "unshare file",
+        "share the file",
+        "pane",
+        "perform",
+        "actions",
+        "profile icons"
+      ],
+      "sentences": [
+        "also perform any of the following actions from the right pane: Add People:  Select  Share , then enter the email addresses of the people you want to share the file with.",
+        "Unshare File:  Select  Share.",
+        "The profile icons of the people you have shared the"
+      ],
+      "semantic": {
+        "tokens": [
           "perform",
           "following",
           "actions",
@@ -653,137 +837,77 @@
           "profile",
           "icons",
           "people",
-          "shared",
-          "file",
-          "displayed",
-          "Shared",
-          "Select",
-          "profile",
-          "icon",
-          "open",
-          "Shared",
-          "dialog",
-          "box",
-          "Select",
-          "Unshare",
-          "lower",
-          "right",
-          "stop",
-          "sharing",
-          "file"
+          "shared"
         ],
         "nouns": [
           "icon",
-          "default",
-          "box",
-          "change",
-          "client",
-          "link",
-          "right",
-          "step",
-          "address",
-          "comment",
-          "dialog",
-          "cloud",
-          "review",
-          "switch",
-          "people",
-          "recipient",
-          "pane",
-          "email",
-          "profile",
           "action",
-          "People",
+          "profile",
+          "people",
+          "pane",
           "file",
-          "option",
-          "toggle"
+          "address",
+          "email",
+          "People"
         ],
         "verbs": [
-          "sync",
-          "open",
-          "view",
-          "desire",
-          "create",
+          "share",
           "enter",
+          "want",
           "perform",
           "add",
-          "make",
-          "comment",
-          "turn",
-          "display",
-          "share",
-          "switch",
-          "copy",
-          "stop",
-          "follow",
-          "access",
-          "select",
-          "click",
-          "want"
+          "follow"
         ],
         "lemmas": [
-          "1",
-          "icon",
-          "Share",
-          "default",
-          "box",
           "Unshare",
-          "sync",
-          "want",
-          "open",
-          "toggle",
-          "client",
-          "change",
-          "view",
-          "desire",
-          "4",
-          "File",
-          "Copy",
-          "link",
-          "create",
           "enter",
-          "Select",
-          "right",
-          "upper",
-          "perform",
-          "add",
-          "anonymous",
-          "make",
-          "address",
-          "comment",
-          "turn",
-          "dialog",
-          "display",
-          "cloud",
-          "Acrobat",
-          "review",
-          "share",
-          "switch",
-          "copy",
-          "people",
-          "stop",
-          "accessible",
-          "recipient",
-          "follow",
           "pane",
-          "public",
-          "access",
-          "email",
-          "Shared",
-          "lower",
+          "address",
+          "Share",
+          "want",
+          "people",
           "profile",
-          "select",
+          "File",
+          "add",
+          "share",
+          "icon",
           "action",
+          "perform",
+          "Select",
+          "follow",
+          "email",
           "People",
-          "click",
-          "PDF",
-          "file",
-          "2",
-          "option",
-          "3",
-          "step"
+          "right",
+          "file"
         ]
       }
+    },
+    {
+      "level": "H2",
+      "text": "file with are displayed next to  Shared with . Select the profile icon to open the",
+      "page": 6,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Shared with the dialog box. Select  Unshare  in the lower-right to stop sharing",
+      "page": 6,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "the file with others.",
+      "page": 6,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
@@ -791,28 +915,24 @@
       "page": 6,
       "paragraphs": [
         "You can use markup tools to give suggestions for formatting the text, structuring a document,",
-        "or for providing other edit suggestions. Markups and comments don\u2019t change the actual text",
-        "in the PDF.",
-        "Note:  The  Insert text  and  Replace selected text  commenting tools are now available for",
-        "shared PDF files, making it easier for you to suggest changes and provide feedback directly",
-        "within the document."
+        "or for providing other edit suggestions. Markups and comments don't change the actual text",
+        "in the PDF."
       ],
       "keywords": [
+        "structuring a document",
+        "tools to give",
         "providing other edit",
         "give suggestions",
         "edit suggestions",
-        "suggestions for formatting",
-        "structuring a document",
-        "shared pdf files",
-        "replace selected text",
         "markup tools",
-        "insert text",
-        "text commenting tools"
+        "suggestions for formatting",
+        "formatting the text",
+        "actual text",
+        "pdf"
       ],
       "sentences": [
         "You can use markup tools to give suggestions for formatting the text, structuring a document, or for providing other edit suggestions.",
-        "Markups and comments don\u2019t change the actual text in the PDF.",
-        "Note:  The  Insert text  and  Replace selected text  commenting tools are now available for shared PDF files, making it easier for you to suggest changes and provide feedback directly within the document."
+        "Markups and comments don't change the actual text in the PDF."
       ],
       "semantic": {
         "tokens": [
@@ -832,16 +952,62 @@
           "change",
           "actual",
           "text",
+          "PDF"
+        ],
+        "nouns": [
+          "comment",
+          "markup",
+          "suggestion",
+          "tool",
+          "document",
+          "edit",
+          "text"
+        ],
+        "verbs": [
+          "provide",
+          "change",
+          "use",
+          "format",
+          "structure"
+        ],
+        "lemmas": [
+          "provide",
           "PDF",
-          "Note",
-          "Insert",
-          "text",
-          "Replace",
-          "selected",
-          "text",
-          "commenting",
-          "tools",
-          "available",
+          "structure",
+          "comment",
+          "change",
+          "use",
+          "markup",
+          "actual",
+          "format",
+          "suggestion",
+          "tool",
+          "document",
+          "edit",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Note:  The  Insert text  and  Replace selected text  commenting tools are now available for",
+      "page": 6,
+      "paragraphs": [
+        "shared PDF files, making it easier for you to suggest changes and provide feedback directly",
+        "within the document."
+      ],
+      "keywords": [
+        "shared pdf files",
+        "provide feedback directly",
+        "making it easier",
+        "document",
+        "suggest"
+      ],
+      "sentences": [
+        "shared PDF files, making it easier for you to suggest changes and provide feedback directly within the document."
+      ],
+      "semantic": {
+        "tokens": [
           "shared",
           "PDF",
           "files",
@@ -855,58 +1021,29 @@
           "document"
         ],
         "nouns": [
-          "note",
-          "edit",
-          "markup",
-          "suggestion",
-          "tool",
-          "file",
           "document",
-          "feedback",
-          "text",
           "change",
-          "comment"
+          "feedback",
+          "file"
         ],
         "verbs": [
-          "format",
-          "replace",
-          "select",
-          "comment",
           "suggest",
           "share",
-          "structure",
-          "use",
-          "make",
-          "change",
-          "provide"
+          "provide",
+          "make"
         ],
         "lemmas": [
-          "format",
-          "replace",
-          "suggest",
-          "directly",
-          "change",
-          "suggestion",
-          "document",
-          "make",
-          "feedback",
-          "comment",
-          "Insert",
-          "provide",
-          "edit",
-          "tool",
-          "actual",
-          "available",
           "share",
-          "structure",
-          "easy",
-          "note",
-          "select",
-          "markup",
+          "provide",
+          "make",
           "PDF",
+          "suggest",
+          "change",
+          "directly",
           "file",
-          "text",
-          "use"
+          "document",
+          "easy",
+          "feedback"
         ]
       }
     },
@@ -949,21 +1086,21 @@
         ],
         "nouns": [
           "tool",
-          "markup",
-          "text"
+          "text",
+          "markup"
         ],
         "verbs": [
           "add",
           "use"
         ],
         "lemmas": [
-          "Markup",
-          "markup",
-          "tool",
-          "Select",
-          "text",
           "use",
-          "add"
+          "markup",
+          "Select",
+          "add",
+          "tool",
+          "Markup",
+          "text"
         ]
       }
     },
@@ -975,17 +1112,17 @@
         "1.   Open a PDF.",
         "2.   Use the Select text tool to select the text you want to mark up.",
         "3.   From the markup toolbar that appears, take one of the following actions as desired:",
-        "\u2022",
+        "-",
         "To highlight text, select Highlight text",
-        "\u2022",
+        "-",
         "To strikethrough the text, select Strikethrough text",
-        "\u2022",
+        "-",
         "To underline text, select Underline",
-        "\u2022",
+        "-",
         "To redact text, select Redact Text & Images",
-        "\u2022",
+        "-",
         "To copy the text, select copy with formatting",
-        "\u2022",
+        "-",
         "To edit the selected text, select Edit"
       ],
       "keywords": [
@@ -1058,61 +1195,61 @@
           "Edit"
         ],
         "nouns": [
-          "formatting",
           "action",
-          "edit",
-          "tool",
-          "underline",
-          "text",
-          "copy",
+          "pdf",
           "toolbar",
-          "pdf"
+          "formatting",
+          "underline",
+          "tool",
+          "copy",
+          "edit",
+          "text"
         ],
         "verbs": [
-          "desire",
-          "highlight",
-          "mark",
           "select",
-          "strikethrough",
+          "open",
           "edit",
           "want",
-          "copy",
           "use",
-          "appear",
+          "highlight",
+          "desire",
+          "strikethrough",
           "redact",
-          "open",
-          "follow"
+          "follow",
+          "copy",
+          "mark",
+          "appear"
         ],
         "lemmas": [
-          "formatting",
-          "1",
+          "pdf",
           "Redact",
-          "underline",
-          "want",
-          "toolbar",
-          "open",
-          "redact",
-          "desire",
-          "highlight",
-          "strikethrough",
-          "Highlight",
-          "Select",
-          "Images",
-          "mark",
-          "Text",
-          "edit",
-          "tool",
-          "copy",
-          "follow",
-          "select",
-          "markup",
-          "action",
-          "2",
-          "text",
           "use",
+          "markup",
+          "desire",
+          "Text",
+          "mark",
           "appear",
+          "edit",
+          "want",
+          "redact",
+          "2",
+          "tool",
+          "highlight",
+          "copy",
+          "action",
+          "open",
+          "toolbar",
+          "1",
+          "formatting",
+          "Select",
+          "follow",
+          "Images",
+          "select",
+          "Highlight",
+          "strikethrough",
+          "underline",
           "3",
-          "pdf"
+          "text"
         ]
       }
     },
@@ -1125,7 +1262,7 @@
         "2.   From the Quick actions toolbar, select the Highlight text tool and then move the",
         "cursor over the text that you want to highlight.",
         "3.   With the Highlight tool selected, you can highlight multiple sections of text by just",
-        "dragging over the text. Once you\u2019re done, deselect the tool.",
+        "dragging over the text. Once you're done, deselect the tool.",
         "4.   To add other markups, expand the Highlight tool menu and select the tool for other",
         "markups."
       ],
@@ -1145,7 +1282,7 @@
         "1.   Open a PDF.",
         "2.   From the Quick actions toolbar, select the Highlight text tool and then move the cursor over the text that you want to highlight.",
         "With the Highlight tool selected, you can highlight multiple sections of text by just dragging over the text.",
-        "Once you\u2019re done, deselect the tool.",
+        "Once you're done, deselect the tool.",
         "To add other markups, expand the Highlight tool menu and select the tool for other markups."
       ],
       "semantic": {
@@ -1189,51 +1326,51 @@
           "markups"
         ],
         "nouns": [
+          "action",
           "menu",
           "section",
-          "action",
+          "cursor",
+          "pdf",
+          "toolbar",
           "markup",
           "tool",
-          "cursor",
-          "text",
-          "toolbar",
-          "pdf"
+          "text"
         ],
         "verbs": [
-          "drag",
-          "highlight",
           "select",
+          "open",
           "want",
           "expand",
           "deselect",
           "add",
-          "open"
+          "drag",
+          "highlight"
         ],
         "lemmas": [
-          "1",
-          "section",
-          "want",
-          "toolbar",
-          "open",
-          "highlight",
-          "4",
-          "Highlight",
-          "expand",
-          "add",
-          "multiple",
-          "drag",
-          "tool",
-          "deselect",
-          "Quick",
-          "menu",
-          "action",
-          "select",
+          "pdf",
           "markup",
+          "menu",
+          "multiple",
           "cursor",
+          "want",
           "2",
-          "text",
+          "Quick",
+          "add",
+          "tool",
+          "highlight",
+          "action",
+          "open",
+          "expand",
+          "deselect",
+          "toolbar",
+          "1",
+          "4",
+          "select",
+          "section",
+          "Highlight",
+          "drag",
           "3",
-          "pdf"
+          "text"
         ]
       }
     },
@@ -1288,30 +1425,30 @@
         ],
         "nouns": [
           "icon",
-          "markup",
-          "palette",
+          "color",
           "toolbar",
-          "color"
+          "palette",
+          "markup"
         ],
         "verbs": [
+          "click",
           "select",
-          "desire",
           "appear",
-          "click"
+          "desire"
         ],
         "lemmas": [
-          "desire",
-          "select",
-          "markup",
-          "mini",
           "icon",
-          "click",
-          "palette",
-          "2",
-          "appear",
+          "select",
+          "color",
           "toolbar",
+          "palette",
+          "markup",
+          "2",
+          "mini",
+          "click",
+          "desire",
           "3",
-          "color"
+          "appear"
         ]
       }
     },
@@ -1319,39 +1456,19 @@
       "level": "H1",
       "text": "Delete The Markup",
       "page": 8,
-      "paragraphs": [
-        "To delete the markup, select the markup and then select delete"
-      ],
-      "keywords": [
-        "select delete",
-        "delete the markup",
-        "select the markup"
-      ],
-      "sentences": [
-        "To delete the markup, select the markup and then select delete"
-      ],
-      "semantic": {
-        "tokens": [
-          "delete",
-          "markup",
-          "select",
-          "markup",
-          "select",
-          "delete"
-        ],
-        "nouns": [
-          "markup"
-        ],
-        "verbs": [
-          "select",
-          "delete"
-        ],
-        "lemmas": [
-          "select",
-          "markup",
-          "delete"
-        ]
-      }
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "To delete the markup, select the markup and then select delete",
+      "page": 8,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
@@ -1415,41 +1532,41 @@
           "Post"
         ],
         "nouns": [
-          "note",
-          "message",
           "icon",
+          "message",
+          "note",
+          "comment",
           "markup",
-          "box",
           "click",
-          "comment"
+          "box"
         ],
         "verbs": [
-          "select",
-          "type",
-          "click",
           "pop",
-          "open"
+          "type",
+          "select",
+          "open",
+          "click"
         ],
         "lemmas": [
-          "message",
-          "1",
-          "icon",
-          "box",
-          "open",
           "type",
-          "macOS",
-          "comment",
-          "double",
+          "message",
+          "markup",
           "alternatively",
+          "macOS",
           "pop",
           "Post",
-          "note",
-          "Control",
-          "select",
-          "markup",
-          "click",
           "2",
-          "3"
+          "icon",
+          "open",
+          "note",
+          "comment",
+          "1",
+          "double",
+          "select",
+          "click",
+          "3",
+          "Control",
+          "box"
         ]
       }
     },
@@ -1458,38 +1575,14 @@
       "text": "Replace text",
       "page": 8,
       "paragraphs": [
-        "1.   From the Quick actions toolbar, select  Add comment",
-        "2.   Select  Replace selected text .",
-        "3.   Select the text that you want to replace.",
-        "The selected text is crossed out.",
-        "4.   Double-click the selected text and then type the text to be inserted or added.",
-        "The insertion caret",
-        "appears. To indicate that a new paragraph should be added,",
-        "press Enter, and then close the pop-up note without adding text. The paragraph",
-        "insertion caret",
-        "appears."
+        "1.   From the Quick actions toolbar, select  Add comment"
       ],
       "keywords": [
         "select add comment",
-        "select replace selected",
-        "quick actions toolbar",
-        "replace selected text",
-        "insertion caret",
-        "double-click the selected",
-        "added",
-        "paragraph",
-        "press enter",
-        "select the text"
+        "quick actions toolbar"
       ],
       "sentences": [
-        "1.   From the Quick actions toolbar, select  Add comment 2.",
-        "Select  Replace selected text .",
-        "3.   Select the text that you want to replace.",
-        "The selected text is crossed out.",
-        "4.   Double-click the selected text and then type the text to be inserted or added.",
-        "The insertion caret appears.",
-        "To indicate that a new paragraph should be added, press Enter, and then close the pop-up note without adding text.",
-        "The paragraph insertion caret appears."
+        "1.   From the Quick actions toolbar, select  Add comment"
       ],
       "semantic": {
         "tokens": [
@@ -1499,29 +1592,97 @@
           "toolbar",
           "select",
           "Add",
+          "comment"
+        ],
+        "nouns": [
           "comment",
-          "2",
-          "Select",
-          "Replace",
+          "toolbar",
+          "action"
+        ],
+        "verbs": [
+          "add"
+        ],
+        "lemmas": [
+          "action",
+          "select",
+          "comment",
+          "toolbar",
+          "1",
+          "Quick",
+          "add"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "2.   Select  Replace selected text .",
+      "page": 9,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "3.   Select the text that you want to replace.",
+      "page": 9,
+      "paragraphs": [
+        "The selected text is crossed out."
+      ],
+      "keywords": [
+        "selected text",
+        "text is crossed"
+      ],
+      "sentences": [
+        "The selected text is crossed out."
+      ],
+      "semantic": {
+        "tokens": [
           "selected",
           "text",
-          "3",
-          "Select",
-          "text",
-          "want",
-          "replace",
-          "selected",
-          "text",
-          "crossed",
-          "4",
-          "Double",
-          "click",
-          "selected",
-          "text",
-          "type",
-          "text",
-          "inserted",
-          "added",
+          "crossed"
+        ],
+        "nouns": [
+          "text"
+        ],
+        "verbs": [
+          "cross",
+          "select"
+        ],
+        "lemmas": [
+          "cross",
+          "select",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "4.   Double-click the selected text and then type the text to be inserted or added.",
+      "page": 9,
+      "paragraphs": [
+        "The insertion caret",
+        "appears. To indicate that a new paragraph should be added,",
+        "press Enter, and then close the pop-up note without adding text. The paragraph",
+        "insertion caret",
+        "appears."
+      ],
+      "keywords": [
+        "press enter",
+        "paragraph insertion caret",
+        "adding text",
+        "close the pop-up",
+        "pop-up note",
+        "note without adding",
+        "added"
+      ],
+      "sentences": [
+        "The insertion caret appears.",
+        "To indicate that a new paragraph should be added, press Enter, and then close the pop-up note without adding text.",
+        "The paragraph insertion caret appears."
+      ],
+      "semantic": {
+        "tokens": [
           "insertion",
           "caret",
           "appears",
@@ -1542,62 +1703,34 @@
           "appears"
         ],
         "nouns": [
-          "note",
           "caret",
-          "action",
           "press",
           "insertion",
-          "text",
-          "toolbar",
-          "comment",
-          "paragraph"
+          "note",
+          "paragraph",
+          "text"
         ],
         "verbs": [
-          "replace",
-          "indicate",
-          "select",
-          "type",
-          "click",
-          "insert",
           "pop",
-          "appear",
           "close",
+          "indicate",
           "add",
-          "want",
-          "cross"
+          "appear"
         ],
         "lemmas": [
-          "replace",
-          "1",
-          "new",
-          "insert",
-          "Replace",
-          "toolbar",
-          "4",
-          "press",
-          "type",
-          "3",
-          "Select",
-          "insertion",
-          "add",
-          "double",
-          "comment",
-          "paragraph",
-          "indicate",
           "pop",
-          "cross",
-          "Quick",
-          "note",
-          "action",
-          "select",
-          "click",
-          "2",
           "text",
-          "appear",
           "caret",
+          "insertion",
+          "press",
+          "note",
           "Enter",
           "close",
-          "want"
+          "indicate",
+          "add",
+          "paragraph",
+          "new",
+          "appear"
         ]
       }
     },
@@ -1610,42 +1743,22 @@
         "select  Insert text .",
         "2.   Click between the words or characters where you want to insert text.",
         "3.   Do any of the following:",
-        "\u2022",
-        "Type the text that you want to insert.",
-        "\u2022",
-        "To indicate that a new paragraph should be added, press Enter, and then close",
-        "the pop-up note without adding text. The paragraph insertion",
-        "caret",
-        "appears.",
-        "\u2022",
-        "To indicate that a space should be added, press the spacebar, and then close",
-        "the pop-up note without adding text. The space insertion",
-        "caret",
-        "appears.",
-        "Note:  You can also indicate text edits by using the Select tool to select text, right-click the",
-        "selected text, and then choose a text edit annotation."
+        "-",
+        "Type the text that you want to insert."
       ],
       "keywords": [
-        "select insert text",
         "quick actions toolbar",
         "comments tool menu",
+        "select insert text",
         "expand the comments",
-        "adding text",
-        "pop-up note",
-        "close the pop-up",
-        "press enter",
         "click",
-        "insertion caret"
+        "words or characters",
+        "type the text"
       ],
       "sentences": [
         "1.   From the Quick actions toolbar, expand the Comments tool menu and then select  Insert text .",
         "Click between the words or characters where you want to insert text.",
-        "Do any of the following: Type the text that you want to insert.",
-        "To indicate that a new paragraph should be added, press Enter, and then close the pop-up note without adding text.",
-        "The paragraph insertion caret appears.",
-        "To indicate that a space should be added, press the spacebar, and then close the pop-up note without adding text.",
-        "The space insertion caret appears.",
-        "Note:  You can also indicate text edits by using the Select tool to select text, right-click the selected text, and then choose a text edit annotation."
+        "Do any of the following: Type the text that you want to insert."
       ],
       "semantic": {
         "tokens": [
@@ -1672,7 +1785,76 @@
           "Type",
           "text",
           "want",
+          "insert"
+        ],
+        "nouns": [
+          "action",
+          "menu",
+          "comment",
+          "toolbar",
+          "following",
+          "word",
+          "character",
+          "tool",
+          "text"
+        ],
+        "verbs": [
           "insert",
+          "type",
+          "select",
+          "expand",
+          "want",
+          "click"
+        ],
+        "lemmas": [
+          "type",
+          "menu",
+          "want",
+          "Quick",
+          "2",
+          "tool",
+          "action",
+          "expand",
+          "comment",
+          "toolbar",
+          "1",
+          "word",
+          "insert",
+          "Insert",
+          "select",
+          "click",
+          "following",
+          "character",
+          "3",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 10,
+      "paragraphs": [
+        "To indicate that a new paragraph should be added, press Enter, and then close",
+        "the pop-up note without adding text. The paragraph insertion",
+        "caret",
+        "appears."
+      ],
+      "keywords": [
+        "press enter",
+        "adding text",
+        "close the pop-up",
+        "pop-up note",
+        "note without adding",
+        "added",
+        "paragraph insertion caret"
+      ],
+      "sentences": [
+        "To indicate that a new paragraph should be added, press Enter, and then close the pop-up note without adding text.",
+        "The paragraph insertion caret appears."
+      ],
+      "semantic": {
+        "tokens": [
           "indicate",
           "new",
           "paragraph",
@@ -1687,7 +1869,65 @@
           "paragraph",
           "insertion",
           "caret",
-          "appears",
+          "appears"
+        ],
+        "nouns": [
+          "caret",
+          "insertion",
+          "press",
+          "note",
+          "paragraph",
+          "text"
+        ],
+        "verbs": [
+          "pop",
+          "close",
+          "indicate",
+          "add",
+          "appear"
+        ],
+        "lemmas": [
+          "pop",
+          "caret",
+          "press",
+          "note",
+          "insertion",
+          "appear",
+          "Enter",
+          "close",
+          "indicate",
+          "add",
+          "paragraph",
+          "new",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 10,
+      "paragraphs": [
+        "To indicate that a space should be added, press the spacebar, and then close",
+        "the pop-up note without adding text. The space insertion",
+        "caret",
+        "appears."
+      ],
+      "keywords": [
+        "press the spacebar",
+        "adding text",
+        "close the pop-up",
+        "pop-up note",
+        "note without adding",
+        "space insertion caret",
+        "added"
+      ],
+      "sentences": [
+        "To indicate that a space should be added, press the spacebar, and then close the pop-up note without adding text.",
+        "The space insertion caret appears."
+      ],
+      "semantic": {
+        "tokens": [
           "indicate",
           "space",
           "added",
@@ -1701,17 +1941,57 @@
           "space",
           "insertion",
           "caret",
-          "appears",
-          "Note",
+          "appears"
+        ],
+        "nouns": [
+          "caret",
+          "insertion",
+          "note",
+          "space",
+          "spacebar",
+          "text"
+        ],
+        "verbs": [
+          "pop",
+          "press",
+          "close",
           "indicate",
-          "text",
-          "edits",
-          "Select",
-          "tool",
-          "select",
-          "text",
-          "right",
-          "click",
+          "add",
+          "appear"
+        ],
+        "lemmas": [
+          "pop",
+          "caret",
+          "press",
+          "note",
+          "insertion",
+          "space",
+          "appear",
+          "spacebar",
+          "close",
+          "indicate",
+          "add",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Note:  You can also indicate text edits by using the Select tool to select text, right-click the",
+      "page": 10,
+      "paragraphs": [
+        "selected text, and then choose a text edit annotation."
+      ],
+      "keywords": [
+        "text edit annotation",
+        "selected text",
+        "choose a text"
+      ],
+      "sentences": [
+        "selected text, and then choose a text edit annotation."
+      ],
+      "semantic": {
+        "tokens": [
           "selected",
           "text",
           "choose",
@@ -1720,80 +2000,20 @@
           "annotation"
         ],
         "nouns": [
-          "menu",
-          "note",
-          "caret",
-          "space",
-          "spacebar",
-          "following",
-          "action",
-          "edit",
-          "press",
-          "tool",
-          "word",
-          "character",
-          "insertion",
-          "text",
-          "toolbar",
           "annotation",
-          "comment",
-          "paragraph"
+          "edit",
+          "text"
         ],
         "verbs": [
-          "indicate",
-          "select",
-          "press",
-          "type",
-          "click",
-          "insert",
-          "expand",
-          "pop",
-          "close",
-          "appear",
-          "add",
-          "want",
-          "choose"
+          "choose",
+          "select"
         ],
         "lemmas": [
-          "1",
-          "new",
-          "insert",
-          "character",
-          "want",
-          "toolbar",
-          "choose",
-          "caret",
-          "spacebar",
-          "press",
-          "type",
-          "insertion",
-          "expand",
-          "Select",
-          "right",
-          "add",
-          "annotation",
-          "Insert",
-          "comment",
-          "paragraph",
-          "indicate",
-          "edit",
-          "tool",
-          "word",
-          "pop",
-          "Quick",
-          "menu",
-          "note",
-          "space",
-          "following",
-          "action",
           "select",
-          "click",
-          "2",
-          "text",
-          "Enter",
-          "close",
-          "appear",
-          "3"
+          "choose",
+          "annotation",
+          "edit",
+          "text"
         ]
       }
     },
@@ -1802,13 +2022,13 @@
       "text": "Export text edits",
       "page": 10,
       "paragraphs": [
-        "In Acrobat for Windows\u00ae, you can export text edits directly to the Microsoft\u00ae Word document",
+        "In Acrobat for Windows, you can export text edits directly to the Microsoft Word document",
         "that the PDF is based on to revise the source document. To use this feature, you must use",
         "PDFMaker to convert your file from  Word to PDF . Before you export your text edits, make",
         "sure that insertion comments use the exact text, including spaces and paragraph returns, that",
-        "you want to add. If you add extra instructional words (such as \u201cAdd the following:\u201d), these",
+        "you want to add. If you add extra instructional words (such as \"Add the following:\"), these",
         "words will have to be deleted manually from the Word document.",
-        "In Acrobat on Windows\u00ae, you can export text edit comments directly to an Autodesk",
+        "In Acrobat on Windows, you can export text edit comments directly to an Autodesk",
         "AutoCAD document that the PDF is based on to incorporate your edits. To use this feature,",
         "you must use PDFMaker in AutoCAD to create the PDF."
       ],
@@ -1825,24 +2045,22 @@
         "autodesk autocad document"
       ],
       "sentences": [
-        "In Acrobat for Windows\u00ae, you can export text edits directly to the Microsoft\u00ae Word document that the PDF is based on to revise the source document.",
+        "In Acrobat for Windows, you can export text edits directly to the Microsoft Word document that the PDF is based on to revise the source document.",
         "To use this feature, you must use PDFMaker to convert your file from  Word to PDF .",
         "Before you export your text edits, make sure that insertion comments use the exact text, including spaces and paragraph returns, that you want to add.",
-        "If you add extra instructional words (such as \u201cAdd the following:\u201d), these words will have to be deleted manually from the Word document.",
-        "In Acrobat on Windows\u00ae, you can export text edit comments directly to an Autodesk AutoCAD document that the PDF is based on to incorporate your edits.",
+        "If you add extra instructional words (such as \"Add the following:\"), these words will have to be deleted manually from the Word document.",
+        "In Acrobat on Windows, you can export text edit comments directly to an Autodesk AutoCAD document that the PDF is based on to incorporate your edits.",
         "To use this feature, you must use PDFMaker in AutoCAD to create the PDF."
       ],
       "semantic": {
         "tokens": [
           "Acrobat",
           "Windows",
-          "\u00ae",
           "export",
           "text",
           "edits",
           "directly",
           "Microsoft",
-          "\u00ae",
           "Word",
           "document",
           "PDF",
@@ -1886,7 +2104,6 @@
           "document",
           "Acrobat",
           "Windows",
-          "\u00ae",
           "export",
           "text",
           "edit",
@@ -1908,75 +2125,73 @@
           "PDF"
         ],
         "nouns": [
-          "space",
-          "following",
-          "edit",
           "feature",
-          "source",
-          "file",
-          "return",
           "insertion",
-          "document",
-          "word",
-          "text",
-          "\u00ae",
+          "return",
+          "source",
           "autocad",
           "comment",
-          "paragraph"
+          "space",
+          "file",
+          "following",
+          "word",
+          "paragraph",
+          "document",
+          "edit",
+          "text"
         ],
         "verbs": [
-          "export",
           "base",
-          "revise",
-          "delete",
-          "create",
+          "export",
           "include",
-          "incorporate",
-          "use",
-          "add",
           "want",
-          "convert"
+          "use",
+          "convert",
+          "delete",
+          "incorporate",
+          "revise",
+          "add",
+          "create"
         ],
         "lemmas": [
-          "manually",
-          "Autodesk",
-          "extra",
-          "incorporate",
-          "directly",
-          "export",
-          "delete",
-          "create",
-          "insertion",
-          "document",
-          "include",
-          "add",
-          "Word",
-          "\u00ae",
-          "comment",
-          "paragraph",
-          "Acrobat",
-          "base",
-          "edit",
-          "Microsoft",
-          "revise",
-          "feature",
-          "source",
-          "word",
-          "PDFMaker",
-          "Windows",
           "instructional",
-          "exact",
           "space",
-          "following",
-          "sure",
-          "PDF",
-          "file",
-          "return",
-          "text",
           "use",
+          "convert",
+          "Autodesk",
+          "Windows",
+          "create",
+          "sure",
+          "edit",
+          "base",
           "want",
+          "add",
+          "document",
+          "exact",
+          "return",
+          "insertion",
+          "export",
+          "source",
+          "comment",
           "autocad",
-          "convert"
+          "delete",
+          "incorporate",
+          "PDFMaker",
+          "extra",
+          "Acrobat",
+          "paragraph",
+          "word",
+          "feature",
+          "PDF",
+          "include",
+          "directly",
+          "Microsoft",
+          "file",
+          "revise",
+          "Word",
+          "following",
+          "manually",
+          "text"
         ]
       }
     },
@@ -2051,62 +2266,64 @@
         ],
         "nouns": [
           "email",
-          "app",
-          "service",
-          "way",
-          "software",
-          "computer",
-          "file",
           "review",
           "application",
           "url",
           "invitation",
-          "reviewer",
-          "desktop",
-          "web",
           "feedback",
-          "browser"
+          "acrobat",
+          "browser",
+          "software",
+          "service",
+          "web",
+          "file",
+          "app",
+          "computer",
+          "reviewer",
+          "way",
+          "desktop"
         ],
         "verbs": [
-          "install",
-          "click",
-          "have",
           "sign",
           "share",
+          "provide",
           "use",
-          "provide"
+          "have",
+          "click",
+          "install"
         ],
         "lemmas": [
-          "easily",
-          "sign",
-          "application",
+          "review",
+          "acrobat",
+          "use",
+          "additional",
+          "way",
           "desktop",
-          "mobile",
-          "computer",
           "feedback",
+          "application",
+          "computer",
+          "sign",
+          "share",
           "provide",
           "browser",
-          "Acrobat",
-          "app",
-          "install",
-          "way",
-          "have",
-          "url",
-          "review",
-          "share",
-          "invitation",
-          "reviewer",
-          "web",
           "service",
+          "app",
+          "have",
+          "reviewer",
+          "Acrobat",
           "email",
-          "Reader",
-          "following",
-          "click",
+          "software",
+          "invitation",
+          "easily",
+          "url",
           "PDF",
+          "web",
           "file",
-          "additional",
-          "use",
-          "software"
+          "click",
+          "following",
+          "install",
+          "Reader",
+          "mobile"
         ]
       }
     },
@@ -2115,40 +2332,19 @@
       "text": "Send an anonymous or public link in an email",
       "page": 10,
       "paragraphs": [
-        "An anonymous or public link makes the files accessible to anyone who clicks the link. Follow",
-        "the steps below to create a review link, and share it using your email client.",
-        "1.   Open the PDF in Acrobat.",
-        "2.   Select  Share  in the upper right. You get either of the two options:",
-        "\u2022",
-        "Get link : You get this option when a file isn't synced to the cloud. Select  Get",
-        "link  to sync the file to the cloud. Once the file is synced, the get link option",
-        "changes to  Copy link . Select  Copy link  and share it as desired.",
-        "\u2022",
-        "Copy link : You get this option if the file is already synced to the cloud or shared",
-        "with someone."
+        "An anonymous or public link makes the files accessible to anyone who clicks the link. Follow"
       ],
       "keywords": [
         "public link makes",
         "anonymous or public",
-        "open the pdf",
-        "pdf in acrobat",
-        "select copy link",
-        "files accessible",
-        "select share",
         "makes the files",
-        "cloud",
-        "synced"
+        "files accessible",
+        "clicks the link",
+        "follow"
       ],
       "sentences": [
         "An anonymous or public link makes the files accessible to anyone who clicks the link.",
-        "Follow the steps below to create a review link, and share it using your email client.",
-        "1.   Open the PDF in Acrobat.",
-        "2.   Select  Share  in the upper right.",
-        "You get either of the two options: Get link : You get this option when a file isn't synced to the cloud.",
-        "Select  Get link  to sync the file to the cloud.",
-        "Once the file is synced, the get link option changes to  Copy link .",
-        "Select  Copy link  and share it as desired.",
-        "Copy link : You get this option if the file is already synced to the cloud or shared with someone."
+        "Follow"
       ],
       "semantic": {
         "tokens": [
@@ -2160,14 +2356,51 @@
           "accessible",
           "clicks",
           "link",
-          "Follow",
-          "steps",
-          "create",
-          "review",
+          "Follow"
+        ],
+        "nouns": [
           "link",
-          "share",
-          "email",
-          "client",
+          "file"
+        ],
+        "verbs": [
+          "click",
+          "follow",
+          "make"
+        ],
+        "lemmas": [
+          "anonymous",
+          "make",
+          "file",
+          "click",
+          "public",
+          "accessible",
+          "follow",
+          "link"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "the steps below to create a review link, and share it using your email client.",
+      "page": 10,
+      "paragraphs": [
+        "1.   Open the PDF in Acrobat.",
+        "2.   Select  Share  in the upper right. You get either of the two options:"
+      ],
+      "keywords": [
+        "pdf in acrobat",
+        "open the pdf",
+        "select share",
+        "ptions",
+        "upper"
+      ],
+      "sentences": [
+        "1.   Open the PDF in Acrobat.",
+        "2.   Select  Share  in the upper right.",
+        "You get either of the two options:"
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Open",
           "PDF",
@@ -2177,7 +2410,58 @@
           "Share",
           "upper",
           "right",
-          "options",
+          "options"
+        ],
+        "nouns": [
+          "right",
+          "share",
+          "option"
+        ],
+        "verbs": [
+          "open"
+        ],
+        "lemmas": [
+          "right",
+          "share",
+          "PDF",
+          "open",
+          "option",
+          "1",
+          "2",
+          "Select",
+          "upper",
+          "Acrobat"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 11,
+      "paragraphs": [
+        "Get link : You get this option when a file isn't synced to the cloud. Select  Get",
+        "link  to sync the file to the cloud. Once the file is synced, the get link option",
+        "changes to  Copy link . Select  Copy link  and share it as desired."
+      ],
+      "keywords": [
+        "select copy link",
+        "cloud",
+        "link option",
+        "sync the file",
+        "select get link",
+        "file is synced",
+        "desired",
+        "link to sync",
+        "link and share"
+      ],
+      "sentences": [
+        "Get link : You get this option when a file isn't synced to the cloud.",
+        "Select  Get link  to sync the file to the cloud.",
+        "Once the file is synced, the get link option changes to  Copy link .",
+        "Select  Copy link  and share it as desired."
+      ],
+      "semantic": {
+        "tokens": [
           "link",
           "option",
           "file",
@@ -2199,7 +2483,56 @@
           "Copy",
           "link",
           "share",
-          "desired",
+          "desired"
+        ],
+        "nouns": [
+          "option",
+          "change",
+          "file",
+          "cloud",
+          "link"
+        ],
+        "verbs": [
+          "share",
+          "sync",
+          "desire",
+          "copy"
+        ],
+        "lemmas": [
+          "share",
+          "option",
+          "change",
+          "sync",
+          "Copy",
+          "file",
+          "desire",
+          "Select",
+          "cloud",
+          "copy",
+          "link"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 11,
+      "paragraphs": [
+        "Copy link : You get this option if the file is already synced to the cloud or shared",
+        "with someone."
+      ],
+      "keywords": [
+        "copy link",
+        "cloud or shared",
+        "ption",
+        "file",
+        "synced"
+      ],
+      "sentences": [
+        "Copy link : You get this option if the file is already synced to the cloud or shared with someone."
+      ],
+      "semantic": {
+        "tokens": [
           "Copy",
           "link",
           "option",
@@ -2209,70 +2542,35 @@
           "shared"
         ],
         "nouns": [
-          "cloud",
-          "email",
-          "link",
-          "file",
-          "review",
-          "right",
           "option",
-          "change",
+          "file",
+          "cloud",
           "copy",
-          "step",
-          "client"
+          "link"
         ],
         "verbs": [
-          "desire",
-          "open",
-          "click",
-          "create",
           "share",
-          "sync",
-          "make",
-          "follow"
+          "sync"
         ],
         "lemmas": [
-          "1",
-          "Share",
-          "sync",
-          "open",
-          "client",
-          "change",
-          "desire",
-          "Copy",
-          "link",
-          "create",
-          "Select",
-          "right",
-          "upper",
-          "anonymous",
-          "make",
-          "cloud",
-          "Acrobat",
-          "review",
           "share",
-          "copy",
-          "accessible",
-          "follow",
-          "public",
-          "email",
-          "click",
-          "PDF",
-          "file",
-          "2",
           "option",
-          "step"
+          "sync",
+          "file",
+          "cloud",
+          "copy",
+          "link"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H2",
       "text": "Note:",
       "page": 11,
       "paragraphs": [
-        "\u2022",
+        "-",
         "The computer must be connected to the Internet to start a shared review in Acrobat.",
-        "\u2022",
+        "-",
         "You can also start a shared review directly from other applications that use PDFMaker,",
         "such as Microsoft Word. Choose  Home  >  Create PDF and share link .",
         "3.   By default, the  People can comment  switch is turned on. To share the file only for",
@@ -2280,10 +2578,10 @@
         "switch the toggle next to  People can comment  to turn it off.",
         "4.   The link is created and copied by default. Share the link with other recipients. You can",
         "also perform any of the following actions from the right pane:",
-        "\u2022",
+        "-",
         "Add People:  Select  Share , then enter the email addresses of the people you",
         "want to share the file with.",
-        "\u2022",
+        "-",
         "Unshare File:  Select  Share.  The profile icons of the people you have shared the",
         "file with are displayed next to  Shared with . Select the profile icon to open the",
         "Shared with the dialog box. Select  Unshare  in the lower-right to stop sharing",
@@ -2411,111 +2709,114 @@
           "file"
         ],
         "nouns": [
-          "icon",
-          "default",
-          "box",
           "internet",
-          "application",
-          "link",
-          "computer",
-          "right",
-          "address",
-          "comment",
-          "dialog",
           "review",
-          "share",
-          "switch",
-          "people",
           "recipient",
           "pane",
-          "email",
+          "unshare",
+          "address",
+          "toggle",
+          "application",
           "profile",
+          "people",
+          "computer",
+          "share",
+          "icon",
           "action",
+          "comment",
+          "email",
           "People",
+          "switch",
+          "right",
+          "default",
           "file",
-          "toggle"
+          "dialog",
+          "link",
+          "box"
         ],
         "verbs": [
-          "open",
-          "view",
-          "create",
           "enter",
-          "perform",
+          "use",
+          "create",
+          "want",
+          "choose",
           "add",
-          "comment",
           "turn",
-          "display",
-          "start",
           "share",
-          "switch",
-          "copy",
-          "stop",
-          "follow",
+          "open",
+          "comment",
+          "perform",
           "access",
+          "view",
+          "stop",
+          "display",
+          "follow",
+          "switch",
           "select",
           "connect",
-          "use",
-          "want"
+          "start",
+          "copy"
         ],
         "lemmas": [
-          "Home",
-          "icon",
-          "default",
-          "Share",
-          "box",
-          "Unshare",
           "internet",
-          "application",
-          "want",
-          "directly",
-          "choose",
-          "open",
-          "view",
-          "4",
-          "File",
-          "link",
-          "computer",
-          "create",
-          "enter",
-          "Select",
-          "perform",
-          "right",
-          ">",
-          "add",
-          "Word",
-          "address",
-          "comment",
-          "turn",
-          "dialog",
-          "display",
-          "Acrobat",
-          "start",
-          "Microsoft",
           "review",
-          "share",
-          "switch",
-          "copy",
-          "people",
-          "PDFMaker",
+          "Home",
           "recipient",
-          "stop",
-          "follow",
+          "enter",
+          "Unshare",
           "pane",
+          "use",
+          "unshare",
+          "create",
+          ">",
+          "address",
+          "toggle",
+          "application",
+          "Share",
+          "want",
+          "people",
+          "profile",
+          "File",
+          "computer",
+          "choose",
+          "3",
+          "add",
+          "turn",
+          "copy",
+          "share",
+          "icon",
+          "action",
+          "open",
+          "comment",
+          "perform",
           "access",
+          "view",
+          "stop",
+          "display",
+          "Select",
+          "PDFMaker",
+          "4",
+          "Acrobat",
+          "follow",
           "email",
+          "People",
+          "switch",
+          "right",
+          "select",
+          "PDF",
           "Shared",
           "lower",
-          "profile",
-          "select",
-          "action",
-          "People",
-          "PDF",
           "connect",
+          "directly",
+          "Microsoft",
+          "default",
           "file",
+          "Word",
+          "dialog",
           "shared",
-          "use",
-          "3",
-          "toggle"
+          "start",
+          "link",
+          "box"
         ]
       }
     },
@@ -2524,28 +2825,19 @@
       "text": "Reviewer experience",
       "page": 11,
       "paragraphs": [
-        "The reviewers receive an email invitation with a link to the review PDF. When they select the",
-        "link or the  Open  button in the invitation, the PDF opens in a web browser. They can use the",
-        "commenting tools to add comments to the PDF. They can also use Acrobat Reader or",
-        "Acrobat desktop applications to add comments."
+        "The reviewers receive an email invitation with a link to the review PDF. When they select the"
       ],
       "keywords": [
         "review pdf",
         "reviewers receive",
         "receive an email",
-        "pdf opens",
         "email invitation",
-        "add comments",
-        "acrobat reader",
-        "open button",
-        "acrobat desktop applications",
-        "web browser"
+        "link",
+        "select"
       ],
       "sentences": [
         "The reviewers receive an email invitation with a link to the review PDF.",
-        "When they select the link or the  Open  button in the invitation, the PDF opens in a web browser.",
-        "They can use the commenting tools to add comments to the PDF.",
-        "They can also use Acrobat Reader or Acrobat desktop applications to add comments."
+        "When they select the"
       ],
       "semantic": {
         "tokens": [
@@ -2556,16 +2848,55 @@
           "link",
           "review",
           "PDF",
-          "select",
-          "link",
-          "Open",
-          "button",
+          "select"
+        ],
+        "nouns": [
+          "review",
           "invitation",
+          "reviewer",
+          "link",
+          "email"
+        ],
+        "verbs": [
+          "select",
+          "receive"
+        ],
+        "lemmas": [
+          "invitation",
+          "review",
+          "select",
           "PDF",
-          "opens",
-          "web",
-          "browser",
-          "use",
+          "reviewer",
+          "link",
+          "email",
+          "receive"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "link or the  Open  button in the invitation, the PDF opens in a web browser. They can use the",
+      "page": 11,
+      "paragraphs": [
+        "commenting tools to add comments to the PDF. They can also use Acrobat Reader or",
+        "Acrobat desktop applications to add comments."
+      ],
+      "keywords": [
+        "commenting tools",
+        "add comments",
+        "tools to add",
+        "pdf",
+        "acrobat reader",
+        "acrobat desktop applications",
+        "applications to add",
+        "reader or acrobat"
+      ],
+      "sentences": [
+        "commenting tools to add comments to the PDF.",
+        "They can also use Acrobat Reader or Acrobat desktop applications to add comments."
+      ],
+      "semantic": {
+        "tokens": [
           "commenting",
           "tools",
           "add",
@@ -2581,48 +2912,26 @@
           "comments"
         ],
         "nouns": [
-          "email",
-          "button",
-          "link",
           "tool",
-          "application",
-          "review",
-          "invitation",
-          "reviewer",
-          "desktop",
-          "web",
           "comment",
-          "browser"
+          "application",
+          "desktop"
         ],
         "verbs": [
-          "select",
-          "use",
           "add",
-          "receive",
-          "open",
-          "comment"
+          "comment",
+          "use"
         ],
         "lemmas": [
           "application",
-          "desktop",
-          "open",
-          "link",
-          "add",
-          "receive",
-          "comment",
-          "browser",
-          "Acrobat",
-          "button",
-          "tool",
-          "review",
-          "invitation",
-          "reviewer",
-          "web",
-          "email",
-          "Reader",
-          "select",
           "PDF",
-          "use"
+          "comment",
+          "use",
+          "add",
+          "tool",
+          "Reader",
+          "desktop",
+          "Acrobat"
         ]
       }
     },
@@ -2631,74 +2940,71 @@
       "text": "Send personalized invitations for commenting",
       "page": 11,
       "paragraphs": [
-        "1.   Open the PDF in Acrobat."
+        "1.   Open the PDF in Acrobat.",
+        "2.   Select  Share ."
       ],
       "keywords": [
         "pdf in acrobat",
+        "select share",
         "open the pdf"
       ],
       "sentences": [
-        "1.   Open the PDF in Acrobat."
+        "1.   Open the PDF in Acrobat.",
+        "2.   Select  Share ."
       ],
       "semantic": {
         "tokens": [
           "1",
           "Open",
           "PDF",
-          "Acrobat"
+          "Acrobat",
+          "2",
+          "Select",
+          "Share"
         ],
         "nouns": [],
         "verbs": [
+          "select",
           "open"
         ],
         "lemmas": [
-          "open",
+          "Share",
+          "select",
           "PDF",
-          "Acrobat",
-          "1"
+          "open",
+          "1",
+          "2",
+          "Acrobat"
         ]
       }
     },
     {
-      "level": "H1",
-      "text": "2.   Select  Share .",
-      "page": 11,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
+      "level": "H2",
       "text": "Note:",
       "page": 11,
       "paragraphs": [
-        "\u2022",
+        "-",
         "The computer must be connected to the Internet to start a shared review in Acrobat.",
-        "\u2022",
+        "-",
         "You can also start a shared review directly from other applications that use PDFMaker,",
-        "such as Microsoft Word. Choose  Acrobat  >  Create And Send For Review .",
-        "3.   Enter the email addresses of the recipients or choose from the Address Book.",
-        "4.   Enter a message to the recipients (optional)."
+        "such as Microsoft Word. Choose  Acrobat  >  Create And Send For Review ."
       ],
       "keywords": [
         "start a shared",
-        "shared review directly",
         "microsoft word",
         "internet to start",
+        "shared review directly",
         "create and send",
-        "address book",
         "choose acrobat",
-        "review in acrobat",
         "computer",
-        "connected"
+        "connected",
+        "review in acrobat",
+        "send for review"
       ],
       "sentences": [
         "The computer must be connected to the Internet to start a shared review in Acrobat.",
         "You can also start a shared review directly from other applications that use PDFMaker, such as Microsoft Word.",
-        "Choose  Acrobat  >  Create And Send For Review .",
-        "3.   Enter the email addresses of the recipients or choose from the Address Book.",
-        "4.   Enter a message to the recipients (optional)."
+        "Choose  Acrobat  >  Create And Send For Review ."
       ],
       "semantic": {
         "tokens": [
@@ -2723,15 +3029,61 @@
           ">",
           "Create",
           "Send",
-          "Review",
-          "3",
-          "Enter",
-          "email",
-          "addresses",
-          "recipients",
+          "Review"
+        ],
+        "nouns": [
+          "computer",
+          "review",
+          "application",
+          "internet"
+        ],
+        "verbs": [
+          "connect",
+          "use",
           "choose",
-          "Address",
-          "Book",
+          "create",
+          "start",
+          "send"
+        ],
+        "lemmas": [
+          "internet",
+          "review",
+          "application",
+          "Review",
+          "connect",
+          "directly",
+          "use",
+          "Microsoft",
+          "computer",
+          "choose",
+          "Word",
+          "PDFMaker",
+          "shared",
+          "Acrobat",
+          "create",
+          ">",
+          "start",
+          "send"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "3.   Enter the email addresses of the recipients or choose from the Address Book.",
+      "page": 12,
+      "paragraphs": [
+        "4.   Enter a message to the recipients (optional)."
+      ],
+      "keywords": [
+        "ptional",
+        "enter a message",
+        "recipients"
+      ],
+      "sentences": [
+        "4.   Enter a message to the recipients (optional)."
+      ],
+      "semantic": {
+        "tokens": [
           "4",
           "Enter",
           "message",
@@ -2739,53 +3091,18 @@
           "optional"
         ],
         "nouns": [
-          "email",
           "message",
-          "internet",
-          "application",
-          "review",
-          "computer",
-          "recipient",
-          "address"
+          "recipient"
         ],
         "verbs": [
-          "start",
-          "send",
-          "connect",
-          "create",
-          "enter",
-          "use",
-          "choose"
+          "enter"
         ],
         "lemmas": [
-          "message",
-          "send",
-          "internet",
-          "application",
-          "Book",
-          "directly",
-          "choose",
-          "Address",
-          "4",
-          "computer",
-          "create",
-          "enter",
           "optional",
-          ">",
-          "Word",
-          "address",
-          "Acrobat",
-          "start",
-          "Microsoft",
-          "review",
-          "PDFMaker",
+          "message",
           "recipient",
-          "email",
-          "Review",
-          "connect",
-          "shared",
-          "use",
-          "3"
+          "enter",
+          "4"
         ]
       }
     },
@@ -2796,26 +3113,25 @@
       "paragraphs": [
         "Use @mention in your personal commenting notes to start a review. The @mentions includes",
         "your organizational contacts and your synced personal contacts list. The moment you use",
-        "@mention in a PDF file, the review mode gets enabled for you. The reviewers get an invitation",
-        "email with a link to the Document Cloud shared review file."
+        "@mention in a PDF file, the review mode gets enabled for you. The reviewers get an invitation"
       ],
       "keywords": [
         "personal commenting notes",
         "notes to start",
         "personal contacts list",
-        "synced personal contacts",
         "mentions includes",
-        "document cloud shared",
+        "synced personal contacts",
         "pdf file",
-        "cloud shared review",
-        "shared review file",
-        "start a review"
+        "start a review",
+        "includes your organizational",
+        "rganizational contacts",
+        "review mode"
       ],
       "sentences": [
         "Use @mention in your personal commenting notes to start a review.",
         "The @mentions includes your organizational contacts and your synced personal contacts list.",
         "The moment you use @mention in a PDF file, the review mode gets enabled for you.",
-        "The reviewers get an invitation email with a link to the Document Cloud shared review file."
+        "The reviewers get an invitation"
       ],
       "semantic": {
         "tokens": [
@@ -2844,95 +3160,80 @@
           "gets",
           "enabled",
           "reviewers",
-          "invitation",
-          "email",
-          "link",
-          "Document",
-          "Cloud",
-          "shared",
-          "review",
-          "file"
+          "invitation"
         ],
         "nouns": [
+          "review",
+          "invitation",
           "note",
-          "email",
-          "moment",
           "list",
-          "link",
-          "contact",
           "mode",
           "file",
-          "review",
+          "reviewer",
           "@mention",
-          "invitation",
-          "reviewer"
+          "contact",
+          "moment"
         ],
         "verbs": [
-          "start",
           "enable",
           "include",
-          "share",
+          "comment",
           "use",
-          "comment"
+          "start"
         ],
         "lemmas": [
-          "synced",
-          "Document",
-          "link",
-          "contact",
-          "include",
-          "get",
-          "comment",
-          "start",
-          "moment",
-          "mode",
-          "review",
-          "share",
-          "Use",
-          "invitation",
-          "reviewer",
-          "Cloud",
-          "personal",
-          "note",
-          "@mentions",
-          "email",
-          "list",
-          "PDF",
-          "file",
           "organizational",
-          "@mention",
+          "review",
+          "use",
+          "get",
+          "personal",
           "enable",
-          "use"
+          "note",
+          "comment",
+          "reviewer",
+          "@mention",
+          "contact",
+          "moment",
+          "invitation",
+          "Use",
+          "PDF",
+          "include",
+          "list",
+          "synced",
+          "mode",
+          "@mentions",
+          "file",
+          "start"
         ]
       }
+    },
+    {
+      "level": "H3",
+      "text": "email with a link to the Document Cloud shared review file.",
+      "page": 12,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
       "text": "Reviewer experience",
       "page": 12,
       "paragraphs": [
-        "The reviewers receive an email invitation with a link to the review PDF. When they click the",
-        "link or the  Open  button in the invitation, the PDF opens in a web browser. They can use the",
-        "commenting tools to add comments to the PDF. They can also use Acrobat Reader or",
-        "Acrobat desktop applications to add comments."
+        "The reviewers receive an email invitation with a link to the review PDF. When they click the"
       ],
       "keywords": [
         "review pdf",
         "reviewers receive",
         "receive an email",
-        "pdf opens",
         "email invitation",
-        "add comments",
-        "acrobat reader",
-        "open button",
-        "acrobat desktop applications",
-        "web browser"
+        "link",
+        "click"
       ],
       "sentences": [
         "The reviewers receive an email invitation with a link to the review PDF.",
-        "When they click the link or the  Open  button in the invitation, the PDF opens in a web browser.",
-        "They can use the commenting tools to add comments to the PDF.",
-        "They can also use Acrobat Reader or Acrobat desktop applications to add comments."
+        "When they click the"
       ],
       "semantic": {
         "tokens": [
@@ -2943,16 +3244,55 @@
           "link",
           "review",
           "PDF",
-          "click",
-          "link",
-          "Open",
-          "button",
+          "click"
+        ],
+        "nouns": [
+          "review",
           "invitation",
+          "reviewer",
+          "link",
+          "email"
+        ],
+        "verbs": [
+          "click",
+          "receive"
+        ],
+        "lemmas": [
+          "invitation",
+          "review",
           "PDF",
-          "opens",
-          "web",
-          "browser",
-          "use",
+          "click",
+          "reviewer",
+          "link",
+          "email",
+          "receive"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "link or the  Open  button in the invitation, the PDF opens in a web browser. They can use the",
+      "page": 12,
+      "paragraphs": [
+        "commenting tools to add comments to the PDF. They can also use Acrobat Reader or",
+        "Acrobat desktop applications to add comments."
+      ],
+      "keywords": [
+        "commenting tools",
+        "add comments",
+        "tools to add",
+        "pdf",
+        "acrobat reader",
+        "acrobat desktop applications",
+        "applications to add",
+        "reader or acrobat"
+      ],
+      "sentences": [
+        "commenting tools to add comments to the PDF.",
+        "They can also use Acrobat Reader or Acrobat desktop applications to add comments."
+      ],
+      "semantic": {
+        "tokens": [
           "commenting",
           "tools",
           "add",
@@ -2968,48 +3308,26 @@
           "comments"
         ],
         "nouns": [
-          "email",
-          "button",
-          "link",
           "tool",
-          "application",
-          "review",
-          "invitation",
-          "reviewer",
-          "desktop",
-          "web",
           "comment",
-          "browser"
+          "application",
+          "desktop"
         ],
         "verbs": [
-          "click",
-          "use",
           "add",
-          "receive",
-          "open",
-          "comment"
+          "comment",
+          "use"
         ],
         "lemmas": [
           "application",
-          "desktop",
-          "open",
-          "link",
-          "add",
-          "receive",
-          "comment",
-          "browser",
-          "Acrobat",
-          "button",
-          "tool",
-          "review",
-          "invitation",
-          "reviewer",
-          "web",
-          "email",
-          "Reader",
-          "click",
           "PDF",
-          "use"
+          "comment",
+          "use",
+          "add",
+          "tool",
+          "Reader",
+          "desktop",
+          "Acrobat"
         ]
       }
     },
@@ -3096,68 +3414,68 @@
           "server"
         ],
         "nouns": [
+          "interval",
+          "subsite",
+          "review",
           "participant",
+          "recipient",
+          "firewall",
+          "comment",
+          "change",
           "workspace",
           "access",
-          "form",
-          "firewall",
-          "review",
-          "subsite",
-          "interval",
-          "repository",
-          "change",
+          "location",
           "reviewer",
-          "recipient",
+          "form",
           "server",
-          "comment",
-          "location"
+          "repository"
         ],
         "verbs": [
-          "work",
-          "store",
-          "synchronize",
-          "download",
-          "reply",
-          "use",
           "read",
+          "synchronize",
+          "notify",
+          "use",
+          "reply",
+          "download",
           "add",
-          "notify"
+          "work",
+          "store"
         ],
         "lemmas": [
-          "workspace",
-          "new",
           "subsite",
-          "interval",
-          "common",
-          "change",
-          "location",
-          "participant",
-          "late",
-          "store",
-          "synchronize",
-          "download",
-          "repository",
-          "read",
-          "add",
-          "server",
-          "comment",
-          "work",
-          "Acrobat",
-          "form",
-          "Microsoft",
-          "collaborative",
-          "SharePoint",
           "review",
-          "reviewer",
-          "recipient",
           "internal",
-          "notify",
-          "access",
-          "firewall",
-          "reply",
-          "shared",
+          "recipient",
           "use",
-          "regular"
+          "location",
+          "late",
+          "form",
+          "repository",
+          "firewall",
+          "collaborative",
+          "add",
+          "work",
+          "new",
+          "interval",
+          "SharePoint",
+          "comment",
+          "change",
+          "access",
+          "reviewer",
+          "reply",
+          "download",
+          "regular",
+          "Acrobat",
+          "store",
+          "common",
+          "participant",
+          "read",
+          "synchronize",
+          "notify",
+          "Microsoft",
+          "workspace",
+          "shared",
+          "server"
         ]
       }
     },
@@ -3175,12 +3493,58 @@
       "text": "using Acrobat",
       "page": 14,
       "paragraphs": [
-        "Before you initiate a review, ensure that you have a SharePoint site and reviewers have write",
-        "permission to your site. Now, to host the shared review, you can do one of the following:",
-        "\u2022",
+        "Before you initiate a review, ensure that you have a SharePoint site and reviewers have write"
+      ],
+      "keywords": [
+        "initiate a review",
+        "reviewers have write",
+        "sharepoint site",
+        "site and reviewers",
+        "ensure"
+      ],
+      "sentences": [
+        "Before you initiate a review, ensure that you have a SharePoint site and reviewers have write"
+      ],
+      "semantic": {
+        "tokens": [
+          "initiate",
+          "review",
+          "ensure",
+          "SharePoint",
+          "site",
+          "reviewers",
+          "write"
+        ],
+        "nouns": [
+          "site",
+          "review",
+          "reviewer"
+        ],
+        "verbs": [
+          "write",
+          "initiate",
+          "ensure"
+        ],
+        "lemmas": [
+          "write",
+          "initiate",
+          "review",
+          "ensure",
+          "SharePoint",
+          "site",
+          "reviewer"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "permission to your site. Now, to host the shared review, you can do one of the following:",
+      "page": 14,
+      "paragraphs": [
+        "-",
         "Let Acrobat automatically create and configure a document library within your SharePoint",
-        "server\u2019s subsite.",
-        "\u2022",
+        "server's subsite.",
+        "-",
         "Choose a subsite and the respective document library that you may have already created and",
         "configured.",
         "1.   Open the PDF document in Acrobat, and then select  Send for Review  in",
@@ -3195,28 +3559,27 @@
         "Note:   If you don't want Acrobat to automatically configure the review, you can",
         "click  Choose a subsite  to select the document library that you have already created and",
         "configured.",
-        "5.   Choose distribution method and the way the file should appear when it\u2019s sent, and",
+        "5.   Choose distribution method and the way the file should appear when it's sent, and",
         "then click  Next .",
         "6.   To save this shared review profile for future use, provide a name and then",
         "click  Next , or click  Next  to use the default.",
-        "7.   Enter all your reviewers\u2019 email addresses, make appropriate change to the subject,",
+        "7.   Enter all your reviewers' email addresses, make appropriate change to the subject,",
         "message, and review deadline, and then click  Send ."
       ],
       "keywords": [
-        "document library",
         "select send",
-        "reviewers have write",
-        "write permission",
-        "sharepoint site",
-        "shared review",
-        "choose sharepoint subsite",
         "acrobat automatically create",
+        "open the pdf",
+        "choose sharepoint subsite",
+        "click send",
+        "respective document library",
+        "pdf document",
+        "shared review",
         "sharepoint server",
-        "site and reviewers"
+        "click choose"
       ],
       "sentences": [
-        "Before you initiate a review, ensure that you have a SharePoint site and reviewers have write permission to your site.",
-        "Now, to host the shared review, you can do one of the following: Let Acrobat automatically create and configure a document library within your SharePoint server\u2019s subsite.",
+        "Let Acrobat automatically create and configure a document library within your SharePoint server's subsite.",
         "Choose a subsite and the respective document library that you may have already created and configured.",
         "1.   Open the PDF document in Acrobat, and then select  Send for Review  in the  Tools  pane.",
         "2.   Select  Send for Shared Commenting  in the toolbar.",
@@ -3225,25 +3588,12 @@
         "Click  Next .",
         "Acrobat automatically creates and configures a new document library (named  AcrobatSharedReviews ) within your subsite to initiate the shared review.",
         "Note:   If you don't want Acrobat to automatically configure the review, you can click  Choose a subsite  to select the document library that you have already created and configured.",
-        "5.   Choose distribution method and the way the file should appear when it\u2019s sent, and then click  Next .",
+        "5.   Choose distribution method and the way the file should appear when it's sent, and then click  Next .",
         "To save this shared review profile for future use, provide a name and then click  Next , or click  Next  to use the default.",
-        "7.   Enter all your reviewers\u2019 email addresses, make appropriate change to the subject, message, and review deadline, and then click  Send ."
+        "7.   Enter all your reviewers' email addresses, make appropriate change to the subject, message, and review deadline, and then click  Send ."
       ],
       "semantic": {
         "tokens": [
-          "initiate",
-          "review",
-          "ensure",
-          "SharePoint",
-          "site",
-          "reviewers",
-          "write",
-          "permission",
-          "site",
-          "host",
-          "shared",
-          "review",
-          "following",
           "Let",
           "Acrobat",
           "automatically",
@@ -3360,134 +3710,121 @@
           "Send"
         ],
         "nouns": [
-          "message",
-          "deadline",
-          "default",
-          "subject",
           "subsite",
-          "toolbar",
-          "change",
-          "site",
-          "document",
-          "server",
-          "comment",
-          "address",
-          "library",
-          "way",
-          "url",
+          "subject",
           "review",
-          "reviewer",
-          "method",
-          "permission",
-          "pane",
+          "message",
+          "library",
           "distribution",
+          "pane",
+          "use",
+          "way",
+          "address",
+          "deadline",
           "menu",
-          "note",
-          "email",
-          "following",
           "profile",
+          "document",
+          "note",
+          "comment",
+          "change",
+          "toolbar",
+          "reviewer",
+          "email",
+          "url",
           "file",
-          "use"
+          "default",
+          "method",
+          "server"
         ],
         "verbs": [
-          "send",
-          "name",
-          "choose",
-          "open",
-          "initiate",
-          "host",
-          "collect",
-          "create",
-          "enter",
-          "provide",
-          "configure",
-          "write",
           "review",
-          "share",
-          "save",
-          "let",
-          "drop",
-          "select",
-          "click",
-          "appear",
+          "enter",
           "use",
-          "ensure",
-          "want"
+          "create",
+          "appear",
+          "name",
+          "initiate",
+          "want",
+          "choose",
+          "send",
+          "share",
+          "provide",
+          "save",
+          "open",
+          "let",
+          "configure",
+          "select",
+          "collect",
+          "drop",
+          "click"
         ],
         "lemmas": [
-          "message",
-          "deadline",
-          "1",
-          "new",
-          "default",
-          "send",
-          "name",
           "subsite",
-          "want",
-          "6",
           "subject",
-          "toolbar",
-          "choose",
-          "open",
-          "initiate",
-          "change",
-          "host",
-          "4",
-          "future",
-          "site",
-          "collect",
-          "3",
-          "create",
-          "enter",
-          "Select",
-          "document",
-          "server",
-          "comment",
-          "provide",
-          "address",
-          "AcrobatSharedReviews",
-          "configure",
-          "appropriate",
-          "Acrobat",
-          "library",
-          "way",
-          "SharePoint",
-          "Tools",
-          "write",
-          "url",
+          "internal",
           "review",
+          "enter",
+          "message",
+          "library",
+          "distribution",
+          "pane",
+          "use",
+          "appropriate",
+          "create",
+          "way",
+          "address",
+          "appear",
+          "deadline",
+          "name",
+          "Commenting",
+          "menu",
+          "initiate",
+          "AcrobatSharedReviews",
+          "want",
+          "profile",
+          "2",
+          "choose",
+          "7",
+          "document",
+          "future",
+          "new",
+          "send",
           "share",
+          "provide",
           "save",
+          "open",
+          "note",
+          "SharePoint",
+          "comment",
+          "change",
+          "Tools",
+          "toolbar",
+          "1",
           "reviewer",
           "let",
-          "drop",
-          "method",
-          "respective",
-          "permission",
-          "pane",
-          "internal",
-          "distribution",
-          "menu",
-          "note",
-          "Shared",
-          "email",
-          "following",
-          "select",
-          "profile",
-          "Review",
-          "7",
-          "click",
-          "PDF",
+          "Select",
+          "4",
+          "Acrobat",
           "automatically",
+          "email",
+          "respective",
+          "configure",
+          "select",
+          "PDF",
+          "Review",
+          "Shared",
+          "collect",
+          "url",
+          "5",
+          "drop",
           "file",
-          "2",
-          "Send",
+          "default",
+          "click",
+          "method",
           "shared",
-          "appear",
-          "use",
-          "ensure",
-          "Commenting",
-          "5"
+          "server",
+          "3",
+          "6"
         ]
       }
     }

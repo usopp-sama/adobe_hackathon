@@ -1,7 +1,6 @@
 import json
 import time
 from pathlib import Path
-from datetime import datetime
 from sentence_transformers import SentenceTransformer, util
 import torch
 
@@ -9,14 +8,14 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 from pdf_processor_pipeline import extract_document_outline
 
 # ------------------------ Hardcoded Paths ------------------------
-INPUT_PATH = Path("/home/go4av05/adobe/Challenge_1b/Collection 2/challenge1b_input.json")
-OUTPUT_PATH = Path("/home/go4av05/adobe/Challenge_1b/Collection 2/challenge1b_output_me.json")
-PDF_JSON_DIR = Path("/home/go4av05/adobe/Challenge_1b/Collection 2/json_output")
-PDF_DIR = Path("/home/go4av05/adobe/Challenge_1b/Collection 2/PDFs")
+INPUT_PATH = Path("/home/go4av05/adobe/Challenge_1b/Collection 3/challenge1b_input.json")
+OUTPUT_PATH = Path("/home/go4av05/adobe/Challenge_1b/Collection 3/challenge1b_output_me.json")
+PDF_JSON_DIR = Path("/home/go4av05/adobe/Challenge_1b/Collection 3/json_output")
+PDF_DIR = Path("/home/go4av05/adobe/Challenge_1b/Collection 3/PDFs")
 
 PDF_JSON_DIR.mkdir(exist_ok=True)
 
-# ------------------------ Load Summarizer ------------------------
+# ------------------------ Load Summarization Model ------------------------
 print("🧠 Loading Flan-T5-small summarizer...")
 tsum = time.time()
 tokenizer = T5Tokenizer.from_pretrained("google/flan-t5-small")
@@ -126,7 +125,7 @@ def main():
     print(f"📌 Task: {task}")
     print(f"📁 PDFs: {pdf_files}")
 
-    # Step 1: Extract outlines
+    # Step 1: Extract outlines and store as JSON
     print("🛠️  Extracting document outlines from PDFs...")
     t0 = time.time()
     for pdf_file in pdf_files:
@@ -160,46 +159,16 @@ def main():
     print(f"✅ Total parsing time: {time.time() - t2:.2f} sec")
     print(f"🔍 Matching from {len(all_chunks)} extracted sections...")
 
-    # Step 4: Semantic Matching + Summarization
+    # Step 4: Semantic Search + Summarization
     t3 = time.time()
     top_matches = find_matches(task, all_chunks, model, top_k=10)
     print(f"📝 Total match + summarization time: {time.time() - t3:.2f} sec")
 
-    # Step 5: Format output for Challenge 1B
-    print("📦 Formatting output as per Challenge 1B schema...")
-    metadata = {
-        "input_documents": pdf_files,
-        "persona": "Travel Planner",
-        "job_to_be_done": task,
-        "processing_timestamp": datetime.now().isoformat()
-    }
-
-    extracted_sections = []
-    subsection_analysis = []
-
-    for i, match in enumerate(top_matches, 1):
-        extracted_sections.append({
-            "document": match["pdf_name"].replace(".json", ".pdf"),
-            "section_title": match["section_heading"],
-            "importance_rank": i,
-            "page_number": match["page"]
-        })
-        subsection_analysis.append({
-            "document": match["pdf_name"].replace(".json", ".pdf"),
-            "refined_text": match["semantic_summary"],
-            "page_number": match["page"]
-        })
-
-    final_output = {
-        "metadata": metadata,
-        "extracted_sections": extracted_sections,
-        "subsection_analysis": subsection_analysis
-    }
-
+    # Step 5: Write Output
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(final_output, f, indent=2)
+        json.dump({"task": task, "matches": top_matches}, f, indent=2)
 
-    print(f"✅ Final output saved to {OUTPUT_PATH}")
+    print(f"✅ Output saved to {OUTPUT_PATH}")
     print(f"⏱️  Total time: {time.time() - t_start:.2f} sec")
 
 if __name__ == "__main__":

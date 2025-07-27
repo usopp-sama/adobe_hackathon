@@ -5,13 +5,13 @@ import json
 import fitz  # PyMuPDF
 from pathlib import Path
 import time
-from Challenge_1a.pdf_processor_pipeline import extract_document_outline
+from pdf_processor_pipeline import extract_document_outline
 
 INPUT_DIR = Path("/app/input")
 OUTPUT_DIR = Path("/app/output")
 
 # INPUT_DIR = Path("Challenge_1a/sample_dataset/pdfs")
-# OUTPUT_DIR = Path("Challenge_1a/sample_dataset/outputs")
+# OUTPUT_DIR = Path("Challenge_1a/sample_dataset/outputs11")
 
 
 # ------------------------ Batch Processing ------------------------

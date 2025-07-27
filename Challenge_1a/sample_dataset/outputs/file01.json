@@ -3,10 +3,421 @@
   "toc": [],
   "outline": [
     {
-      "level": "H1",
-      "text": "S.No",
+      "level": "H3",
+      "text": "Application form for grant of LTC advance",
+      "page": 1,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "1.",
       "page": 1,
       "paragraphs": [
+        "Name of the Government Servant"
+      ],
+      "keywords": [
+        "government servant"
+      ],
+      "sentences": [
+        "Name of the Government Servant"
+      ],
+      "semantic": {
+        "tokens": [
+          "Government",
+          "Servant"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Government",
+          "Servant"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 1,
+      "paragraphs": [
+        "Designation"
+      ],
+      "keywords": [
+        "designation"
+      ],
+      "sentences": [
+        "Designation"
+      ],
+      "semantic": {
+        "tokens": [
+          "Designation"
+        ],
+        "nouns": [
+          "designation"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "designation"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 1,
+      "paragraphs": [
+        "Date of entering the Central Government",
+        "Service"
+      ],
+      "keywords": [
+        "central government service",
+        "entering the central",
+        "date of entering"
+      ],
+      "sentences": [
+        "Date of entering the Central Government Service"
+      ],
+      "semantic": {
+        "tokens": [
+          "Date",
+          "entering",
+          "Central",
+          "Government",
+          "Service"
+        ],
+        "nouns": [
+          "date"
+        ],
+        "verbs": [
+          "enter"
+        ],
+        "lemmas": [
+          "enter",
+          "Central",
+          "Government",
+          "Service",
+          "date"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 1,
+      "paragraphs": [
+        "PAY + SI + NPA"
+      ],
+      "keywords": [
+        "pay",
+        "npa"
+      ],
+      "sentences": [
+        "PAY + SI + NPA"
+      ],
+      "semantic": {
+        "tokens": [
+          "PAY",
+          "+",
+          "SI",
+          "+",
+          "NPA"
+        ],
+        "nouns": [
+          "pay"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "pay",
+          "NPA",
+          "+",
+          "SI"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "5.",
+      "page": 1,
+      "paragraphs": [
+        "Whether permanent or temporary"
+      ],
+      "keywords": [
+        "permanent or temporary"
+      ],
+      "sentences": [
+        "Whether permanent or temporary"
+      ],
+      "semantic": {
+        "tokens": [
+          "permanent",
+          "temporary"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "permanent",
+          "temporary"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "6.",
+      "page": 1,
+      "paragraphs": [
+        "Home Town as recorded in the Service Book"
+      ],
+      "keywords": [
+        "service book",
+        "home town",
+        "town as recorded"
+      ],
+      "sentences": [
+        "Home Town as recorded in the Service Book"
+      ],
+      "semantic": {
+        "tokens": [
+          "Home",
+          "Town",
+          "recorded",
+          "Service",
+          "Book"
+        ],
+        "nouns": [],
+        "verbs": [
+          "record"
+        ],
+        "lemmas": [
+          "Town",
+          "Book",
+          "record",
+          "Service",
+          "Home"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "7.",
+      "page": 1,
+      "paragraphs": [
+        "Whether wife / husband is employed and if",
+        "so whether entitled to LTC"
+      ],
+      "keywords": [
+        "entitled to ltc",
+        "husband is employed",
+        "wife"
+      ],
+      "sentences": [
+        "Whether wife / husband is employed and if so whether entitled to LTC"
+      ],
+      "semantic": {
+        "tokens": [
+          "wife",
+          "husband",
+          "employed",
+          "entitled",
+          "LTC"
+        ],
+        "nouns": [
+          "husband",
+          "wife"
+        ],
+        "verbs": [
+          "entitle",
+          "employ"
+        ],
+        "lemmas": [
+          "employ",
+          "husband",
+          "LTC",
+          "entitle",
+          "wife"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "8.",
+      "page": 1,
+      "paragraphs": [
+        "Whether the concession is to be availed for",
+        "visiting home town and if so block for which",
+        "LTC is to be availed."
+      ],
+      "keywords": [
+        "visiting home town",
+        "availed for visiting",
+        "ltc",
+        "concession",
+        "block"
+      ],
+      "sentences": [
+        "Whether the concession is to be availed for visiting home town and if so block for which LTC is to be availed."
+      ],
+      "semantic": {
+        "tokens": [
+          "concession",
+          "availed",
+          "visiting",
+          "home",
+          "town",
+          "block",
+          "LTC",
+          "availed"
+        ],
+        "nouns": [
+          "concession",
+          "home",
+          "town"
+        ],
+        "verbs": [
+          "visit",
+          "avail",
+          "block"
+        ],
+        "lemmas": [
+          "home",
+          "concession",
+          "block",
+          "visit",
+          "LTC",
+          "avail",
+          "town"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "9.",
+      "page": 1,
+      "paragraphs": [
+        "(a) If the concession is to visit anywhere in",
+        "India, the place to be visited.",
+        "(b) Block for which to be availed."
+      ],
+      "keywords": [
+        "india",
+        "visited",
+        "concession",
+        "place",
+        "block",
+        "availed"
+      ],
+      "sentences": [
+        "(a) If the concession is to visit anywhere in India, the place to be visited.",
+        "(b) Block for which to be availed."
+      ],
+      "semantic": {
+        "tokens": [
+          "concession",
+          "visit",
+          "India",
+          "place",
+          "visited",
+          "b",
+          "Block",
+          "availed"
+        ],
+        "nouns": [
+          "concession",
+          "block",
+          "place"
+        ],
+        "verbs": [
+          "avail",
+          "visit"
+        ],
+        "lemmas": [
+          "b",
+          "place",
+          "concession",
+          "avail",
+          "visit",
+          "block",
+          "India"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "10.",
+      "page": 1,
+      "paragraphs": [
+        "Single",
+        "rail",
+        "fare/bus",
+        "fare",
+        "from",
+        "the",
+        "headquarters to home town/place of visit by",
+        "shortest route."
+      ],
+      "keywords": [
+        "single rail fare",
+        "home town",
+        "place of visit",
+        "shortest route",
+        "bus fare",
+        "headquarters to home",
+        "visit by shortest",
+        "fare from headquarters"
+      ],
+      "sentences": [
+        "Single rail fare/bus fare from headquarters to home town/place of visit by shortest route."
+      ],
+      "semantic": {
+        "tokens": [
+          "Single",
+          "rail",
+          "fare",
+          "bus",
+          "fare",
+          "headquarters",
+          "home",
+          "town",
+          "place",
+          "visit",
+          "shortest",
+          "route"
+        ],
+        "nouns": [
+          "route",
+          "home",
+          "place",
+          "fare",
+          "visit",
+          "headquarters",
+          "bus",
+          "town",
+          "rail"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "route",
+          "home",
+          "place",
+          "fare",
+          "short",
+          "single",
+          "visit",
+          "headquarters",
+          "bus",
+          "town",
+          "rail"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "11.",
+      "page": 1,
+      "paragraphs": [
+        "Persons in respect of whom LTC is proposed to be availed.",
+        "S.No",
         "Name",
         "Age",
         "Relationship",
@@ -15,54 +426,118 @@
         "3.",
         "4.",
         "5.",
-        "6.",
-        "12.  Amount of advance required.",
-        "Rs.",
-        "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I",
-        "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
-        "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
-        "advance, I undertake to refund the entire advance in one lump sum."
+        "6."
       ],
       "keywords": [
-        "relationship",
-        "ten days",
-        "days of receipt",
-        "produce the tickets",
-        "advance required",
-        "undertake to produce",
-        "fail to produce",
-        "undertake to refund",
-        "entire advance",
-        "true and correct"
+        "ltc is proposed",
+        "persons in respect",
+        "s.no name relationship",
+        "availed"
       ],
       "sentences": [
-        "Name Relationship 12.",
-        "Amount of advance required.",
-        "I declare that the particulars furnished above are true and correct to the best of my knowledge.",
-        "I undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
-        "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of advance, I undertake to refund the entire advance in one lump sum."
+        "Persons in respect of whom LTC is proposed to be availed.",
+        "S.No Name Relationship"
       ],
       "semantic": {
         "tokens": [
+          "Persons",
+          "respect",
+          "LTC",
+          "proposed",
+          "availed",
+          "S.No",
+          "Relationship"
+        ],
+        "nouns": [
+          "respect",
+          "person"
+        ],
+        "verbs": [
+          "avail",
+          "propose"
+        ],
+        "lemmas": [
+          "propose",
+          "respect",
           "Relationship",
-          "12",
-          "advance",
-          "required",
+          "S.No",
+          "person",
+          "LTC",
+          "avail"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "12.  Amount of advance required.",
+      "page": 1,
+      "paragraphs": [
+        "Rs.",
+        "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I"
+      ],
+      "keywords": [
+        "true and correct",
+        "knowledge",
+        "declare",
+        "furnished"
+      ],
+      "sentences": [
+        "I declare that the particulars furnished above are true and correct to the best of my knowledge."
+      ],
+      "semantic": {
+        "tokens": [
           "declare",
           "particulars",
           "furnished",
           "true",
           "correct",
           "best",
+          "knowledge"
+        ],
+        "nouns": [
           "knowledge",
-          "undertake",
-          "produce",
-          "tickets",
-          "outward",
-          "journey",
-          "days",
-          "receipt",
-          "advance",
+          "particular"
+        ],
+        "verbs": [
+          "declare",
+          "furnish"
+        ],
+        "lemmas": [
+          "knowledge",
+          "true",
+          "declare",
+          "furnish",
+          "good",
+          "correct",
+          "particular"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+      "page": 1,
+      "paragraphs": [
+        "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+        "advance, I undertake to refund the entire advance in one lump sum."
+      ],
+      "keywords": [
+        "lump sum",
+        "event of cancellation",
+        "fail to produce",
+        "produce the tickets",
+        "tickets within ten",
+        "ten days",
+        "days of receipt",
+        "undertake to refund",
+        "refund the entire",
+        "entire advance"
+      ],
+      "sentences": [
+        "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of advance, I undertake to refund the entire advance in one lump sum."
+      ],
+      "semantic": {
+        "tokens": [
           "event",
           "cancellation",
           "journey",
@@ -80,58 +555,42 @@
           "sum"
         ],
         "nouns": [
-          "sum",
-          "knowledge",
+          "advance",
           "journey",
-          "lump",
+          "sum",
           "day",
+          "lump",
+          "cancellation",
           "ticket",
           "event",
-          "particular",
-          "receipt",
-          "advance",
-          "cancellation"
+          "receipt"
         ],
         "verbs": [
-          "declare",
-          "furnish",
+          "fail",
           "refund",
-          "require",
-          "undertake",
           "produce",
-          "fail"
+          "undertake"
         ],
         "lemmas": [
-          "entire",
-          "lump",
-          "furnish",
-          "correct",
-          "event",
-          "good",
-          "undertake",
           "advance",
-          "refund",
-          "true",
-          "12",
-          "sum",
-          "declare",
-          "particular",
-          "outward",
-          "cancellation",
-          "fail",
-          "knowledge",
           "journey",
+          "sum",
           "day",
+          "lump",
+          "cancellation",
           "ticket",
-          "require",
+          "fail",
+          "event",
           "receipt",
           "produce",
-          "Relationship"
+          "undertake",
+          "refund",
+          "entire"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Date",
       "page": 1,
       "paragraphs": [
@@ -155,8 +614,8 @@
         ],
         "verbs": [],
         "lemmas": [
-          "Servant",
           "signature",
+          "Servant",
           "Government"
         ]
       }

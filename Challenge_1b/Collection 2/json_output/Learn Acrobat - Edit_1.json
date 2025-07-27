@@ -37,46 +37,30 @@
       "level": "H1",
       "text": "Edit text in a PDF",
       "page": 2,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Open the PDF you want to edit in Acrobat, and then select  Edit  in the global bar.",
+      "page": 2,
       "paragraphs": [
-        "Open the PDF you want to edit in Acrobat, and then select  Edit  in the global bar.",
-        "The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a",
-        "scanned document, Acrobat automatically runs OCR to make the text and images editable.",
-        "The Edit panel includes options to modify the page, add content, redact a PDF, and convert",
-        "various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or",
-        "add text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment,",
-        "add superscripts or subscripts, and resize text or paragraphs."
+        "The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a"
       ],
       "keywords": [
-        "global bar",
-        "select edit",
         "edit panel displays",
-        "edit panel includes",
-        "open the pdf",
         "edit mode",
         "pdf switches",
-        "acrobat automatically runs",
-        "pdf forms",
-        "automatically runs ocr"
+        "pdf is generated"
       ],
       "sentences": [
-        "Open the PDF you want to edit in Acrobat, and then select  Edit  in the global bar.",
         "The PDF switches to the edit mode, and the Edit panel displays.",
-        "If the PDF is generated from a scanned document, Acrobat automatically runs OCR to make the text and images editable.",
-        "The Edit panel includes options to modify the page, add content, redact a PDF, and convert various documents to PDF forms.",
-        "You can use the options in the Edit panel to replace, edit, or add text to a PDF.",
-        "You can correct typos, change fonts and typeface size, adjust alignment, add superscripts or subscripts, and resize text or paragraphs."
+        "If the PDF is generated from a"
       ],
       "semantic": {
         "tokens": [
-          "Open",
-          "PDF",
-          "want",
-          "edit",
-          "Acrobat",
-          "select",
-          "Edit",
-          "global",
-          "bar",
           "PDF",
           "switches",
           "edit",
@@ -85,16 +69,59 @@
           "panel",
           "displays",
           "PDF",
-          "generated",
-          "scanned",
-          "document",
-          "Acrobat",
-          "automatically",
-          "runs",
-          "OCR",
-          "text",
-          "images",
-          "editable",
+          "generated"
+        ],
+        "nouns": [
+          "mode",
+          "display",
+          "edit",
+          "panel"
+        ],
+        "verbs": [
+          "switch",
+          "generate"
+        ],
+        "lemmas": [
+          "switch",
+          "PDF",
+          "panel",
+          "mode",
+          "generate",
+          "display",
+          "Edit",
+          "edit"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "scanned document, Acrobat automatically runs OCR to make the text and images editable.",
+      "page": 2,
+      "paragraphs": [
+        "The Edit panel includes options to modify the page, add content, redact a PDF, and convert",
+        "various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or",
+        "add text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment,",
+        "add superscripts or subscripts, and resize text or paragraphs."
+      ],
+      "keywords": [
+        "edit panel includes",
+        "panel includes options",
+        "pdf forms",
+        "modify the page",
+        "convert various documents",
+        "redact a pdf",
+        "add content",
+        "documents to pdf",
+        "ptions to modify",
+        "panel to replace"
+      ],
+      "sentences": [
+        "The Edit panel includes options to modify the page, add content, redact a PDF, and convert various documents to PDF forms.",
+        "You can use the options in the Edit panel to replace, edit, or add text to a PDF.",
+        "You can correct typos, change fonts and typeface size, adjust alignment, add superscripts or subscripts, and resize text or paragraphs."
+      ],
+      "semantic": {
+        "tokens": [
           "Edit",
           "panel",
           "includes",
@@ -134,94 +161,68 @@
           "paragraphs"
         ],
         "nouns": [
-          "bar",
-          "size",
-          "resize",
-          "typo",
-          "document",
-          "paragraph",
-          "display",
-          "font",
-          "subscript",
-          "edit",
           "alignment",
-          "form",
-          "mode",
-          "image",
           "panel",
-          "page",
-          "superscript",
-          "text",
-          "option",
           "content",
+          "option",
+          "pdf",
+          "typo",
+          "font",
+          "superscript",
           "typeface",
-          "pdf"
+          "subscript",
+          "size",
+          "form",
+          "page",
+          "paragraph",
+          "document",
+          "resize",
+          "edit",
+          "text"
         ],
         "verbs": [
-          "generate",
-          "add",
-          "convert",
+          "modify",
           "replace",
-          "edit",
-          "adjust",
-          "correct",
-          "switch",
-          "want",
           "include",
-          "use",
           "change",
-          "run",
-          "open",
           "redact",
-          "modify"
+          "convert",
+          "use",
+          "correct",
+          "adjust",
+          "add"
         ],
         "lemmas": [
-          "bar",
-          "replace",
-          "editable",
-          "size",
-          "run",
-          "resize",
-          "open",
-          "redact",
-          "change",
-          "OCR",
-          "typo",
-          "document",
-          "include",
-          "typeface",
-          "Edit",
-          "add",
           "modify",
-          "display",
-          "generate",
+          "replace",
+          "panel",
+          "pdf",
+          "typo",
           "font",
-          "paragraph",
-          "Acrobat",
-          "subscript",
+          "use",
+          "convert",
+          "typeface",
+          "form",
           "edit",
           "alignment",
-          "form",
-          "mode",
-          "switch",
-          "scanned",
-          "image",
-          "panel",
-          "page",
-          "superscript",
-          "convert",
-          "select",
-          "adjust",
-          "PDF",
-          "automatically",
-          "correct",
-          "global",
-          "text",
-          "option",
+          "redact",
+          "size",
           "content",
-          "use",
-          "want",
-          "pdf"
+          "add",
+          "document",
+          "change",
+          "superscript",
+          "correct",
+          "page",
+          "subscript",
+          "paragraph",
+          "resize",
+          "PDF",
+          "include",
+          "option",
+          "adjust",
+          "Edit",
+          "text"
         ]
       }
     },
@@ -236,44 +237,26 @@
         "Roman script fonts. The substitution of unavailable fonts by default fonts can introduce",
         "inconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a",
         "specific font for any text that is added or modified in the PDF document from Font",
-        "Options under Content Editing.",
-        "1.   From the hamburger menu",
-        "(Windows) or the Acrobat menu (macOS),",
-        "choose  Preferences . The Preferences dialog box is displayed.",
-        "(Alternatively, you can press  Ctrl+K  keys on Windows\u00ae or  Command+K  keys on",
-        "macOS.)",
-        "2.   In the dialog box, select  Content Editing  under Categories to display Font Options.",
-        "3.   Select an appropriate font in the drop-down lists:",
-        "1.   Fallback font for Editing.",
-        "2.   Default font for Add Text and Font Size.",
-        "4.   Select OK to save the changes and close the Preferences dialog box."
+        "Options under Content Editing."
       ],
       "keywords": [
-        "nearby font attributes",
-        "default fall-back font",
-        "select content editing",
         "acrobat chooses nearby",
         "default acrobat chooses",
-        "font options",
+        "nearby font attributes",
+        "default fall-back font",
+        "chooses nearby font",
         "pdf document",
-        "roman script fonts",
         "minion pr",
-        "chooses nearby font"
+        "roman script fonts",
+        "add text",
+        "content editing"
       ],
       "sentences": [
         "When you add text in a PDF, by default Acrobat chooses nearby font attributes for the new text.",
         "When you edit text, any font that isn't available on the system is substituted by a default fall-back font for the particular script.",
         "For example,  Minion Pro  is the default fall-back font for Roman script fonts.",
         "The substitution of unavailable fonts by default fonts can introduce inconsistency in the look and feel of text in a PDF document.",
-        "To avoid inconsistency, choose a specific font for any text that is added or modified in the PDF document from Font Options under Content Editing.",
-        "1.   From the hamburger menu (Windows) or the Acrobat menu (macOS), choose  Preferences .",
-        "The Preferences dialog box is displayed.",
-        "(Alternatively, you can press  Ctrl+K  keys on Windows\u00ae or  Command+K  keys on macOS.)",
-        "In the dialog box, select  Content Editing  under Categories to display Font Options.",
-        "3.   Select an appropriate font in the drop-down lists: 1.",
-        "Fallback font for Editing.",
-        "Default font for Add Text and Font Size.",
-        "4.   Select OK to save the changes and close the Preferences dialog box."
+        "To avoid inconsistency, choose a specific font for any text that is added or modified in the PDF document from Font Options under Content Editing."
       ],
       "semantic": {
         "tokens": [
@@ -333,10 +316,101 @@
           "Font",
           "Options",
           "Content",
+          "Editing"
+        ],
+        "nouns": [
+          "substitution",
+          "system",
+          "font",
+          "pdf",
+          "fall",
+          "example",
+          "default",
+          "inconsistency",
+          "attribute",
+          "script",
+          "document",
+          "look",
+          "text"
+        ],
+        "verbs": [
+          "modify",
+          "introduce",
+          "avoid",
+          "substitute",
+          "choose",
+          "feel",
+          "add",
+          "edit"
+        ],
+        "lemmas": [
+          "modify",
+          "nearby",
+          "pdf",
+          "font",
+          "example",
+          "introduce",
+          "substitute",
+          "script",
+          "specific",
+          "edit",
+          "system",
+          "Content",
+          "inconsistency",
+          "choose",
+          "attribute",
+          "Pro",
+          "add",
+          "unavailable",
+          "document",
+          "Font",
+          "new",
+          "particular",
           "Editing",
-          "1",
-          "hamburger",
-          "menu",
+          "Minion",
+          "available",
+          "feel",
+          "Options",
+          "Acrobat",
+          "roman",
+          "substitution",
+          "PDF",
+          "fall",
+          "default",
+          "avoid",
+          "look",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "1.   From the hamburger menu",
+      "page": 3,
+      "paragraphs": [
+        "(Windows) or the Acrobat menu (macOS),",
+        "choose  Preferences . The Preferences dialog box is displayed.",
+        "(Alternatively, you can press  Ctrl+K  keys on Windows or  Command+K  keys on",
+        "macOS.)"
+      ],
+      "keywords": [
+        "preferences dialog box",
+        "acrobat menu",
+        "choose preferences",
+        "box is displayed",
+        "alternatively",
+        "press ctrl",
+        "keys on windows",
+        "command",
+        "keys on macos"
+      ],
+      "sentences": [
+        "(Windows) or the Acrobat menu (macOS), choose  Preferences .",
+        "The Preferences dialog box is displayed.",
+        "(Alternatively, you can press  Ctrl+K  keys on Windows or  Command+K  keys on macOS.)"
+      ],
+      "semantic": {
+        "tokens": [
           "Windows",
           "Acrobat",
           "menu",
@@ -352,26 +426,77 @@
           "Ctrl+K",
           "keys",
           "Windows",
-          "\u00ae",
           "Command+K",
           "keys",
-          "macOS",
-          "2",
+          "macOS"
+        ],
+        "nouns": [
+          "menu",
           "dialog",
-          "box",
-          "select",
-          "Content",
-          "Editing",
-          "Categories",
+          "Ctrl+K",
+          "key",
+          "box"
+        ],
+        "verbs": [
           "display",
-          "Font",
-          "Options",
-          "3",
-          "Select",
-          "appropriate",
-          "font",
-          "drop",
-          "lists",
+          "choose",
+          "press"
+        ],
+        "lemmas": [
+          "Windows",
+          "Ctrl+K",
+          "key",
+          "menu",
+          "press",
+          "Preferences",
+          "display",
+          "choose",
+          "alternatively",
+          "command+k",
+          "dialog",
+          "macOS",
+          "Acrobat",
+          "box"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "2.   In the dialog box, select  Content Editing  under Categories to display Font Options.",
+      "page": 3,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "3.   Select an appropriate font in the drop-down lists:",
+      "page": 3,
+      "paragraphs": [
+        "1.   Fallback font for Editing.",
+        "2.   Default font for Add Text and Font Size.",
+        "4.   Select OK to save the changes and close the Preferences dialog box."
+      ],
+      "keywords": [
+        "add text",
+        "default font",
+        "font size",
+        "font for editing",
+        "fallback font",
+        "font for add",
+        "preferences dialog box",
+        "select",
+        "close the preferences",
+        "text and font"
+      ],
+      "sentences": [
+        "Fallback font for Editing.",
+        "Default font for Add Text and Font Size.",
+        "4.   Select OK to save the changes and close the Preferences dialog box."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Fallback",
           "font",
@@ -394,116 +519,37 @@
           "box"
         ],
         "nouns": [
-          "default",
-          "box",
-          "look",
-          "preference",
-          "change",
-          "document",
-          "\u00ae",
-          "system",
-          "example",
-          "dialog",
           "font",
-          "hamburger",
-          "substitution",
-          "Ctrl+K",
-          "key",
-          "inconsistency",
-          "attribute",
-          "menu",
-          "script",
-          "list",
-          "text",
-          "fall",
-          "pdf"
+          "change",
+          "dialog",
+          "box"
         ],
         "verbs": [
-          "display",
-          "avoid",
-          "substitute",
-          "edit",
-          "select",
-          "press",
-          "introduce",
           "fallback",
           "save",
-          "close",
-          "add",
-          "drop",
-          "feel",
-          "choose",
-          "modify"
+          "select",
+          "close"
         ],
         "lemmas": [
-          "substitute",
-          "Pro",
-          "new",
-          "1",
-          "nearby",
-          "default",
-          "box",
-          "Options",
-          "fallback",
-          "look",
-          "choose",
-          "preference",
-          "change",
-          "4",
-          "press",
-          "particular",
-          "appropriate",
-          "3",
           "Preferences",
-          "document",
-          "macOS",
-          "add",
-          "\u00ae",
-          "Editing",
-          "system",
-          "example",
-          "dialog",
-          "display",
           "font",
-          "avoid",
-          "substitution",
-          "Acrobat",
-          "Font",
-          "hamburger",
-          "alternatively",
-          "edit",
-          "Ctrl+K",
           "Text",
           "Add",
-          "Categories",
-          "introduce",
-          "available",
-          "ok",
-          "save",
-          "roman",
-          "Minion",
-          "feel",
-          "attribute",
-          "inconsistency",
-          "Windows",
-          "key",
-          "Content",
-          "drop",
-          "specific",
-          "menu",
-          "script",
-          "select",
-          "list",
-          "PDF",
-          "unavailable",
-          "2",
-          "Size",
-          "text",
-          "fall",
           "close",
-          "modify",
-          "command+k",
-          "pdf"
+          "2",
+          "Default",
+          "Font",
+          "Size",
+          "save",
+          "change",
+          "Editing",
+          "1",
+          "4",
+          "fallback",
+          "select",
+          "dialog",
+          "ok",
+          "box"
         ]
       }
     },
@@ -513,49 +559,22 @@
       "page": 4,
       "paragraphs": [
         "When you edit text, the text in the paragraph reflows within its text box to accommodate the",
-        "changes. Each text box is independent, and inserting text in one text block doesn\u2019t push down",
-        "an adjacent text box or reflow to the next page.",
-        "1.   Select  Edit  in the global bar.",
-        "2.   Select the text that you want to edit. The text-box turns blue upon selection, and a",
-        "rotation handle appears at the top of the selected text-box.",
-        "3.   Edit the text by doing one of the following:",
-        "1.   Type new text to replace the selected text, or press Delete to remove it.",
-        "2.   To rotate the text box, use the rotation handle at the top of the selected text",
-        "box.",
-        "3.   Manage list items using the list controls (bulleted and numbered) in the left",
-        "Format panel. You can create lists and, conversely, convert a list item to a",
-        "paragraph or change list types.",
-        "4.   Select a font, font size, or other formatting options in the left Format panel. You",
-        "can also try the advanced format options, such as line spacing, character",
-        "spacing, horizontal scaling, stroke width, and color.",
-        "4.   Select any area outside the selection to deselect it, and start over."
+        "changes. Each text box is independent, and inserting text in one text block doesn't push down"
       ],
       "keywords": [
-        "selected text box",
-        "adjacent text box",
-        "select edit",
+        "paragraph reflows",
+        "text box",
         "edit text",
-        "left format panel",
+        "box to accommodate",
         "inserting text",
         "text block",
-        "paragraph reflows",
-        "box to accommodate",
-        "rotation handle"
+        "box is independent",
+        "block does n't",
+        "n't push"
       ],
       "sentences": [
         "When you edit text, the text in the paragraph reflows within its text box to accommodate the changes.",
-        "Each text box is independent, and inserting text in one text block doesn\u2019t push down an adjacent text box or reflow to the next page.",
-        "1.   Select  Edit  in the global bar.",
-        "2.   Select the text that you want to edit.",
-        "The text-box turns blue upon selection, and a rotation handle appears at the top of the selected text-box.",
-        "3.   Edit the text by doing one of the following:",
-        "1.   Type new text to replace the selected text, or press Delete to remove it.",
-        "To rotate the text box, use the rotation handle at the top of the selected text box.",
-        "3.   Manage list items using the list controls (bulleted and numbered) in the left Format panel.",
-        "You can create lists and, conversely, convert a list item to a paragraph or change list types.",
-        "4.   Select a font, font size, or other formatting options in the left Format panel.",
-        "You can also try the advanced format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color.",
-        "4.   Select any area outside the selection to deselect it, and start over."
+        "Each text box is independent, and inserting text in one text block doesn't push down"
       ],
       "semantic": {
         "tokens": [
@@ -575,12 +594,84 @@
           "text",
           "text",
           "block",
-          "push",
-          "adjacent",
-          "text",
-          "box",
+          "push"
+        ],
+        "nouns": [
           "reflow",
-          "page",
+          "block",
+          "change",
+          "paragraph",
+          "text",
+          "box"
+        ],
+        "verbs": [
+          "push",
+          "insert",
+          "edit",
+          "accommodate"
+        ],
+        "lemmas": [
+          "reflow",
+          "insert",
+          "independent",
+          "accommodate",
+          "block",
+          "change",
+          "push",
+          "paragraph",
+          "edit",
+          "text",
+          "box"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "an adjacent text box or reflow to the next page.",
+      "page": 4,
+      "paragraphs": [
+        "1.   Select  Edit  in the global bar.",
+        "2.   Select the text that you want to edit. The text-box turns blue upon selection, and a",
+        "rotation handle appears at the top of the selected text-box.",
+        "3.   Edit the text by doing one of the following:",
+        "1.   Type new text to replace the selected text, or press Delete to remove it.",
+        "2.   To rotate the text box, use the rotation handle at the top of the selected text",
+        "box.",
+        "3.   Manage list items using the list controls (bulleted and numbered) in the left",
+        "Format panel. You can create lists and, conversely, convert a list item to a",
+        "paragraph or change list types.",
+        "4.   Select a font, font size, or other formatting options in the left Format panel. You",
+        "can also try the advanced format options, such as line spacing, character",
+        "spacing, horizontal scaling, stroke width, and color.",
+        "4.   Select any area outside the selection to deselect it, and start over."
+      ],
+      "keywords": [
+        "select edit",
+        "left format panel",
+        "selected text box",
+        "rotation handle",
+        "manage list items",
+        "top",
+        "text-box",
+        "global bar",
+        "format options",
+        "selection"
+      ],
+      "sentences": [
+        "1.   Select  Edit  in the global bar.",
+        "2.   Select the text that you want to edit.",
+        "The text-box turns blue upon selection, and a rotation handle appears at the top of the selected text-box.",
+        "3.   Edit the text by doing one of the following:",
+        "1.   Type new text to replace the selected text, or press Delete to remove it.",
+        "To rotate the text box, use the rotation handle at the top of the selected text box.",
+        "3.   Manage list items using the list controls (bulleted and numbered) in the left Format panel.",
+        "You can create lists and, conversely, convert a list item to a paragraph or change list types.",
+        "4.   Select a font, font size, or other formatting options in the left Format panel.",
+        "You can also try the advanced format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color.",
+        "4.   Select any area outside the selection to deselect it, and start over."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Select",
           "Edit",
@@ -679,128 +770,112 @@
           "start"
         ],
         "nouns": [
-          "format",
+          "type",
+          "panel",
+          "stroke",
           "bar",
-          "box",
           "area",
           "handle",
-          "item",
-          "character",
+          "scaling",
+          "format",
+          "rotation",
           "size",
+          "width",
           "control",
           "change",
-          "selection",
-          "type",
-          "rotation",
-          "paragraph",
-          "scaling",
-          "width",
-          "panel",
-          "page",
-          "block",
-          "color",
-          "following",
-          "list",
-          "reflow",
-          "text",
-          "option",
           "line",
-          "stroke"
+          "item",
+          "color",
+          "list",
+          "option",
+          "following",
+          "character",
+          "selection",
+          "text",
+          "box"
         ],
         "verbs": [
-          "format",
-          "replace",
-          "rotate",
-          "insert",
-          "accommodate",
-          "push",
-          "press",
           "type",
-          "create",
-          "turn",
+          "replace",
+          "press",
+          "use",
+          "convert",
           "try",
-          "start",
+          "rotate",
+          "create",
           "edit",
-          "deselect",
-          "remove",
-          "select",
+          "appear",
+          "want",
           "bullete",
           "number",
+          "format",
+          "turn",
+          "deselect",
+          "select",
           "manage",
-          "appear",
-          "use",
-          "want",
-          "convert"
+          "start",
+          "remove"
         ],
         "lemmas": [
-          "format",
-          "bar",
-          "replace",
-          "1",
-          "new",
-          "rotate",
-          "box",
-          "area",
-          "handle",
-          "accommodate",
-          "insert",
-          "item",
-          "character",
-          "push",
-          "size",
-          "horizontal",
-          "control",
-          "change",
-          "Delete",
-          "stroke",
-          "selection",
-          "4",
-          "press",
+          "global",
           "type",
-          "3",
-          "rotation",
-          "create",
-          "Select",
-          "spacing",
-          "Format",
-          "Edit",
-          "outside",
-          "line",
-          "paragraph",
-          "turn",
-          "left",
-          "font",
-          "try",
-          "start",
-          "edit",
           "blue",
-          "scaling",
-          "width",
+          "replace",
+          "press",
           "panel",
-          "page",
-          "block",
-          "deselect",
-          "color",
+          "spacing",
+          "font",
+          "character",
+          "stroke",
+          "advanced",
+          "use",
+          "convert",
+          "bar",
+          "try",
+          "conversely",
+          "rotate",
+          "create",
+          "edit",
+          "appear",
           "remove",
-          "following",
-          "select",
-          "list",
+          "area",
+          "want",
           "bullete",
           "number",
-          "reflow",
-          "conversely",
+          "handle",
+          "left",
+          "scaling",
           "2",
-          "global",
-          "adjacent",
-          "text",
-          "appear",
-          "use",
+          "format",
+          "rotation",
+          "size",
+          "turn",
+          "width",
+          "new",
+          "control",
+          "change",
+          "deselect",
+          "1",
+          "line",
+          "item",
+          "4",
+          "paragraph",
+          "horizontal",
+          "Format",
+          "select",
+          "Delete",
+          "color",
           "manage",
+          "list",
           "option",
-          "advanced",
-          "want",
-          "independent",
-          "convert"
+          "outside",
+          "following",
+          "Edit",
+          "selection",
+          "start",
+          "3",
+          "text",
+          "box"
         ]
       }
     },
@@ -808,72 +883,76 @@
       "level": "H1",
       "text": "Format text",
       "page": 5,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "1.   Select  Edit  in the global bar.",
+      "page": 5,
       "paragraphs": [
-        "1.   Select  Edit  in the global bar.",
-        "2.   Select the text that you want to change.",
-        "3.   In the  Format   Text  section on the left panel, select a font, font size, bold, or other",
-        "formatting options. You can also try the advanced format options, such as line spacing,",
-        "character spacing, horizontal scaling, stroke width, and color.",
-        "Formatting options on the left pane",
-        "\u2022",
-        "Bold  : Bolds the text.",
-        "\u2022",
-        "Italic  : Makes the text italic.",
-        "\u2022",
-        "Underline : Underlines the text.",
-        "\u2022",
-        "Superscript  : Converts the selected text into superscript.",
-        "\u2022",
-        "Subscript : Converts the sleected text into subscript.",
-        "4.   Select outside the selection to deselect it and start over."
+        "2.   Select the text that you want to change."
       ],
       "keywords": [
-        "select edit",
-        "formatting options",
-        "format text section",
-        "spacing",
-        "font",
-        "advanced format options",
-        "left pane bold",
-        "global bar",
-        "superscript",
-        "text italic"
+        "select the text",
+        "change"
       ],
       "sentences": [
-        "1.   Select  Edit  in the global bar.",
-        "2.   Select the text that you want to change.",
-        "In the  Format   Text  section on the left panel, select a font, font size, bold, or other formatting options.",
-        "You can also try the advanced format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color.",
-        "Formatting options on the left pane Bold  : Bolds the text.",
-        "Italic  : Makes the text italic.",
-        "Underline : Underlines the text.",
-        "Superscript  : Converts the selected text into superscript.",
-        "Subscript : Converts the sleected text into subscript.",
-        "4.   Select outside the selection to deselect it and start over."
+        "2.   Select the text that you want to change."
       ],
       "semantic": {
         "tokens": [
-          "1",
-          "Select",
-          "Edit",
-          "global",
-          "bar",
           "2",
           "Select",
           "text",
           "want",
+          "change"
+        ],
+        "nouns": [
+          "text"
+        ],
+        "verbs": [
+          "want",
           "change",
-          "3",
-          "Format",
-          "Text",
-          "section",
-          "left",
-          "panel",
+          "select"
+        ],
+        "lemmas": [
           "select",
-          "font",
-          "font",
-          "size",
-          "bold",
+          "want",
+          "change",
+          "2",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "3.   In the  Format   Text  section on the left panel, select a font, font size, bold, or other",
+      "page": 5,
+      "paragraphs": [
+        "formatting options. You can also try the advanced format options, such as line spacing,",
+        "character spacing, horizontal scaling, stroke width, and color.",
+        "Formatting options on the left pane"
+      ],
+      "keywords": [
+        "formatting options",
+        "character spacing",
+        "horizontal scaling",
+        "stroke width",
+        "advanced format options",
+        "line spacing",
+        "color",
+        "left pane"
+      ],
+      "sentences": [
+        "formatting options.",
+        "You can also try the advanced format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color.",
+        "Formatting options on the left pane"
+      ],
+      "semantic": {
+        "tokens": [
           "formatting",
           "options",
           "try",
@@ -892,22 +971,200 @@
           "Formatting",
           "options",
           "left",
+          "pane"
+        ],
+        "nouns": [
+          "color",
+          "option",
+          "stroke",
           "pane",
+          "scaling",
+          "line",
+          "format",
+          "character",
+          "width"
+        ],
+        "verbs": [
+          "format",
+          "try"
+        ],
+        "lemmas": [
+          "spacing",
+          "color",
+          "option",
+          "stroke",
+          "advanced",
+          "left",
+          "pane",
+          "scaling",
+          "line",
+          "format",
+          "try",
+          "character",
+          "width",
+          "horizontal"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 6,
+      "paragraphs": [
+        "Bold  : Bolds the text."
+      ],
+      "keywords": [
+        "bolds the text"
+      ],
+      "sentences": [
+        "Bold  : Bolds the text."
+      ],
+      "semantic": {
+        "tokens": [
           "Bold",
           "Bolds",
-          "text",
+          "text"
+        ],
+        "nouns": [
+          "text"
+        ],
+        "verbs": [
+          "bold"
+        ],
+        "lemmas": [
+          "Bold",
+          "bold",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 6,
+      "paragraphs": [
+        "Italic  : Makes the text italic."
+      ],
+      "keywords": [
+        "makes the text",
+        "text italic"
+      ],
+      "sentences": [
+        "Italic  : Makes the text italic."
+      ],
+      "semantic": {
+        "tokens": [
           "Italic",
           "Makes",
           "text",
+          "italic"
+        ],
+        "nouns": [
           "italic",
+          "text"
+        ],
+        "verbs": [
+          "make"
+        ],
+        "lemmas": [
+          "italic",
+          "make",
+          "Italic",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 6,
+      "paragraphs": [
+        "Underline : Underlines the text."
+      ],
+      "keywords": [
+        "underlines the text"
+      ],
+      "sentences": [
+        "Underline : Underlines the text."
+      ],
+      "semantic": {
+        "tokens": [
           "Underline",
           "Underlines",
-          "text",
+          "text"
+        ],
+        "nouns": [
+          "underline",
+          "text"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "Underlines",
+          "underline",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 6,
+      "paragraphs": [
+        "Superscript  : Converts the selected text into superscript."
+      ],
+      "keywords": [
+        "converts the selected",
+        "selected text",
+        "text into superscript"
+      ],
+      "sentences": [
+        "Superscript  : Converts the selected text into superscript."
+      ],
+      "semantic": {
+        "tokens": [
           "Superscript",
           "Converts",
           "selected",
           "text",
+          "superscript"
+        ],
+        "nouns": [
+          "text",
           "superscript",
+          "convert"
+        ],
+        "verbs": [
+          "select"
+        ],
+        "lemmas": [
+          "text",
+          "select",
+          "superscript",
+          "convert"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 6,
+      "paragraphs": [
+        "Subscript : Converts the sleected text into subscript.",
+        "4.   Select outside the selection to deselect it and start over."
+      ],
+      "keywords": [
+        "converts the sleected",
+        "sleected text",
+        "text into subscript",
+        "selection to deselect",
+        "start"
+      ],
+      "sentences": [
+        "Subscript : Converts the sleected text into subscript.",
+        "4.   Select outside the selection to deselect it and start over."
+      ],
+      "semantic": {
+        "tokens": [
           "Subscript",
           "Converts",
           "sleected",
@@ -921,86 +1178,28 @@
           "start"
         ],
         "nouns": [
-          "format",
-          "bar",
-          "section",
-          "underline",
-          "character",
-          "size",
-          "stroke",
-          "selection",
-          "bold",
-          "subscript",
-          "scaling",
-          "width",
-          "panel",
-          "pane",
-          "color",
-          "superscript",
-          "italic",
           "text",
-          "option",
-          "line",
-          "convert"
+          "selection",
+          "convert",
+          "subscript"
         ],
         "verbs": [
-          "make",
-          "format",
-          "try",
-          "start",
-          "select",
-          "bold",
           "sleecte",
           "deselect",
-          "want",
-          "change"
+          "select",
+          "start"
         ],
         "lemmas": [
-          "format",
-          "bar",
-          "1",
-          "section",
-          "underline",
-          "character",
-          "want",
-          "size",
-          "Underlines",
-          "horizontal",
-          "change",
-          "selection",
-          "4",
-          "Select",
-          "bold",
-          "spacing",
-          "sleecte",
-          "Format",
-          "Edit",
-          "outside",
-          "make",
-          "left",
-          "font",
-          "try",
-          "Text",
-          "subscript",
-          "start",
-          "scaling",
-          "width",
-          "deselect",
-          "panel",
-          "pane",
-          "color",
-          "superscript",
-          "convert",
           "select",
-          "italic",
-          "2",
-          "global",
-          "advanced",
+          "outside",
+          "deselect",
+          "convert",
+          "4",
+          "subscript",
+          "sleecte",
+          "selection",
           "text",
-          "option",
-          "line",
-          "3",
-          "stroke"
+          "start"
         ]
       }
     },
@@ -1008,37 +1207,44 @@
       "level": "H1",
       "text": "Add new text",
       "page": 6,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "You can add or insert new text into a PDF using any of the fonts installed on the system.",
+      "page": 6,
       "paragraphs": [
-        "You can add or insert new text into a PDF using any of the fonts installed on the system.",
-        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add"
+        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add",
+        "Content .",
+        "2.   Drag to define the width of the text block that you want to add.",
+        "3.   The Add text tool intelligently detects the following text properties of text close to the",
+        "point of click:",
+        "-",
+        "Font name, size, and color"
       ],
       "keywords": [
-        "fonts installed",
         "select edit",
-        "pdf",
-        "select text",
-        "add or insert",
-        "insert new text",
-        "system",
+        "add content",
         "edit panel",
+        "drag to define",
+        "add text tool",
+        "select text",
         "global bar",
-        "text under add"
+        "font",
+        "text block",
+        "text tool intelligently"
       ],
       "sentences": [
-        "You can add or insert new text into a PDF using any of the fonts installed on the system.",
         "1.   Select  Edit  in the global bar.",
-        "Then, from the Edit panel, select  Text  under  Add"
+        "Then, from the Edit panel, select  Text  under  Add Content .",
+        "2.   Drag to define the width of the text block that you want to add.",
+        "The Add text tool intelligently detects the following text properties of text close to the point of click: Font name, size, and color"
       ],
       "semantic": {
         "tokens": [
-          "add",
-          "insert",
-          "new",
-          "text",
-          "PDF",
-          "fonts",
-          "installed",
-          "system",
           "1",
           "Select",
           "Edit",
@@ -1048,87 +1254,8 @@
           "panel",
           "select",
           "Text",
-          "Add"
-        ],
-        "nouns": [
-          "font",
-          "bar",
-          "text",
-          "add",
-          "panel",
-          "system",
-          "pdf"
-        ],
-        "verbs": [
-          "add",
-          "instal"
-        ],
-        "lemmas": [
-          "font",
-          "bar",
-          "1",
-          "new",
-          "select",
-          "insert",
-          "Select",
-          "global",
-          "text",
-          "instal",
-          "Edit",
-          "add",
-          "panel",
-          "system",
-          "pdf"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "Content .",
-      "page": 6,
-      "paragraphs": [
-        "2.   Drag to define the width of the text block that you want to add.",
-        "3.   The Add text tool intelligently detects the following text properties of text close to the",
-        "point of click:",
-        "\u2022",
-        "Font name, size, and color",
-        "\u2022",
-        "Character, paragraph, and line spacing",
-        "\u2022",
-        "Horizontal scaling",
-        "These text properties are automatically applied to the text that you add at the point of click.",
-        "You can change the text properties using the options under  Format  in the left pane.",
-        "4.   Type the text.",
-        "5.   To resize the text box, drag a selection handle.",
-        "6.   To move the text box, place the pointer over the line of the bounding box (avoid the",
-        "selection handles). When the cursor changes to  Move  pointer",
-        ", drag the box to the",
-        "new location. To maintain alignment with the other list items, press Shift as you drag."
-      ],
-      "keywords": [
-        "text properties",
-        "add text tool",
-        "text box",
-        "point of click",
-        "drag",
-        "line spacing horizontal",
-        "text block",
-        "spacing horizontal scaling",
-        "text tool intelligently",
-        "color character"
-      ],
-      "sentences": [
-        "2.   Drag to define the width of the text block that you want to add.",
-        "The Add text tool intelligently detects the following text properties of text close to the point of click: Font name, size, and color Character, paragraph, and line spacing Horizontal scaling These text properties are automatically applied to the text that you add at the point of click.",
-        "You can change the text properties using the options under  Format  in the left pane.",
-        "4.   Type the text.",
-        "To resize the text box, drag a selection handle.",
-        "6.   To move the text box, place the pointer over the line of the bounding box (avoid the selection handles).",
-        "When the cursor changes to  Move  pointer , drag the box to the new location.",
-        "To maintain alignment with the other list items, press Shift as you drag."
-      ],
-      "semantic": {
-        "tokens": [
+          "Add",
+          "Content",
           "2",
           "Drag",
           "define",
@@ -1152,11 +1279,120 @@
           "click",
           "Font",
           "size",
+          "color"
+        ],
+        "nouns": [
+          "panel",
+          "block",
           "color",
+          "bar",
+          "click",
+          "size",
+          "tool",
+          "width",
+          "point",
+          "property",
+          "text"
+        ],
+        "verbs": [
+          "select",
+          "detect",
+          "want",
+          "define",
+          "add",
+          "follow"
+        ],
+        "lemmas": [
+          "global",
+          "panel",
+          "bar",
+          "want",
+          "Add",
+          "close",
+          "2",
+          "size",
+          "intelligently",
+          "add",
+          "tool",
+          "width",
+          "point",
+          "Font",
+          "Drag",
+          "detect",
+          "block",
+          "define",
+          "1",
+          "follow",
+          "property",
+          "select",
+          "color",
+          "click",
+          "Edit",
+          "3",
+          "Content",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 7,
+      "paragraphs": [
+        "Character, paragraph, and line spacing"
+      ],
+      "keywords": [
+        "character",
+        "paragraph",
+        "line spacing"
+      ],
+      "sentences": [
+        "Character, paragraph, and line spacing"
+      ],
+      "semantic": {
+        "tokens": [
           "Character",
           "paragraph",
           "line",
-          "spacing",
+          "spacing"
+        ],
+        "nouns": [
+          "line",
+          "paragraph"
+        ],
+        "verbs": [
+          "space"
+        ],
+        "lemmas": [
+          "Character",
+          "paragraph",
+          "line",
+          "space"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 7,
+      "paragraphs": [
+        "Horizontal scaling",
+        "These text properties are automatically applied to the text that you add at the point of click."
+      ],
+      "keywords": [
+        "horizontal scaling",
+        "point of click",
+        "properties are automatically",
+        "automatically applied",
+        "text properties",
+        "scaling these text",
+        "add"
+      ],
+      "sentences": [
+        "Horizontal scaling These text properties are automatically applied to the text that you add at the point of click."
+      ],
+      "semantic": {
+        "tokens": [
           "Horizontal",
           "scaling",
           "text",
@@ -1166,14 +1402,65 @@
           "text",
           "add",
           "point",
+          "click"
+        ],
+        "nouns": [
+          "point",
           "click",
-          "change",
-          "text",
-          "properties",
-          "options",
-          "Format",
-          "left",
-          "pane",
+          "property",
+          "text"
+        ],
+        "verbs": [
+          "add",
+          "apply",
+          "scale"
+        ],
+        "lemmas": [
+          "apply",
+          "horizontal",
+          "scale",
+          "click",
+          "add",
+          "point",
+          "automatically",
+          "property",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "You can change the text properties using the options under  Format  in the left pane.",
+      "page": 7,
+      "paragraphs": [
+        "4.   Type the text.",
+        "5.   To resize the text box, drag a selection handle.",
+        "6.   To move the text box, place the pointer over the line of the bounding box (avoid the",
+        "selection handles). When the cursor changes to  Move  pointer",
+        ", drag the box to the",
+        "new location. To maintain alignment with the other list items, press Shift as you drag."
+      ],
+      "keywords": [
+        "text box",
+        "type the text",
+        "drag",
+        "selection handle",
+        "resize the text",
+        "move pointer",
+        "move the text",
+        "press shift",
+        "bounding box",
+        "handles"
+      ],
+      "sentences": [
+        "4.   Type the text.",
+        "To resize the text box, drag a selection handle.",
+        "6.   To move the text box, place the pointer over the line of the bounding box (avoid the selection handles).",
+        "When the cursor changes to  Move  pointer , drag the box to the new location.",
+        "To maintain alignment with the other list items, press Shift as you drag."
+      ],
+      "semantic": {
+        "tokens": [
           "4",
           "Type",
           "text",
@@ -1211,105 +1498,56 @@
           "drag"
         ],
         "nouns": [
-          "shift",
-          "box",
+          "alignment",
+          "bounding",
+          "press",
+          "cursor",
+          "list",
           "handle",
-          "item",
-          "size",
-          "point",
-          "property",
           "location",
+          "line",
+          "shift",
+          "item",
           "selection",
           "pointer",
-          "press",
-          "paragraph",
-          "alignment",
-          "tool",
-          "width",
-          "block",
-          "bounding",
-          "pane",
-          "color",
-          "list",
-          "click",
-          "cursor",
           "text",
-          "option",
-          "line"
+          "box"
         ],
         "verbs": [
-          "drag",
-          "space",
-          "define",
-          "resize",
-          "avoid",
-          "apply",
           "type",
-          "place",
-          "detect",
-          "scale",
-          "maintain",
           "change",
-          "add",
-          "want",
-          "follow"
+          "maintain",
+          "avoid",
+          "drag",
+          "resize",
+          "place"
         ],
         "lemmas": [
-          "shift",
-          "new",
-          "box",
-          "detect",
-          "handle",
-          "maintain",
-          "item",
-          "want",
-          "size",
-          "6",
-          "point",
-          "resize",
-          "property",
-          "change",
+          "type",
+          "bounding",
+          "press",
           "location",
+          "place",
+          "shift",
+          "alignment",
+          "cursor",
+          "handle",
+          "new",
+          "change",
+          "line",
+          "item",
+          "4",
+          "resize",
+          "text",
+          "5",
+          "list",
+          "maintain",
+          "avoid",
           "selection",
           "pointer",
-          "4",
-          "place",
-          "type",
-          "press",
-          "Format",
-          "add",
-          "5",
-          "paragraph",
           "drag",
-          "Font",
-          "define",
-          "left",
-          "avoid",
-          "apply",
-          "Add",
-          "alignment",
-          "tool",
-          "intelligently",
-          "Horizontal",
-          "width",
-          "block",
-          "follow",
-          "pane",
-          "color",
-          "bounding",
-          "space",
-          "list",
-          "scale",
-          "click",
-          "automatically",
-          "cursor",
-          "2",
-          "text",
-          "close",
-          "option",
-          "line",
-          "3",
-          "Character"
+          "6",
+          "box"
         ]
       }
     },
@@ -1317,53 +1555,45 @@
       "level": "H1",
       "text": "Move, rotate, or resize a text box",
       "page": 7,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "You can move or rotate text boxes on a page. The  Edit  tool outlines each text box, so it's clear",
+      "page": 7,
       "paragraphs": [
-        "You can move or rotate text boxes on a page. The  Edit  tool outlines each text box, so it's clear",
         "what text is affected. Edits are confined to the page. You can't drag a text block to another",
         "page, or move or rotate individual characters or words within a text box. However, you can",
         "copy text boxes and paste them on another page.",
         "Resizing a text box causes the text to reflow within the new text box boundaries. It doesn't",
-        "change the size of the text. As with other text edits, resizing is limited to the current page. Text",
-        "doesn't flow to the next page.",
-        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add"
+        "change the size of the text. As with other text edits, resizing is limited to the current page. Text"
       ],
       "keywords": [
-        "move or rotate",
-        "select edit",
-        "text edits",
-        "rotate text boxes",
-        "edit tool outlines",
-        "select text",
         "resizing",
-        "text box boundaries",
         "current page",
-        "add"
+        "text is affected",
+        "text box boundaries",
+        "text edits",
+        "text block",
+        "copy text",
+        "text boxes",
+        "confined",
+        "drag"
       ],
       "sentences": [
-        "You can move or rotate text boxes on a page.",
-        "The  Edit  tool outlines each text box, so it's clear what text is affected.",
+        "what text is affected.",
         "Edits are confined to the page.",
         "You can't drag a text block to another page, or move or rotate individual characters or words within a text box.",
         "However, you can copy text boxes and paste them on another page.",
         "Resizing a text box causes the text to reflow within the new text box boundaries.",
         "It doesn't change the size of the text.",
-        "As with other text edits, resizing is limited to the current page.",
-        "Text doesn't flow to the next page.",
-        "1.   Select  Edit  in the global bar.",
-        "Then, from the Edit panel, select  Text  under  Add"
+        "As with other text edits, resizing is limited to the current page."
       ],
       "semantic": {
         "tokens": [
-          "rotate",
-          "text",
-          "boxes",
-          "page",
-          "Edit",
-          "tool",
-          "outlines",
-          "text",
-          "box",
-          "clear",
           "text",
           "affected",
           "Edits",
@@ -1403,98 +1633,143 @@
           "limited",
           "current",
           "page",
-          "Text",
-          "flow",
-          "page",
-          "1",
-          "Select",
-          "Edit",
-          "global",
-          "bar",
-          "Edit",
-          "panel",
-          "select",
-          "Text",
-          "Add"
+          "Text"
         ],
         "nouns": [
-          "bar",
-          "edit",
-          "boundary",
-          "box",
-          "tool",
-          "word",
-          "character",
-          "size",
-          "text",
-          "add",
-          "panel",
-          "page",
-          "resizing",
-          "block"
-        ],
-        "verbs": [
-          "outline",
-          "drag",
-          "rotate",
-          "paste",
-          "confine",
-          "reflow",
-          "copy",
-          "flow",
-          "limit",
-          "resize",
-          "cause",
-          "change",
-          "affect"
-        ],
-        "lemmas": [
-          "bar",
-          "rotate",
-          "1",
-          "new",
-          "box",
-          "confine",
-          "clear",
-          "character",
-          "individual",
-          "size",
-          "resize",
-          "change",
-          "boundary",
-          "Select",
-          "Edit",
-          "add",
-          "cause",
-          "flow",
-          "affect",
-          "drag",
-          "current",
-          "edit",
-          "tool",
-          "word",
-          "copy",
-          "limit",
-          "panel",
-          "page",
           "block",
           "resizing",
-          "outline",
-          "select",
-          "paste",
+          "boundary",
+          "size",
+          "word",
+          "character",
+          "page",
+          "edit",
+          "text",
+          "box"
+        ],
+        "verbs": [
+          "confine",
           "reflow",
-          "global",
-          "text"
+          "limit",
+          "affect",
+          "change",
+          "paste",
+          "cause",
+          "rotate",
+          "drag",
+          "resize",
+          "copy"
+        ],
+        "lemmas": [
+          "reflow",
+          "individual",
+          "paste",
+          "rotate",
+          "edit",
+          "boundary",
+          "confine",
+          "resizing",
+          "affect",
+          "size",
+          "cause",
+          "current",
+          "new",
+          "block",
+          "change",
+          "word",
+          "page",
+          "resize",
+          "limit",
+          "character",
+          "drag",
+          "copy",
+          "text",
+          "box"
         ]
       }
     },
     {
-      "level": "H1",
-      "text": "Content .",
+      "level": "H3",
+      "text": "doesn't flow to the next page.",
       "page": 7,
       "paragraphs": [
-        "2.   Select the text box that you want to move, rotate, or resize.",
-        "3.   Do any of the following:",
+        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add",
+        "Content .",
+        "2.   Select the text box that you want to move, rotate, or resize."
+      ],
+      "keywords": [
+        "add content",
+        "select edit",
+        "select text",
+        "edit panel",
+        "global bar",
+        "rotate",
+        "text under add",
+        "text box",
+        "move",
+        "resize"
+      ],
+      "sentences": [
+        "1.   Select  Edit  in the global bar.",
+        "Then, from the Edit panel, select  Text  under  Add Content .",
+        "2.   Select the text box that you want to move, rotate, or resize."
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "Select",
+          "Edit",
+          "global",
+          "bar",
+          "Edit",
+          "panel",
+          "select",
+          "Text",
+          "Add",
+          "Content",
+          "2",
+          "Select",
+          "text",
+          "box",
+          "want",
+          "rotate",
+          "resize"
+        ],
+        "nouns": [
+          "panel",
+          "bar",
+          "resize",
+          "text",
+          "box"
+        ],
+        "verbs": [
+          "rotate",
+          "want",
+          "select"
+        ],
+        "lemmas": [
+          "global",
+          "select",
+          "panel",
+          "want",
+          "Add",
+          "1",
+          "bar",
+          "2",
+          "Edit",
+          "rotate",
+          "resize",
+          "Content",
+          "text",
+          "box"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "3.   Do any of the following:",
+      "page": 8,
+      "paragraphs": [
         "1.   Move : Place the pointer over the line of the bounding box (avoid the selection",
         "handles). When the cursor changes to  Move  pointer",
         ", drag the box to the",
@@ -1507,20 +1782,18 @@
         "the handle to resize the text block."
       ],
       "keywords": [
-        "rotate",
-        "drag",
         "place the pointer",
         "move pointer",
         "rotation pointer",
-        "text box",
-        "select the text",
-        "shift key",
+        "rotate",
         "bounding box",
-        "circular selection handles"
+        "circular selection handles",
+        "resize",
+        "shift key",
+        "click and hold",
+        "desired location"
       ],
       "sentences": [
-        "2.   Select the text box that you want to move, rotate, or resize.",
-        "Do any of the following:",
         "1.   Move : Place the pointer over the line of the bounding box (avoid the selection handles).",
         "When the cursor changes to  Move  pointer , drag the box to the desired location.",
         "Hold down the Shift key as you drag to constrain the movement vertically or horizontally.",
@@ -1529,15 +1802,6 @@
       ],
       "semantic": {
         "tokens": [
-          "2",
-          "Select",
-          "text",
-          "box",
-          "want",
-          "rotate",
-          "resize",
-          "3",
-          "following",
           "1",
           "Place",
           "pointer",
@@ -1586,72 +1850,68 @@
           "block"
         ],
         "nouns": [
-          "pointer",
-          "selection",
-          "rotate",
-          "following",
-          "box",
-          "handle",
-          "cursor",
-          "key",
-          "text",
-          "resize",
-          "line",
-          "block",
           "movement",
-          "direction",
+          "key",
           "bounding",
-          "location"
+          "direction",
+          "cursor",
+          "block",
+          "handle",
+          "rotate",
+          "location",
+          "line",
+          "selection",
+          "pointer",
+          "resize",
+          "text",
+          "box"
         ],
         "verbs": [
-          "desire",
-          "avoid",
-          "drag",
-          "rotate",
-          "select",
-          "place",
           "hold",
-          "click",
-          "resize",
           "want",
           "change",
+          "avoid",
+          "desire",
+          "click",
+          "rotate",
+          "drag",
+          "resize",
+          "place",
           "constrain"
         ],
         "lemmas": [
-          "rotate",
-          "1",
-          "vertically",
-          "hold",
-          "box",
-          "handle",
-          "want",
-          "resize",
-          "Rotation",
           "movement",
-          "direction",
-          "change",
-          "constrain",
-          "location",
+          "bounding",
+          "Rotation",
           "desire",
-          "pointer",
-          "selection",
+          "location",
+          "rotate",
           "place",
           "Shift",
-          "avoid",
-          "drag",
-          "key",
-          "block",
-          "bounding",
-          "horizontally",
-          "following",
-          "select",
-          "click",
-          "cursor",
-          "2",
+          "direction",
           "circular",
-          "text",
+          "cursor",
+          "want",
+          "handle",
+          "2",
+          "key",
+          "vertically",
+          "constrain",
+          "block",
+          "hold",
+          "change",
+          "1",
           "line",
-          "3"
+          "horizontally",
+          "resize",
+          "avoid",
+          "click",
+          "selection",
+          "pointer",
+          "drag",
+          "3",
+          "text",
+          "box"
         ]
       }
     },
@@ -1660,27 +1920,17 @@
       "text": "Add or edit lists",
       "page": 9,
       "paragraphs": [
-        "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a",
-        "list item, and conversely. You can also change list types.",
-        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add"
+        "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a"
       ],
       "keywords": [
         "create list items",
         "convert a paragraph",
         "numbered or bulleted",
         "add items",
-        "bulleted list",
-        "select edit",
-        "select text",
-        "change list types",
-        "conversely",
-        "edit panel"
+        "bulleted list"
       ],
       "sentences": [
-        "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a list item, and conversely.",
-        "You can also change list types.",
-        "1.   Select  Edit  in the global bar.",
-        "Then, from the Edit panel, select  Text  under  Add"
+        "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a"
       ],
       "semantic": {
         "tokens": [
@@ -1693,13 +1943,65 @@
           "list",
           "items",
           "convert",
+          "paragraph"
+        ],
+        "nouns": [
           "paragraph",
           "list",
-          "item",
-          "conversely",
-          "change",
+          "item"
+        ],
+        "verbs": [
+          "add",
+          "create",
+          "convert"
+        ],
+        "lemmas": [
           "list",
-          "types",
+          "convert",
+          "paragraph",
+          "item",
+          "numbered",
+          "bulleted",
+          "add",
+          "create"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "list item, and conversely. You can also change list types.",
+      "page": 9,
+      "paragraphs": [
+        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add",
+        "Content .",
+        "2.   To add or remove items from a numbered or bulleted list:",
+        "-   Note: You can add or remove items to the list at all nested levels using the",
+        "same familiar controls that you use in Microsoft Office. For example,",
+        "press  Enter  at the end of a list item to insert a new row. Press  Backspace  to",
+        "remove the new row and position the cursor back to the end of the previous",
+        "list item."
+      ],
+      "keywords": [
+        "select edit",
+        "remove items",
+        "add content",
+        "select text",
+        "edit panel",
+        "press enter",
+        "add or remove",
+        "press backspace",
+        "previous list item",
+        "global bar"
+      ],
+      "sentences": [
+        "1.   Select  Edit  in the global bar.",
+        "Then, from the Edit panel, select  Text  under  Add Content .",
+        "2.   To add or remove items from a numbered or bulleted list: -   Note: You can add or remove items to the list at all nested levels using the same familiar controls that you use in Microsoft Office.",
+        "For example, press  Enter  at the end of a list item to insert a new row.",
+        "Press  Backspace  to remove the new row and position the cursor back to the end of the previous list item."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Select",
           "Edit",
@@ -1709,99 +2011,8 @@
           "panel",
           "select",
           "Text",
-          "Add"
-        ],
-        "nouns": [
-          "bar",
-          "list",
-          "type",
-          "item",
-          "text",
-          "add",
-          "panel",
-          "paragraph"
-        ],
-        "verbs": [
-          "add",
-          "change",
-          "create",
-          "convert"
-        ],
-        "lemmas": [
-          "bar",
-          "1",
-          "item",
-          "change",
-          "numbered",
-          "type",
-          "create",
-          "Select",
-          "Edit",
-          "add",
-          "paragraph",
-          "panel",
-          "list",
-          "select",
-          "bulleted",
-          "global",
-          "text",
-          "conversely",
-          "convert"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "Content .",
-      "page": 9,
-      "paragraphs": [
-        "2.   To add or remove items from a numbered or bulleted list:",
-        "\u2022   Note: You can add or remove items to the list at all nested levels using the",
-        "same familiar controls that you use in Microsoft\u00ae Office. For example,",
-        "press  Enter  at the end of a list item to insert a new row. Press  Backspace  to",
-        "remove the new row and position the cursor back to the end of the previous",
-        "list item.",
-        "To create a numbered or bulleted list:",
-        "1.   Place the cursor in the document at the location where you want to add a list.",
-        "2.   Choose the appropriate list type under  Format Text .",
-        "To convert an existing paragraph to a list item:",
-        "\u2022",
-        "Place the cursor in the paragraph, and then choose the appropriate list type",
-        "under  Format Text .",
-        "To convert an existing list item to a paragraph:",
-        "1.   Select all items in the list. The appropriate list type is highlighted under  Format Text .",
-        "2.   Click the highlighted list type.",
-        "To convert from one list type to another:",
-        "1.   Place the cursor in the list item or select all items.",
-        "2.   Choose the appropriate list type under  Format Text ."
-      ],
-      "keywords": [
-        "format text",
-        "place the cursor",
-        "type under format",
-        "bulleted list",
-        "remove items",
-        "choose",
-        "existing list item",
-        "add",
-        "previous list item",
-        "press enter"
-      ],
-      "sentences": [
-        "2.   To add or remove items from a numbered or bulleted list: \u2022   Note: You can add or remove items to the list at all nested levels using the same familiar controls that you use in Microsoft\u00ae Office.",
-        "For example, press  Enter  at the end of a list item to insert a new row.",
-        "Press  Backspace  to remove the new row and position the cursor back to the end of the previous list item.",
-        "To create a numbered or bulleted list: 1.   Place the cursor in the document at the location where you want to add a list.",
-        "2.   Choose the appropriate list type under  Format Text .",
-        "To convert an existing paragraph to a list item: Place the cursor in the paragraph, and then choose the appropriate list type under  Format Text .",
-        "To convert an existing list item to a paragraph: 1.   Select all items in the list.",
-        "The appropriate list type is highlighted under  Format Text .",
-        "2.   Click the highlighted list type.",
-        "To convert from one list type to another: 1.   Place the cursor in the list item or select all items.",
-        "2.   Choose the appropriate list type under  Format Text ."
-      ],
-      "semantic": {
-        "tokens": [
+          "Add",
+          "Content",
           "2",
           "add",
           "remove",
@@ -1820,7 +2031,6 @@
           "controls",
           "use",
           "Microsoft",
-          "\u00ae",
           "Office",
           "example",
           "press",
@@ -1841,11 +2051,97 @@
           "end",
           "previous",
           "list",
-          "item",
-          "create",
-          "numbered",
-          "bulleted",
+          "item"
+        ],
+        "nouns": [
+          "control",
+          "press",
+          "panel",
+          "note",
+          "cursor",
           "list",
+          "example",
+          "bar",
+          "end",
+          "item",
+          "row",
+          "level",
+          "text"
+        ],
+        "verbs": [
+          "insert",
+          "position",
+          "select",
+          "enter",
+          "press",
+          "use",
+          "add",
+          "nest",
+          "remove"
+        ],
+        "lemmas": [
+          "global",
+          "position",
+          "enter",
+          "press",
+          "panel",
+          "Backspace",
+          "familiar",
+          "example",
+          "use",
+          "bar",
+          "numbered",
+          "row",
+          "cursor",
+          "Add",
+          "2",
+          "level",
+          "add",
+          "nest",
+          "Office",
+          "new",
+          "control",
+          "previous",
+          "note",
+          "1",
+          "end",
+          "item",
+          "insert",
+          "text",
+          "select",
+          "list",
+          "Microsoft",
+          "Edit",
+          "bulleted",
+          "Content",
+          "remove"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "To create a numbered or bulleted list:",
+      "page": 9,
+      "paragraphs": [
+        "1.   Place the cursor in the document at the location where you want to add a list.",
+        "2.   Choose the appropriate list type under  Format Text ."
+      ],
+      "keywords": [
+        "format text",
+        "place the cursor",
+        "type under format",
+        "choose",
+        "list type",
+        "document",
+        "location",
+        "add a list"
+      ],
+      "sentences": [
+        "1.   Place the cursor in the document at the location where you want to add a list.",
+        "2.   Choose the appropriate list type under  Format Text ."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Place",
           "cursor",
@@ -1860,12 +2156,61 @@
           "list",
           "type",
           "Format",
-          "Text",
-          "convert",
-          "existing",
-          "paragraph",
+          "Text"
+        ],
+        "nouns": [
+          "type",
+          "cursor",
           "list",
-          "item",
+          "location",
+          "document"
+        ],
+        "verbs": [
+          "add",
+          "want",
+          "choose",
+          "place"
+        ],
+        "lemmas": [
+          "Format",
+          "type",
+          "cursor",
+          "want",
+          "list",
+          "location",
+          "1",
+          "2",
+          "choose",
+          "appropriate",
+          "Text",
+          "add",
+          "document",
+          "place"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "To convert an existing paragraph to a list item:",
+      "page": 9,
+      "paragraphs": [
+        "-",
+        "Place the cursor in the paragraph, and then choose the appropriate list type",
+        "under  Format Text ."
+      ],
+      "keywords": [
+        "format text",
+        "type under format",
+        "place the cursor",
+        "list type",
+        "paragraph",
+        "choose"
+      ],
+      "sentences": [
+        "Place the cursor in the paragraph, and then choose the appropriate list type under  Format Text ."
+      ],
+      "semantic": {
+        "tokens": [
           "Place",
           "cursor",
           "paragraph",
@@ -1874,12 +2219,54 @@
           "list",
           "type",
           "Format",
-          "Text",
-          "convert",
-          "existing",
-          "list",
-          "item",
+          "Text"
+        ],
+        "nouns": [
+          "cursor",
           "paragraph",
+          "list",
+          "type"
+        ],
+        "verbs": [
+          "choose",
+          "place"
+        ],
+        "lemmas": [
+          "Format",
+          "type",
+          "cursor",
+          "list",
+          "appropriate",
+          "choose",
+          "Text",
+          "paragraph",
+          "place"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "To convert an existing list item to a paragraph:",
+      "page": 9,
+      "paragraphs": [
+        "1.   Select all items in the list. The appropriate list type is highlighted under  Format Text .",
+        "2.   Click the highlighted list type."
+      ],
+      "keywords": [
+        "format text",
+        "select all items",
+        "click the highlighted",
+        "highlighted under format",
+        "highlighted list type",
+        "type is highlighted"
+      ],
+      "sentences": [
+        "1.   Select all items in the list.",
+        "The appropriate list type is highlighted under  Format Text .",
+        "2.   Click the highlighted list type."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Select",
           "items",
@@ -1894,10 +2281,57 @@
           "Click",
           "highlighted",
           "list",
-          "type",
-          "convert",
+          "type"
+        ],
+        "nouns": [
           "list",
           "type",
+          "item"
+        ],
+        "verbs": [
+          "click",
+          "highlight",
+          "select"
+        ],
+        "lemmas": [
+          "Format",
+          "type",
+          "select",
+          "list",
+          "1",
+          "appropriate",
+          "Text",
+          "2",
+          "item",
+          "click",
+          "highlight"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "To convert from one list type to another:",
+      "page": 9,
+      "paragraphs": [
+        "1.   Place the cursor in the list item or select all items.",
+        "2.   Choose the appropriate list type under  Format Text ."
+      ],
+      "keywords": [
+        "format text",
+        "place the cursor",
+        "type under format",
+        "choose",
+        "list item",
+        "list type",
+        "item or select",
+        "select all items"
+      ],
+      "sentences": [
+        "1.   Place the cursor in the list item or select all items.",
+        "2.   Choose the appropriate list type under  Format Text ."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Place",
           "cursor",
@@ -1914,85 +2348,29 @@
           "Text"
         ],
         "nouns": [
-          "level",
-          "list",
-          "press",
-          "type",
-          "end",
-          "item",
           "cursor",
-          "row",
-          "document",
-          "\u00ae",
-          "control",
-          "paragraph",
-          "example",
-          "location"
+          "list",
+          "type",
+          "item"
         ],
         "verbs": [
-          "position",
-          "note",
-          "remove",
-          "highlight",
-          "select",
-          "nest",
-          "press",
-          "place",
-          "click",
-          "insert",
-          "create",
-          "exist",
-          "use",
-          "add",
-          "want",
           "choose",
-          "convert"
+          "select",
+          "place"
         ],
         "lemmas": [
-          "position",
-          "1",
-          "new",
-          "end",
-          "insert",
-          "item",
-          "exist",
-          "want",
-          "choose",
-          "control",
-          "row",
-          "location",
-          "highlight",
-          "numbered",
-          "press",
-          "place",
-          "type",
-          "create",
-          "document",
           "Format",
-          "add",
-          "\u00ae",
-          "previous",
-          "example",
-          "appropriate",
-          "paragraph",
-          "Backspace",
-          "Text",
-          "nest",
-          "Microsoft",
-          "familiar",
-          "note",
-          "remove",
-          "level",
-          "list",
+          "type",
           "select",
-          "click",
           "cursor",
+          "list",
+          "1",
           "2",
-          "bulleted",
-          "Enter",
-          "use",
-          "Office",
-          "convert"
+          "choose",
+          "appropriate",
+          "item",
+          "Text",
+          "place"
         ]
       }
     },
@@ -2002,33 +2380,17 @@
       "page": 9,
       "paragraphs": [
         "1.   Select  Edit  in the global bar.",
-        "2.   Select the text that you want to change.",
-        "3.   In the  Format   Text  section on the Edit panel, select Font color next to Font size.",
-        "4.   For Windows : You see a color panel for Windows to choose the color you want. Select",
-        "the color you want your text to change into.",
-        "For macOS:  You see a Color dialog box with options to change the font color. You can",
-        "select the color you want and then close the dialog box to change the font color."
+        "2.   Select the text that you want to change."
       ],
       "keywords": [
-        "select font color",
         "select edit",
-        "format text section",
-        "edit panel",
-        "select the color",
-        "change the font",
-        "font size",
-        "color panel",
         "global bar",
-        "color dialog box"
+        "select the text",
+        "change"
       ],
       "sentences": [
         "1.   Select  Edit  in the global bar.",
-        "2.   Select the text that you want to change.",
-        "In the  Format   Text  section on the Edit panel, select Font color next to Font size.",
-        "For Windows : You see a color panel for Windows to choose the color you want.",
-        "Select the color you want your text to change into.",
-        "For macOS:  You see a Color dialog box with options to change the font color.",
-        "You can select the color you want and then close the dialog box to change the font color."
+        "2.   Select the text that you want to change."
       ],
       "semantic": {
         "tokens": [
@@ -2041,27 +2403,67 @@
           "Select",
           "text",
           "want",
-          "change",
-          "3",
-          "Format",
-          "Text",
-          "section",
-          "Edit",
-          "panel",
-          "select",
-          "Font",
-          "color",
-          "Font",
-          "size",
-          "4",
-          "Windows",
-          "color",
-          "panel",
-          "Windows",
-          "choose",
-          "color",
+          "change"
+        ],
+        "nouns": [
+          "bar",
+          "text"
+        ],
+        "verbs": [
           "want",
-          "Select",
+          "change",
+          "select"
+        ],
+        "lemmas": [
+          "global",
+          "select",
+          "want",
+          "change",
+          "1",
+          "bar",
+          "2",
+          "Edit",
+          "text"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "3.   In the  Format   Text  section on the Edit panel, select Font color next to Font size.",
+      "page": 10,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "4.   For Windows : You see a color panel for Windows to choose the color you want. Select",
+      "page": 10,
+      "paragraphs": [
+        "the color you want your text to change into.",
+        "For macOS:  You see a Color dialog box with options to change the font color. You can",
+        "select the color you want and then close the dialog box to change the font color."
+      ],
+      "keywords": [
+        "text to change",
+        "font color",
+        "color dialog box",
+        "change the font",
+        "ptions to change",
+        "box to change",
+        "macos",
+        "select the color",
+        "box with options",
+        "close the dialog"
+      ],
+      "sentences": [
+        "the color you want your text to change into.",
+        "For macOS:  You see a Color dialog box with options to change the font color.",
+        "You can select the color you want and then close the dialog box to change the font color."
+      ],
+      "semantic": {
+        "tokens": [
           "color",
           "want",
           "text",
@@ -2085,52 +2487,31 @@
           "color"
         ],
         "nouns": [
-          "bar",
-          "section",
-          "dialog",
-          "box",
-          "size",
-          "text",
+          "color",
           "option",
-          "panel",
-          "color"
+          "dialog",
+          "text",
+          "box"
         ],
         "verbs": [
-          "select",
-          "close",
-          "choose",
           "want",
-          "change"
+          "change",
+          "select",
+          "close"
         ],
         "lemmas": [
-          "bar",
-          "1",
-          "section",
-          "box",
-          "want",
-          "size",
-          "choose",
-          "change",
-          "4",
-          "Select",
-          "macOS",
-          "Format",
-          "Edit",
-          "dialog",
-          "font",
-          "Font",
-          "Text",
           "Color",
-          "panel",
-          "Windows",
-          "color",
           "select",
-          "2",
-          "global",
-          "text",
+          "color",
+          "want",
+          "change",
           "option",
+          "font",
           "close",
-          "3"
+          "dialog",
+          "macOS",
+          "text",
+          "box"
         ]
       }
     },
@@ -2139,18 +2520,29 @@
       "text": "Change font",
       "page": 11,
       "paragraphs": [
-        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add"
+        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add",
+        "Content .",
+        "2.   Select the text that you want to change.",
+        "3.   In the  Format   Text  section on the Edit panel, from the Font drop-down menu, select",
+        "the Font you want for the selected text."
       ],
       "keywords": [
-        "text under add",
-        "select text",
-        "select edit",
         "edit panel",
-        "global bar"
+        "select edit",
+        "add content",
+        "select text",
+        "format text section",
+        "select the font",
+        "font drop-down menu",
+        "global bar",
+        "selected text",
+        "text under add"
       ],
       "sentences": [
         "1.   Select  Edit  in the global bar.",
-        "Then, from the Edit panel, select  Text  under  Add"
+        "Then, from the Edit panel, select  Text  under  Add Content .",
+        "2.   Select the text that you want to change.",
+        "In the  Format   Text  section on the Edit panel, from the Font drop-down menu, select the Font you want for the selected text."
       ],
       "semantic": {
         "tokens": [
@@ -2163,52 +2555,8 @@
           "panel",
           "select",
           "Text",
-          "Add"
-        ],
-        "nouns": [
-          "add",
-          "panel",
-          "text",
-          "bar"
-        ],
-        "verbs": [],
-        "lemmas": [
-          "add",
-          "bar",
-          "1",
-          "select",
-          "Select",
-          "global",
-          "text",
-          "Edit",
-          "panel"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "Content .",
-      "page": 11,
-      "paragraphs": [
-        "2.   Select the text that you want to change.",
-        "3.   In the  Format   Text  section on the Edit panel, from the Font drop-down menu, select",
-        "the Font you want for the selected text."
-      ],
-      "keywords": [
-        "select the font",
-        "format text section",
-        "font drop-down menu",
-        "edit panel",
-        "selected text",
-        "select the text",
-        "change"
-      ],
-      "sentences": [
-        "2.   Select the text that you want to change.",
-        "In the  Format   Text  section on the Edit panel, from the Font drop-down menu, select the Font you want for the selected text."
-      ],
-      "semantic": {
-        "tokens": [
+          "Add",
+          "Content",
           "2",
           "Select",
           "text",
@@ -2231,32 +2579,37 @@
         ],
         "nouns": [
           "menu",
+          "section",
           "panel",
-          "text",
-          "section"
+          "bar",
+          "text"
         ],
         "verbs": [
-          "select",
-          "drop",
           "want",
-          "change"
+          "change",
+          "select",
+          "drop"
         ],
         "lemmas": [
-          "font",
-          "menu",
-          "Font",
-          "Text",
-          "section",
-          "select",
-          "3",
-          "2",
-          "text",
-          "Format",
-          "Edit",
+          "global",
           "panel",
-          "drop",
+          "font",
+          "bar",
+          "menu",
           "want",
-          "change"
+          "Add",
+          "2",
+          "Font",
+          "change",
+          "1",
+          "Format",
+          "select",
+          "section",
+          "drop",
+          "Edit",
+          "3",
+          "Content",
+          "text"
         ]
       }
     },
@@ -2265,18 +2618,29 @@
       "text": "Change font size",
       "page": 11,
       "paragraphs": [
-        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add"
+        "1.   Select  Edit  in the global bar. Then, from the Edit panel, select  Text  under  Add",
+        "Content .",
+        "2.   Select the text that you want to change.",
+        "3.   In the  Format   Text  section on the Edit panel, from the Font size menu, select the font",
+        "size you want for the selected text."
       ],
       "keywords": [
-        "text under add",
-        "select text",
-        "select edit",
         "edit panel",
-        "global bar"
+        "select edit",
+        "add content",
+        "select text",
+        "format text section",
+        "font size menu",
+        "select the font",
+        "global bar",
+        "selected text",
+        "text under add"
       ],
       "sentences": [
         "1.   Select  Edit  in the global bar.",
-        "Then, from the Edit panel, select  Text  under  Add"
+        "Then, from the Edit panel, select  Text  under  Add Content .",
+        "2.   Select the text that you want to change.",
+        "In the  Format   Text  section on the Edit panel, from the Font size menu, select the font size you want for the selected text."
       ],
       "semantic": {
         "tokens": [
@@ -2289,52 +2653,8 @@
           "panel",
           "select",
           "Text",
-          "Add"
-        ],
-        "nouns": [
-          "add",
-          "panel",
-          "text",
-          "bar"
-        ],
-        "verbs": [],
-        "lemmas": [
-          "add",
-          "bar",
-          "1",
-          "select",
-          "Select",
-          "global",
-          "text",
-          "Edit",
-          "panel"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "Content .",
-      "page": 11,
-      "paragraphs": [
-        "2.   Select the text that you want to change.",
-        "3.   In the  Format   Text  section on the Edit panel, from the Font size menu, select the font",
-        "size you want for the selected text."
-      ],
-      "keywords": [
-        "format text section",
-        "select the font",
-        "font size menu",
-        "edit panel",
-        "selected text",
-        "select the text",
-        "change"
-      ],
-      "sentences": [
-        "2.   Select the text that you want to change.",
-        "In the  Format   Text  section on the Edit panel, from the Font size menu, select the font size you want for the selected text."
-      ],
-      "semantic": {
-        "tokens": [
+          "Add",
+          "Content",
           "2",
           "Select",
           "text",
@@ -2359,31 +2679,36 @@
         "nouns": [
           "menu",
           "section",
+          "panel",
+          "bar",
           "size",
-          "text",
-          "panel"
+          "text"
         ],
         "verbs": [
-          "select",
           "want",
-          "change"
+          "change",
+          "select"
         ],
         "lemmas": [
-          "Font",
-          "menu",
+          "global",
+          "panel",
           "font",
-          "Text",
-          "section",
-          "select",
-          "3",
+          "bar",
+          "menu",
+          "want",
+          "Add",
           "2",
           "size",
-          "text",
+          "Font",
+          "change",
+          "1",
           "Format",
+          "select",
+          "section",
           "Edit",
-          "panel",
-          "want",
-          "change"
+          "3",
+          "Content",
+          "text"
         ]
       }
     },
@@ -2394,16 +2719,13 @@
       "paragraphs": [
         "1.   Open the PDF in which you want to redo the text.",
         "2.   (Windows) Select the hamburger menu in the upper left. Then select  Undo, Redo &",
-        "more  >  Redo .",
-        "(macOS) Select Edit in the upper left. Then select  Undo, Redo and More > Redo ."
+        "more  >  Redo ."
       ],
       "keywords": [
-        "select und",
-        "upper left",
         "open the pdf",
-        "select edit",
+        "select und",
         "windows",
-        "macos",
+        "upper left",
         "redo the text",
         "hamburger menu",
         "select the hamburger"
@@ -2411,9 +2733,7 @@
       "sentences": [
         "1.   Open the PDF in which you want to redo the text.",
         "2.   (Windows) Select the hamburger menu in the upper left.",
-        "Then select  Undo, Redo & more  >  Redo .",
-        "(macOS) Select Edit in the upper left.",
-        "Then select  Undo, Redo and More > Redo ."
+        "Then select  Undo, Redo & more  >  Redo ."
       ],
       "semantic": {
         "tokens": [
@@ -2428,16 +2748,6 @@
           "Select",
           "hamburger",
           "menu",
-          "upper",
-          "left",
-          "select",
-          "Undo",
-          "Redo",
-          ">",
-          "Redo",
-          "macOS",
-          "Select",
-          "Edit",
           "upper",
           "left",
           "select",
@@ -2447,39 +2757,45 @@
           "Redo"
         ],
         "nouns": [
-          "menu",
           "hamburger",
-          "left",
-          "text"
+          "menu",
+          "text",
+          "left"
         ],
         "verbs": [
-          "select",
-          "open",
           "want",
-          "redo"
+          "redo",
+          "select",
+          "open"
         ],
         "lemmas": [
-          "1",
-          "open",
-          "Select",
-          "macOS",
-          "upper",
-          ">",
-          "Edit",
-          "left",
-          "hamburger",
-          "Undo",
-          "Windows",
           "Redo",
-          "menu",
+          ">",
           "select",
           "PDF",
+          "open",
+          "menu",
+          "want",
+          "hamburger",
+          "left",
+          "Undo",
+          "1",
           "2",
-          "text",
+          "upper",
+          "Windows",
           "redo",
-          "want"
+          "text"
         ]
       }
+    },
+    {
+      "level": "H2",
+      "text": "(macOS) Select Edit in the upper left. Then select  Undo, Redo and More > Redo .",
+      "page": 11,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
@@ -2488,26 +2804,21 @@
       "paragraphs": [
         "1.   Open the PDF in which you want to redo the text.",
         "2.   (Windows) Select the hamburger menu in the upper left. Then select  Undo, Redo &",
-        "more  >  Undo .",
-        "(macOS) Select Edit in the upper left. Then select  Undo, Redo and More > Undo ."
+        "more  >  Undo ."
       ],
       "keywords": [
-        "select und",
-        "upper left",
         "open the pdf",
-        "select edit",
+        "select und",
         "windows",
-        "macos",
         "redo the text",
+        "upper left",
         "hamburger menu",
         "select the hamburger"
       ],
       "sentences": [
         "1.   Open the PDF in which you want to redo the text.",
         "2.   (Windows) Select the hamburger menu in the upper left.",
-        "Then select  Undo, Redo & more  >  Undo .",
-        "(macOS) Select Edit in the upper left.",
-        "Then select  Undo, Redo and More > Undo ."
+        "Then select  Undo, Redo & more  >  Undo ."
       ],
       "semantic": {
         "tokens": [
@@ -2528,90 +2839,87 @@
           "Undo",
           "Redo",
           ">",
-          "Undo",
-          "macOS",
-          "Select",
-          "Edit",
-          "upper",
-          "left",
-          "select",
-          "Undo",
-          "Redo",
-          ">",
           "Undo"
         ],
         "nouns": [
-          "menu",
           "hamburger",
-          "left",
-          "text"
+          "menu",
+          "text",
+          "left"
         ],
         "verbs": [
-          "select",
-          "open",
           "want",
-          "redo"
+          "redo",
+          "select",
+          "open"
         ],
         "lemmas": [
-          "1",
-          "open",
-          "Select",
-          "macOS",
-          "upper",
-          ">",
-          "Edit",
-          "left",
-          "hamburger",
-          "Undo",
-          "Windows",
           "Redo",
-          "menu",
+          ">",
           "select",
           "PDF",
+          "open",
+          "menu",
+          "want",
+          "hamburger",
+          "left",
+          "Undo",
+          "1",
           "2",
-          "text",
+          "upper",
+          "Windows",
           "redo",
-          "want"
+          "text"
         ]
       }
+    },
+    {
+      "level": "H2",
+      "text": "(macOS) Select Edit in the upper left. Then select  Undo, Redo and More > Undo .",
+      "page": 11,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
       "text": "Change paragraph spacing",
       "page": 11,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "You can change paragraph spacing in Acrobat using format text options:",
+      "page": 12,
       "paragraphs": [
-        "You can change paragraph spacing in Acrobat using format text options:",
         "1.   Select  Edit  from the global bar in the upper left.",
         "2.   Select the text for which you want to modify the paragraph spacing.",
         "3.   From the FORMAT TEXT panel, select  Paragraph spacing after  drop-down menu and",
         "then select the value to adjust spacing as needed."
       ],
       "keywords": [
-        "format text options",
-        "change paragraph spacing",
-        "acrobat using format",
-        "format text panel",
-        "select paragraph spacing",
         "select edit",
-        "spacing in acrobat",
+        "select paragraph spacing",
+        "format text panel",
         "upper left",
         "global bar",
-        "adjust spacing"
+        "adjust spacing",
+        "modify the paragraph",
+        "select the text",
+        "drop-down menu",
+        "spacing as needed"
       ],
       "sentences": [
-        "You can change paragraph spacing in Acrobat using format text options: 1.   Select  Edit  from the global bar in the upper left.",
+        "1.   Select  Edit  from the global bar in the upper left.",
         "2.   Select the text for which you want to modify the paragraph spacing.",
         "3.   From the FORMAT TEXT panel, select  Paragraph spacing after  drop-down menu and then select the value to adjust spacing as needed."
       ],
       "semantic": {
         "tokens": [
-          "change",
-          "paragraph",
-          "spacing",
-          "Acrobat",
-          "format",
-          "text",
-          "options",
           "1",
           "Select",
           "Edit",
@@ -2642,57 +2950,49 @@
           "needed"
         ],
         "nouns": [
-          "left",
-          "format",
           "menu",
-          "bar",
-          "option",
-          "text",
-          "value",
-          "panel",
-          "drop",
           "spacing",
-          "paragraph"
+          "panel",
+          "value",
+          "left",
+          "bar",
+          "paragraph",
+          "text"
         ],
         "verbs": [
-          "space",
+          "modify",
           "select",
-          "adjust",
           "want",
-          "change",
-          "need",
-          "modify"
+          "space",
+          "drop",
+          "adjust",
+          "need"
         ],
         "lemmas": [
-          "format",
-          "bar",
-          "1",
-          "want",
-          "change",
-          "Select",
-          "spacing",
-          "upper",
-          "Edit",
-          "need",
           "modify",
-          "paragraph",
-          "left",
-          "Acrobat",
-          "Paragraph",
-          "FORMAT",
-          "panel",
-          "TEXT",
-          "drop",
-          "menu",
-          "space",
-          "select",
-          "adjust",
-          "2",
           "global",
-          "text",
-          "option",
+          "spacing",
+          "panel",
+          "space",
+          "bar",
+          "TEXT",
+          "upper",
+          "menu",
+          "want",
+          "left",
+          "2",
+          "FORMAT",
+          "1",
+          "Paragraph",
+          "paragraph",
+          "select",
           "value",
-          "3"
+          "drop",
+          "adjust",
+          "Edit",
+          "3",
+          "text",
+          "need"
         ]
       }
     },
@@ -2827,114 +3127,114 @@
           "Acrobat"
         ],
         "nouns": [
-          "formatting",
-          "appearance",
-          "size",
-          "resize",
-          "resolution",
           "topic",
-          "issue",
-          "adjustment",
-          "object",
-          "accessibility",
-          "document",
-          "capability",
-          "challenge",
-          "editing",
           "font",
-          "substitution",
+          "pdf",
+          "capability",
+          "object",
+          "resolution",
+          "size",
+          "content",
           "consistency",
           "tool",
+          "document",
+          "appearance",
+          "accessibility",
+          "formatting",
+          "adjustment",
+          "performance",
+          "resize",
+          "issue",
+          "editing",
+          "text",
           "feature",
-          "image",
+          "substitution",
+          "file",
+          "challenge",
           "tagging",
           "device",
-          "file",
-          "text",
-          "content",
-          "performance",
-          "pdf"
+          "image"
         ],
         "verbs": [
-          "replace",
-          "occur",
-          "maintain",
-          "suggest",
-          "refer",
-          "add",
-          "address",
-          "learn",
-          "provide",
-          "alter",
           "improve",
+          "replace",
+          "use",
+          "address",
           "edit",
           "enhance",
-          "encounter",
+          "alter",
           "lead",
+          "add",
+          "occur",
+          "provide",
+          "require",
+          "refer",
           "follow",
-          "embed",
-          "use",
-          "require"
+          "learn",
+          "suggest",
+          "maintain",
+          "encounter",
+          "embed"
         ],
         "lemmas": [
-          "Adobe",
-          "formatting",
-          "replace",
-          "occur",
-          "appearance",
-          "maintain",
-          "suggest",
-          "size",
-          "original",
-          "resize",
-          "resolution",
-          "topic",
-          "issue",
-          "manual",
-          "refer",
-          "alternative",
-          "adjustment",
-          "object",
-          "limited",
-          "accessibility",
-          "document",
-          "proper",
-          "capability",
-          "challenge",
-          "add",
-          "address",
-          "provide",
-          "learn",
-          "editing",
-          "font",
-          "improve",
-          "Acrobat",
-          "substitution",
-          "alter",
-          "consistency",
-          "edit",
-          "tool",
-          "feature",
-          "available",
-          "enhance",
-          "powerful",
           "image",
-          "encounter",
-          "lead",
-          "high",
-          "follow",
-          "tagging",
-          "device",
-          "embed",
-          "PDF",
-          "large",
-          "file",
-          "text",
+          "improve",
+          "replace",
+          "topic",
+          "font",
+          "pdf",
+          "capability",
           "use",
-          "require",
+          "Adobe",
+          "address",
+          "edit",
+          "enhance",
+          "object",
+          "alter",
+          "resolution",
+          "proper",
+          "lead",
+          "size",
           "content",
+          "add",
+          "tool",
+          "document",
+          "consistency",
+          "occur",
+          "device",
+          "manual",
+          "provide",
+          "high",
+          "embed",
+          "appearance",
+          "accessibility",
+          "alternative",
+          "formatting",
+          "require",
+          "adjustment",
+          "available",
           "performance",
-          "pdf"
+          "Acrobat",
+          "refer",
+          "follow",
+          "resize",
+          "issue",
+          "editing",
+          "learn",
+          "limited",
+          "feature",
+          "PDF",
+          "substitution",
+          "suggest",
+          "maintain",
+          "file",
+          "powerful",
+          "challenge",
+          "large",
+          "tagging",
+          "original",
+          "encounter",
+          "text"
         ]
       }
     },
@@ -2995,78 +3295,65 @@
           "text"
         ],
         "nouns": [
-          "menu",
-          "device",
-          "tool",
-          "image",
           "text",
-          "pdf"
+          "menu",
+          "pdf",
+          "tool",
+          "device",
+          "image"
         ],
         "verbs": [
           "select",
-          "drop",
           "open",
-          "generate"
+          "drop",
+          "generate",
+          "choose",
+          "edit"
         ],
         "lemmas": [
-          "generate",
-          "menu",
-          "device",
-          "Generate",
-          "Acrobat",
-          "1",
-          "select",
-          "Choose",
-          "tool",
-          "PDF",
-          "Select",
-          "2",
-          "image",
           "text",
-          "Edit",
-          "drop",
+          "menu",
+          "PDF",
           "open",
-          "pdf"
+          "select",
+          "pdf",
+          "Generate",
+          "drop",
+          "generate",
+          "1",
+          "2",
+          "choose",
+          "Select",
+          "Acrobat",
+          "tool",
+          "device",
+          "edit",
+          "image"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H2",
       "text": "Note:",
       "page": 13,
       "paragraphs": [
         "To learn how to generate images from text, go to  Generate unique AI images from text .",
-        "3.   In the dialog, select the image file you want to insert.",
-        "4.   Select where you want to insert the image or select drag to resize it as you insert.",
-        "A copy of the image file appears on the page, with the same resolution as the original",
-        "file.",
-        "5.   Once the image is added, you can take any of the following actions:",
-        "\u2022",
-        "To move the image, hover over the image, press and hold the move icon, and",
-        "then drag the image to the desired location.",
-        "\u2022",
-        "To resize the image, select the image, hold the resize corner handles, and then",
-        "drag the handles in or out to reduce or enlarge the image size."
+        "3.   In the dialog, select the image file you want to insert."
       ],
       "keywords": [
+        "images from text",
         "generate unique",
         "generate images",
         "image file",
-        "images from text",
         "select the image",
-        "select drag",
-        "image size",
+        "unique ai images",
         "dialog",
-        "insert the image",
-        "drag the image"
+        "insert",
+        "learn"
       ],
       "sentences": [
         "To learn how to generate images from text, go to  Generate unique AI images from text .",
-        "In the dialog, select the image file you want to insert.",
-        "4.   Select where you want to insert the image or select drag to resize it as you insert.",
-        "A copy of the image file appears on the page, with the same resolution as the original file.",
-        "Once the image is added, you can take any of the following actions: To move the image, hover over the image, press and hold the move icon, and then drag the image to the desired location.",
-        "To resize the image, select the image, hold the resize corner handles, and then drag the handles in or out to reduce or enlarge the image size."
+        "In the dialog, select the image file you want to insert."
       ],
       "semantic": {
         "tokens": [
@@ -3085,16 +3372,56 @@
           "image",
           "file",
           "want",
+          "insert"
+        ],
+        "nouns": [
+          "text",
+          "file",
+          "dialog",
+          "image"
+        ],
+        "verbs": [
           "insert",
-          "4",
-          "Select",
+          "select",
           "want",
+          "generate",
+          "learn"
+        ],
+        "lemmas": [
           "insert",
           "image",
           "select",
-          "drag",
-          "resize",
-          "insert",
+          "want",
+          "unique",
+          "file",
+          "generate",
+          "dialog",
+          "AI",
+          "3",
+          "text",
+          "learn"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "4.   Select where you want to insert the image or select drag to resize it as you insert.",
+      "page": 14,
+      "paragraphs": [
+        "A copy of the image file appears on the page, with the same resolution as the original",
+        "file."
+      ],
+      "keywords": [
+        "image file",
+        "riginal file",
+        "copy",
+        "resolution"
+      ],
+      "sentences": [
+        "A copy of the image file appears on the page, with the same resolution as the original file."
+      ],
+      "semantic": {
+        "tokens": [
           "copy",
           "image",
           "file",
@@ -3102,12 +3429,59 @@
           "page",
           "resolution",
           "original",
+          "file"
+        ],
+        "nouns": [
+          "resolution",
           "file",
-          "5",
+          "page",
+          "copy",
+          "image"
+        ],
+        "verbs": [
+          "appear"
+        ],
+        "lemmas": [
           "image",
-          "added",
-          "following",
-          "actions",
+          "resolution",
+          "file",
+          "page",
+          "original",
+          "copy",
+          "appear"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "5.   Once the image is added, you can take any of the following actions:",
+      "page": 14,
+      "paragraphs": [
+        "-",
+        "To move the image, hover over the image, press and hold the move icon, and",
+        "then drag the image to the desired location.",
+        "-",
+        "To resize the image, select the image, hold the resize corner handles, and then",
+        "drag the handles in or out to reduce or enlarge the image size."
+      ],
+      "keywords": [
+        "move icon",
+        "desired location",
+        "drag the image",
+        "press and hold",
+        "move the image",
+        "select the image",
+        "image size",
+        "hold the move",
+        "resize corner handles",
+        "enlarge the image"
+      ],
+      "sentences": [
+        "To move the image, hover over the image, press and hold the move icon, and then drag the image to the desired location.",
+        "To resize the image, select the image, hold the resize corner handles, and then drag the handles in or out to reduce or enlarge the image size."
+      ],
+      "semantic": {
+        "tokens": [
           "image",
           "hover",
           "image",
@@ -3134,75 +3508,40 @@
           "size"
         ],
         "nouns": [
-          "drag",
-          "action",
           "icon",
           "press",
           "handle",
-          "file",
-          "size",
-          "text",
-          "image",
-          "copy",
-          "resize",
           "corner",
-          "page",
-          "resolution",
           "location",
-          "dialog"
+          "size",
+          "resize",
+          "image"
         ],
         "verbs": [
-          "generate",
-          "drag",
-          "add",
-          "desire",
-          "reduce",
           "enlarge",
           "select",
           "hold",
-          "insert",
-          "appear",
-          "resize",
-          "want",
-          "follow",
-          "learn"
+          "reduce",
+          "desire",
+          "drag",
+          "resize"
         ],
         "lemmas": [
+          "enlarge",
           "icon",
+          "select",
+          "press",
           "hold",
           "handle",
-          "insert",
-          "original",
-          "size",
-          "resize",
-          "resolution",
-          "location",
-          "desire",
-          "hover",
-          "4",
-          "enlarge",
-          "press",
-          "3",
-          "add",
-          "learn",
-          "dialog",
-          "generate",
-          "drag",
-          "image",
-          "copy",
-          "page",
-          "AI",
-          "follow",
-          "reduce",
-          "select",
-          "action",
-          "file",
-          "unique",
-          "text",
-          "appear",
           "corner",
-          "want",
-          "5"
+          "desire",
+          "location",
+          "hover",
+          "reduce",
+          "size",
+          "drag",
+          "resize",
+          "image"
         ]
       }
     },
@@ -3210,51 +3549,66 @@
       "level": "H1",
       "text": "Modify images in a PDF",
       "page": 14,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "To modify images in a PDF, select  Edit  from the global bar. Select the image you want to",
+      "page": 14,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "modify, then from the  Edit  panel, under  Adjust Objects ,   select one of the following tools:",
+      "page": 14,
       "paragraphs": [
-        "To modify images in a PDF, select  Edit  from the global bar. Select the image you want to",
-        "modify, then from the  Edit  panel, under  Adjust Objects ,   select one of the following tools:",
-        "\u2022",
+        "-",
         "Flip Vertical: Flips the image vertically, on the horizontal axis.",
-        "\u2022",
+        "-",
         "Flip Horizontal: Flips the image horizontally, on the vertical axis.",
-        "\u2022",
-        "Rotate left: Rotates the selected image 90\u00b0 in the counterclockwise direction.",
-        "\u2022",
-        "Rotate right: Rotates the selected image 90\u00b0 in the clockwise direction.",
-        "\u2022",
+        "-",
+        "Rotate left: Rotates the selected image 90 in the counterclockwise direction.",
+        "-",
+        "Rotate right: Rotates the selected image 90 in the clockwise direction.",
+        "-",
         "Crop image: Crops or clips the selected image. Drag a selection handle to  crop the image .",
-        "\u2022",
+        "-",
         "Replace image: From the drop-down menu, select  Choose image  to select an image",
         "from your device or Select  Generate image  to an image from text.",
-        "\u2022",
+        "-",
         "Align objects: To align multiple objects on a side - left, vertical center, right, top,",
         "horizontal, center, and bottom.",
         "When you align objects relative to each other by their edges, one of the objects remains",
         "stationary. For example, the left option aligns the left edges of the selected objects with the",
         "leftmost object.",
-        "\u2022",
+        "-",
         "Arrange objects: To move an image or object in front of or behind other elements. You",
         "can push an item forward or back on just one level. Alternatively, you can send it to the front",
         "or back of the stacking order of elements on the page."
       ],
       "keywords": [
-        "select edit",
-        "select choose image",
-        "select generate image",
-        "selected image",
         "flip vertical",
         "flip horizontal",
-        "global bar",
-        "pdf",
-        "edit panel",
-        "adjust objects"
+        "selected image",
+        "horizontal axis",
+        "vertical axis",
+        "image vertically",
+        "flips the image",
+        "select choose image",
+        "select generate image",
+        "rotates the selected"
       ],
       "sentences": [
-        "To modify images in a PDF, select  Edit  from the global bar.",
-        "Select the image you want to modify, then from the  Edit  panel, under  Adjust Objects ,   select one of the following tools: Flip Vertical: Flips the image vertically, on the horizontal axis.",
+        "Flip Vertical: Flips the image vertically, on the horizontal axis.",
         "Flip Horizontal: Flips the image horizontally, on the vertical axis.",
-        "Rotate left: Rotates the selected image 90\u00b0 in the counterclockwise direction.",
-        "Rotate right: Rotates the selected image 90\u00b0 in the clockwise direction.",
+        "Rotate left: Rotates the selected image 90 in the counterclockwise direction.",
+        "Rotate right: Rotates the selected image 90 in the clockwise direction.",
         "Crop image: Crops or clips the selected image.",
         "Drag a selection handle to  crop the image .",
         "Replace image: From the drop-down menu, select  Choose image  to select an image from your device or Select  Generate image  to an image from text.",
@@ -3267,24 +3621,6 @@
       ],
       "semantic": {
         "tokens": [
-          "modify",
-          "images",
-          "PDF",
-          "select",
-          "Edit",
-          "global",
-          "bar",
-          "Select",
-          "image",
-          "want",
-          "modify",
-          "Edit",
-          "panel",
-          "Adjust",
-          "Objects",
-          "select",
-          "following",
-          "tools",
           "Flip",
           "Vertical",
           "Flips",
@@ -3305,7 +3641,6 @@
           "selected",
           "image",
           "90",
-          "\u00b0",
           "counterclockwise",
           "direction",
           "Rotate",
@@ -3314,7 +3649,6 @@
           "selected",
           "image",
           "90",
-          "\u00b0",
           "clockwise",
           "direction",
           "Crop",
@@ -3388,148 +3722,123 @@
           "page"
         ],
         "nouns": [
-          "bar",
-          "clockwise",
-          "axis",
-          "order",
-          "item",
-          "direction",
-          "selection",
-          "leftmost",
-          "counterclockwise",
-          "object",
-          "right",
-          "element",
-          "\u00b0",
-          "crop",
-          "example",
-          "drag",
-          "clip",
-          "tool",
           "image",
-          "panel",
-          "arrange",
-          "page",
-          "center",
-          "edge",
-          "menu",
-          "device",
-          "level",
-          "text",
-          "option",
+          "clockwise",
+          "clip",
+          "element",
+          "example",
+          "counterclockwise",
           "stacking",
-          "pdf"
+          "center",
+          "object",
+          "edge",
+          "direction",
+          "menu",
+          "crop",
+          "level",
+          "item",
+          "leftmost",
+          "page",
+          "right",
+          "axis",
+          "option",
+          "arrange",
+          "order",
+          "selection",
+          "drag",
+          "device",
+          "text"
         ],
         "verbs": [
-          "rotate",
           "replace",
           "select",
           "remain",
-          "send",
           "handle",
-          "leave",
-          "want",
-          "push",
-          "drop",
-          "modify",
           "crop",
-          "align"
+          "drop",
+          "push",
+          "choose",
+          "rotate",
+          "align",
+          "send",
+          "leave"
         ],
         "lemmas": [
-          "bar",
-          "rotate",
           "replace",
           "clockwise",
-          "axis",
-          "Choose",
-          "send",
-          "order",
-          "handle",
-          "item",
-          "push",
-          "horizontal",
-          "stacking",
-          "direction",
-          "relative",
-          "selection",
-          "Flip",
-          "leftmost",
-          "counterclockwise",
-          "object",
-          "right",
-          "Flips",
-          "Edit",
-          "90",
-          "\u00b0",
-          "element",
-          "crop",
-          "multiple",
-          "example",
-          "modify",
-          "drag",
-          "Generate",
-          "left",
           "clip",
-          "Adjust",
+          "element",
+          "example",
+          "drag",
           "alternatively",
-          "tool",
-          "leave",
-          "Rotate",
-          "image",
-          "Horizontal",
-          "forward",
-          "panel",
-          "drop",
-          "Objects",
-          "arrange",
-          "center",
+          "counterclockwise",
+          "Vertical",
+          "rotate",
           "align",
+          "stacking",
+          "leave",
+          "center",
+          "object",
           "edge",
-          "page",
+          "direction",
           "menu",
-          "device",
+          "Generate",
+          "multiple",
+          "remain",
+          "stationary",
+          "Horizontal",
+          "handle",
+          "crop",
+          "left",
+          "choose",
+          "level",
+          "forward",
+          "vertically",
+          "Rotate",
+          "send",
+          "90",
+          "vertical",
+          "relative",
           "horizontally",
-          "following",
+          "item",
+          "leftmost",
+          "push",
+          "page",
+          "Flips",
+          "horizontal",
+          "right",
+          "text",
           "select",
           "Rotates",
-          "level",
-          "remain",
-          "vertical",
-          "global",
-          "text",
+          "axis",
           "option",
-          "stationary",
-          "vertically",
-          "want",
-          "Vertical",
-          "pdf"
+          "arrange",
+          "drop",
+          "order",
+          "selection",
+          "Flip",
+          "device",
+          "image"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Note:",
       "page": 14,
       "paragraphs": [
-        "Place the pointer just outside a selection handle to rotate the selected image manually. When the",
-        "cursor changes to the rotation pointer",
-        ", drag in the direction you want it to turn."
+        "Place the pointer just outside a selection handle to rotate the selected image manually. When the"
       ],
       "keywords": [
         "selected image manually",
+        "place the pointer",
         "selection handle",
         "handle to rotate",
-        "rotate the selected",
-        "place the pointer",
-        "rotation pointer",
-        "drag",
-        "turn",
-        "cursor",
-        "direction"
+        "rotate the selected"
       ],
       "sentences": [
         "Place the pointer just outside a selection handle to rotate the selected image manually.",
-        "When the cursor changes to the rotation pointer , drag in the direction you want it to turn."
+        "When the"
       ],
       "semantic": {
         "tokens": [
@@ -3541,50 +3850,66 @@
           "rotate",
           "selected",
           "image",
-          "manually",
-          "cursor",
-          "changes",
-          "rotation",
+          "manually"
+        ],
+        "nouns": [
           "pointer",
+          "handle",
+          "image",
+          "selection"
+        ],
+        "verbs": [
+          "rotate",
+          "select",
+          "place"
+        ],
+        "lemmas": [
+          "image",
+          "select",
+          "outside",
+          "handle",
+          "rotate",
+          "selection",
+          "pointer",
+          "manually",
+          "place"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "cursor changes to the rotation pointer",
+      "page": 14,
+      "paragraphs": [
+        ", drag in the direction you want it to turn."
+      ],
+      "keywords": [
+        "drag",
+        "turn",
+        "direction"
+      ],
+      "sentences": [
+        ", drag in the direction you want it to turn."
+      ],
+      "semantic": {
+        "tokens": [
           "drag",
           "direction",
           "want",
           "turn"
         ],
         "nouns": [
-          "selection",
-          "pointer",
-          "handle",
-          "rotation",
-          "cursor",
-          "image",
           "direction"
         ],
         "verbs": [
-          "drag",
-          "rotate",
-          "select",
-          "place",
           "want",
-          "change",
+          "drag",
           "turn"
         ],
         "lemmas": [
-          "manually",
-          "drag",
-          "pointer",
-          "selection",
-          "rotate",
-          "select",
-          "place",
-          "handle",
-          "rotation",
-          "cursor",
-          "image",
-          "outside",
           "want",
+          "drag",
           "direction",
-          "change",
           "turn"
         ]
       }
@@ -3596,27 +3921,24 @@
       "paragraphs": [
         "1.   Open the PDF document in Adobe Acrobat. Select  Edit  from the global bar.",
         "2.   Select the image you want to delete, and a contextual menu opens. Select",
-        "Delete     from the contextual menu.",
-        "Alternatively, you can also select the image and press  Delete ."
+        "Delete     from the contextual menu."
       ],
       "keywords": [
         "adobe acrobat",
+        "select edit",
         "pdf document",
         "document in adobe",
-        "select edit",
-        "open the pdf",
         "select delete",
-        "select the image",
-        "press delete",
+        "open the pdf",
         "global bar",
-        "contextual menu opens"
+        "contextual menu opens",
+        "select the image"
       ],
       "sentences": [
         "1.   Open the PDF document in Adobe Acrobat.",
         "Select  Edit  from the global bar.",
         "2.   Select the image you want to delete, and a contextual menu opens.",
-        "Select Delete     from the contextual menu.",
-        "Alternatively, you can also select the image and press  Delete ."
+        "Select Delete     from the contextual menu."
       ],
       "semantic": {
         "tokens": [
@@ -3641,49 +3963,50 @@
           "Select",
           "Delete",
           "contextual",
-          "menu",
-          "Alternatively",
-          "select",
-          "image",
-          "press",
-          "Delete"
+          "menu"
         ],
         "nouns": [
-          "menu",
           "bar",
-          "press",
           "document",
+          "menu",
           "image"
         ],
         "verbs": [
-          "select",
-          "open",
           "want",
-          "delete"
+          "delete",
+          "select",
+          "open"
         ],
         "lemmas": [
-          "Adobe",
-          "bar",
-          "1",
-          "open",
-          "Delete",
-          "press",
-          "delete",
-          "Select",
-          "document",
+          "global",
           "contextual",
-          "Edit",
-          "Acrobat",
-          "alternatively",
-          "image",
-          "menu",
           "select",
           "PDF",
+          "open",
+          "menu",
+          "want",
+          "Delete",
+          "delete",
+          "1",
+          "bar",
           "2",
-          "global",
-          "want"
+          "Adobe",
+          "Select",
+          "Edit",
+          "Acrobat",
+          "document",
+          "image"
         ]
       }
+    },
+    {
+      "level": "H3",
+      "text": "Alternatively, you can also select the image and press  Delete .",
+      "page": 15,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
     },
     {
       "level": "H1",
@@ -3700,35 +4023,19 @@
         "3.   In the dialog that appears, provide a name to the button.",
         "4.   To change the properties of the button, double-click the button and then select",
         "in the dialog that appears, set the properties as desired.",
-        "3.   To add a video:",
-        "1.   From the left menu, select  Video .",
-        "2.   Drag your cursor on the document where you want to add the video.",
-        "3.   In the  Insert Video  dialog that appears, browse and select the video file that you",
-        "want to add.",
-        "4.   Select  OK .",
-        "4.   To add sound to the PDF:",
-        "1.   From the left menu, select  Sound .",
-        "2.   Drag the cursor over the text or image that you want to add sound to.",
-        "3.   In the  Insert Sound  dialog that appears, browse and select the audio file that",
-        "you want to add.",
-        "4.   Select OK.",
-        "5.   To add 3D Media to the video:",
-        "1.   From the left menu, select  3D Media .",
-        "2.   Once the button coordinates appear, move the mouse to a desired location",
-        "and place the button.",
-        "3.   In the dialog that appears, browse and select the file."
+        "3.   To add a video:"
       ],
       "keywords": [
-        "left menu",
-        "select edit",
-        "add sound",
-        "add content",
         "edit a pdf",
-        "insert video dialog",
-        "desired",
+        "add content",
+        "open a pdf",
+        "select edit",
+        "content to expand",
         "select button",
-        "insert sound dialog",
-        "button coordinates"
+        "desired tool",
+        "tools menu",
+        "left menu",
+        "left panel"
       ],
       "sentences": [
         "1.   Open a PDF, and then from the  All tools  menu, select  Edit a PDF .",
@@ -3738,18 +4045,7 @@
         "Once the button coordinates appear, move the mouse to a desired location and place the button.",
         "In the dialog that appears, provide a name to the button.",
         "To change the properties of the button, double-click the button and then select in the dialog that appears, set the properties as desired.",
-        "To add a video: 1.   From the left menu, select  Video .",
-        "2.   Drag your cursor on the document where you want to add the video.",
-        "In the  Insert Video  dialog that appears, browse and select the video file that you want to add.",
-        "4.   Select  OK .",
-        "To add sound to the PDF: 1.   From the left menu, select  Sound .",
-        "2.   Drag the cursor over the text or image that you want to add sound to.",
-        "In the  Insert Sound  dialog that appears, browse and select the audio file that you want to add.",
-        "4.   Select OK.",
-        "To add 3D Media to the video:",
-        "1.   From the left menu, select  3D Media .",
-        "Once the button coordinates appear, move the mouse to a desired location and place the button.",
-        "In the dialog that appears, browse and select the file."
+        "To add a video:"
       ],
       "semantic": {
         "tokens": [
@@ -3809,37 +4105,188 @@
           "desired",
           "3",
           "add",
+          "video"
+        ],
+        "nouns": [
           "video",
-          "1",
-          "left",
           "menu",
+          "panel",
+          "pdf",
+          "coordinate",
+          "location",
+          "dialog",
+          "mouse",
+          "tool",
+          "button",
+          "property"
+        ],
+        "verbs": [
+          "provide",
+          "menu",
+          "open",
           "select",
-          "Video",
+          "expand",
+          "place",
+          "change",
+          "desire",
+          "click",
+          ".from",
+          "set",
+          "add",
+          "edit",
+          "appear"
+        ],
+        "lemmas": [
+          "panel",
+          "pdf",
+          "coordinate",
+          "desire",
+          "location",
+          "button",
+          "edit",
+          "appear",
+          "place",
+          "menu",
+          "left",
+          "Add",
+          "2",
+          "add",
+          "tool",
+          "mouse",
+          "provide",
+          "open",
+          "expand",
+          "Button",
+          "change",
+          "1",
+          ".from",
+          "4",
+          "property",
+          "set",
+          "double",
+          "video",
+          "select",
+          "click",
+          "dialog",
+          "3",
+          "Content"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "1.   From the left menu, select  Video .",
+      "page": 16,
+      "paragraphs": [
+        "2.   Drag your cursor on the document where you want to add the video."
+      ],
+      "keywords": [
+        "drag your cursor",
+        "add the vide",
+        "document"
+      ],
+      "sentences": [
+        "2.   Drag your cursor on the document where you want to add the video."
+      ],
+      "semantic": {
+        "tokens": [
           "2",
           "Drag",
           "cursor",
           "document",
           "want",
           "add",
-          "video",
-          "3",
-          "Insert",
-          "Video",
-          "dialog",
-          "appears",
-          "browse",
-          "select",
-          "video",
-          "file",
+          "video"
+        ],
+        "nouns": [
+          "cursor",
+          "document",
+          "video"
+        ],
+        "verbs": [
+          "add",
           "want",
+          "drag"
+        ],
+        "lemmas": [
+          "video",
+          "document",
+          "want",
+          "cursor",
+          "2",
           "add",
-          "4",
-          "Select",
-          "OK",
-          "4",
+          "drag"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "3.   In the  Insert Video  dialog that appears, browse and select the video file that you",
+      "page": 16,
+      "paragraphs": [
+        "want to add."
+      ],
+      "keywords": [
+        "add"
+      ],
+      "sentences": [
+        "want to add."
+      ],
+      "semantic": {
+        "tokens": [
+          "want",
+          "add"
+        ],
+        "nouns": [],
+        "verbs": [
           "add",
-          "sound",
-          "PDF",
+          "want"
+        ],
+        "lemmas": [
+          "add",
+          "want"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "4.   Select  OK .",
+      "page": 16,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "4.   To add sound to the PDF:",
+      "page": 16,
+      "paragraphs": [
+        "1.   From the left menu, select  Sound .",
+        "2.   Drag the cursor over the text or image that you want to add sound to.",
+        "3.   In the  Insert Sound  dialog that appears, browse and select the audio file that",
+        "you want to add.",
+        "4.   Select OK."
+      ],
+      "keywords": [
+        "insert sound dialog",
+        "drag the cursor",
+        "select sound",
+        "add sound",
+        "left menu",
+        "text or image",
+        "audio file",
+        "browse and select",
+        "select the audi"
+      ],
+      "sentences": [
+        "1.   From the left menu, select  Sound .",
+        "2.   Drag the cursor over the text or image that you want to add sound to.",
+        "In the  Insert Sound  dialog that appears, browse and select the audio file that you want to add.",
+        "Select OK."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "left",
           "menu",
@@ -3866,12 +4313,83 @@
           "add",
           "4",
           "Select",
-          "OK",
-          "5",
+          "OK"
+        ],
+        "nouns": [
+          "text",
+          "menu",
+          "cursor",
+          "sound",
+          "file",
+          "dialog",
+          "image"
+        ],
+        "verbs": [
+          "browse",
+          "select",
+          "want",
           "add",
-          "3D",
-          "Media",
-          "video",
+          "drag",
+          "appear"
+        ],
+        "lemmas": [
+          "appear",
+          "OK",
+          "menu",
+          "cursor",
+          "want",
+          "left",
+          "2",
+          "add",
+          "Sound",
+          "1",
+          "Select",
+          "4",
+          "text",
+          "Insert",
+          "select",
+          "browse",
+          "sound",
+          "file",
+          "dialog",
+          "drag",
+          "3",
+          "audio",
+          "image"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "5.   To add 3D Media to the video:",
+      "page": 16,
+      "paragraphs": [
+        "1.   From the left menu, select  3D Media .",
+        "2.   Once the button coordinates appear, move the mouse to a desired location",
+        "and place the button.",
+        "3.   In the dialog that appears, browse and select the file.",
+        "4.   Select  Ok ."
+      ],
+      "keywords": [
+        "media",
+        "button coordinates",
+        "place the button",
+        "left menu",
+        "move the mouse",
+        "desired location",
+        "location and place",
+        "select the file",
+        "browse and select",
+        "dialog"
+      ],
+      "sentences": [
+        "1.   From the left menu, select  3D Media .",
+        "Once the button coordinates appear, move the mouse to a desired location and place the button.",
+        "In the dialog that appears, browse and select the file.",
+        "4.   Select  Ok ."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "left",
           "menu",
@@ -3892,109 +4410,51 @@
           "appears",
           "browse",
           "select",
-          "file"
+          "file",
+          "4",
+          "Select",
+          "Ok"
         ],
         "nouns": [
+          "3d",
           "menu",
-          "button",
-          "dialog",
-          "video",
           "coordinate",
-          "tool",
-          "sound",
           "file",
-          "cursor",
-          "document",
-          "text",
-          "image",
-          "panel",
-          "mouse",
           "location",
-          "property",
-          "pdf"
+          "dialog",
+          "mouse",
+          "button"
         ],
         "verbs": [
-          "desire",
-          "drag",
-          "browse",
-          ".from",
           "select",
-          "place",
-          "click",
-          "expand",
-          "want",
+          "browse",
           "appear",
-          "set",
-          "add",
-          "open",
-          "change",
-          "provide"
+          "desire",
+          "place"
         ],
         "lemmas": [
-          "audio",
-          "Sound",
+          "coordinate",
+          "desire",
+          "location",
+          "button",
+          "place",
+          "appear",
+          "menu",
+          "left",
+          "2",
+          "mouse",
           "3d",
           "1",
-          "sound",
-          "want",
-          "open",
-          "change",
-          "property",
-          "location",
-          "desire",
-          "set",
           "4",
-          "place",
-          "Video",
-          "Select",
-          "expand",
-          "document",
           "Media",
-          "add",
-          "Edit",
-          "OK",
-          "video",
-          "provide",
-          "dialog",
-          "double",
-          "left",
-          "drag",
-          "Insert",
-          ".from",
-          "button",
-          "Add",
-          "tool",
-          "ok",
-          "image",
-          "panel",
-          "mouse",
-          "Content",
-          "menu",
-          "browse",
-          "Button",
           "select",
-          "coordinate",
-          "click",
-          "PDF",
+          "browse",
           "file",
-          "cursor",
-          "2",
-          "text",
-          "appear",
-          "3",
-          "5",
-          "pdf"
+          "dialog",
+          "ok",
+          "3"
         ]
       }
-    },
-    {
-      "level": "H1",
-      "text": "4.   Select  Ok .",
-      "page": 16,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
     },
     {
       "level": "H1",
@@ -4002,43 +4462,23 @@
       "page": 16,
       "paragraphs": [
         "You can edit an image or graphic using another application, such as Photoshop, Illustrator, or",
-        "Microsoft\u00ae Paint. When you save the image or graphic, Acrobat automatically updates the PDF",
-        "with the changes. The applications that appear in the  Edit using  menu depend upon what",
-        "you've installed and the type of image or graphic you've selected. Optionally, you can specify",
-        "the application you want to use.",
-        "1.   Open the PDF in Acrobat, choose  Edit , and then select the image or object.",
-        "Note:  Select multiple items if you want to edit them together in the same file. To edit all the",
-        "images and objects on the page, choose  Select All  from the context menu.",
-        "2.   Under  Adjust Objects  in the Edit panel, select  Edit using , and then choose an editor.",
-        "To choose a different editor than offered on the menu, select  Open with , find the app, and the app",
-        "and select  Open .",
-        "Note:  If a message asks whether to convert to ICC profiles, choose  Don\u2019t Convert . If the image",
-        "window displays a checkerboard pattern when it opens, the image data couldn't be read."
+        "Microsoft Paint. When you save the image or graphic, Acrobat automatically updates the PDF"
       ],
       "keywords": [
-        "image or graphic",
         "illustrator",
         "paint",
-        "select open",
+        "image or graphic",
+        "acrobat automatically updates",
         "photoshop",
         "microsoft",
-        "acrobat automatically updates",
-        "select edit",
         "updates the pdf",
-        "choose edit"
+        "edit an image",
+        "application",
+        "save the image"
       ],
       "sentences": [
-        "You can edit an image or graphic using another application, such as Photoshop, Illustrator, or Microsoft\u00ae Paint.",
-        "When you save the image or graphic, Acrobat automatically updates the PDF with the changes.",
-        "The applications that appear in the  Edit using  menu depend upon what you've installed and the type of image or graphic you've selected.",
-        "Optionally, you can specify the application you want to use.",
-        "1.   Open the PDF in Acrobat, choose  Edit , and then select the image or object.",
-        "Note:  Select multiple items if you want to edit them together in the same file.",
-        "To edit all the images and objects on the page, choose  Select All  from the context menu.",
-        "2.   Under  Adjust Objects  in the Edit panel, select  Edit using , and then choose an editor.",
-        "To choose a different editor than offered on the menu, select  Open with , find the app, and the app and select  Open .",
-        "Note:  If a message asks whether to convert to ICC profiles, choose  Don\u2019t Convert .",
-        "If the image window displays a checkerboard pattern when it opens, the image data couldn't be read."
+        "You can edit an image or graphic using another application, such as Photoshop, Illustrator, or Microsoft Paint.",
+        "When you save the image or graphic, Acrobat automatically updates the PDF"
       ],
       "semantic": {
         "tokens": [
@@ -4049,7 +4489,6 @@
           "Photoshop",
           "Illustrator",
           "Microsoft",
-          "\u00ae",
           "Paint",
           "save",
           "image",
@@ -4057,23 +4496,103 @@
           "Acrobat",
           "automatically",
           "updates",
+          "PDF"
+        ],
+        "nouns": [
+          "graphic",
+          "application",
+          "image"
+        ],
+        "verbs": [
+          "update",
+          "save",
+          "edit"
+        ],
+        "lemmas": [
+          "application",
+          "save",
           "PDF",
-          "changes",
-          "applications",
-          "appear",
-          "Edit",
-          "menu",
-          "depend",
+          "Microsoft",
+          "Photoshop",
+          "Illustrator",
+          "update",
+          "graphic",
+          "Acrobat",
+          "automatically",
+          "edit",
+          "image",
+          "Paint"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "with the changes. The applications that appear in the  Edit using  menu depend upon what",
+      "page": 16,
+      "paragraphs": [
+        "you've installed and the type of image or graphic you've selected. Optionally, you can specify"
+      ],
+      "keywords": [
+        "graphic you selected",
+        "type of image",
+        "image or graphic",
+        "installed",
+        "optionally"
+      ],
+      "sentences": [
+        "you've installed and the type of image or graphic you've selected.",
+        "Optionally, you can specify"
+      ],
+      "semantic": {
+        "tokens": [
           "installed",
           "type",
           "image",
           "graphic",
           "selected",
           "Optionally",
+          "specify"
+        ],
+        "nouns": [
+          "graphic",
+          "type",
+          "image"
+        ],
+        "verbs": [
           "specify",
-          "application",
-          "want",
-          "use",
+          "select",
+          "instal"
+        ],
+        "lemmas": [
+          "type",
+          "specify",
+          "select",
+          "instal",
+          "graphic",
+          "optionally",
+          "image"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "the application you want to use.",
+      "page": 16,
+      "paragraphs": [
+        "1.   Open the PDF in Acrobat, choose  Edit , and then select the image or object."
+      ],
+      "keywords": [
+        "pdf in acrobat",
+        "choose edit",
+        "open the pdf",
+        "image or object",
+        "select the image"
+      ],
+      "sentences": [
+        "1.   Open the PDF in Acrobat, choose  Edit , and then select the image or object."
+      ],
+      "semantic": {
+        "tokens": [
           "1",
           "Open",
           "PDF",
@@ -4082,22 +4601,57 @@
           "Edit",
           "select",
           "image",
+          "object"
+        ],
+        "nouns": [
           "object",
-          "Note",
-          "Select",
-          "multiple",
-          "items",
-          "want",
-          "edit",
-          "file",
-          "edit",
-          "images",
-          "objects",
-          "page",
+          "image"
+        ],
+        "verbs": [
           "choose",
-          "Select",
-          "context",
-          "menu",
+          "select",
+          "open"
+        ],
+        "lemmas": [
+          "object",
+          "select",
+          "PDF",
+          "open",
+          "1",
+          "choose",
+          "Edit",
+          "Acrobat",
+          "image"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Note:  Select multiple items if you want to edit them together in the same file. To edit all the",
+      "page": 16,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "images and objects on the page, choose  Select All  from the context menu.",
+      "page": 16,
+      "paragraphs": [
+        "2.   Under  Adjust Objects  in the Edit panel, select  Edit using , and then choose an editor."
+      ],
+      "keywords": [
+        "adjust objects",
+        "edit panel",
+        "select edit",
+        "choose an editor"
+      ],
+      "sentences": [
+        "2.   Under  Adjust Objects  in the Edit panel, select  Edit using , and then choose an editor."
+      ],
+      "semantic": {
+        "tokens": [
           "2",
           "Adjust",
           "Objects",
@@ -4106,28 +4660,65 @@
           "select",
           "Edit",
           "choose",
+          "editor"
+        ],
+        "nouns": [
           "editor",
-          "choose",
-          "different",
-          "editor",
-          "offered",
-          "menu",
+          "panel"
+        ],
+        "verbs": [
+          "choose"
+        ],
+        "lemmas": [
           "select",
-          "Open",
-          "find",
-          "app",
-          "app",
-          "select",
-          "Open",
-          "Note",
-          "message",
-          "asks",
-          "convert",
-          "ICC",
-          "profiles",
+          "panel",
+          "2",
           "choose",
-          "Convert",
-          "image",
+          "Edit",
+          "Adjust",
+          "Objects",
+          "editor"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "To choose a different editor than offered on the menu, select  Open with , find the app, and the app",
+      "page": 16,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "and select  Open .",
+      "page": 16,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "Note:  If a message asks whether to convert to ICC profiles, choose  Don't Convert . If the image",
+      "page": 16,
+      "paragraphs": [
+        "window displays a checkerboard pattern when it opens, the image data couldn't be read."
+      ],
+      "keywords": [
+        "window displays",
+        "displays a checkerboard",
+        "checkerboard pattern",
+        "image data",
+        "pens",
+        "read"
+      ],
+      "sentences": [
+        "window displays a checkerboard pattern when it opens, the image data couldn't be read."
+      ],
+      "semantic": {
+        "tokens": [
           "window",
           "displays",
           "checkerboard",
@@ -4138,108 +4729,26 @@
           "read"
         ],
         "nouns": [
-          "context",
-          "message",
-          "datum",
-          "application",
-          "item",
           "checkerboard",
-          "change",
-          "editor",
           "window",
           "pattern",
-          "type",
-          "graphic",
-          "object",
-          "\u00ae",
-          "app",
-          "image",
-          "panel",
-          "page",
-          "menu",
-          "note",
-          "profile",
-          "file"
+          "datum",
+          "image"
         ],
         "verbs": [
-          "specify",
           "display",
-          "open",
-          "edit",
-          "select",
-          "find",
-          "offer",
           "read",
-          "ask",
-          "save",
-          "appear",
-          "instal",
-          "depend",
-          "use",
-          "update",
-          "want",
-          "choose",
-          "convert"
+          "open"
         ],
         "lemmas": [
-          "specify",
-          "context",
-          "message",
-          "datum",
-          "1",
-          "offer",
-          "Paint",
-          "application",
-          "item",
-          "different",
-          "Photoshop",
-          "choose",
-          "open",
-          "checkerboard",
-          "change",
-          "editor",
-          "window",
-          "Open",
-          "pattern",
-          "type",
-          "graphic",
-          "object",
-          "ask",
-          "Select",
-          "optionally",
-          "read",
-          "Edit",
-          "\u00ae",
-          "update",
-          "multiple",
-          "display",
-          "Acrobat",
-          "Adjust",
-          "edit",
-          "app",
-          "Microsoft",
-          "ICC",
-          "save",
           "image",
-          "instal",
-          "panel",
-          "page",
-          "Objects",
-          "menu",
-          "note",
-          "Illustrator",
-          "profile",
-          "select",
-          "find",
-          "PDF",
-          "automatically",
-          "file",
-          "2",
-          "appear",
-          "use",
-          "depend",
-          "want",
-          "convert"
+          "checkerboard",
+          "open",
+          "read",
+          "display",
+          "pattern",
+          "datum",
+          "window"
         ]
       }
     }

@@ -12,45 +12,29 @@
       "level": "H1",
       "text": "ADDRESS:",
       "page": 1,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
-      "text": "TOPJUMP",
-      "page": 1,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
-      "text": "3735  PARKWAY",
-      "page": 1,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
-      "text": "PIGEON FORGE, TN 37863",
-      "page": 1,
       "paragraphs": [
+        "TOPJUMP",
+        "3735  PARKWAY",
+        "PIGEON FORGE, TN 37863",
         "(NEAR DIXIE STAMPEDE  ON  THE PARKWAY)"
       ],
       "keywords": [
+        "parkway pigeon forge",
         "dixie stampede",
-        "parkway"
+        "topjump"
       ],
       "sentences": [
-        "(NEAR DIXIE STAMPEDE  ON  THE PARKWAY)"
+        "TOPJUMP 3735  PARKWAY PIGEON FORGE, TN 37863 (NEAR DIXIE STAMPEDE  ON  THE PARKWAY)"
       ],
       "semantic": {
         "tokens": [
+          "TOPJUMP",
+          "3735",
+          "PARKWAY",
+          "PIGEON",
+          "FORGE",
+          "TN",
+          "37863",
           "NEAR",
           "DIXIE",
           "STAMPEDE",
@@ -59,10 +43,16 @@
         "nouns": [],
         "verbs": [],
         "lemmas": [
+          "PIGEON",
+          "3735",
+          "37863",
+          "FORGE",
+          "TN",
           "STAMPEDE",
-          "NEAR",
           "DIXIE",
-          "PARKWAY"
+          "PARKWAY",
+          "TOPJUMP",
+          "NEAR"
         ]
       }
     },
@@ -72,19 +62,25 @@
       "page": 1,
       "paragraphs": [
         "CLOSED TOED SHOES  ARE  REQUIRED FOR CLIMBING",
-        "PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,"
+        "PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,",
+        "PLEASE VISIT  TOPJUMP.COM  TO  FILL  OUT  WAIVER",
+        "SO YOUR CHILD CAN ATTEND."
       ],
       "keywords": [
         "closed toed shoes",
         "attending the party",
+        "child can attend",
         "shoes are required",
         "required for climbing",
         "climbing parents",
         "parents or guardians",
-        "guardians not attending"
+        "guardians not attending",
+        "fill out waiver",
+        "visit topjump.com"
       ],
       "sentences": [
-        "CLOSED TOED SHOES  ARE  REQUIRED FOR CLIMBING PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY,"
+        "CLOSED TOED SHOES  ARE  REQUIRED FOR CLIMBING PARENTS  OR  GUARDIANS NOT ATTENDING THE PARTY, PLEASE VISIT  TOPJUMP.COM  TO  FILL  OUT  WAIVER",
+        "YOUR CHILD CAN ATTEND."
       ],
       "semantic": {
         "tokens": [
@@ -96,56 +92,39 @@
           "PARENTS",
           "GUARDIANS",
           "ATTENDING",
-          "PARTY"
-        ],
-        "nouns": [
-          "climbing",
-          "party",
-          "shoe",
-          "guardian"
-        ],
-        "verbs": [
-          "require",
-          "attend"
-        ],
-        "lemmas": [
-          "party",
-          "PARENTS",
-          "TOED",
-          "climbing",
-          "guardian",
-          "require",
-          "CLOSED",
-          "shoe",
-          "attend"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "PLEASE VISIT  TOPJUMP.COM  TO  FILL  OUT  WAIVER",
-      "page": 1,
-      "paragraphs": [
-        "SO YOUR CHILD CAN ATTEND."
-      ],
-      "keywords": [
-        "child can attend"
-      ],
-      "sentences": [
-        "SO YOUR CHILD CAN ATTEND."
-      ],
-      "semantic": {
-        "tokens": [
+          "PARTY",
+          "VISIT",
+          "TOPJUMP.COM",
+          "FILL",
+          "WAIVER",
           "CHILD",
           "ATTEND"
         ],
         "nouns": [
-          "child"
+          "child",
+          "climbing",
+          "guardian",
+          "party"
         ],
-        "verbs": [],
+        "verbs": [
+          "attend"
+        ],
         "lemmas": [
           "child",
-          "ATTEND"
+          "party",
+          "guardian",
+          "REQUIRED",
+          "SHOES",
+          "CLOSED",
+          "TOPJUMP.COM",
+          "WAIVER",
+          "ATTEND",
+          "TOED",
+          "FILL",
+          "attend",
+          "PARENTS",
+          "VISIT",
+          "climbing"
         ]
       }
     },
@@ -153,19 +132,25 @@
       "level": "H1",
       "text": "HOPE  To  SEE  Y ou  T HERE !",
       "page": 1,
-      "paragraphs": [],
+      "paragraphs": [
+        "WWW.TOPJUMP.COM"
+      ],
       "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
-      "text": "WWW.TOPJUMP.COM",
-      "page": 1,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
+      "sentences": [
+        "WWW.TOPJUMP.COM"
+      ],
+      "semantic": {
+        "tokens": [
+          "WWW.TOPJUMP.COM"
+        ],
+        "nouns": [
+          "WWW.TOPJUMP.COM"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "WWW.TOPJUMP.COM"
+        ]
+      }
     }
   ]
 }

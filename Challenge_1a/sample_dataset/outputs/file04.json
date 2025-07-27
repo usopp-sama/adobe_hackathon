@@ -34,28 +34,27 @@
     },
     {
       "level": "H1",
-      "text": "Mission Statement:\u00a0   To provide PTHSD high school students with the opportunity to",
+      "text": "Mission Statement:    To provide PTHSD high school students with the opportunity to",
       "page": 1,
       "paragraphs": [
         "concentrate their studies, beyond those required in high school, in the areas of science,",
         "technology, engineering, and mathematics, and expose students to relevant real world",
-        "experiences through project work, conferences and presentations to enhance their high school",
-        "experience."
+        "experiences through project work, conferences and presentations to enhance their high school"
       ],
       "keywords": [
         "relevant real world",
         "real world experiences",
-        "high school experience",
+        "high school",
         "concentrate their studies",
         "areas of science",
         "project work",
         "conferences and presentations",
         "expose students",
         "students to relevant",
-        "presentations to enhance"
+        "experiences through project"
       ],
       "sentences": [
-        "concentrate their studies, beyond those required in high school, in the areas of science, technology, engineering, and mathematics, and expose students to relevant real world experiences through project work, conferences and presentations to enhance their high school experience."
+        "concentrate their studies, beyond those required in high school, in the areas of science, technology, engineering, and mathematics, and expose students to relevant real world experiences through project work, conferences and presentations to enhance their high school"
       ],
       "semantic": {
         "tokens": [
@@ -81,122 +80,242 @@
           "presentations",
           "enhance",
           "high",
-          "school",
-          "experience"
-        ],
-        "nouns": [
-          "science",
-          "work",
-          "project",
-          "conference",
-          "engineering",
-          "study",
-          "mathematic",
-          "student",
-          "presentation",
-          "area",
-          "technology",
-          "world",
-          "experience",
           "school"
         ],
-        "verbs": [
-          "require",
-          "concentrate",
-          "expose",
-          "enhance"
-        ],
-        "lemmas": [
-          "study",
-          "technology",
-          "world",
-          "concentrate",
-          "expose",
-          "relevant",
-          "project",
+        "nouns": [
+          "presentation",
           "student",
-          "experience",
-          "enhance",
-          "conference",
           "science",
-          "engineering",
           "school",
-          "high",
+          "conference",
+          "engineering",
+          "world",
+          "experience",
+          "project",
+          "technology",
           "work",
           "mathematic",
-          "presentation",
           "area",
+          "study"
+        ],
+        "verbs": [
+          "concentrate",
+          "require",
+          "enhance",
+          "expose"
+        ],
+        "lemmas": [
+          "work",
+          "mathematic",
+          "area",
+          "presentation",
+          "student",
+          "conference",
+          "engineering",
+          "experience",
+          "technology",
           "real",
-          "require"
+          "require",
+          "relevant",
+          "school",
+          "world",
+          "project",
+          "expose",
+          "study",
+          "science",
+          "enhance",
+          "high",
+          "concentrate"
         ]
       }
     },
     {
-      "level": "H1",
-      "text": "PATHWAY OPTIONS",
-      "page": 1,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
-      "text": "REGULAR PATHWAY",
+      "level": "H3",
+      "text": "experience.",
       "page": 1,
       "paragraphs": [
-        "\u25cf",
-        "4 credits of Math",
-        "\u25cf",
-        "4 credits of Science",
-        "\u25cf",
-        "4 credits of STEM-designated electives",
-        "\u25cf",
-        "Maintain an overall 2.85 GPA",
-        "\u25cf",
-        "Participate in a minimum of 3 STEM",
-        "presentations/conferences each year",
-        "with a required minimum total of 12",
-        "presentations/conferences throughout",
-        "the 4 years . *",
-        "\u25cf",
-        "Join and actively participate in a",
-        "STEM-related extracurricular activity or",
-        "club every year of attendance. -"
+        "PATHWAY OPTIONS",
+        "REGULAR PATHWAY"
       ],
       "keywords": [
-        "stem-designated electives maintain",
-        "stem-related extracurricular activity",
-        "required minimum total",
-        "credits of math",
-        "credits of science",
-        "gpa participate",
-        "stem presentations",
-        "join and actively",
-        "credits of stem-designated",
-        "actively participate"
+        "pathway options regular",
+        "options regular pathway"
       ],
       "sentences": [
-        "4 credits of Math 4 credits of Science 4 credits of STEM-designated electives Maintain an overall 2.85 GPA Participate in a minimum of 3 STEM presentations/conferences each year with a required minimum total of 12 presentations/conferences throughout the 4 years .",
-        "Join and actively participate in a STEM-related extracurricular activity or club every year of attendance. -"
+        "PATHWAY OPTIONS REGULAR PATHWAY"
+      ],
+      "semantic": {
+        "tokens": [
+          "PATHWAY",
+          "OPTIONS",
+          "REGULAR",
+          "PATHWAY"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "PATHWAY",
+          "OPTIONS",
+          "REGULAR"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1,
+      "paragraphs": [
+        "4 credits of Math"
+      ],
+      "keywords": [
+        "credits of math"
+      ],
+      "sentences": [
+        "4 credits of Math"
       ],
       "semantic": {
         "tokens": [
           "4",
           "credits",
+          "Math"
+        ],
+        "nouns": [
+          "credit"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "4",
           "Math",
+          "credit"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1,
+      "paragraphs": [
+        "4 credits of Science"
+      ],
+      "keywords": [
+        "credits of science"
+      ],
+      "sentences": [
+        "4 credits of Science"
+      ],
+      "semantic": {
+        "tokens": [
           "4",
           "credits",
+          "Science"
+        ],
+        "nouns": [
+          "credit"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "4",
           "Science",
+          "credit"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1,
+      "paragraphs": [
+        "4 credits of STEM-designated electives"
+      ],
+      "keywords": [
+        "credits of stem-designated",
+        "stem-designated electives"
+      ],
+      "sentences": [
+        "4 credits of STEM-designated electives"
+      ],
+      "semantic": {
+        "tokens": [
           "4",
           "credits",
           "STEM",
           "designated",
-          "electives",
+          "electives"
+        ],
+        "nouns": [
+          "elective",
+          "credit"
+        ],
+        "verbs": [
+          "designate"
+        ],
+        "lemmas": [
+          "elective",
+          "STEM",
+          "4",
+          "designate",
+          "credit"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1,
+      "paragraphs": [
+        "Maintain an overall 2.85 GPA"
+      ],
+      "keywords": [
+        "gpa",
+        "maintain"
+      ],
+      "sentences": [
+        "Maintain an overall 2.85 GPA"
+      ],
+      "semantic": {
+        "tokens": [
           "Maintain",
           "overall",
           "2.85",
-          "GPA",
+          "GPA"
+        ],
+        "nouns": [
+          "gpa"
+        ],
+        "verbs": [
+          "maintain"
+        ],
+        "lemmas": [
+          "overall",
+          "maintain",
+          "gpa",
+          "2.85"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1,
+      "paragraphs": [
+        "Participate in a minimum of 3 STEM",
+        "presentations/conferences each year",
+        "with a required minimum total of 12",
+        "presentations/conferences throughout",
+        "the 4 years . *"
+      ],
+      "keywords": [
+        "stem presentations",
+        "required minimum total",
+        "participate",
+        "conferences each year",
+        "years"
+      ],
+      "sentences": [
+        "Participate in a minimum of 3 STEM presentations/conferences each year with a required minimum total of 12 presentations/conferences throughout the 4 years ."
+      ],
+      "semantic": {
+        "tokens": [
           "Participate",
           "minimum",
           "3",
@@ -211,7 +330,93 @@
           "presentations",
           "conferences",
           "4",
-          "years",
+          "years"
+        ],
+        "nouns": [
+          "year",
+          "presentation",
+          "conference",
+          "total",
+          "minimum"
+        ],
+        "verbs": [
+          "participate",
+          "require"
+        ],
+        "lemmas": [
+          "year",
+          "12",
+          "presentation",
+          "require",
+          "participate",
+          "3",
+          "conference",
+          "total",
+          "STEM",
+          "4",
+          "minimum"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1,
+      "paragraphs": [
+        "Join and actively participate in a",
+        "STEM-related extracurricular activity or",
+        "club every year of attendance. -",
+        "DISTINCTION PATHWAY",
+        "",
+        "4 credits of Math - At least one math",
+        "course should be an AP Math class.",
+        "",
+        "4 credits of Science- At least one",
+        "science course should be an AP",
+        "Science class.",
+        "",
+        "4 credits of STEM-designated electives",
+        "- One must be a Computer",
+        "Science/Technology Class",
+        "",
+        "Maintain an overall 3.5 GPA",
+        "",
+        "Participate in a minimum of 3 STEM",
+        "presentations/conferences a year with a",
+        "required minimum total of 12",
+        "presentations/conferences throughout",
+        "the 4 years.",
+        "",
+        "Join and actively participate in a",
+        "STEM-related extracurricular activity or",
+        "club every year of attendance.",
+        "",
+        "Either participate in an internship or",
+        "design and implement a community",
+        "impact project."
+      ],
+      "keywords": [
+        "distinction pathway",
+        "technology class maintain",
+        "stem-related extracurricular activity",
+        "actively participate",
+        "join and actively",
+        "credits",
+        "activity or club",
+        "math class",
+        "gpa participate",
+        "computer science"
+      ],
+      "sentences": [
+        "Join and actively participate in a STEM-related extracurricular activity or club every year of attendance.",
+        "- DISTINCTION PATHWAY 4 credits of Math - At least one math course should be an AP Math class.",
+        "4 credits of Science- At least one science course should be an AP Science class.",
+        "4 credits of STEM-designated electives - One must be a Computer Science/Technology Class Maintain an overall 3.5 GPA Participate in a minimum of 3 STEM presentations/conferences a year with a required minimum total of 12 presentations/conferences throughout the 4 years.",
+        "Join and actively participate in a STEM-related extracurricular activity or club every year of attendance.",
+        "Either participate in an internship or design and implement a community impact project."
+      ],
+      "semantic": {
+        "tokens": [
           "Join",
           "actively",
           "participate",
@@ -221,114 +426,9 @@
           "activity",
           "club",
           "year",
-          "attendance"
-        ],
-        "nouns": [
-          "minimum",
-          "participate",
-          "elective",
-          "credit",
           "attendance",
-          "activity",
-          "presentation",
-          "club",
-          "year",
-          "total",
-          "conference"
-        ],
-        "verbs": [
-          "relate",
-          "participate",
-          "join",
-          "maintain",
-          "designate",
-          "require"
-        ],
-        "lemmas": [
-          "minimum",
-          "credit",
-          "extracurricular",
-          "attendance",
-          "2.85",
-          "Math",
-          "actively",
-          "Science",
-          "relate",
-          "elective",
-          "4",
-          "designate",
-          "year",
-          "3",
-          "total",
-          "conference",
-          "12",
-          "participate",
-          "GPA",
-          "activity",
-          "club",
-          "join",
-          "maintain",
-          "presentation",
-          "STEM",
-          "require",
-          "overall"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "DISTINCTION PATHWAY",
-      "page": 1,
-      "paragraphs": [
-        "\u25cf",
-        "4 credits of Math - At least one math",
-        "course should be an AP Math class.",
-        "\u25cf",
-        "4 credits of Science- At least one",
-        "science course should be an AP",
-        "Science class.",
-        "\u25cf",
-        "4 credits of STEM-designated electives",
-        "- One must be a Computer",
-        "Science/Technology Class",
-        "\u25cf",
-        "Maintain an overall 3.5 GPA",
-        "\u25cf",
-        "Participate in a minimum of 3 STEM",
-        "presentations/conferences a year with a",
-        "required minimum total of 12",
-        "presentations/conferences throughout",
-        "the 4 years.",
-        "\u25cf",
-        "Join and actively participate in a",
-        "STEM-related extracurricular activity or",
-        "club every year of attendance.",
-        "\u25cf",
-        "Either participate in an internship or",
-        "design and implement a community",
-        "impact project."
-      ],
-      "keywords": [
-        "technology class maintain",
-        "math class",
-        "credits of math",
-        "computer science",
-        "science class",
-        "gpa participate",
-        "credits of stem-designated",
-        "stem presentations",
-        "credits of science",
-        "conferences"
-      ],
-      "sentences": [
-        "4 credits of Math - At least one math course should be an AP Math class.",
-        "4 credits of Science- At least one science course should be an AP Science class.",
-        "4 credits of STEM-designated electives - One must be a Computer Science/Technology Class Maintain an overall 3.5 GPA Participate in a minimum of 3 STEM presentations/conferences a year with a required minimum total of 12 presentations/conferences throughout the 4 years.",
-        "Join and actively participate in a STEM-related extracurricular activity or club every year of attendance.",
-        "Either participate in an internship or design and implement a community impact project."
-      ],
-      "semantic": {
-        "tokens": [
+          "DISTINCTION",
+          "PATHWAY",
           "4",
           "credits",
           "Math",
@@ -392,79 +492,81 @@
           "project"
         ],
         "nouns": [
-          "minimum",
-          "credit",
-          "attendance",
-          "impact",
-          "elective",
-          "math",
-          "project",
-          "class",
-          "design",
-          "year",
-          "course",
-          "total",
-          "community",
-          "conference",
           "internship",
-          "participate",
-          "science",
-          "activity",
+          "impact",
+          "math",
           "club",
-          "presentation"
+          "minimum",
+          "course",
+          "presentation",
+          "participate",
+          "conference",
+          "activity",
+          "credit",
+          "class",
+          "elective",
+          "design",
+          "project",
+          "total",
+          "year",
+          "science",
+          "community",
+          "attendance"
         ],
         "verbs": [
-          "relate",
           "participate",
-          "join",
           "maintain",
-          "designate",
+          "relate",
+          "join",
           "implement",
-          "require"
+          "require",
+          "designate"
         ],
         "lemmas": [
-          "minimum",
-          "credit",
-          "extracurricular",
-          "attendance",
-          "Technology",
+          "internship",
+          "PATHWAY",
           "impact",
+          "extracurricular",
+          "implement",
+          "Technology",
           "3.5",
-          "Math",
           "actively",
-          "Science",
-          "relate",
-          "elective",
           "4",
           "math",
-          "project",
-          "designate",
-          "class",
-          "design",
-          "year",
-          "course",
-          "AP",
-          "3",
-          "Class",
-          "total",
-          "conference",
-          "12",
-          "community",
-          "internship",
-          "participate",
-          "GPA",
-          "science",
-          "Science-",
-          "activity",
           "club",
-          "implement",
-          "join",
-          "maintain",
+          "Class",
+          "minimum",
+          "course",
+          "overall",
+          "GPA",
           "presentation",
-          "STEM",
+          "12",
+          "participate",
+          "maintain",
+          "conference",
+          "Science",
+          "activity",
+          "join",
+          "DISTINCTION",
+          "designate",
           "require",
+          "credit",
+          "class",
+          "elective",
+          "design",
+          "3",
+          "Science-",
+          "relate",
+          "project",
+          "total",
+          "AP",
+          "Math",
+          "year",
           "Computer",
-          "overall"
+          "science",
+          "community",
+          "STEM",
+          "attendance"
         ]
       }
     },
@@ -473,42 +575,20 @@
       "text": "Goals:",
       "page": 1,
       "paragraphs": [
-        "\u2022  Inspire keen interest in mathematics, science, engineering, and",
-        "technology, develop strong scholarship in the subject and",
-        "promote the enjoyment of these studies in high school.",
-        "\u2022  Expose students to potential career opportunities in the field.",
-        "\u2022  Encourage students to pursue higher education and major in",
-        "STEM careers.",
-        "\u2022 Promote interactions with STEM professionals to learn about",
-        "future opportunities.",
-        "\u2022 Support field experiences connected to the world outside of",
-        "the school building.",
-        "\u2022 Signal to employers, universities, training programs, and",
-        "military that a student has completed a comprehensive course",
-        "of study in a specialized area.",
-        "\u2022 Cultivate transferable work habits such as perseverance, goal",
-        "setting, and self-direction."
+        "-  Inspire keen interest in mathematics, science, engineering, and",
+        "technology, develop strong scholarship in the subject and"
       ],
       "keywords": [
         "inspire keen interest",
         "develop strong scholarship",
         "interest in mathematics",
-        "studies in high",
-        "expose students",
-        "high school",
-        "encourage students",
-        "potential career opportunities",
         "science",
-        "engineering"
+        "engineering",
+        "technology",
+        "subject"
       ],
       "sentences": [
-        "\u2022  Inspire keen interest in mathematics, science, engineering, and technology, develop strong scholarship in the subject and promote the enjoyment of these studies in high school.",
-        "Expose students to potential career opportunities in the field.",
-        "\u2022  Encourage students to pursue higher education and major in STEM careers.",
-        "Promote interactions with STEM professionals to learn about future opportunities.",
-        "Support field experiences connected to the world outside of the school building.",
-        "Signal to employers, universities, training programs, and military that a student has completed a comprehensive course of study in a specialized area.",
-        "\u2022 Cultivate transferable work habits such as perseverance, goal setting, and self-direction."
+        "-  Inspire keen interest in mathematics, science, engineering, and technology, develop strong scholarship in the subject and"
       ],
       "semantic": {
         "tokens": [
@@ -522,12 +602,76 @@
           "develop",
           "strong",
           "scholarship",
-          "subject",
-          "promote",
-          "enjoyment",
-          "studies",
-          "high",
-          "school",
+          "subject"
+        ],
+        "nouns": [
+          "science",
+          "engineering",
+          "scholarship",
+          "technology",
+          "interest",
+          "mathematic",
+          "subject"
+        ],
+        "verbs": [
+          "develop",
+          "inspire"
+        ],
+        "lemmas": [
+          "strong",
+          "science",
+          "keen",
+          "inspire",
+          "engineering",
+          "scholarship",
+          "develop",
+          "technology",
+          "interest",
+          "mathematic",
+          "subject"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "promote the enjoyment of these studies in high school.",
+      "page": 1,
+      "paragraphs": [
+        "-  Expose students to potential career opportunities in the field.",
+        "-  Encourage students to pursue higher education and major in",
+        "STEM careers.",
+        "- Promote interactions with STEM professionals to learn about",
+        "future opportunities.",
+        "- Support field experiences connected to the world outside of",
+        "the school building.",
+        "- Signal to employers, universities, training programs, and",
+        "military that a student has completed a comprehensive course",
+        "of study in a specialized area.",
+        "- Cultivate transferable work habits such as perseverance, goal",
+        "setting, and self-direction."
+      ],
+      "keywords": [
+        "expose students",
+        "potential career opportunities",
+        "encourage students",
+        "stem careers",
+        "students to potential",
+        "support field experiences",
+        "pursue higher education",
+        "stem professionals",
+        "promote interactions",
+        "signal to employers"
+      ],
+      "sentences": [
+        "-  Expose students to potential career opportunities in the field.",
+        "-  Encourage students to pursue higher education and major in STEM careers.",
+        "Promote interactions with STEM professionals to learn about future opportunities.",
+        "Support field experiences connected to the world outside of the school building.",
+        "Signal to employers, universities, training programs, and military that a student has completed a comprehensive course of study in a specialized area.",
+        "- Cultivate transferable work habits such as perseverance, goal setting, and self-direction."
+      ],
+      "semantic": {
+        "tokens": [
           "Expose",
           "students",
           "potential",
@@ -581,113 +725,89 @@
           "direction"
         ],
         "nouns": [
-          "habit",
-          "military",
-          "interaction",
-          "opportunity",
-          "study",
-          "professional",
-          "technology",
-          "career",
+          "major",
           "support",
-          "world",
-          "direction",
-          "university",
-          "employer",
-          "interest",
-          "student",
-          "setting",
-          "experience",
-          "field",
-          "self",
-          "education",
-          "course",
-          "goal",
-          "science",
-          "engineering",
-          "program",
-          "building",
-          "school",
-          "perseverance",
           "work",
-          "mathematic",
-          "enjoyment",
+          "field",
           "area",
-          "subject",
-          "scholarship",
+          "self",
+          "course",
+          "interaction",
+          "student",
+          "building",
+          "goal",
+          "experience",
+          "setting",
+          "perseverance",
+          "program",
+          "professional",
+          "school",
+          "university",
+          "promote",
+          "world",
+          "opportunity",
+          "career",
+          "study",
+          "direction",
           "training",
-          "major"
+          "habit",
+          "employer",
+          "education",
+          "military"
         ],
         "verbs": [
-          "promote",
-          "encourage",
-          "pursue",
-          "complete",
           "connect",
+          "pursue",
           "cultivate",
-          "develop",
-          "inspire",
-          "learn"
+          "learn",
+          "complete"
         ],
         "lemmas": [
-          "habit",
-          "military",
-          "interaction",
-          "opportunity",
-          "transferable",
-          "study",
-          "cultivate",
-          "professional",
-          "technology",
-          "career",
-          "support",
-          "world",
-          "direction",
-          "learn",
-          "comprehensive",
-          "university",
-          "encourage",
-          "potential",
-          "employer",
-          "interest",
-          "student",
-          "setting",
-          "experience",
-          "field",
-          "self",
-          "education",
-          "Promote",
-          "course",
-          "goal",
+          "major",
           "Expose",
-          "specialized",
-          "promote",
-          "science",
-          "engineering",
-          "inspire",
-          "program",
-          "future",
-          "Signal",
-          "building",
-          "school",
-          "perseverance",
-          "high",
-          "pursue",
-          "complete",
-          "work",
-          "strong",
           "connect",
-          "mathematic",
-          "enjoyment",
-          "develop",
-          "STEM",
-          "keen",
+          "pursue",
+          "cultivate",
+          "transferable",
+          "support",
+          "complete",
+          "potential",
+          "work",
+          "field",
           "area",
-          "subject",
-          "scholarship",
-          "outside",
+          "self",
+          "course",
+          "interaction",
+          "student",
+          "building",
+          "Encourage",
+          "goal",
+          "experience",
+          "setting",
+          "perseverance",
+          "program",
+          "professional",
+          "school",
+          "learn",
+          "university",
+          "promote",
+          "world",
+          "opportunity",
+          "career",
+          "future",
+          "study",
+          "direction",
           "training",
-          "major"
+          "habit",
+          "comprehensive",
+          "employer",
+          "outside",
+          "high",
+          "Signal",
+          "specialized",
+          "STEM",
+          "education",
+          "military"
         ]
       }
     }

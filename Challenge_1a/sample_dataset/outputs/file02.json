@@ -32,8 +32,8 @@
         ],
         "verbs": [],
         "lemmas": [
-          "version",
-          "1.0"
+          "1.0",
+          "version"
         ]
       }
     },
@@ -44,37 +44,18 @@
       "paragraphs": [
         "Copyright Notice",
         "This document may be copied in its entirety, or extracts made, if the source is acknowledged.",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester",
-        "Qualifications",
-        "Board",
-        "Copyright \u00a9 International Software Testing Qualifications Board (hereinafter called ISTQB\u00ae).",
-        "Version 2014",
-        "Page 2 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester"
+        "International"
       ],
       "keywords": [
-        "foundation level extension",
-        "overview software testing",
-        "software testing foundation",
-        "testing foundation level",
-        "agile tester qualifications",
-        "tester qualifications board",
         "extracts made",
         "source is acknowledged",
-        "entirety"
+        "entirety",
+        "document",
+        "copied"
       ],
       "sentences": [
         "This document may be copied in its entirety, or extracts made, if the source is acknowledged.",
-        "International Overview Software Testing Foundation Level Extension \u2013   Agile Tester Qualifications Board May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester"
+        "International"
       ],
       "semantic": {
         "tokens": [
@@ -84,59 +65,169 @@
           "extracts",
           "source",
           "acknowledged",
-          "International",
-          "Overview",
-          "Software",
-          "Testing",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester",
-          "Qualifications",
-          "Board",
-          "31",
-          "2014",
-          "International",
-          "Overview",
-          "Software",
-          "Testing",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester"
+          "International"
         ],
         "nouns": [
-          "document",
+          "extract",
           "source",
           "entirety",
-          "extract"
+          "document"
         ],
         "verbs": [
           "copy",
           "acknowledge"
         ],
         "lemmas": [
+          "extract",
+          "document",
           "acknowledge",
-          "31",
-          "International",
-          "Extension",
+          "copy",
+          "international",
           "source",
+          "entirety"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 2,
+      "paragraphs": [
+        "Software Testing"
+      ],
+      "keywords": [
+        "software testing"
+      ],
+      "sentences": [
+        "Software Testing"
+      ],
+      "semantic": {
+        "tokens": [
+          "Software",
+          "Testing"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Testing",
+          "Software"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level Extension -   Agile Tester",
+      "page": 2,
+      "paragraphs": [
+        "Qualifications",
+        "Board",
+        "Copyright  International Software Testing Qualifications Board (hereinafter called ISTQB)."
+      ],
+      "keywords": [
+        "board",
+        "qualifications"
+      ],
+      "sentences": [
+        "Qualifications Board"
+      ],
+      "semantic": {
+        "tokens": [
+          "Qualifications",
+          "Board"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Qualifications",
+          "Board"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 2,
+      "paragraphs": [
+        "Page 2 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 3,
+      "paragraphs": [
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 3,
+      "paragraphs": [
+        "Software Testing",
+        "Foundation Level Extension -   Agile Tester"
+      ],
+      "keywords": [
+        "foundation level extension",
+        "testing foundation level",
+        "software testing foundation",
+        "agile tester"
+      ],
+      "sentences": [
+        "Software Testing Foundation Level Extension -   Agile Tester"
+      ],
+      "semantic": {
+        "tokens": [
+          "Software",
+          "Testing",
+          "Foundation",
+          "Level",
+          "Extension",
+          "Agile",
+          "Tester"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Foundation",
+          "Software",
           "Agile",
           "Level",
-          "Board",
-          "2014",
-          "extract",
-          "Software",
-          "document",
-          "Foundation",
+          "Tester",
           "Testing",
-          "entirety",
-          "Overview",
-          "copy",
-          "Qualifications",
-          "Tester"
+          "Extension"
         ]
       }
     },
@@ -150,36 +241,307 @@
       "semantic": {}
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Version",
       "page": 3,
       "paragraphs": [
         "Date",
-        "Remarks",
-        "0.1",
+        "Remarks"
+      ],
+      "keywords": [
+        "date remarks"
+      ],
+      "sentences": [
+        "Date Remarks"
+      ],
+      "semantic": {
+        "tokens": [
+          "Date",
+          "Remarks"
+        ],
+        "nouns": [
+          "remark"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "Date",
+          "remark"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "0.1",
+      "page": 3,
+      "paragraphs": [
         "18 JUNE 2013",
-        "Initial version",
-        "0.2",
+        "Initial version"
+      ],
+      "keywords": [
+        "initial version"
+      ],
+      "sentences": [
+        "18 JUNE 2013 Initial version"
+      ],
+      "semantic": {
+        "tokens": [
+          "18",
+          "JUNE",
+          "2013",
+          "Initial",
+          "version"
+        ],
+        "nouns": [
+          "version"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "version",
+          "2013",
+          "JUNE",
+          "18",
+          "initial"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "0.2",
+      "page": 3,
+      "paragraphs": [
         "23 JULY 2013",
-        "WG reviewed and confirmed",
-        "0.3",
+        "WG reviewed and confirmed"
+      ],
+      "keywords": [
+        "reviewed and confirmed"
+      ],
+      "sentences": [
+        "23 JULY 2013 WG reviewed and confirmed"
+      ],
+      "semantic": {
+        "tokens": [
+          "23",
+          "JULY",
+          "2013",
+          "WG",
+          "reviewed",
+          "confirmed"
+        ],
+        "nouns": [],
+        "verbs": [
+          "confirm",
+          "review"
+        ],
+        "lemmas": [
+          "23",
+          "JULY",
+          "2013",
+          "review",
+          "WG",
+          "confirm"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "0.3",
+      "page": 3,
+      "paragraphs": [
         "6 NOV 2013",
-        "amended population and diagram",
-        "0.7",
+        "amended population and diagram"
+      ],
+      "keywords": [
+        "nov",
+        "amended population",
+        "population and diagram"
+      ],
+      "sentences": [
+        "6 NOV 2013 amended population and diagram"
+      ],
+      "semantic": {
+        "tokens": [
+          "6",
+          "NOV",
+          "2013",
+          "amended",
+          "population",
+          "diagram"
+        ],
+        "nouns": [
+          "diagram",
+          "population"
+        ],
+        "verbs": [
+          "amend"
+        ],
+        "lemmas": [
+          "6",
+          "population",
+          "2013",
+          "diagram",
+          "amend",
+          "NOV"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "0.7",
+      "page": 3,
+      "paragraphs": [
         "11 DEC 2013",
-        "Amended Business Outcomes and Chapters matching",
-        "0.8",
+        "Amended Business Outcomes and Chapters matching"
+      ],
+      "keywords": [
+        "amended business outcomes",
+        "outcomes and chapters",
+        "chapters matching",
+        "dec"
+      ],
+      "sentences": [
+        "11 DEC 2013 Amended Business Outcomes and Chapters matching"
+      ],
+      "semantic": {
+        "tokens": [
+          "11",
+          "DEC",
+          "2013",
+          "Amended",
+          "Business",
+          "Outcomes",
+          "Chapters",
+          "matching"
+        ],
+        "nouns": [],
+        "verbs": [
+          "match"
+        ],
+        "lemmas": [
+          "11",
+          "Business",
+          "Amended",
+          "2013",
+          "Chapters",
+          "Outcomes",
+          "match",
+          "DEC"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "0.8",
+      "page": 3,
+      "paragraphs": [
         "20 DEC 2013",
-        "Working group updates on 0.7",
-        "1.0",
+        "Working group updates on 0.7"
+      ],
+      "keywords": [
+        "working group updates",
+        "dec"
+      ],
+      "sentences": [
+        "20 DEC 2013 Working group updates on 0.7"
+      ],
+      "semantic": {
+        "tokens": [
+          "20",
+          "DEC",
+          "2013",
+          "Working",
+          "group",
+          "updates",
+          "0.7"
+        ],
+        "nouns": [
+          "group"
+        ],
+        "verbs": [
+          "update"
+        ],
+        "lemmas": [
+          "group",
+          "update",
+          "0.7",
+          "Working",
+          "2013",
+          "DEC",
+          "20"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "1.0",
+      "page": 3,
+      "paragraphs": [
         "31 MAY 2014",
-        "GA release for Agile Extension",
-        "Version 2014",
+        "GA release for Agile Extension"
+      ],
+      "keywords": [
+        "agile extension",
+        "release for agile"
+      ],
+      "sentences": [
+        "31 MAY 2014 GA release for Agile Extension"
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014",
+          "GA",
+          "release",
+          "Agile",
+          "Extension"
+        ],
+        "nouns": [
+          "ga",
+          "release",
+          "extension"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "release",
+          "31",
+          "ga",
+          "Agile",
+          "2014",
+          "extension"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 3,
+      "paragraphs": [
         "Page 3 of 12",
         "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "..........................................................................................................................................",
-        "........................................................................................................................................",
+        "International Software Testing Qualifications Board",
+        ".........................................................................................................................................."
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014 .........................................................................................................................................."
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "........................................................................................................................................",
+      "page": 4,
+      "paragraphs": [
         "............................................................................",
         "...............................................................",
         ".....................................................................................................................",
@@ -190,160 +552,99 @@
         "......................................................................................................................",
         ".........................................",
         ".................................................................................................................",
-        "....................................................................................................................................",
-        "..........................................................................................................................................",
+        "...................................................................................................................................."
+      ],
+      "keywords": [],
+      "sentences": [
+        "............................................................................ ............................................................... .....................................................................................................................",
+        "............................................................................................................ ...................................................................................................................",
+        "................................................................................................................... ...................................................................................................",
+        "...................................................................................................................... .........................................",
+        "................................................................................................................. ...................................................................................................................................."
+      ],
+      "semantic": {
+        "tokens": [],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": []
+      }
+    },
+    {
+      "level": "H3",
+      "text": "..........................................................................................................................................",
+      "page": 4,
+      "paragraphs": [
         ".............................................................................................................................",
         ".......................................................................................................",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester",
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "............................................................................................................................. .......................................................................................................",
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 4,
+      "paragraphs": [
+        "Software Testing"
+      ],
+      "keywords": [
+        "software testing"
+      ],
+      "sentences": [
+        "Software Testing"
+      ],
+      "semantic": {
+        "tokens": [
+          "Software",
+          "Testing"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Testing",
+          "Software"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level Extension -   Agile Tester",
+      "page": 4,
+      "paragraphs": [
         "Qualifications",
         "Board"
       ],
       "keywords": [
-        "amended business outcomes",
-        "working group updates",
-        "outcomes and chapters",
-        "date remarks",
-        "initial version",
-        "chapters matching",
-        "dec",
-        "amended population",
-        "reviewed and confirmed",
-        "population and diagram"
+        "board",
+        "qualifications"
       ],
       "sentences": [
-        "Date Remarks 18 JUNE 2013 Initial version 23 JULY 2013 WG reviewed and confirmed 6 NOV 2013 amended population and diagram 11 DEC 2013 Amended Business Outcomes and Chapters matching 20 DEC 2013 Working group updates on 0.7 31 MAY 2014 GA release for Agile Extension May 31, 2014 ..........................................................................................................................................",
-        "........................................................................................................................................",
-        "............................................................................",
-        "...............................................................",
-        ".....................................................................................................................",
-        "............................................................................................................",
-        "...................................................................................................................",
-        "...................................................................................................................",
-        "................................................................................................... ...................................................................................................................... .........................................",
-        "................................................................................................................. ....................................................................................................................................",
-        ".......................................................................................................................................... .............................................................................................................................",
-        ".......................................................................................................",
-        "International Overview Software Testing Foundation Level Extension \u2013   Agile Tester Qualifications Board"
+        "Qualifications Board"
       ],
       "semantic": {
         "tokens": [
-          "Date",
-          "Remarks",
-          "18",
-          "JUNE",
-          "2013",
-          "Initial",
-          "version",
-          "23",
-          "JULY",
-          "2013",
-          "WG",
-          "reviewed",
-          "confirmed",
-          "6",
-          "NOV",
-          "2013",
-          "amended",
-          "population",
-          "diagram",
-          "11",
-          "DEC",
-          "2013",
-          "Amended",
-          "Business",
-          "Outcomes",
-          "Chapters",
-          "matching",
-          "20",
-          "DEC",
-          "2013",
-          "Working",
-          "group",
-          "updates",
-          "0.7",
-          "31",
-          "2014",
-          "GA",
-          "release",
-          "Agile",
-          "Extension",
-          "31",
-          "2014",
-          "International",
-          "Overview",
-          "Software",
-          "Testing",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester",
           "Qualifications",
           "Board"
         ],
-        "nouns": [
-          "update",
-          "release",
-          "ga",
-          "version",
-          "group",
-          "population"
-        ],
-        "verbs": [
-          "diagram",
-          "review",
-          "confirm",
-          "amend",
-          "match"
-        ],
+        "nouns": [],
+        "verbs": [],
         "lemmas": [
-          "20",
-          "11",
-          "0.7",
-          "DEC",
-          "18",
-          "version",
-          "31",
-          "WG",
-          "International",
-          "amend",
-          "2013",
-          "match",
-          "NOV",
-          "Working",
-          "Extension",
-          "review",
-          "Date",
-          "group",
-          "Agile",
-          "Remarks",
-          "6",
-          "Level",
-          "Board",
-          "Business",
-          "2014",
-          "diagram",
-          "update",
-          "release",
-          "JULY",
-          "Software",
-          "Foundation",
-          "JUNE",
-          "initial",
-          "Testing",
-          "ga",
-          "confirm",
-          "Overview",
-          "23",
-          "Outcomes",
-          "Chapters",
-          "population",
           "Qualifications",
-          "Amended",
-          "Tester"
+          "Board"
         ]
       }
     },
@@ -357,189 +658,558 @@
       "semantic": {}
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Revision History",
       "page": 4,
       "paragraphs": [
-        "3",
-        "Table of Contents",
-        "4",
-        "1.",
+        "3"
+      ],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {
+        "tokens": [],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": []
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 4,
+      "paragraphs": [
+        "4"
+      ],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {
+        "tokens": [],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": []
+      }
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 4,
+      "paragraphs": [
         "Introduction to the Foundation Level Extensions",
-        "6",
-        "2.",
-        "Introduction to Foundation Level Agile Tester Extension",
-        "7",
-        "2.1",
-        "Intended Audience",
-        "7",
-        "2.2",
-        "Career Paths for Testers",
-        "7",
-        "2.3",
-        "Learning Objectives",
-        "7",
-        "2.4",
-        "Entry Requirements",
-        "8",
-        "2.5",
-        "Structure and Course Duration",
-        "8",
-        "2.6",
-        "Keeping It Current",
-        "9",
-        "3.",
-        "Overview of the Foundation Level Extension \u2013   Agile Tester Syllabus",
-        "10",
-        "3.1",
-        "Business Outcomes",
-        "10",
-        "3.2",
-        "Content",
-        "10",
-        "4.",
-        "References",
-        "12",
-        "4.1",
-        "Trademarks",
-        "12",
-        "4.2",
-        "Documents and Web Sites",
-        "12",
-        "Version 2014",
-        "Page 4 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester",
-        "Qualifications",
-        "Board"
+        "6"
       ],
       "keywords": [
-        "foundation level extension",
-        "testing foundation level",
-        "foundation level agile",
-        "level agile tester",
-        "level extensions introduction",
-        "software testing foundation",
-        "tester qualifications board",
-        "intended audience career",
-        "audience career paths",
-        "learning objectives entry"
+        "foundation level extensions",
+        "introduction"
       ],
       "sentences": [
-        "Table of Contents Introduction to the Foundation Level Extensions Introduction to Foundation Level Agile Tester Extension Intended Audience Career Paths for Testers Learning Objectives Entry Requirements Structure and Course Duration Keeping It Current Overview of the Foundation Level Extension \u2013   Agile Tester Syllabus Business Outcomes Content References Trademarks Documents and Web Sites May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester Qualifications Board"
+        "Introduction to the Foundation Level Extensions"
       ],
       "semantic": {
         "tokens": [
-          "Table",
-          "Contents",
           "Introduction",
           "Foundation",
           "Level",
-          "Extensions",
-          "Introduction",
-          "Foundation",
-          "Level",
-          "Agile",
-          "Tester",
-          "Extension",
-          "Intended",
-          "Audience",
-          "Career",
-          "Paths",
-          "Testers",
-          "Learning",
-          "Objectives",
-          "Entry",
-          "Requirements",
-          "Structure",
-          "Course",
-          "Duration",
-          "Keeping",
-          "Current",
-          "Overview",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester",
-          "Syllabus",
-          "Business",
-          "Outcomes",
-          "Content",
-          "References",
-          "Trademarks",
-          "Documents",
-          "Web",
-          "Sites",
-          "31",
-          "2014",
-          "International",
-          "Overview",
-          "Software",
-          "Testing",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester",
-          "Qualifications",
-          "Board"
+          "Extensions"
         ],
         "nouns": [
-          "duration",
           "introduction",
-          "web",
-          "table"
+          "extension"
         ],
+        "verbs": [],
+        "lemmas": [
+          "extension",
+          "Level",
+          "introduction",
+          "Foundation"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 4,
+      "paragraphs": [
+        "Introduction to Foundation Level Agile Tester Extension",
+        "7"
+      ],
+      "keywords": [
+        "agile tester extension",
+        "foundation level agile",
+        "level agile tester",
+        "introduction to foundation"
+      ],
+      "sentences": [
+        "Introduction to Foundation Level Agile Tester Extension"
+      ],
+      "semantic": {
+        "tokens": [
+          "Introduction",
+          "Foundation",
+          "Level",
+          "Agile",
+          "Tester",
+          "Extension"
+        ],
+        "nouns": [
+          "introduction",
+          "extension"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "Foundation",
+          "Agile",
+          "Level",
+          "Tester",
+          "introduction",
+          "extension"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.1",
+      "page": 4,
+      "paragraphs": [
+        "Intended Audience",
+        "7"
+      ],
+      "keywords": [
+        "intended audience"
+      ],
+      "sentences": [
+        "Intended Audience"
+      ],
+      "semantic": {
+        "tokens": [
+          "Intended",
+          "Audience"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Intended",
+          "Audience"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.2",
+      "page": 4,
+      "paragraphs": [
+        "Career Paths for Testers",
+        "7"
+      ],
+      "keywords": [
+        "paths for testers",
+        "career paths"
+      ],
+      "sentences": [
+        "Career Paths for Testers"
+      ],
+      "semantic": {
+        "tokens": [
+          "Career",
+          "Paths",
+          "Testers"
+        ],
+        "nouns": [
+          "career",
+          "tester"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "career",
+          "Paths",
+          "tester"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.3",
+      "page": 4,
+      "paragraphs": [
+        "Learning Objectives",
+        "7"
+      ],
+      "keywords": [
+        "learning objectives"
+      ],
+      "sentences": [
+        "Learning Objectives"
+      ],
+      "semantic": {
+        "tokens": [
+          "Learning",
+          "Objectives"
+        ],
+        "nouns": [
+          "objective"
+        ],
+        "verbs": [
+          "learn"
+        ],
+        "lemmas": [
+          "objective",
+          "learn"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.4",
+      "page": 4,
+      "paragraphs": [
+        "Entry Requirements",
+        "8"
+      ],
+      "keywords": [
+        "entry requirements"
+      ],
+      "sentences": [
+        "Entry Requirements"
+      ],
+      "semantic": {
+        "tokens": [
+          "Entry",
+          "Requirements"
+        ],
+        "nouns": [
+          "entry",
+          "requirement"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "entry",
+          "requirement"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 4,
+      "paragraphs": [
+        "Structure and Course Duration",
+        "8"
+      ],
+      "keywords": [
+        "duration",
+        "structure"
+      ],
+      "sentences": [
+        "Structure and Course Duration"
+      ],
+      "semantic": {
+        "tokens": [
+          "Structure",
+          "Course",
+          "Duration"
+        ],
+        "nouns": [
+          "structure",
+          "duration"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "Course",
+          "structure",
+          "duration"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "2.6",
+      "page": 4,
+      "paragraphs": [
+        "Keeping It Current",
+        "9"
+      ],
+      "keywords": [
+        "keeping it current"
+      ],
+      "sentences": [
+        "Keeping It Current"
+      ],
+      "semantic": {
+        "tokens": [
+          "Keeping",
+          "Current"
+        ],
+        "nouns": [],
         "verbs": [
           "keep"
         ],
         "lemmas": [
-          "Tester",
-          "Paths",
-          "Structure",
-          "Career",
-          "31",
-          "Documents",
-          "web",
-          "Extensions",
-          "Audience",
-          "Testers",
-          "International",
-          "table",
-          "Course",
-          "Syllabus",
           "keep",
+          "current"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 4,
+      "paragraphs": [
+        "Overview of the Foundation Level Extension -   Agile Tester Syllabus",
+        "10"
+      ],
+      "keywords": [
+        "agile tester syllabus",
+        "foundation level extension",
+        "overview"
+      ],
+      "sentences": [
+        "Overview of the Foundation Level Extension -   Agile Tester Syllabus"
+      ],
+      "semantic": {
+        "tokens": [
+          "Overview",
+          "Foundation",
+          "Level",
           "Extension",
-          "Qualifications",
-          "current",
-          "Content",
-          "Sites",
-          "Introduction",
+          "Agile",
+          "Tester",
+          "Syllabus"
+        ],
+        "nouns": [
+          "overview"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "Syllabus",
+          "Foundation",
           "Agile",
           "Level",
-          "Board",
+          "overview",
+          "Tester",
+          "Extension"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "3.1",
+      "page": 4,
+      "paragraphs": [
+        "Business Outcomes",
+        "10"
+      ],
+      "keywords": [
+        "business outcomes"
+      ],
+      "sentences": [
+        "Business Outcomes"
+      ],
+      "semantic": {
+        "tokens": [
           "Business",
-          "Objectives",
-          "2014",
-          "introduction",
-          "Entry",
-          "Software",
-          "Foundation",
-          "Intended",
-          "Testing",
-          "Contents",
-          "References",
-          "Overview",
-          "Learning",
+          "Outcomes"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
           "Outcomes",
-          "duration",
-          "Trademarks",
-          "Requirements"
+          "Business"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "3.2",
+      "page": 4,
+      "paragraphs": [
+        "Content",
+        "10"
+      ],
+      "keywords": [
+        "content"
+      ],
+      "sentences": [
+        "Content"
+      ],
+      "semantic": {
+        "tokens": [
+          "Content"
+        ],
+        "nouns": [
+          "content"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "content"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 4,
+      "paragraphs": [
+        "References",
+        "12"
+      ],
+      "keywords": [
+        "references"
+      ],
+      "sentences": [
+        "References"
+      ],
+      "semantic": {
+        "tokens": [
+          "References"
+        ],
+        "nouns": [
+          "reference"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "reference"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "4.1",
+      "page": 4,
+      "paragraphs": [
+        "Trademarks",
+        "12"
+      ],
+      "keywords": [
+        "trademarks"
+      ],
+      "sentences": [
+        "Trademarks"
+      ],
+      "semantic": {
+        "tokens": [
+          "Trademarks"
+        ],
+        "nouns": [
+          "trademark"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "trademark"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "4.2",
+      "page": 4,
+      "paragraphs": [
+        "Documents and Web Sites",
+        "12"
+      ],
+      "keywords": [
+        "web sites",
+        "documents and web"
+      ],
+      "sentences": [
+        "Documents and Web Sites"
+      ],
+      "semantic": {
+        "tokens": [
+          "Documents",
+          "Web",
+          "Sites"
+        ],
+        "nouns": [
+          "web",
+          "document"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "Sites",
+          "web",
+          "document"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 4,
+      "paragraphs": [
+        "Page 4 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board",
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014 International"
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014",
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014",
+          "International"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 5,
+      "paragraphs": [
+        "Software Testing"
+      ],
+      "keywords": [
+        "software testing"
+      ],
+      "sentences": [
+        "Software Testing"
+      ],
+      "semantic": {
+        "tokens": [
+          "Software",
+          "Testing"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Testing",
+          "Software"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level Extension -   Agile Tester",
+      "page": 5,
+      "paragraphs": [
+        "Qualifications",
+        "Board"
+      ],
+      "keywords": [
+        "board",
+        "qualifications"
+      ],
+      "sentences": [
+        "Qualifications Board"
+      ],
+      "semantic": {
+        "tokens": [
+          "Qualifications",
+          "Board"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Qualifications",
+          "Board"
         ]
       }
     },
@@ -559,40 +1229,31 @@
         "Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber.",
         "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",
         "Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula",
-        "P\u00e4\u00e4kk\u00f6nen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytk\u00f6nen, Monika Stoecklein-Olsen,",
+        "Paakkonen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkonen, Monika Stoecklein-Olsen,",
         "Robert Treffny, Chris Van Bael, and Erik van Veenendaal.",
         "The team thanks also the following persons, from the National Boards and the Agile expert community,",
         "who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani",
-        "Almog, Richard Berns, Stephen Bird, Monika B\u00f6gge, Afeng Chai, Josephine Crawford, Tibor Cs\u00f6ndes,",
+        "Almog, Richard Berns, Stephen Bird, Monika Bogge, Afeng Chai, Josephine Crawford, Tibor Csondes,",
         "Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill",
         "Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter",
-        "Morgan,   Ninna Morin,   Ingvar Nordstrom,   Chris   O\u2019Dea,   Klaus   Olsen, Ismo   Paukamainen,   Nathalie Phung,",
-        "Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri S\u00e4ilynoja, Soile Sainio, Lars-Erik",
+        "Morgan,   Ninna Morin,   Ingvar Nordstrom,   Chris   O'Dea,   Klaus   Olsen, Ismo   Paukamainen,   Nathalie Phung,",
+        "Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Sailynoja, Soile Sainio, Lars-Erik",
         "Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde,",
-        "Stephanie Ulrich, Tommi V\u00e4lim\u00e4ki, Jurian Van de Laar, Marnix Van den Ent, Ant\u00f3nio Vieira Melo, Wenye",
+        "Stephanie Ulrich, Tommi Valimaki, Jurian Van de Laar, Marnix Van den Ent, Antonio Vieira Melo, Wenye",
         "Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",
-        "This document was formally approved for release by the General Assembly of the ISTQB\u00ae on May 31,",
-        "2014.",
-        "Version 2014",
-        "Page 5 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester"
+        "This document was formally approved for release by the General Assembly of the ISTQB on May 31,",
+        "2014."
       ],
       "keywords": [
         "agile extension syllabus",
-        "level working group",
-        "extension working group",
-        "agile extension working",
         "level agile extension",
-        "foundation level working",
-        "foundation level agile",
+        "agile extension working",
+        "extension working group",
+        "level working group",
         "foundation agile extension",
-        "foundation level extension",
+        "foundation level agile",
+        "foundation level working",
+        "agile extension team",
         "van der aalst"
       ],
       "sentences": [
@@ -600,10 +1261,9 @@
         "The Agile Extension team thanks the review team and the National Boards for their suggestions and input.",
         "At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aalst (Development Lead).",
         "Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber.",
-        "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula P\u00e4\u00e4kk\u00f6nen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytk\u00f6nen, Monika Stoecklein-Olsen, Robert Treffny, Chris Van Bael, and Erik van Veenendaal.",
-        "The team thanks also the following persons, from the National Boards and the Agile expert community, who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani Almog, Richard Berns, Stephen Bird, Monika B\u00f6gge, Afeng Chai, Josephine Crawford, Tibor Cs\u00f6ndes, Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter Morgan,   Ninna Morin,   Ingvar Nordstrom,   Chris   O\u2019Dea,   Klaus   Olsen, Ismo   Paukamainen,   Nathalie Phung, Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri S\u00e4ilynoja, Soile Sainio, Lars-Erik Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde, Stephanie Ulrich, Tommi V\u00e4lim\u00e4ki, Jurian Van de Laar, Marnix Van den Ent, Ant\u00f3nio Vieira Melo, Wenye Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",
-        "This document was formally approved for release by the General Assembly of the ISTQB\u00ae on May 31, 2014.",
-        "May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester"
+        "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula Paakkonen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkonen, Monika Stoecklein-Olsen, Robert Treffny, Chris Van Bael, and Erik van Veenendaal.",
+        "The team thanks also the following persons, from the National Boards and the Agile expert community, who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani Almog, Richard Berns, Stephen Bird, Monika Bogge, Afeng Chai, Josephine Crawford, Tibor Csondes, Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter Morgan,   Ninna Morin,   Ingvar Nordstrom,   Chris   O'Dea,   Klaus   Olsen, Ismo   Paukamainen,   Nathalie Phung, Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Sailynoja, Soile Sainio, Lars-Erik Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde, Stephanie Ulrich, Tommi Valimaki, Jurian Van de Laar, Marnix Van den Ent, Antonio Vieira Melo, Wenye Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",
+        "This document was formally approved for release by the General Assembly of the ISTQB on May 31, 2014."
       ],
       "semantic": {
         "tokens": [
@@ -710,7 +1370,7 @@
           "Thomas",
           "Mueller",
           "Tuula",
-          "P\u00e4\u00e4kk\u00f6nen",
+          "Paakkonen",
           "Meile",
           "Posthuma",
           "Gabor",
@@ -718,7 +1378,7 @@
           "Lloyd",
           "Roden",
           "Marko",
-          "Rytk\u00f6nen",
+          "Rytkonen",
           "Monika",
           "Stoecklein",
           "Olsen",
@@ -754,13 +1414,13 @@
           "Stephen",
           "Bird",
           "Monika",
-          "B\u00f6gge",
+          "Bogge",
           "Afeng",
           "Chai",
           "Josephine",
           "Crawford",
           "Tibor",
-          "Cs\u00f6ndes",
+          "Csondes",
           "Huba",
           "Demeter",
           "Arnaud",
@@ -798,7 +1458,7 @@
           "Ingvar",
           "Nordstrom",
           "Chris",
-          "O\u2019Dea",
+          "O'Dea",
           "Klaus",
           "Olsen",
           "Ismo",
@@ -814,7 +1474,7 @@
           "Hans",
           "Rombouts",
           "Petri",
-          "S\u00e4ilynoja",
+          "Sailynoja",
           "Soile",
           "Sainio",
           "Lars",
@@ -835,7 +1495,7 @@
           "Stephanie",
           "Ulrich",
           "Tommi",
-          "V\u00e4lim\u00e4ki",
+          "Valimaki",
           "Jurian",
           "Van",
           "de",
@@ -844,7 +1504,7 @@
           "Van",
           "den",
           "Ent",
-          "Ant\u00f3nio",
+          "Antonio",
           "Vieira",
           "Melo",
           "Wenye",
@@ -866,13 +1526,322 @@
           "General",
           "Assembly",
           "ISTQB",
-          "\u00ae",
           "31",
-          "2014",
+          "2014"
+        ],
+        "nouns": [
+          "release",
+          "document",
+          "expert",
+          "der",
+          "input",
+          "team",
+          "suggestion",
+          "review",
+          "author",
+          "community",
+          "time",
+          "person",
+          "membership",
+          "balloting",
+          "den",
+          "thank"
+        ],
+        "verbs": [
+          "follow",
+          "participate",
+          "comment",
+          "complete",
+          "review",
+          "thank",
+          "approve"
+        ],
+        "lemmas": [
+          "Walsh",
+          "Linz",
+          "Fumery",
+          "Marie",
+          "Nathalie",
+          "Hu",
+          "Stephan",
+          "Soile",
+          "Monika",
+          "Wenqiang",
+          "Lauren",
+          "Hansen",
+          "Chai",
+          "Olsen",
+          "Weber",
+          "Josephine",
+          "Yaron",
+          "Friedenberg",
+          "Business",
+          "Phung",
+          "Armin",
+          "Marco",
+          "Kjell",
+          "Zabar",
+          "Metzger",
+          "Vieira",
+          "Klaus",
+          "Claesson",
+          "Pedersen",
+          "Itah",
+          "Roden",
+          "Extension",
+          "Morin",
+          "Jennifer",
+          "Gerry",
+          "Mueller",
+          "van",
+          "Marko",
+          "Paakkonen",
+          "Learning",
+          "Karpinska",
+          "Sailynoja",
+          "formally",
+          "Internal",
+          "Debra",
+          "Huba",
+          "Thomas",
+          "Stevan",
+          "Aalst",
+          "Almog",
+          "Lucjan",
+          "Vice",
+          "Working",
+          "Hanne",
+          "Cornanguer",
+          "Valimaki",
+          "membership",
+          "Petri",
+          "Exam",
+          "Editor",
+          "Berns",
+          "Stapp",
+          "Hans",
+          "Stephanie",
+          "Forgacs",
+          "Arnaud",
+          "time",
+          "Reale",
+          "Igal",
+          "Development",
+          "Marketing",
+          "Paukamainen",
+          "Jurian",
+          "Dakar",
+          "input",
+          "Mette",
+          "Parveen",
+          "Kobi",
+          "Pichler",
+          "Laar",
+          "release",
+          "Morgan",
           "31",
+          "Zuo",
+          "Xu",
+          "team",
+          "Martin",
+          "balloting",
+          "O'Dea",
+          "Stephen",
+          "National",
+          "Levi",
+          "der",
+          "Istvan",
+          "Veenendaal",
+          "Sabine",
+          "Ulrich",
+          "Lars",
+          "Christopher",
+          "Assembly",
+          "document",
+          "Collino",
+          "complete",
+          "Erik",
+          "Chair",
+          "Meile",
+          "Gabor",
+          "Beata",
+          "Isles",
+          "approve",
+          "Alessandro",
+          "Ent",
+          "Zimmerer",
+          "Rex",
+          "expert",
+          "Jidong",
+          "Phill",
+          "General",
+          "Jian",
+          "Stoecklein",
+          "Level",
+          "Afeng",
+          "author",
+          "Tibor",
+          "thank",
+          "Foucal",
+          "ISTQB",
+          "Group",
+          "Klonk",
+          "Syllabus",
+          "Dani",
+          "follow",
+          "Ismo",
+          "comment",
+          "Nordstrom",
           "2014",
-          "International",
-          "Overview",
+          "Bael",
+          "Kakkonen",
+          "Boards",
+          "Bruhn",
+          "Tilo",
+          "Richard",
+          "Meivert",
+          "Kari",
+          "Csondes",
+          "Leo",
+          "Coleman",
+          "Inga",
+          "Lead",
+          "Hinz",
+          "Uhde",
+          "Terry",
+          "Shen",
+          "Leger",
+          "Lloyd",
+          "Stuart",
+          "Zheng",
+          "Rombouts",
+          "Bertrand",
+          "Puhalla",
+          "Helmut",
+          "Sandberg",
+          "Anders",
+          "suggestion",
+          "Rik",
+          "Marnix",
+          "Ninna",
+          "Shalom",
+          "Treffny",
+          "person",
+          "Halperin",
+          "Sammy",
+          "Antonio",
+          "Wenye",
+          "Posthuma",
+          "Marselis",
+          "Sainio",
+          "Bird",
+          "Foundation",
+          "participate",
+          "Johan",
+          "Chris",
+          "Salvatore",
+          "den",
+          "review",
+          "Reid",
+          "Rytkonen",
+          "Melo",
+          "Black",
+          "Ingvar",
+          "Robert",
+          "Clements",
+          "Tuula",
+          "Van",
+          "Zivanovic",
+          "Bogge",
+          "Cyril",
+          "Outcomes",
+          "Objectives",
+          "Alon",
+          "Reviewers",
+          "Demeter",
+          "Linetzki",
+          "Kolluru",
+          "Shirley",
+          "de",
+          "Ester",
+          "Tauhida",
+          "Agile",
+          "Sogliani",
+          "community",
+          "Tommi",
+          "Crawford",
+          "Peter",
+          "Tsubery"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 5,
+      "paragraphs": [
+        "Page 5 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 6,
+      "paragraphs": [
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 6,
+      "paragraphs": [
+        "Software Testing",
+        "Foundation Level Extension -   Agile Tester"
+      ],
+      "keywords": [
+        "foundation level extension",
+        "testing foundation level",
+        "software testing foundation",
+        "agile tester"
+      ],
+      "sentences": [
+        "Software Testing Foundation Level Extension -   Agile Tester"
+      ],
+      "semantic": {
+        "tokens": [
           "Software",
           "Testing",
           "Foundation",
@@ -881,256 +1850,16 @@
           "Agile",
           "Tester"
         ],
-        "nouns": [
-          "person",
-          "release",
-          "expert",
-          "der",
-          "\u00ae",
-          "review",
-          "team",
-          "suggestion",
-          "author",
-          "time",
-          "balloting",
-          "document",
-          "thank",
-          "den",
-          "membership",
-          "input",
-          "community"
-        ],
-        "verbs": [
-          "participate",
-          "follow",
-          "complete",
-          "review",
-          "thank",
-          "approve",
-          "comment"
-        ],
+        "nouns": [],
+        "verbs": [],
         "lemmas": [
-          "Tauhida",
-          "Kobi",
-          "Aalst",
-          "time",
-          "Zuo",
-          "Tilo",
-          "Stoecklein",
-          "Robert",
-          "Marco",
-          "Syllabus",
-          "Alon",
-          "Linetzki",
-          "Erik",
-          "Puhalla",
-          "Jennifer",
-          "ISTQB",
-          "Clements",
-          "Kjell",
-          "Cyril",
-          "Marselis",
-          "Business",
-          "Bael",
-          "Chair",
-          "Bruhn",
-          "V\u00e4lim\u00e4ki",
-          "expert",
-          "Vieira",
-          "Almog",
-          "Isles",
-          "Reviewers",
-          "Software",
-          "Josephine",
-          "Tuula",
-          "van",
-          "Thomas",
-          "Christopher",
-          "Berns",
-          "document",
-          "Ester",
-          "Martin",
-          "Nordstrom",
-          "Stapp",
-          "Karpinska",
-          "Hu",
-          "Helmut",
-          "Boards",
-          "S\u00e4ilynoja",
-          "Metzger",
-          "Learning",
-          "Internal",
-          "Morgan",
-          "Kakkonen",
-          "Marie",
-          "membership",
-          "P\u00e4\u00e4kk\u00f6nen",
-          "Ismo",
-          "Rombouts",
-          "Ent",
-          "Sammy",
-          "Shen",
-          "Monika",
-          "Richard",
-          "Jurian",
-          "Vice",
-          "National",
-          "Bertrand",
-          "Roden",
-          "Gabor",
-          "Phill",
-          "Stephanie",
-          "Hans",
-          "de",
-          "Zivanovic",
-          "Klaus",
-          "Paukamainen",
-          "review",
-          "Posthuma",
-          "Mette",
-          "Olsen",
-          "Johan",
-          "Zheng",
-          "Mueller",
-          "Meivert",
-          "Black",
-          "Inga",
-          "Hansen",
-          "Ninna",
-          "Demeter",
-          "Beata",
-          "Tibor",
-          "2014",
-          "Cornanguer",
-          "Linz",
-          "Melo",
-          "Hanne",
-          "O\u2019Dea",
-          "balloting",
-          "Cs\u00f6ndes",
           "Foundation",
-          "Reid",
-          "Reale",
-          "Huba",
-          "Meile",
-          "Sainio",
-          "Walsh",
-          "Shirley",
-          "suggestion",
-          "Xu",
-          "Overview",
-          "Tommi",
-          "Stuart",
-          "Peter",
-          "Tester",
-          "Marko",
-          "follow",
-          "Phung",
-          "Ingvar",
-          "Ulrich",
-          "Extension",
-          "Zabar",
-          "Lloyd",
-          "Hinz",
-          "Laar",
-          "Development",
-          "formally",
-          "Editor",
-          "Pedersen",
-          "Dakar",
-          "den",
-          "Kari",
-          "Rik",
-          "Wenqiang",
-          "approve",
-          "community",
-          "Objectives",
-          "Gerry",
-          "participate",
-          "Jidong",
-          "Claesson",
-          "Pichler",
-          "Halperin",
-          "Yaron",
-          "release",
-          "Chai",
-          "Klonk",
-          "Tsubery",
-          "Bird",
-          "Assembly",
-          "Igal",
-          "Istvan",
-          "Van",
-          "Rytk\u00f6nen",
-          "Exam",
-          "Leo",
-          "complete",
-          "Levi",
-          "Jian",
-          "Sabine",
-          "Lead",
-          "thank",
-          "Anders",
-          "Crawford",
-          "Kolluru",
-          "input",
-          "Group",
-          "person",
-          "Stephen",
-          "Alessandro",
-          "Leger",
-          "31",
-          "Rex",
-          "Afeng",
-          "Sogliani",
-          "International",
-          "Parveen",
-          "Uhde",
-          "comment",
-          "Morin",
-          "Armin",
-          "Shalom",
-          "Working",
-          "Soile",
-          "team",
-          "Marnix",
+          "Software",
           "Agile",
           "Level",
-          "Forgacs",
-          "Arnaud",
-          "Friedenberg",
-          "Fumery",
-          "Wenye",
-          "Ant\u00f3nio",
-          "Zimmerer",
-          "Veenendaal",
-          "B\u00f6gge",
-          "Dani",
-          "Debra",
-          "Lars",
-          "Sandberg",
-          "Lucjan",
-          "Marketing",
-          "Salvatore",
+          "Tester",
           "Testing",
-          "Foucal",
-          "Collino",
-          "General",
-          "der",
-          "Itah",
-          "Stevan",
-          "author",
-          "Weber",
-          "Outcomes",
-          "Lauren",
-          "Nathalie",
-          "Chris",
-          "Petri",
-          "Terry",
-          "Stephan",
-          "Treffny",
-          "\u00ae",
-          "Coleman"
+          "Extension"
         ]
       }
     },
@@ -1151,36 +1880,19 @@
         "Expert Level. For this reason, the extension syllabi are established at the Foundation Level to expand the",
         "ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and",
         "introduced by the ISTQB periodically. Extensions may be established at the Advanced Level as well, but",
-        "that is beyond the scope of this document.",
-        "The following Foundation Level Extension syllabus has been released:",
-        "\uf0b7",
-        "Agile Tester",
-        "In this document, each Foundation Level Extension syllabus is summarized and the associated Business",
-        "Outcomes are stated. The Business Outcomes communicate what can be expected from a person who",
-        "achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and",
-        "will outline the benefits for companies that are considering the development of specific testing skills at this",
-        "level.",
-        "Version 2014",
-        "Page 6 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester"
+        "that is beyond the scope of this document."
       ],
       "keywords": [
-        "foundation level extension",
         "istqb foundation level",
-        "testing foundation level",
-        "level extension syllabus",
-        "level extension certification",
+        "foundation level extensions",
         "expert level syllabi",
         "advanced level syllabi",
-        "agile tester",
+        "istqb program",
+        "high-level introduction",
+        "leading principles",
         "individual extension syllabi",
-        "istqb program"
+        "verview document",
+        "istqb website"
       ],
       "sentences": [
         "This overview document is intended for anyone with an interest in the ISTQB Foundation Level Extensions who wants a high-level introduction to the leading principles and an overview of the individual extension syllabi.",
@@ -1191,10 +1903,7 @@
         "However, not all topics are suited for the Expert Level.",
         "For this reason, the extension syllabi are established at the Foundation Level to expand the ISTQB program to incorporate new or updated knowledge.",
         "New extensions shall be discussed and introduced by the ISTQB periodically.",
-        "Extensions may be established at the Advanced Level as well, but that is beyond the scope of this document.",
-        "The following Foundation Level Extension syllabus has been released: Agile Tester In this document, each Foundation Level Extension syllabus is summarized and the associated Business Outcomes are stated.",
-        "The Business Outcomes communicate what can be expected from a person who achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and will outline the benefits for companies that are considering the development of specific testing skills at this level.",
-        "May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester"
+        "Extensions may be established at the Advanced Level as well, but that is beyond the scope of this document."
       ],
       "semantic": {
         "tokens": [
@@ -1290,13 +1999,135 @@
           "Advanced",
           "Level",
           "scope",
+          "document"
+        ],
+        "nouns": [
+          "level",
           "document",
-          "following",
+          "one",
+          "overview",
+          "time",
+          "methodology",
+          "introduction",
+          "knowledge",
+          "extension",
+          "reason",
+          "topic",
+          "principle",
+          "change",
+          "technology",
+          "program",
+          "publication",
+          "website",
+          "scope",
+          "syllabi",
+          "interest",
+          "market",
+          "syllabus"
+        ],
+        "verbs": [
+          "define",
+          "establish",
+          "update",
+          "lead",
+          "suit",
+          "intend",
+          "discuss",
+          "exist",
+          "emerge",
+          "want",
+          "bring",
+          "expand",
+          "incorporate",
+          "introduce",
+          "reflect"
+        ],
+        "lemmas": [
+          "major",
+          "level",
+          "document",
+          "Advanced",
+          "one",
+          "overview",
+          "time",
+          "introduce",
+          "methodology",
+          "individual",
+          "introduction",
+          "knowledge",
+          "extension",
+          "define",
+          "Extensions",
           "Foundation",
+          "reason",
+          "intend",
+          "principle",
+          "additional",
+          "change",
+          "exist",
+          "topic",
+          "discuss",
+          "new",
           "Level",
-          "Extension",
-          "syllabus",
-          "released",
+          "want",
+          "incorporate",
+          "technology",
+          "ISTQB",
+          "periodically",
+          "available",
+          "program",
+          "publication",
+          "suit",
+          "emerge",
+          "website",
+          "scope",
+          "expand",
+          "interest",
+          "syllabi",
+          "reflect",
+          "market",
+          "shall",
+          "Expert",
+          "establish",
+          "lead",
+          "update",
+          "high",
+          "bring",
+          "syllabus"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "The following Foundation Level Extension syllabus has been released:",
+      "page": 6,
+      "paragraphs": [
+        "",
+        "Agile Tester",
+        "In this document, each Foundation Level Extension syllabus is summarized and the associated Business",
+        "Outcomes are stated. The Business Outcomes communicate what can be expected from a person who",
+        "achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and",
+        "will outline the benefits for companies that are considering the development of specific testing skills at this",
+        "level."
+      ],
+      "keywords": [
+        "foundation level extension",
+        "level extension syllabus",
+        "level extension certification",
+        "agile tester",
+        "business outcomes communicate",
+        "syllabus is summarized",
+        "outcomes are stated",
+        "specific testing skills",
+        "document",
+        "achieves a foundation"
+      ],
+      "sentences": [
+        "Agile Tester In this document, each Foundation Level Extension syllabus is summarized and the associated Business Outcomes are stated.",
+        "The Business Outcomes communicate what can be expected from a person who achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and will outline the benefits for companies that are considering the development of specific testing skills at this level."
+      ],
+      "semantic": {
+        "tokens": [
           "Agile",
           "Tester",
           "document",
@@ -1333,11 +2164,131 @@
           "specific",
           "testing",
           "skills",
+          "level"
+        ],
+        "nouns": [
           "level",
+          "area",
+          "document",
+          "benefit",
+          "company",
+          "testing",
+          "syllabus",
+          "development",
+          "person",
+          "skill",
+          "subject"
+        ],
+        "verbs": [
+          "consider",
+          "summarize",
+          "state",
+          "achieve",
+          "expect",
+          "outline",
+          "communicate"
+        ],
+        "lemmas": [
+          "level",
+          "document",
+          "Certification",
+          "development",
+          "achieve",
+          "person",
+          "particular",
+          "area",
+          "Foundation",
+          "Business",
+          "Level",
+          "Tester",
+          "outline",
+          "skill",
+          "Extension",
+          "subject",
+          "e.g.",
+          "benefit",
+          "company",
+          "consider",
+          "state",
+          "Outcomes",
+          "testing",
+          "specific",
+          "Agile",
+          "summarize",
+          "associated",
+          "expect",
+          "communicate",
+          "syllabus"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 6,
+      "paragraphs": [
+        "Page 6 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
           "31",
-          "2014",
-          "International",
-          "Overview",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 7,
+      "paragraphs": [
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 7,
+      "paragraphs": [
+        "Software Testing",
+        "Foundation Level Extension -   Agile Tester"
+      ],
+      "keywords": [
+        "foundation level extension",
+        "testing foundation level",
+        "software testing foundation",
+        "agile tester"
+      ],
+      "sentences": [
+        "Software Testing Foundation Level Extension -   Agile Tester"
+      ],
+      "semantic": {
+        "tokens": [
           "Software",
           "Testing",
           "Foundation",
@@ -1346,149 +2297,16 @@
           "Agile",
           "Tester"
         ],
-        "nouns": [
-          "change",
-          "person",
-          "extension",
-          "publication",
-          "topic",
-          "reason",
-          "level",
-          "time",
-          "technology",
-          "website",
-          "market",
-          "benefit",
-          "interest",
-          "development",
-          "scope",
-          "company",
-          "introduction",
-          "syllabi",
-          "syllabus",
-          "skill",
-          "document",
-          "program",
-          "overview",
-          "knowledge",
-          "testing",
-          "area",
-          "subject",
-          "methodology",
-          "one",
-          "principle"
-        ],
-        "verbs": [
-          "outline",
-          "follow",
-          "achieve",
-          "expand",
-          "define",
-          "reflect",
-          "introduce",
-          "lead",
-          "exist",
-          "expect",
-          "incorporate",
-          "want",
-          "update",
-          "release",
-          "summarize",
-          "state",
-          "suit",
-          "establish",
-          "consider",
-          "intend",
-          "bring",
-          "discuss",
-          "emerge",
-          "communicate"
-        ],
+        "nouns": [],
+        "verbs": [],
         "lemmas": [
-          "Extensions",
-          "time",
-          "reflect",
-          "ISTQB",
-          "company",
-          "incorporate",
-          "Business",
-          "want",
-          "syllabi",
-          "Software",
-          "skill",
-          "document",
-          "particular",
-          "e.g.",
-          "consider",
-          "program",
-          "individual",
-          "area",
-          "major",
-          "change",
-          "outline",
-          "reason",
-          "technology",
-          "expand",
-          "scope",
-          "2014",
-          "additional",
-          "establish",
           "Foundation",
-          "overview",
-          "knowledge",
-          "Overview",
-          "discuss",
-          "new",
-          "methodology",
-          "Tester",
-          "extension",
-          "publication",
-          "follow",
-          "website",
-          "Advanced",
-          "Extension",
-          "development",
-          "available",
-          "expect",
-          "release",
-          "introduction",
-          "suit",
-          "syllabus",
-          "specific",
-          "high",
-          "testing",
-          "Certification",
-          "person",
-          "topic",
-          "31",
-          "level",
-          "International",
-          "periodically",
-          "achieve",
-          "shall",
-          "define",
-          "market",
-          "benefit",
-          "introduce",
-          "interest",
+          "Software",
           "Agile",
-          "lead",
-          "exist",
           "Level",
-          "update",
-          "Expert",
-          "summarize",
-          "state",
+          "Tester",
           "Testing",
-          "intend",
-          "bring",
-          "Outcomes",
-          "associated",
-          "emerge",
-          "subject",
-          "one",
-          "communicate",
-          "principle"
+          "Extension"
         ]
       }
     },
@@ -1497,7 +2315,7 @@
       "text": "2.  Introduction to Foundation Level Agile Tester Extension",
       "page": 7,
       "paragraphs": [
-        "The certification for Foundation Level Extension \u2013   Agile Tester is designed for professionals who are",
+        "The certification for Foundation Level Extension -   Agile Tester is designed for professionals who are",
         "working within Agile environments. It is also for professionals who are planning to start implementing",
         "Agile methods in the near future, or are working within companies that plan to do so, The certification",
         "provides an advantage for those who would like to know the required Agile activities, roles, methods, and",
@@ -1516,7 +2334,7 @@
         "working within companies"
       ],
       "sentences": [
-        "The certification for Foundation Level Extension \u2013   Agile Tester is designed for professionals who are working within Agile environments.",
+        "The certification for Foundation Level Extension -   Agile Tester is designed for professionals who are working within Agile environments.",
         "It is also for professionals who are planning to start implementing Agile methods in the near future, or are working within companies that plan to do so, The certification provides an advantage for those who would like to know the required Agile activities, roles, methods, and methodologies specific to their role."
       ],
       "semantic": {
@@ -1558,55 +2376,55 @@
           "role"
         ],
         "nouns": [
+          "professional",
+          "company",
+          "certification",
+          "advantage",
           "method",
           "activity",
           "role",
-          "professional",
-          "company",
           "methodology",
-          "future",
-          "certification",
-          "advantage",
-          "environment"
+          "environment",
+          "future"
         ],
         "verbs": [
-          "plan",
-          "start",
-          "work",
+          "design",
           "provide",
           "know",
-          "design",
+          "like",
           "implement",
-          "like"
+          "plan",
+          "start",
+          "work"
         ],
         "lemmas": [
-          "plan",
+          "certification",
           "role",
-          "professional",
-          "like",
-          "required",
-          "Extension",
+          "implement",
+          "methodology",
+          "work",
+          "near",
+          "Foundation",
           "method",
-          "start",
-          "Agile",
+          "like",
+          "activity",
+          "Level",
+          "Tester",
+          "required",
+          "environment",
+          "agile",
+          "Extension",
+          "professional",
           "design",
           "company",
-          "Level",
-          "near",
-          "advantage",
-          "environment",
-          "activity",
           "provide",
-          "agile",
-          "Foundation",
-          "implement",
+          "know",
+          "advantage",
           "future",
           "specific",
-          "work",
-          "methodology",
-          "certification",
-          "know",
-          "Tester"
+          "Agile",
+          "plan",
+          "start"
         ]
       }
     },
@@ -1614,12 +2432,20 @@
       "level": "H1",
       "text": "2.1 Intended Audience",
       "page": 7,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "The Foundation Level Extension -   Agile Tester qualification is aimed at four main groups of professionals:",
+      "page": 7,
       "paragraphs": [
-        "The Foundation Level Extension \u2013   Agile Tester qualification is aimed at four main groups of professionals:",
         "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
         "like to get an Agile Tester Certificate.",
         "2. Junior professional testers who are just starting in the testing profession, have received the",
-        "Foundation Level certificate, and would like to know more about   the   tester\u2019s   role in an Agile",
+        "Foundation Level certificate, and would like to know more about   the   tester's   role in an Agile",
         "environment.",
         "3. Professionals who are relatively new to testing and are required to implement test approaches,",
         "methods and techniques in their day to day job in Agile projects.",
@@ -1628,43 +2454,33 @@
         "projects.",
         "These professionals include people who are in roles such as testers, test analysts, test engineers, test",
         "consultants, test managers, user acceptance testers, and software developers.",
-        "This Foundation Level Extension \u2013   Agile Tester certification may also be appropriate for anyone who",
+        "This Foundation Level Extension -   Agile Tester certification may also be appropriate for anyone who",
         "wants a deeper understanding of software testing in the Agile world, such as project managers, quality",
         "managers, software development managers, business analysts, IT directors, and management",
         "consultants."
       ],
       "keywords": [
-        "foundation level extension",
-        "foundation level certificate",
-        "agile tester qualification",
         "agile tester certificate",
+        "foundation level certificate",
         "junior professional testers",
-        "qualification is aimed",
-        "main groups",
+        "foundation level extension",
         "agile projects",
         "professionals",
-        "agile tester certification"
+        "testing",
+        "managers",
+        "agile tester certification",
+        "agile environment"
       ],
       "sentences": [
-        "The Foundation Level Extension \u2013   Agile Tester qualification is aimed at four main groups of professionals: 1. Professionals who have achieved in-depth testing experience in traditional methods and would like to get an Agile Tester Certificate.",
-        "2. Junior professional testers who are just starting in the testing profession, have received the Foundation Level certificate, and would like to know more about   the   tester\u2019s   role in an Agile environment.",
+        "Professionals who have achieved in-depth testing experience in traditional methods and would like to get an Agile Tester Certificate.",
+        "2. Junior professional testers who are just starting in the testing profession, have received the Foundation Level certificate, and would like to know more about   the   tester's   role in an Agile environment.",
         "3. Professionals who are relatively new to testing and are required to implement test approaches, methods and techniques in their day to day job in Agile projects.",
         "4. Professionals who are experienced in their role (including unit testing) and need more understanding and knowledge about how to perform and manage testing on all levels in Agile projects.",
         "These professionals include people who are in roles such as testers, test analysts, test engineers, test consultants, test managers, user acceptance testers, and software developers.",
-        "This Foundation Level Extension \u2013   Agile Tester certification may also be appropriate for anyone who wants a deeper understanding of software testing in the Agile world, such as project managers, quality managers, software development managers, business analysts, IT directors, and management consultants."
+        "This Foundation Level Extension -   Agile Tester certification may also be appropriate for anyone who wants a deeper understanding of software testing in the Agile world, such as project managers, quality managers, software development managers, business analysts, IT directors, and management consultants."
       ],
       "semantic": {
         "tokens": [
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester",
-          "qualification",
-          "aimed",
-          "main",
-          "groups",
-          "professionals",
           "1",
           "Professionals",
           "achieved",
@@ -1772,131 +2588,124 @@
           "consultants"
         ],
         "nouns": [
-          "director",
-          "profession",
-          "developer",
-          "people",
-          "role",
           "level",
-          "professional",
-          "world",
           "user",
-          "consultant",
+          "director",
+          "management",
+          "people",
+          "certification",
+          "role",
           "engineer",
-          "method",
-          "technique",
-          "development",
-          "project",
-          "group",
-          "analyst",
-          "experience",
-          "approach",
           "acceptance",
+          "development",
+          "manager",
+          "knowledge",
+          "technique",
+          "tester",
+          "method",
+          "software",
+          "experience",
           "environment",
           "depth",
-          "unit",
-          "quality",
-          "tester",
-          "job",
-          "knowledge",
-          "software",
-          "day",
-          "understanding",
-          "qualification",
-          "testing",
           "business",
-          "manager",
+          "professional",
+          "day",
+          "consultant",
+          "world",
+          "project",
+          "quality",
+          "approach",
+          "analyst",
+          "testing",
+          "profession",
           "test",
-          "management",
-          "certification",
-          "certificate"
+          "unit",
+          "developer",
+          "certificate",
+          "job",
+          "understanding"
         ],
         "verbs": [
-          "need",
-          "want",
-          "perform",
-          "receive",
-          "aim",
-          "start",
-          "know",
           "manage",
+          "perform",
+          "need",
           "include",
-          "experience",
-          "achieve",
+          "know",
+          "like",
           "implement",
-          "require",
-          "like"
+          "experience",
+          "want",
+          "start",
+          "achieve",
+          "receive",
+          "require"
         ],
         "lemmas": [
-          "require",
-          "director",
-          "profession",
-          "developer",
-          "aim",
-          "people",
-          "role",
-          "level",
-          "Certificate",
-          "include",
-          "professional",
-          "world",
-          "user",
-          "achieve",
-          "1",
-          "consultant",
-          "traditional",
-          "like",
           "2",
-          "relatively",
-          "engineer",
-          "receive",
-          "Extension",
-          "method",
-          "start",
-          "4",
-          "technique",
-          "development",
-          "project",
+          "level",
+          "user",
           "junior",
-          "group",
-          "Agile",
-          "analyst",
+          "director",
+          "management",
+          "people",
+          "certification",
+          "role",
+          "engineer",
+          "implement",
+          "acceptance",
+          "development",
+          "achieve",
+          "receive",
+          "4",
+          "manager",
+          "knowledge",
+          "technique",
+          "tester",
+          "need",
+          "Foundation",
+          "method",
+          "like",
+          "software",
+          "new",
           "Level",
           "experience",
-          "approach",
-          "acceptance",
-          "3",
-          "depth",
-          "environment",
           "want",
-          "unit",
-          "quality",
-          "manage",
-          "agile",
-          "tester",
-          "Foundation",
-          "job",
-          "implement",
-          "main",
-          "need",
-          "knowledge",
-          "perform",
-          "software",
+          "relatively",
+          "Tester",
           "deep",
-          "day",
-          "understanding",
-          "appropriate",
-          "qualification",
-          "testing",
+          "environment",
+          "agile",
+          "require",
+          "Extension",
+          "depth",
           "business",
-          "manager",
-          "test",
-          "new",
-          "management",
-          "certification",
-          "certificate",
+          "perform",
+          "professional",
+          "3",
+          "day",
           "know",
-          "Tester"
+          "consultant",
+          "world",
+          "project",
+          "quality",
+          "appropriate",
+          "approach",
+          "traditional",
+          "1",
+          "Certificate",
+          "manage",
+          "analyst",
+          "testing",
+          "profession",
+          "test",
+          "include",
+          "unit",
+          "developer",
+          "Agile",
+          "certificate",
+          "start",
+          "job",
+          "understanding"
         ]
       }
     },
@@ -1909,7 +2718,7 @@
         "professional testers. A person with the Agile Tester certificate has extended the broad understanding of",
         "testing acquired at the Foundation Level to enable him or her to work effectively as a professional tester in",
         "an Agile project.",
-        "People possessing an ISTQB Foundation Level Extension \u2013   Agile Tester certificate may use the Certified",
+        "People possessing an ISTQB Foundation Level Extension -   Agile Tester certificate may use the Certified",
         "Tester Foundation Level acronym CTFL-AT."
       ],
       "keywords": [
@@ -1927,7 +2736,7 @@
       "sentences": [
         "Building on the Foundation Level, the Agile Tester Extension supports the definition of career paths for professional testers.",
         "A person with the Agile Tester certificate has extended the broad understanding of testing acquired at the Foundation Level to enable him or her to work effectively as a professional tester in an Agile project.",
-        "People possessing an ISTQB Foundation Level Extension \u2013   Agile Tester certificate may use the Certified Tester Foundation Level acronym CTFL-AT."
+        "People possessing an ISTQB Foundation Level Extension -   Agile Tester certificate may use the Certified Tester Foundation Level acronym CTFL-AT."
       ],
       "semantic": {
         "tokens": [
@@ -1979,60 +2788,60 @@
           "CTFL"
         ],
         "nouns": [
-          "definition",
-          "person",
-          "People",
-          "understanding",
-          "project",
-          "testing",
           "tester",
+          "testing",
           "acronym",
+          "People",
+          "certificate",
+          "project",
+          "person",
           "career",
-          "path",
-          "certificate"
+          "definition",
+          "understanding",
+          "path"
         ],
         "verbs": [
-          "extend",
-          "work",
-          "build",
           "enable",
+          "extend",
+          "acquire",
           "support",
+          "work",
           "possess",
-          "use",
-          "acquire"
+          "build",
+          "use"
         ],
         "lemmas": [
+          "support",
+          "People",
           "person",
+          "work",
+          "definition",
+          "use",
+          "tester",
+          "Foundation",
+          "acquire",
+          "Level",
+          "Tester",
+          "Extension",
+          "agile",
+          "ISTQB",
+          "enable",
           "professional",
           "acronym",
-          "career",
-          "support",
-          "possess",
-          "acquire",
-          "People",
-          "Extension",
-          "project",
-          "ISTQB",
-          "Agile",
-          "Certified",
-          "Level",
-          "definition",
-          "enable",
-          "agile",
-          "tester",
-          "path",
-          "Foundation",
-          "effectively",
-          "broad",
           "extend",
-          "work",
-          "understanding",
+          "project",
+          "career",
+          "effectively",
+          "path",
+          "broad",
           "CTFL",
-          "build",
           "testing",
-          "use",
+          "Certified",
+          "Agile",
           "certificate",
-          "Tester"
+          "possess",
+          "build",
+          "understanding"
         ]
       }
     },
@@ -2044,37 +2853,23 @@
         "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize,",
         "remember and recall terms and concepts stated in the Foundation Level syllabus.",
         "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an",
-        "extension exam.",
-        "Version 2014",
-        "Page 7 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester",
-        "That said, each extension level exam focuses on the learning objectives defined in that extension",
-        "syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each",
-        "chapter within each particular extension syllabus."
+        "extension exam."
       ],
       "keywords": [
         "foundation level syllabus",
-        "testing foundation level",
-        "software testing foundation",
-        "foundation level extension",
-        "overview software testing",
+        "level syllabus learning",
         "candidate will recognize",
         "remember and recall",
-        "level syllabus learning",
         "recall terms",
-        "terms and concepts"
+        "terms and concepts",
+        "concepts stated",
+        "syllabus learning objectives",
+        "general",
+        "extension exam"
       ],
       "sentences": [
         "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize, remember and recall terms and concepts stated in the Foundation Level syllabus.",
-        "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an extension exam.",
-        "May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester That said, each extension level exam focuses on the learning objectives defined in that extension syllabus.",
-        "The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each chapter within each particular extension syllabus."
+        "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an extension exam."
       ],
       "semantic": {
         "tokens": [
@@ -2106,11 +2901,128 @@
           "K-",
           "level",
           "extension",
+          "exam"
+        ],
+        "nouns": [
+          "level",
+          "k1",
+          "addition",
+          "objective",
           "exam",
+          "candidate",
+          "term",
+          "syllabus",
+          "concept",
+          "extension"
+        ],
+        "verbs": [
+          "recognize",
+          "remember",
+          "learn",
+          "state",
+          "recall"
+        ],
+        "lemmas": [
+          "level",
+          "k1",
+          "addition",
+          "examinable",
+          "objective",
+          "concept",
+          "extension",
+          "Foundation",
+          "K-",
+          "general",
+          "Level",
+          "recall",
+          "remember",
+          "learn",
+          "state",
+          "candidate",
+          "i.e.",
+          "recognize",
+          "exam",
+          "term",
+          "syllabus"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 7,
+      "paragraphs": [
+        "Page 7 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
           "31",
-          "2014",
-          "International",
-          "Overview",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 8,
+      "paragraphs": [
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 8,
+      "paragraphs": [
+        "Software Testing",
+        "Foundation Level Extension -   Agile Tester",
+        "That said, each extension level exam focuses on the learning objectives defined in that extension",
+        "syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each",
+        "chapter within each particular extension syllabus."
+      ],
+      "keywords": [
+        "software testing foundation",
+        "testing foundation level",
+        "agile tester",
+        "foundation level extension",
+        "level exam focuses",
+        "learning objectives defined",
+        "extension level exam",
+        "extension syllabus",
+        "relevant learning objectives"
+      ],
+      "sentences": [
+        "Software Testing Foundation Level Extension -   Agile Tester That said, each extension level exam focuses on the learning objectives defined in that extension syllabus.",
+        "The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each chapter within each particular extension syllabus."
+      ],
+      "semantic": {
+        "tokens": [
           "Software",
           "Testing",
           "Foundation",
@@ -2143,72 +3055,46 @@
           "syllabus"
         ],
         "nouns": [
-          "chapter",
-          "extension",
-          "concept",
-          "k1",
-          "beginning",
           "level",
-          "syllabus",
+          "objective",
           "exam",
-          "addition",
-          "candidate",
-          "term",
-          "objective"
+          "beginning",
+          "syllabus",
+          "chapter",
+          "extension"
         ],
         "verbs": [
-          "recall",
-          "state",
-          "provide",
-          "recognize",
-          "remember",
-          "say",
           "focus",
+          "define",
           "learn",
-          "define"
+          "provide",
+          "say"
         ],
         "lemmas": [
-          "extension",
-          "concept",
-          "k1",
-          "recall",
-          "31",
           "level",
-          "K-",
-          "International",
-          "say",
-          "learn",
           "objective",
-          "define",
-          "chapter",
-          "Extension",
-          "relevant",
-          "Agile",
-          "i.e.",
-          "recognize",
-          "remember",
-          "Level",
-          "term",
-          "examinable",
-          "2014",
-          "state",
-          "syllabus",
-          "Software",
-          "provide",
           "K1",
-          "k2",
-          "Foundation",
           "particular",
-          "exam",
-          "addition",
-          "candidate",
+          "extension",
           "focus",
+          "define",
+          "Foundation",
+          "Software",
+          "Level",
+          "Tester",
+          "Extension",
+          "say",
+          "chapter",
+          "relevant",
           "K3",
+          "learn",
+          "provide",
           "Testing",
+          "Agile",
+          "exam",
           "beginning",
-          "Overview",
-          "general",
-          "Tester"
+          "syllabus",
+          "k2"
         ]
       }
     },
@@ -2217,7 +3103,7 @@
       "text": "2.4 Entry Requirements",
       "page": 8,
       "paragraphs": [
-        "To be able to participate in a Foundation Level Extension \u2013   Agile Tester exam, candidates must have",
+        "To be able to participate in a Foundation Level Extension -   Agile Tester exam, candidates must have",
         "obtained the ISTQB Foundation Level certificate."
       ],
       "keywords": [
@@ -2230,7 +3116,7 @@
         "participate"
       ],
       "sentences": [
-        "To be able to participate in a Foundation Level Extension \u2013   Agile Tester exam, candidates must have obtained the ISTQB Foundation Level certificate."
+        "To be able to participate in a Foundation Level Extension -   Agile Tester exam, candidates must have obtained the ISTQB Foundation Level certificate."
       ],
       "semantic": {
         "tokens": [
@@ -2251,26 +3137,26 @@
         ],
         "nouns": [
           "candidate",
-          "certificate",
-          "exam"
+          "exam",
+          "certificate"
         ],
         "verbs": [
           "participate",
           "obtain"
         ],
         "lemmas": [
-          "participate",
-          "Extension",
-          "obtain",
           "able",
-          "ISTQB",
-          "Agile",
           "Foundation",
-          "Level",
+          "participate",
+          "Agile",
           "exam",
-          "candidate",
           "certificate",
-          "Tester"
+          "Level",
+          "candidate",
+          "obtain",
+          "Tester",
+          "Extension",
+          "ISTQB"
         ]
       }
     },
@@ -2279,24 +3165,18 @@
       "text": "2.5 Structure and Course Duration",
       "page": 8,
       "paragraphs": [
-        "The Foundation Level Extension \u2013   Agile Tester syllabus has no shared or common elements with the",
-        "Foundation Level syllabus.",
-        "The syllabi must be taught in the following minimum number of days:"
+        "The Foundation Level Extension -   Agile Tester syllabus has no shared or common elements with the",
+        "Foundation Level syllabus."
       ],
       "keywords": [
         "foundation level extension",
-        "foundation level syllabus",
         "agile tester syllabus",
+        "foundation level syllabus",
         "shared or common",
-        "common elements",
-        "number of days",
-        "minimum number",
-        "syllabi",
-        "taught"
+        "common elements"
       ],
       "sentences": [
-        "The Foundation Level Extension \u2013   Agile Tester syllabus has no shared or common elements with the Foundation Level syllabus.",
-        "The syllabi must be taught in the following minimum number of days:"
+        "The Foundation Level Extension -   Agile Tester syllabus has no shared or common elements with the Foundation Level syllabus."
       ],
       "semantic": {
         "tokens": [
@@ -2311,86 +3191,58 @@
           "elements",
           "Foundation",
           "Level",
-          "syllabus",
-          "syllabi",
-          "taught",
-          "following",
-          "minimum",
-          "number",
-          "days"
+          "syllabus"
         ],
         "nouns": [
           "element",
-          "number",
-          "day",
-          "syllabi",
           "syllabus"
         ],
         "verbs": [
-          "share",
-          "teach",
-          "follow"
+          "share"
         ],
         "lemmas": [
-          "common",
-          "element",
-          "minimum",
-          "number",
-          "Extension",
-          "teach",
-          "follow",
-          "day",
-          "syllabi",
-          "syllabus",
-          "Agile",
-          "share",
-          "Level",
           "Foundation",
-          "Tester"
+          "Agile",
+          "Level",
+          "element",
+          "Tester",
+          "share",
+          "Extension",
+          "common",
+          "syllabus"
         ]
       }
     },
     {
-      "level": "H1",
-      "text": "Syllabus",
+      "level": "H3",
+      "text": "The syllabi must be taught in the following minimum number of days:",
       "page": 8,
       "paragraphs": [
+        "Syllabus",
         "Days",
         "Baseline: Foundation",
         "3",
         "Extension: Agile Tester",
         "2",
         "The following figure shows the structure of the Agile Tester Extension and its relationship to the",
-        "Foundation Level.",
-        "Version 2014",
-        "Page 8 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester"
+        "Foundation Level."
       ],
       "keywords": [
+        "syllabus days baseline",
         "agile tester extension",
-        "foundation level extension",
-        "testing foundation level",
-        "days baseline",
-        "software testing foundation",
-        "overview software testing",
+        "foundation level",
         "foundation extension",
         "figure shows",
         "shows the structure",
         "relationship"
       ],
       "sentences": [
-        "Days Baseline: Foundation Extension:",
-        "Agile Tester The following figure shows the structure of the Agile Tester Extension and its relationship to the Foundation Level.",
-        "May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester"
+        "Syllabus Days Baseline: Foundation Extension:",
+        "Agile Tester The following figure shows the structure of the Agile Tester Extension and its relationship to the Foundation Level."
       ],
       "semantic": {
         "tokens": [
+          "Syllabus",
           "Days",
           "Baseline",
           "Foundation",
@@ -2406,50 +3258,121 @@
           "Extension",
           "relationship",
           "Foundation",
-          "Level",
-          "31",
-          "2014",
-          "International",
-          "Overview",
-          "Software",
-          "Testing",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester"
+          "Level"
         ],
         "nouns": [
+          "relationship",
           "figure",
-          "extension",
-          "day",
           "structure",
-          "relationship"
+          "extension"
         ],
         "verbs": [
           "show",
           "follow"
         ],
         "lemmas": [
-          "extension",
+          "Syllabus",
+          "Foundation",
           "follow",
-          "structure",
-          "31",
-          "International",
-          "Extension",
           "Baseline",
           "Agile",
-          "Level",
-          "2014",
-          "figure",
-          "Software",
-          "Foundation",
-          "Testing",
           "show",
-          "day",
-          "Overview",
+          "Level",
           "relationship",
+          "Days",
+          "Tester",
+          "structure",
+          "Extension",
+          "figure",
+          "extension"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 8,
+      "paragraphs": [
+        "Page 8 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 9,
+      "paragraphs": [
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 9,
+      "paragraphs": [
+        "Software Testing",
+        "Foundation Level Extension -   Agile Tester"
+      ],
+      "keywords": [
+        "foundation level extension",
+        "testing foundation level",
+        "software testing foundation",
+        "agile tester"
+      ],
+      "sentences": [
+        "Software Testing Foundation Level Extension -   Agile Tester"
+      ],
+      "semantic": {
+        "tokens": [
+          "Software",
+          "Testing",
+          "Foundation",
+          "Level",
+          "Extension",
+          "Agile",
           "Tester"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Foundation",
+          "Software",
+          "Agile",
+          "Level",
+          "Tester",
+          "Testing",
+          "Extension"
         ]
       }
     },
@@ -2461,34 +3384,24 @@
         "The software industry changes rapidly. To deal with these changes and to provide the stakeholders with",
         "access to relevant and current information, the ISTQB working groups have created links on the",
         "www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences",
-        "in the industry. This information is not examinable under this syllabus.",
-        "Version 2014",
-        "Page 9 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester"
+        "in the industry. This information is not examinable under this syllabus."
       ],
       "keywords": [
-        "foundation level extension",
-        "overview software testing",
-        "software testing foundation",
         "istqb working groups",
-        "testing foundation level",
-        "industry changes rapidly",
-        "agile tester",
         "software industry",
+        "industry changes rapidly",
         "web site",
-        "supporting documents"
+        "supporting documents",
+        "provide the stakeholders",
+        "stakeholders with access",
+        "access to relevant",
+        "relevant and current",
+        "groups have created"
       ],
       "sentences": [
         "The software industry changes rapidly.",
         "To deal with these changes and to provide the stakeholders with access to relevant and current information, the ISTQB working groups have created links on the www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences in the industry.",
-        "This information is not examinable under this syllabus.",
-        "May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester"
+        "This information is not examinable under this syllabus."
       ],
       "semantic": {
         "tokens": [
@@ -2522,104 +3435,176 @@
           "industry",
           "information",
           "examinable",
-          "syllabus",
-          "31",
-          "2014",
-          "International",
-          "Overview",
-          "Software",
-          "Testing",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester"
+          "syllabus"
         ],
         "nouns": [
-          "change",
           "stakeholder",
-          "www.istqb.org",
-          "software",
-          "access",
-          "industry",
           "site",
           "group",
-          "syllabus",
-          "standard",
           "document",
+          "change",
+          "industry",
+          "access",
+          "syllabus",
+          "software",
+          "information",
+          "www.istqb.org",
           "occurrence",
           "link",
-          "web",
-          "information"
+          "standard",
+          "web"
         ],
         "verbs": [
-          "change",
-          "work",
+          "refer",
           "deal",
+          "change",
           "provide",
-          "create",
           "support",
-          "refer"
+          "work",
+          "create"
         ],
         "lemmas": [
-          "change",
-          "31",
-          "standard",
-          "International",
-          "occurrence",
-          "support",
+          "rapidly",
           "stakeholder",
-          "Extension",
-          "current",
-          "relevant",
-          "ISTQB",
+          "document",
+          "access",
+          "examinable",
+          "support",
+          "work",
           "group",
+          "deal",
+          "change",
+          "software",
+          "new",
+          "www.istqb.org",
+          "occurrence",
+          "link",
+          "standard",
+          "ISTQB",
+          "web",
+          "create",
+          "refer",
+          "relevant",
+          "site",
+          "current",
+          "industry",
+          "provide",
+          "information",
+          "syllabus"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 9,
+      "paragraphs": [
+        "Page 9 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 10,
+      "paragraphs": [
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 10,
+      "paragraphs": [
+        "Software Testing",
+        "Foundation Level Extension -   Agile Tester"
+      ],
+      "keywords": [
+        "foundation level extension",
+        "testing foundation level",
+        "software testing foundation",
+        "agile tester"
+      ],
+      "sentences": [
+        "Software Testing Foundation Level Extension -   Agile Tester"
+      ],
+      "semantic": {
+        "tokens": [
+          "Software",
+          "Testing",
+          "Foundation",
+          "Level",
+          "Extension",
+          "Agile",
+          "Tester"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Foundation",
+          "Software",
           "Agile",
           "Level",
-          "www.istqb.org",
-          "examinable",
-          "2014",
-          "industry",
-          "deal",
-          "provide",
-          "syllabus",
-          "create",
-          "Software",
-          "document",
-          "Foundation",
-          "link",
-          "refer",
+          "Tester",
           "Testing",
-          "software",
-          "access",
-          "site",
-          "work",
-          "Overview",
-          "rapidly",
-          "new",
-          "web",
-          "information",
-          "Tester"
+          "Extension"
         ]
       }
     },
     {
       "level": "H1",
-      "text": "3.  Overview of the Foundation Level Extension \u2013   Agile Tester",
+      "text": "3.  Overview of the Foundation Level Extension -   Agile Tester",
       "page": 10,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
-      "text": "Syllabus",
-      "page": 10,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
+      "paragraphs": [
+        "Syllabus"
+      ],
+      "keywords": [
+        "syllabus"
+      ],
+      "sentences": [
+        "Syllabus"
+      ],
+      "semantic": {
+        "tokens": [
+          "Syllabus"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Syllabus"
+        ]
+      }
     },
     {
       "level": "H1",
@@ -2627,8 +3612,68 @@
       "page": 10,
       "paragraphs": [
         "This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level",
-        "Extension \u2013   Agile Tester certification.",
-        "An Agile Tester can\u2026",
+        "Extension -   Agile Tester certification."
+      ],
+      "keywords": [
+        "foundation level extension",
+        "agile tester certification",
+        "business outcomes expected",
+        "lists the business",
+        "achieved the foundation",
+        "section lists",
+        "candidate"
+      ],
+      "sentences": [
+        "This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level Extension -   Agile Tester certification."
+      ],
+      "semantic": {
+        "tokens": [
+          "section",
+          "lists",
+          "Business",
+          "Outcomes",
+          "expected",
+          "candidate",
+          "achieved",
+          "Foundation",
+          "Level",
+          "Extension",
+          "Agile",
+          "Tester",
+          "certification"
+        ],
+        "nouns": [
+          "certification",
+          "candidate",
+          "section"
+        ],
+        "verbs": [
+          "list",
+          "expect",
+          "achieve"
+        ],
+        "lemmas": [
+          "list",
+          "Business",
+          "Foundation",
+          "certification",
+          "Agile",
+          "Level",
+          "Outcomes",
+          "candidate",
+          "section",
+          "expect",
+          "achieve",
+          "Tester",
+          "Extension"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "An Agile Tester can...",
+      "page": 10,
+      "paragraphs": [
         "AFM1",
         "Collaborate in a cross-functional Agile team being familiar with principles and basic",
         "practices of Agile software development.",
@@ -2646,49 +3691,33 @@
         "AFM7",
         "Work and share information with other team members using effective communication",
         "styles and channels.",
-        "In general, a Certified Tester Foundation Level \u2013   Agile Tester is expected to have acquired the necessary",
+        "In general, a Certified Tester Foundation Level -   Agile Tester is expected to have acquired the necessary",
         "skills to working effectively within an Agile team and environment."
       ],
       "keywords": [
-        "agile tester certification",
-        "foundation level extension",
-        "tester foundation level",
-        "business outcomes expected",
-        "certified tester foundation",
-        "section lists",
-        "cross-functional agile team",
         "agile software development",
+        "cross-functional agile team",
+        "basic practices",
+        "adapt existing testing",
+        "collaborate",
+        "agile tester",
+        "tester foundation level",
+        "certified tester foundation",
         "agile project",
-        "adapt existing testing"
+        "familiar with principles"
       ],
       "sentences": [
-        "This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level Extension \u2013   Agile Tester certification.",
-        "An Agile Tester can\u2026 AFM1 Collaborate in a cross-functional Agile team being familiar with principles and basic practices of Agile software development.",
+        "AFM1 Collaborate in a cross-functional Agile team being familiar with principles and basic practices of Agile software development.",
         "AFM2 Adapt existing testing experience and knowledge to Agile values and principles.",
         "AFM3 Support the Agile team in planning test-related activities.",
         "AFM4 Apply relevant methods and techniques for testing in an Agile project.",
         "AFM5 Assist the Agile team in test automation activities.",
         "AFM6 Assist business stakeholders in defining understandable and testable user stories, scenarios, requirements and acceptance criteria as appropriate.",
         "AFM7 Work and share information with other team members using effective communication styles and channels.",
-        "In general, a Certified Tester Foundation Level \u2013   Agile Tester is expected to have acquired the necessary skills to working effectively within an Agile team and environment."
+        "In general, a Certified Tester Foundation Level -   Agile Tester is expected to have acquired the necessary skills to working effectively within an Agile team and environment."
       ],
       "semantic": {
         "tokens": [
-          "section",
-          "lists",
-          "Business",
-          "Outcomes",
-          "expected",
-          "candidate",
-          "achieved",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester",
-          "certification",
-          "Agile",
-          "Tester",
           "AFM1",
           "Collaborate",
           "cross",
@@ -2776,137 +3805,124 @@
           "environment"
         ],
         "nouns": [
-          "user",
-          "requirement",
           "stakeholder",
-          "criterion",
-          "method",
-          "section",
-          "team",
-          "development",
-          "technique",
-          "project",
-          "automation",
-          "afm7",
-          "practice",
-          "experience",
+          "user",
           "acceptance",
-          "environment",
-          "activity",
-          "skill",
-          "member",
-          "candidate",
-          "style",
-          "knowledge",
-          "software",
-          "AFM1",
+          "development",
           "work",
-          "channel",
+          "knowledge",
+          "practice",
+          "technique",
+          "principle",
+          "method",
+          "activity",
+          "software",
+          "experience",
           "communication",
-          "testing",
-          "value",
-          "scenario",
-          "test",
-          "certification",
-          "information",
+          "skill",
+          "environment",
+          "channel",
+          "style",
           "business",
+          "value",
+          "member",
+          "team",
+          "information",
+          "project",
           "story",
-          "principle"
+          "afm1",
+          "automation",
+          "testing",
+          "test",
+          "scenario",
+          "criterion",
+          "requirement",
+          "afm7"
         ],
         "verbs": [
-          "acquire",
-          "plan",
-          "relate",
-          "work",
-          "exist",
-          "expect",
-          "list",
-          "support",
+          "define",
           "test",
-          "achieve",
-          "share",
-          "assist",
+          "exist",
+          "support",
+          "acquire",
+          "relate",
           "adapt",
-          "apply",
-          "define"
+          "plan",
+          "expect",
+          "share",
+          "work",
+          "assist",
+          "apply"
         ],
         "lemmas": [
-          "plan",
-          "AFM4",
-          "cross",
-          "principle",
-          "effective",
-          "list",
-          "user",
-          "support",
-          "Certified",
-          "achieve",
-          "testable",
-          "acquire",
-          "adapt",
-          "define",
-          "functional",
-          "relate",
           "stakeholder",
-          "requirement",
-          "criterion",
-          "Extension",
-          "method",
-          "necessary",
-          "relevant",
-          "section",
-          "team",
-          "development",
-          "technique",
-          "project",
-          "automation",
-          "Agile",
-          "AFM6",
-          "expect",
-          "practice",
-          "exist",
-          "Level",
-          "experience",
-          "AFM5",
-          "acceptance",
-          "afm7",
-          "Business",
-          "basic",
-          "share",
-          "environment",
-          "activity",
-          "agile",
-          "skill",
-          "Foundation",
-          "general",
-          "member",
-          "effectively",
-          "candidate",
-          "apply",
-          "understandable",
-          "style",
-          "knowledge",
-          "software",
-          "AFM1",
-          "familiar",
-          "work",
-          "appropriate",
-          "Collaborate",
+          "user",
+          "effective",
           "AFM3",
-          "channel",
-          "communication",
-          "testing",
-          "Outcomes",
-          "value",
-          "scenario",
-          "AFM2",
-          "test",
+          "support",
+          "acceptance",
+          "development",
+          "work",
+          "testable",
+          "knowledge",
           "assist",
-          "certification",
-          "information",
+          "practice",
+          "technique",
+          "define",
+          "AFM4",
+          "acquire",
+          "Foundation",
+          "understandable",
+          "principle",
+          "familiar",
+          "exist",
+          "activity",
+          "software",
+          "adapt",
+          "method",
+          "experience",
+          "communication",
+          "general",
+          "Tester",
+          "Level",
+          "skill",
+          "environment",
+          "agile",
+          "style",
+          "channel",
+          "basic",
+          "apply",
           "business",
+          "relevant",
+          "value",
+          "member",
+          "relate",
+          "team",
+          "AFM2",
+          "project",
           "story",
-          "Tester"
+          "AFM6",
+          "appropriate",
+          "information",
+          "necessary",
+          "effectively",
+          "afm1",
+          "automation",
+          "testing",
+          "test",
+          "functional",
+          "scenario",
+          "criterion",
+          "Collaborate",
+          "Certified",
+          "Agile",
+          "plan",
+          "AFM5",
+          "requirement",
+          "expect",
+          "share",
+          "cross",
+          "afm7"
         ]
       }
     },
@@ -2914,146 +3930,59 @@
       "level": "H1",
       "text": "3.2 Content",
       "page": 10,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 1: Agile Software Development",
+      "page": 10,
       "paragraphs": [
-        "Chapter 1: Agile Software Development",
-        "\uf0b7",
+        "",
         "The tester should remember the basic concept of Agile software development based on the Agile",
         "Manifesto.",
-        "\uf0b7",
+        "",
         "The tester should understand the advantages of the whole-team approach and the benefits of",
         "early and frequent feedback.",
-        "\uf0b7",
+        "",
         "The tester should recall Agile software development approaches.",
-        "\uf0b7",
+        "",
         "The tester should be able to write testable user stories in collaboration with developers and",
         "business representatives.",
-        "\uf0b7",
+        "",
         "The tester should understand how retrospectives can be used as a mechanism for process",
         "improvement in Agile projects.",
-        "\uf0b7",
+        "",
         "The tester should understand the use and purpose of continuous integration.",
-        "\uf0b7",
+        "",
         "The tester should know the differences between iteration and release planning, and how a tester",
-        "adds value in each of these activities.",
-        "Version 2014",
-        "Page 10 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester",
-        "Qualifications",
-        "Board",
-        "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
-        "\uf0b7",
-        "The tester should be able to describe the differences between testing activities in Agile projects",
-        "and non-Agile projects.",
-        "\uf0b7",
-        "The tester should be able to describe how development and testing activities are integrated in",
-        "Agile projects.",
-        "\uf0b7",
-        "The tester should be able to describe the role of independent testing in Agile projects.",
-        "\uf0b7",
-        "The tester should be able to describe the tools and techniques used to communicate the status of",
-        "testing in an Agile project, including test progress and product quality.",
-        "\uf0b7",
-        "The tester should be able to describe the process of evolving tests across multiple iterations and",
-        "explain why test automation is important to manage regression risk in Agile projects.",
-        "\uf0b7",
-        "The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",
-        "\uf0b7",
-        "The tester should be able to understand the role of a tester within an Agile team.",
-        "Chapter 3: Agile Testing Methods, Techniques, and Tools",
-        "\uf0b7",
-        "The tester should be able to recall the concepts of test-driven development, acceptance test-",
-        "driven development, and behavior-driven development.",
-        "\uf0b7",
-        "The tester should be able to recall the concepts of the test pyramid.",
-        "\uf0b7",
-        "The tester should be able to summarize the testing quadrants and their relationships with testing",
-        "levels and testing types.",
-        "\uf0b7",
-        "For a given Agile project, the tester should be able to work as a tester in a Scrum team.",
-        "\uf0b7",
-        "The tester should be able to assess quality risks within an Agile project.",
-        "\uf0b7",
-        "The tester should be able to estimate testing effort based on iteration content and quality risks.",
-        "\uf0b7",
-        "The tester should be able to interpret relevant information to support testing activities.",
-        "\uf0b7",
-        "The tester should be able to explain to business stakeholders how to define testable acceptance",
-        "criteria.",
-        "\uf0b7",
-        "Given a user story, the tester should be able to write acceptance test-driven development test",
-        "cases.",
-        "\uf0b7",
-        "For both functional and non-functional behavior, the tester should be able to write test cases using",
-        "black box test design techniques based on given user stories.",
-        "\uf0b7",
-        "The tester should be able to perform exploratory testing to support the testing of an Agile project.",
-        "\uf0b7",
-        "The tester should be able to recall different tools available to testers according to their purpose",
-        "and to activities in Agile projects.",
-        "Version 2014",
-        "Page 11 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board",
-        "Qualifications Board",
-        "International",
-        "Overview",
-        "Software Testing",
-        "Foundation Level Extension \u2013   Agile Tester"
+        "adds value in each of these activities."
       ],
       "keywords": [
         "agile software development",
         "agile manifest",
-        "agile projects",
-        "agile tester qualifications",
-        "fundamental agile testing",
-        "agile testing principles",
-        "overview software testing",
-        "software testing foundation",
-        "agile testing methods",
-        "recall agile software"
+        "software development based",
+        "tester should understand",
+        "remember the basic",
+        "basic concept",
+        "recall agile software",
+        "tester should remember",
+        "software development approaches",
+        "agile projects"
       ],
       "sentences": [
-        "Chapter 1: Agile Software Development",
         "The tester should remember the basic concept of Agile software development based on the Agile Manifesto.",
         "The tester should understand the advantages of the whole-team approach and the benefits of early and frequent feedback.",
         "The tester should recall Agile software development approaches.",
         "The tester should be able to write testable user stories in collaboration with developers and business representatives.",
         "The tester should understand how retrospectives can be used as a mechanism for process improvement in Agile projects.",
         "The tester should understand the use and purpose of continuous integration.",
-        "The tester should know the differences between iteration and release planning, and how a tester adds value in each of these activities.",
-        "May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester Qualifications Board Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes The tester should be able to describe the differences between testing activities in Agile projects and non-Agile projects.",
-        "The tester should be able to describe how development and testing activities are integrated in Agile projects.",
-        "The tester should be able to describe the role of independent testing in Agile projects.",
-        "The tester should be able to describe the tools and techniques used to communicate the status of testing in an Agile project, including test progress and product quality.",
-        "The tester should be able to describe the process of evolving tests across multiple iterations and explain why test automation is important to manage regression risk in Agile projects.",
-        "The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",
-        "The tester should be able to understand the role of a tester within an Agile team.",
-        "Chapter 3: Agile Testing Methods, Techniques, and Tools The tester should be able to recall the concepts of test-driven development, acceptance test- driven development, and behavior-driven development.",
-        "The tester should be able to recall the concepts of the test pyramid.",
-        "The tester should be able to summarize the testing quadrants and their relationships with testing levels and testing types.",
-        "For a given Agile project, the tester should be able to work as a tester in a Scrum team.",
-        "The tester should be able to assess quality risks within an Agile project.",
-        "The tester should be able to estimate testing effort based on iteration content and quality risks.",
-        "The tester should be able to interpret relevant information to support testing activities.",
-        "The tester should be able to explain to business stakeholders how to define testable acceptance criteria.",
-        "Given a user story, the tester should be able to write acceptance test-driven development test cases.",
-        "For both functional and non-functional behavior, the tester should be able to write test cases using black box test design techniques based on given user stories.",
-        "The tester should be able to perform exploratory testing to support the testing of an Agile project.",
-        "The tester should be able to recall different tools available to testers according to their purpose and to activities in Agile projects.",
-        "May 31, 2014 International Overview Software Testing Foundation Level Extension \u2013   Agile Tester"
+        "The tester should know the differences between iteration and release planning, and how a tester adds value in each of these activities."
       ],
       "semantic": {
         "tokens": [
-          "Chapter",
-          "1",
-          "Agile",
-          "Software",
-          "Development",
           "tester",
           "remember",
           "basic",
@@ -3112,28 +4041,227 @@
           "tester",
           "adds",
           "value",
-          "activities",
+          "activities"
+        ],
+        "nouns": [
+          "mechanism",
+          "difference",
+          "user",
+          "planning",
+          "collaboration",
+          "development",
+          "integration",
+          "concept",
+          "use",
+          "iteration",
+          "tester",
+          "activity",
+          "software",
+          "improvement",
+          "business",
+          "release",
+          "benefit",
+          "value",
+          "purpose",
+          "feedback",
+          "team",
+          "story",
+          "project",
+          "approach",
+          "advantage",
+          "retrospective",
+          "developer",
+          "representative",
+          "process"
+        ],
+        "verbs": [
+          "remember",
+          "understand",
+          "add",
+          "know",
+          "recall",
+          "write",
+          "base"
+        ],
+        "lemmas": [
+          "mechanism",
+          "difference",
+          "user",
+          "planning",
+          "add",
+          "collaboration",
+          "development",
+          "continuous",
+          "base",
+          "testable",
+          "integration",
+          "concept",
+          "use",
+          "iteration",
+          "able",
+          "tester",
+          "early",
+          "activity",
+          "software",
+          "recall",
+          "improvement",
+          "agile",
+          "Manifesto",
+          "basic",
+          "business",
+          "release",
+          "benefit",
+          "value",
+          "purpose",
+          "remember",
+          "feedback",
+          "know",
+          "team",
+          "story",
+          "project",
+          "write",
+          "approach",
+          "advantage",
+          "frequent",
+          "retrospective",
+          "understand",
+          "Agile",
+          "developer",
+          "representative",
+          "process"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 10,
+      "paragraphs": [
+        "Page 10 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board",
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014 International"
+      ],
+      "semantic": {
+        "tokens": [
           "31",
           "2014",
-          "International",
-          "Overview",
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014",
+          "International"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 11,
+      "paragraphs": [
+        "Software Testing"
+      ],
+      "keywords": [
+        "software testing"
+      ],
+      "sentences": [
+        "Software Testing"
+      ],
+      "semantic": {
+        "tokens": [
           "Software",
+          "Testing"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
           "Testing",
-          "Foundation",
-          "Level",
-          "Extension",
-          "Agile",
-          "Tester",
+          "Software"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level Extension -   Agile Tester",
+      "page": 11,
+      "paragraphs": [
+        "Qualifications",
+        "Board"
+      ],
+      "keywords": [
+        "board",
+        "qualifications"
+      ],
+      "sentences": [
+        "Qualifications Board"
+      ],
+      "semantic": {
+        "tokens": [
           "Qualifications",
-          "Board",
-          "Chapter",
-          "2",
-          "Fundamental",
-          "Agile",
-          "Testing",
-          "Principles",
-          "Practices",
-          "Processes",
+          "Board"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "Qualifications",
+          "Board"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+      "page": 11,
+      "paragraphs": [
+        "",
+        "The tester should be able to describe the differences between testing activities in Agile projects",
+        "and non-Agile projects.",
+        "",
+        "The tester should be able to describe how development and testing activities are integrated in",
+        "Agile projects.",
+        "",
+        "The tester should be able to describe the role of independent testing in Agile projects.",
+        "",
+        "The tester should be able to describe the tools and techniques used to communicate the status of",
+        "testing in an Agile project, including test progress and product quality.",
+        "",
+        "The tester should be able to describe the process of evolving tests across multiple iterations and",
+        "explain why test automation is important to manage regression risk in Agile projects.",
+        "",
+        "The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",
+        "",
+        "The tester should be able to understand the role of a tester within an Agile team."
+      ],
+      "keywords": [
+        "agile team",
+        "testing activities",
+        "non-agile projects",
+        "describe the differences",
+        "activities in agile",
+        "integrated in agile",
+        "testing in agile",
+        "risk in agile",
+        "describe the role",
+        "independent testing"
+      ],
+      "sentences": [
+        "The tester should be able to describe the differences between testing activities in Agile projects and non-Agile projects.",
+        "The tester should be able to describe how development and testing activities are integrated in Agile projects.",
+        "The tester should be able to describe the role of independent testing in Agile projects.",
+        "The tester should be able to describe the tools and techniques used to communicate the status of testing in an Agile project, including test progress and product quality.",
+        "The tester should be able to describe the process of evolving tests across multiple iterations and explain why test automation is important to manage regression risk in Agile projects.",
+        "The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",
+        "The tester should be able to understand the role of a tester within an Agile team."
+      ],
+      "semantic": {
+        "tokens": [
           "tester",
           "able",
           "describe",
@@ -3209,14 +4337,149 @@
           "role",
           "tester",
           "Agile",
+          "team"
+        ],
+        "nouns": [
+          "difference",
+          "progress",
+          "people",
+          "role",
+          "development",
+          "tool",
+          "domain",
+          "iteration",
+          "technique",
+          "risk",
+          "tester",
+          "activity",
+          "skill",
+          "status",
           "team",
-          "Chapter",
-          "3",
+          "project",
+          "quality",
+          "automation",
+          "testing",
+          "test",
+          "regression",
+          "product",
+          "process"
+        ],
+        "verbs": [
+          "manage",
+          "include",
+          "understand",
+          "integrate",
+          "explain",
+          "describe",
+          "evolve",
+          "communicate"
+        ],
+        "lemmas": [
+          "difference",
+          "progress",
+          "people",
+          "role",
+          "development",
+          "integrate",
+          "tool",
+          "describe",
+          "domain",
+          "iteration",
+          "able",
+          "technique",
+          "risk",
+          "tester",
+          "activity",
+          "important",
+          "skill",
+          "agile",
+          "status",
+          "team",
+          "multiple",
+          "project",
+          "quality",
+          "evolve",
+          "independent",
+          "automation",
+          "manage",
+          "testing",
+          "include",
+          "test",
+          "regression",
+          "product",
+          "understand",
+          "non",
           "Agile",
-          "Testing",
-          "Methods",
-          "Techniques",
-          "Tools",
+          "process",
+          "explain",
+          "communicate"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+      "page": 11,
+      "paragraphs": [
+        "",
+        "The tester should be able to recall the concepts of test-driven development, acceptance test-",
+        "driven development, and behavior-driven development.",
+        "",
+        "The tester should be able to recall the concepts of the test pyramid.",
+        "",
+        "The tester should be able to summarize the testing quadrants and their relationships with testing",
+        "levels and testing types.",
+        "",
+        "For a given Agile project, the tester should be able to work as a tester in a Scrum team.",
+        "",
+        "The tester should be able to assess quality risks within an Agile project.",
+        "",
+        "The tester should be able to estimate testing effort based on iteration content and quality risks.",
+        "",
+        "The tester should be able to interpret relevant information to support testing activities.",
+        "",
+        "The tester should be able to explain to business stakeholders how to define testable acceptance",
+        "criteria.",
+        "",
+        "Given a user story, the tester should be able to write acceptance test-driven development test",
+        "cases.",
+        "",
+        "For both functional and non-functional behavior, the tester should be able to write test cases using",
+        "black box test design techniques based on given user stories.",
+        "",
+        "The tester should be able to perform exploratory testing to support the testing of an Agile project.",
+        "",
+        "The tester should be able to recall different tools available to testers according to their purpose",
+        "and to activities in Agile projects."
+      ],
+      "keywords": [
+        "agile project",
+        "testing",
+        "recall the concepts",
+        "behavior-driven development",
+        "acceptance",
+        "test cases",
+        "testers",
+        "quality risks",
+        "scrum team",
+        "test-driven development test"
+      ],
+      "sentences": [
+        "The tester should be able to recall the concepts of test-driven development, acceptance test- driven development, and behavior-driven development.",
+        "The tester should be able to recall the concepts of the test pyramid.",
+        "The tester should be able to summarize the testing quadrants and their relationships with testing levels and testing types.",
+        "For a given Agile project, the tester should be able to work as a tester in a Scrum team.",
+        "The tester should be able to assess quality risks within an Agile project.",
+        "The tester should be able to estimate testing effort based on iteration content and quality risks.",
+        "The tester should be able to interpret relevant information to support testing activities.",
+        "The tester should be able to explain to business stakeholders how to define testable acceptance criteria.",
+        "Given a user story, the tester should be able to write acceptance test-driven development test cases.",
+        "For both functional and non-functional behavior, the tester should be able to write test cases using black box test design techniques based on given user stories.",
+        "The tester should be able to perform exploratory testing to support the testing of an Agile project.",
+        "The tester should be able to recall different tools available to testers according to their purpose and to activities in Agile projects."
+      ],
+      "semantic": {
+        "tokens": [
           "tester",
           "able",
           "recall",
@@ -3340,11 +4603,189 @@
           "purpose",
           "activities",
           "Agile",
-          "projects",
+          "projects"
+        ],
+        "nouns": [
+          "level",
+          "stakeholder",
+          "pyramid",
+          "user",
+          "acceptance",
+          "case",
+          "development",
+          "relationship",
+          "tool",
+          "box",
+          "iteration",
+          "concept",
+          "risk",
+          "technique",
+          "tester",
+          "activity",
+          "content",
+          "business",
+          "design",
+          "quadrant",
+          "purpose",
+          "team",
+          "information",
+          "project",
+          "story",
+          "quality",
+          "type",
+          "testing",
+          "test",
+          "criterion",
+          "behavior",
+          "effort"
+        ],
+        "verbs": [
+          "assess",
+          "base",
+          "accord",
+          "perform",
+          "define",
+          "estimate",
+          "interpret",
+          "summarize",
+          "support",
+          "recall",
+          "explain",
+          "drive",
+          "give",
+          "work",
+          "write"
+        ],
+        "lemmas": [
+          "assess",
+          "level",
+          "stakeholder",
+          "pyramid",
+          "user",
+          "exploratory",
+          "support",
+          "acceptance",
+          "case",
+          "development",
+          "relationship",
+          "tool",
+          "give",
+          "work",
+          "base",
+          "box",
+          "testable",
+          "iteration",
+          "concept",
+          "able",
+          "risk",
+          "define",
+          "tester",
+          "technique",
+          "activity",
+          "content",
+          "recall",
+          "drive",
+          "Scrum",
+          "different",
+          "agile",
+          "available",
+          "business",
+          "perform",
+          "relevant",
+          "estimate",
+          "quadrant",
+          "design",
+          "purpose",
+          "team",
+          "information",
+          "project",
+          "story",
+          "quality",
+          "write",
+          "test-",
+          "type",
+          "accord",
+          "black",
+          "testing",
+          "interpret",
+          "test",
+          "functional",
+          "criterion",
+          "non",
+          "summarize",
+          "behavior",
+          "effort",
+          "explain"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 11,
+      "paragraphs": [
+        "Page 11 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
           "31",
-          "2014",
-          "International",
-          "Overview",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
+          "2014"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Qualifications Board",
+      "page": 12,
+      "paragraphs": [
+        "International"
+      ],
+      "keywords": [],
+      "sentences": [
+        "International"
+      ],
+      "semantic": {
+        "tokens": [
+          "International"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "international"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 12,
+      "paragraphs": [
+        "Software Testing",
+        "Foundation Level Extension -   Agile Tester"
+      ],
+      "keywords": [
+        "foundation level extension",
+        "testing foundation level",
+        "software testing foundation",
+        "agile tester"
+      ],
+      "sentences": [
+        "Software Testing Foundation Level Extension -   Agile Tester"
+      ],
+      "semantic": {
+        "tokens": [
           "Software",
           "Testing",
           "Foundation",
@@ -3353,225 +4794,16 @@
           "Agile",
           "Tester"
         ],
-        "nouns": [
-          "developer",
-          "concept",
-          "case",
-          "people",
-          "role",
-          "level",
-          "user",
-          "purpose",
-          "effort",
-          "benefit",
-          "stakeholder",
-          "chapter",
-          "criterion",
-          "technique",
-          "development",
-          "team",
-          "project",
-          "automation",
-          "information",
-          "quadrant",
-          "design",
-          "planning",
-          "approach",
-          "acceptance",
-          "process",
-          "box",
-          "advantage",
-          "feedback",
-          "mechanism",
-          "improvement",
-          "collaboration",
-          "integration",
-          "release",
-          "quality",
-          "activity",
-          "behavior",
-          "retrospective",
-          "skill",
-          "tester",
-          "type",
-          "difference",
-          "risk",
-          "representative",
-          "domain",
-          "regression",
-          "software",
-          "progress",
-          "pyramid",
-          "status",
-          "content",
-          "testing",
-          "value",
-          "tool",
-          "product",
-          "use",
-          "iteration",
-          "test",
-          "relationship",
-          "business",
-          "story"
-        ],
-        "verbs": [
-          "recall",
-          "interpret",
-          "include",
-          "add",
-          "support",
-          "define",
-          "base",
-          "remember",
-          "accord",
-          "explain",
-          "process",
-          "describe",
-          "summarize",
-          "write",
-          "give",
-          "manage",
-          "drive",
-          "assess",
-          "estimate",
-          "perform",
-          "understand",
-          "work",
-          "integrate",
-          "evolve",
-          "communicate",
-          "know"
-        ],
+        "nouns": [],
+        "verbs": [],
         "lemmas": [
-          "concept",
-          "exploratory",
-          "important",
-          "add",
-          "user",
-          "purpose",
-          "1",
-          "Manifesto",
-          "quadrant",
-          "planning",
-          "approach",
-          "Board",
-          "process",
-          "describe",
-          "continuous",
-          "3",
-          "frequent",
-          "write",
-          "test-",
-          "give",
-          "Software",
-          "manage",
-          "skill",
-          "drive",
-          "difference",
-          "risk",
-          "pyramid",
-          "multiple",
-          "information",
-          "business",
-          "able",
-          "include",
-          "support",
-          "functional",
-          "relevant",
-          "design",
-          "different",
-          "black",
-          "accord",
-          "explain",
-          "basic",
-          "feedback",
-          "Fundamental",
-          "2014",
-          "retrospective",
           "Foundation",
-          "estimate",
-          "perform",
-          "progress",
-          "Methods",
-          "work",
-          "content",
-          "Overview",
-          "value",
-          "product",
-          "use",
-          "Qualifications",
-          "relationship",
-          "know",
-          "Tester",
-          "developer",
-          "case",
-          "people",
-          "role",
-          "Chapter",
-          "2",
-          "stakeholder",
-          "Practices",
-          "Extension",
-          "Techniques",
-          "technique",
-          "development",
-          "project",
-          "automation",
-          "available",
-          "Development",
-          "base",
-          "remember",
-          "acceptance",
-          "box",
-          "mechanism",
-          "Scrum",
-          "Principles",
-          "integration",
-          "release",
-          "activity",
-          "agile",
-          "tester",
-          "type",
-          "representative",
-          "domain",
-          "assess",
-          "regression",
-          "testing",
-          "integrate",
-          "non",
-          "iteration",
-          "test",
-          "effort",
-          "story",
-          "recall",
-          "31",
-          "interpret",
-          "level",
-          "International",
-          "testable",
-          "independent",
-          "define",
-          "benefit",
-          "criterion",
-          "chapter",
-          "team",
-          "early",
+          "Software",
           "Agile",
           "Level",
-          "advantage",
-          "improvement",
-          "collaboration",
-          "summarize",
-          "quality",
-          "behavior",
+          "Tester",
           "Testing",
-          "software",
-          "understand",
-          "status",
-          "evolve",
-          "tool",
-          "communicate"
+          "Extension"
         ]
       }
     },
@@ -3590,7 +4822,7 @@
       "page": 12,
       "paragraphs": [
         "The following registered trademarks and service marks are used in this document:",
-        "ISTQB \u00ae  is a registered trademark of the International Software Testing Qualifications Board"
+        "ISTQB   is a registered trademark of the International Software Testing Qualifications Board"
       ],
       "keywords": [
         "registered trademarks",
@@ -3611,21 +4843,21 @@
           "document"
         ],
         "nouns": [
-          "trademark",
+          "mark",
           "service",
-          "document",
-          "mark"
+          "trademark",
+          "document"
         ],
         "verbs": [
           "register",
           "follow"
         ],
         "lemmas": [
-          "mark",
           "follow",
-          "trademark",
-          "service",
+          "mark",
           "document",
+          "service",
+          "trademark",
           "register"
         ]
       }
@@ -3640,59 +4872,93 @@
       "semantic": {}
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Identifier",
       "page": 12,
       "paragraphs": [
-        "Reference",
-        "[ISTQB-Web]",
+        "Reference"
+      ],
+      "keywords": [
+        "reference"
+      ],
+      "sentences": [
+        "Reference"
+      ],
+      "semantic": {
+        "tokens": [
+          "Reference"
+        ],
+        "nouns": [
+          "reference"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "reference"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "[ISTQB-Web]",
+      "page": 12,
+      "paragraphs": [
         "Web site of the International Software Testing Qualifications Board. Refer",
-        "to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org)",
-        "Version 2014",
-        "Page 12 of 12",
-        "May 31, 2014",
-        "\u00a9 International Software Testing Qualifications Board"
+        "to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org)"
       ],
       "keywords": [
         "latest istqb glossary",
         "glossary and syllabi",
-        "reference",
-        "istqb-web",
         "website"
       ],
       "sentences": [
-        "Reference [ISTQB-Web] to this website for the latest ISTQB Glossary and Syllabi.",
-        "(www.istqb.org)",
-        "May 31, 2014"
+        "to this website for the latest ISTQB Glossary and Syllabi.",
+        "(www.istqb.org)"
       ],
       "semantic": {
         "tokens": [
-          "Reference",
-          "ISTQB",
-          "Web",
           "website",
           "latest",
           "ISTQB",
           "Glossary",
           "Syllabi",
-          "www.istqb.org",
-          "31",
-          "2014"
+          "www.istqb.org"
         ],
         "nouns": [
           "website"
         ],
         "verbs": [],
         "lemmas": [
-          "Reference",
           "Glossary",
-          "31",
-          "ISTQB",
           "website",
-          "Syllabi",
-          "Web",
-          "late",
           "www.istqb.org",
+          "Syllabi",
+          "late",
+          "ISTQB"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 12,
+      "paragraphs": [
+        "Page 12 of 12",
+        "May 31, 2014",
+        "International Software Testing Qualifications Board"
+      ],
+      "keywords": [],
+      "sentences": [
+        "May 31, 2014"
+      ],
+      "semantic": {
+        "tokens": [
+          "31",
+          "2014"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "31",
           "2014"
         ]
       }

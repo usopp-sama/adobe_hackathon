@@ -1,4 +1,194 @@
 {
   "task": "Plan a trip of 4 days for a group of 10 college friends.",
-  "matches": []
+  "matches": [
+    {
+      "pdf_name": "South of France - Restaurants and Hotels.json",
+      "page": 9,
+      "section_heading": "Family-Friendly Hotels",
+      "matched_content": "a Club Med Opio en Provence (Opio): A family-friendly resort oiering a wide range of activities for children and adults, including sports, entertainment, and kids' clubs. The beautiful setting and all-inclusive amenities make it a hassle-free vacation spot. a Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oiering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. a HA tel Les Roches Rouges (Saint-RaphaAl): A family-friendly hotel located on the beach, oiering comfortable rooms, a kids' club, and a variety of water sports. The beachfront location and family-oriented amenities make it a great choice for a seaside vacation. a ChAteau de Berne (Lorgues): A family-friendly hotel located on a vineyard, oiering spacious rooms, a kids' club, and a variety of outdoor activities. The picturesque setting and family-friendly facilities make it a unique and enjoyable stay. a HA tel BarriA re Le Majestic (Cannes): A luxurious family-friendly hotel oiering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. a HA tel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oiering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. a HA tel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oiering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. a HA tel Le Negresco (Nice): A luxurious family-friendly hotel oiering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. a HA tel Martinez (Cannes): A luxurious family-friendly hotel oiering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. a HA tel de Paris (Monaco): A luxurious family-friendly hotel oiering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families.",
+      "keywords": [
+        "club med opi",
+        "iering spacious rooms",
+        "family-friendly hotel oiering",
+        "hotel oiering spacious",
+        "luxurious family-friendly hotel",
+        "opio en provence",
+        "attentive service ensure",
+        "variety of activities",
+        "comfortable stay",
+        "activities for children"
+      ],
+      "score": 0.2873173952102661,
+      "semantic_summary": "HA tel de Paris (Monaco) is a family-friendly resort in the city centre."
+    },
+    {
+      "pdf_name": "South of France - Things to Do.json",
+      "page": 9,
+      "section_heading": "Outdoor Adventures",
+      "matched_content": "a Verdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon Gorge. a Camargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy horseback riding, bird watching, and boat tours. a Various Locations: Try tree-top adventure parks with zip lines, rope bridges, and climbing challenges. a Gorges du Tarn: Go on a family-friendly hike and enjoy the scenic views. a Lake Annecy: Rent bikes and ride along the lake's picturesque bike paths. a Pyrenees: Take a cable car ride for stunning mountain views and easy hiking trails. a Dordogne: Explore the region's caves and prehistoric sites with guided tours suitable for children.",
+      "keywords": [
+        "stunning verdon gorge",
+        "rent paddle boats",
+        "camargue natural park",
+        "family hike",
+        "explore wetlands",
+        "enjoy horseback riding",
+        "tree-top adventure parks",
+        "boat tours",
+        "bird watching",
+        "horses and flamingos"
+      ],
+      "score": 0.27964460849761963,
+      "semantic_summary": "Visit the Verdon Gorge Natural Park and enjoy the scenic views of Lake Annecy and Lake Annecy."
+    },
+    {
+      "pdf_name": "South of France - Restaurants and Hotels.json",
+      "page": 3,
+      "section_heading": "Family-Friendly Restaurants",
+      "matched_content": "a Club 55 (Saint-Tropez): This iconic beach club oiers a relaxed, family-friendly atmosphere with a menu featuring fresh seafood and Mediterranean dishes. The beachside location and casual vibe make it perfect for families. a Le Safari (Nice): Located in the heart of the old town, this restaurant oiers a diverse menu with options for both adults and children. The lively setting and outdoor seating make it a great spot for a family meal. a La Table du MarchA (Saint-RAmy-de-Provence): A welcoming restaurant with a varied menu that includes kid-friendly options and fresh, local ingredients. The charming setting and friendly stai ensure a pleasant dining experience for families. a Le Grill (Decize): A family-friendly restaurant oiering a variety of grilled meats and classic French dishes in a casual setting. The relaxed atmosphere and extensive menu cater to all ages. a Le Jardin de Benjamin (Lorgues): This restaurant oiers a variety of dishes made with fresh, local ingredients. The outdoor seating and kid-friendly menu make it a great spot for families. a Le Petit Jardin (Montpellier): A family-friendly restaurant oiering a variety of Mediterranean dishes. The outdoor seating and relaxed atmosphere make it a great spot for a family meal. a Le CafA de la Plage (Arcachon): This beachfront cafA oiers a variety of seafood dishes and kid-friendly options. The relaxed setting and beautiful views make it a great spot for families. a Le Petit Nice (Marseille): A family-friendly restaurant oiering a variety of seafood dishes. The relaxed setting and fresh ingredients make it a popular choice. a Le Jardin des Sens (Montpellier): This restaurant oiers a variety of dishes made with fresh, local ingredients. The outdoor seating and kid-friendly menu make it a great spot for families. a Le CafA des Arts (Nice): A family-friendly cafA oiering a variety of dishes and kid- friendly options. The relaxed setting and friendly service make it a great spot for a family meal.",
+      "keywords": [
+        "iconic beach club",
+        "beach club oiers",
+        "great spot",
+        "family-friendly restaurant oiering",
+        "iering a variety",
+        "iers a variety",
+        "spot for families",
+        "restaurant oiers",
+        "mediterranean dishes",
+        "relaxed setting"
+      ],
+      "score": 0.2751621603965759,
+      "semantic_summary": "Le Safari is a family-friendly restaurant in the heart of the old town."
+    },
+    {
+      "pdf_name": "South of France - Things to Do.json",
+      "page": 7,
+      "section_heading": "Yoga and Meditation Retreats",
+      "matched_content": "a Provence : Join a yoga retreat in the serene countryside. a Pyrenees : Escape to the mountains for a meditation retreat. a CA te d'Azur : Combine relaxation with luxury at a wellness retreat. a Luberon : Participate in a holistic retreat with yoga, meditation, and organic meals. a Camargue : Enjoy a retreat focused on mindfulness and nature immersion. a Saint-Tropez : Find tranquility at a yoga retreat overlooking the Mediterranean. a Corsica : Experience a yoga and wellness retreat on this beautiful island.",
+      "keywords": [
+        "serene countryside",
+        "join a yoga",
+        "provence",
+        "combine relaxation",
+        "escape",
+        "wellness retreat",
+        "experience a yoga",
+        "participate",
+        "find tranquility",
+        "verlooking the mediterranean"
+      ],
+      "score": 0.2640491724014282,
+      "semantic_summary": "Join a yoga retreat in the serene countryside."
+    },
+    {
+      "pdf_name": "South of France - Cities.json",
+      "page": 2,
+      "section_heading": "Travel Tips",
+      "matched_content": "a Best Time to Visit : The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. a Transportation : The region is well-connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns. a Language : While French is the oicial language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience.",
+      "keywords": [
+        "time to visit",
+        "april to june",
+        "september to october",
+        "south of france",
+        "visit the south",
+        "weather is pleasant",
+        "tourist crowds",
+        "crowds are smaller",
+        "spring",
+        "fall"
+      ],
+      "score": 0.23690834641456604,
+      "semantic_summary": "Learn basic French phrases in a travel guide."
+    },
+    {
+      "pdf_name": "South of France - Restaurants and Hotels.json",
+      "page": 12,
+      "section_heading": "Luxurious Hotels",
+      "matched_content": "a Grand-HA tel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious hotel set on 7 hectares of Mediterranean gardens, oiering elegant rooms, a spa, and a private beach. The exclusive setting and world-class amenities make it a top choice for luxury travelers. a HA tel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of Monaco, oiering opulent rooms, a world-class spa, and several Michelin-starred restaurants. The historic grandeur and exceptional service make it a premier destination. a ChAteau Saint-Martin & Spa (Vence): A luxurious hotel set in a historic chAteau, oiering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The tranquil setting and luxurious amenities make it a perfect getaway. a Airelles ChAteau de la MessardiA re (Saint-Tropez): A luxurious hotel set in a historic chAteau, oiering elegant rooms, beautiful gardens, and stunning views of the Mediterranean. The refined ambiance and top-tier services make it a standout choice for luxury accommodations. a HA tel du Cap-Eden-Roc (Antibes): A legendary hotel oiering luxurious rooms, a private beach, and a world-class spa. The stunning location and impeccable service make it a favorite among celebrities and discerning travelers. a La RAserve Ramatuelle (Ramatuelle): A luxurious hotel oiering elegant rooms, a spa, and breathtaking views of the Mediterranean. The serene setting and exceptional service make it a top choice for a relaxing retreat. a Villa La Coste (Le Puy-Sainte-RAparade): A luxurious hotel set in a vineyard, oiering elegant rooms, a spa, and a Michelin-starred restaurant. The artistic ambiance and world-class amenities make it a unique and memorable stay. a HA tel Hermitage Monte-Carlo (Monaco): A luxurious hotel oiering opulent rooms, a world-class spa, and several fine dining options. The historic charm and exceptional service make it a premier destination in Monaco. a Le Byblos (Saint-Tropez): A luxurious hotel oiering elegant rooms, a spa, and a vibrant nightlife scene. The glamorous setting and top-notch amenities make it a favorite among the jet set.",
+      "keywords": [
+        "iering elegant rooms",
+        "luxurious hotel oiering",
+        "luxurious hotel set",
+        "seasons hotel",
+        "hotel oiering elegant",
+        "world-class spa",
+        "hotel oiering luxurious",
+        "iering luxurious rooms",
+        "world-class amenities make",
+        "exceptional service make"
+      ],
+      "score": 0.23645144701004028,
+      "semantic_summary": "The Grand-HA tel du Cap-Ferrat is a luxury hotel in the heart of Monaco."
+    },
+    {
+      "pdf_name": "South of France - Things to Do.json",
+      "page": 4,
+      "section_heading": "Hiking and Biking",
+      "matched_content": "a Verdon Gorge : Known as the \"Grand Canyon of Europe,\" oiering spectacular hiking trails. a Luberon Regional Park : Explore picturesque villages and rolling hills, famous for lavender fields and vineyards. a Pyrenees National Park : Enjoy challenging hikes and stunning mountain scenery. a Mercantour National Park : Discover diverse wildlife and beautiful alpine landscapes. a Camargue : Explore the unique wetlands on horseback or by bike. a Mont Ventoux : Challenge yourself with a hike or bike ride up this iconic mountain. a Gorges du Tarn : Hike through dramatic gorges and enjoy breathtaking views.",
+      "keywords": [
+        "grand canyon",
+        "canyon of europe",
+        "spectacular hiking trails",
+        "iering spectacular hiking",
+        "luberon regional park",
+        "pyrenees national park",
+        "mercantour national park",
+        "verdon gorge",
+        "explore picturesque villages",
+        "discover diverse"
+      ],
+      "score": 0.23219986259937286,
+      "semantic_summary": "Mercantour National Park - Discover diverse wildlife and beautiful alpine landscapes Mercantour National Park - Explore picturesque villages rolling hills famous lavender fields vineyards Pyrenees National Park - Hike through dramatic gorges and enjoy breathtaking views"
+    },
+    {
+      "pdf_name": "South of France - Cuisine.json",
+      "page": 6,
+      "section_heading": "Culinary Experiences",
+      "matched_content": "In addition to dining at top restaurants, there are several culinary experiences you should",
+      "keywords": [
+        "top restaurants",
+        "addition to dining",
+        "dining at top",
+        "culinary experiences"
+      ],
+      "score": 0.22246338427066803,
+      "semantic_summary": ""
+    },
+    {
+      "pdf_name": "South of France - Things to Do.json",
+      "page": 7,
+      "section_heading": "Relaxation and Wellness",
+      "matched_content": "For those seeking relaxation and rejuvenation, the South of France oiers plenty of options:",
+      "keywords": [
+        "france oiers plenty",
+        "south of france",
+        "relaxation and rejuvenation",
+        "plenty of options",
+        "seeking relaxation"
+      ],
+      "score": 0.20433896780014038,
+      "semantic_summary": "South of France offers plenty of options for those seeking relaxation and rejuvenation."
+    },
+    {
+      "pdf_name": "South of France - Things to Do.json",
+      "page": 4,
+      "section_heading": "Water Activities",
+      "matched_content": "a ArdA che River : Paddle through the stunning ArdA che Gorge. a Dordogne River : Enjoy a leisurely canoe trip, passing by medieval castles and charming villages. a Ubaye River : Experience white-water rafting for an adrenaline rush. a Gorges du Verdon : Rent a kayak or paddleboat to explore the turquoise waters. a Lake Sainte-Croix : Enjoy swimming, sailing, and windsurfing on this beautiful lake. a Lake Serre-PonAon : Try water skiing or wakeboarding on one of the largest artificial lakes in Europe. a CAvennes National Park : Go canyoning in the rugged terrain of this beautiful park.",
+      "keywords": [
+        "stunning ardA che gorge",
+        "ardA che river",
+        "paddle",
+        "dordogne river",
+        "ubaye river",
+        "enjoy swimming",
+        "experience white-water rafting",
+        "leisurely canoe trip",
+        "lake",
+        "rent a kayak"
+      ],
+      "score": 0.19885554909706116,
+      "semantic_summary": "Explore the stunning ArdA che Gorge and enjoy a leisurely canoe trip."
+    }
+  ]
 }

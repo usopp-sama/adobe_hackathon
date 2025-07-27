@@ -3,26 +3,51 @@
   "toc": [],
   "outline": [
     {
-      "level": "H1",
+      "level": "H3",
       "text": "General Sharing Checklist",
       "page": 1,
       "paragraphs": [
-        "\u2022    Open Your PDF",
-        "\u2022   Have you launched Acrobat or Acrobat Reader and opened",
-        "the PDF you want to share?"
+        "-    Open Your PDF",
+        "-   Have you launched Acrobat or Acrobat Reader and opened",
+        "the PDF you want to share?",
+        "-    Choose Your Sharing Method",
+        "-   Are you sharing via email, link, or a third-party app like",
+        "Microsoft Teams or WhatsApp?",
+        "-    Set Permissions",
+        "-   Have you decided if recipients can comment or just view the",
+        "document?",
+        "-    Add Recipients",
+        "-   Did you enter the email addresses of everyone who needs",
+        "access?",
+        "-    Customize Your Message",
+        "-   Have you added a personal touch to the subject and message",
+        "fields?",
+        "-    Create and Share the Link",
+        "-   Did you generate a shareable link and copy it for distribution?",
+        "-    Send the Invitation"
       ],
       "keywords": [
         "acrobat reader",
-        "reader and opened",
-        "open your pdf",
         "launched acrobat",
-        "pened the pdf",
+        "open your pdf",
+        "reader and opened",
         "acrobat or acrobat",
-        "share"
+        "pened the pdf",
+        "microsoft teams",
+        "sharing method",
+        "set permissions",
+        "teams or whatsapp"
       ],
       "sentences": [
-        "\u2022    Open",
-        "Your PDF \u2022   Have you launched Acrobat or Acrobat Reader and opened the PDF you want to share?"
+        "-    Open",
+        "Your PDF -   Have you launched Acrobat or Acrobat Reader and opened the PDF you want to share?",
+        "Choose Your Sharing Method -   Are you sharing via email, link, or a third-party app like Microsoft Teams or WhatsApp?",
+        "-    Set Permissions -   Have you decided if recipients can comment or just view the document?",
+        "-    Add Recipients -",
+        "Did you enter the email addresses of everyone who needs access?",
+        "-    Customize Your Message -   Have you added a personal touch to the subject and message fields?",
+        "-    Create and Share the Link -   Did you generate a shareable link and copy it for distribution?",
+        "-    Send the Invitation"
       ],
       "semantic": {
         "tokens": [
@@ -35,49 +60,10 @@
           "opened",
           "PDF",
           "want",
-          "share"
-        ],
-        "nouns": [
-          "pdf"
-        ],
-        "verbs": [
-          "launch",
           "share",
-          "open",
-          "want"
-        ],
-        "lemmas": [
-          "Acrobat",
-          "Reader",
-          "share",
-          "want",
-          "launch",
-          "open",
-          "pdf"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "\u2022    Choose Your Sharing Method",
-      "page": 1,
-      "paragraphs": [
-        "\u2022   Are you sharing via email, link, or a third-party app like",
-        "Microsoft Teams or WhatsApp?"
-      ],
-      "keywords": [
-        "microsoft teams",
-        "teams or whatsapp",
-        "app like microsoft",
-        "sharing via email",
-        "third-party app",
-        "link"
-      ],
-      "sentences": [
-        "\u2022   Are you sharing via email, link, or a third-party app like Microsoft Teams or WhatsApp?"
-      ],
-      "semantic": {
-        "tokens": [
+          "Choose",
+          "Sharing",
+          "Method",
           "sharing",
           "email",
           "link",
@@ -86,146 +72,23 @@
           "like",
           "Microsoft",
           "Teams",
-          "WhatsApp"
-        ],
-        "nouns": [
-          "app",
-          "email",
-          "link",
-          "party"
-        ],
-        "verbs": [
-          "share"
-        ],
-        "lemmas": [
-          "email",
-          "like",
-          "app",
-          "link",
-          "Microsoft",
-          "party",
-          "share",
           "WhatsApp",
-          "Teams"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "\u2022    Set Permissions",
-      "page": 1,
-      "paragraphs": [
-        "\u2022   Have you decided if recipients can comment or just view the",
-        "document?"
-      ],
-      "keywords": [
-        "view the document",
-        "decided if recipients",
-        "recipients can comment"
-      ],
-      "sentences": [
-        "\u2022   Have you decided if recipients can comment or just view the document?"
-      ],
-      "semantic": {
-        "tokens": [
+          "Set",
+          "Permissions",
           "decided",
           "recipients",
           "comment",
           "view",
-          "document"
-        ],
-        "nouns": [
-          "recipient",
-          "document"
-        ],
-        "verbs": [
-          "comment",
-          "view",
-          "decide"
-        ],
-        "lemmas": [
-          "decide",
           "document",
-          "recipient",
-          "view",
-          "comment"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "\u2022    Add Recipients",
-      "page": 1,
-      "paragraphs": [
-        "\u2022   Did you enter the email addresses of everyone who needs",
-        "access?"
-      ],
-      "keywords": [
-        "enter the email",
-        "email addresses",
-        "access"
-      ],
-      "sentences": [
-        "\u2022   Did you enter the email addresses of everyone who needs access?"
-      ],
-      "semantic": {
-        "tokens": [
+          "Add",
+          "Recipients",
           "enter",
           "email",
           "addresses",
           "needs",
-          "access"
-        ],
-        "nouns": [
           "access",
-          "email",
-          "address"
-        ],
-        "verbs": [
-          "enter",
-          "need"
-        ],
-        "lemmas": [
-          "access",
-          "email",
-          "enter",
-          "address",
-          "need"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "\u2022    Customize Your Message",
-      "page": 1,
-      "paragraphs": [
-        "\u2022   Have you added a personal touch to the subject and message",
-        "fields?",
-        "\u2022    Create and Share the Link",
-        "\u2022   Did you generate a shareable link and copy it for distribution?",
-        "\u2022    Send the Invitation",
-        "\u2022   Have you sent the email or shared the link through your",
-        "chosen platform?"
-      ],
-      "keywords": [
-        "message fields",
-        "added a personal",
-        "personal touch",
-        "subject and message",
-        "create and share",
-        "send the invitation",
-        "share the link",
-        "shareable link",
-        "generate a shareable",
-        "chosen platform"
-      ],
-      "sentences": [
-        "\u2022   Have you added a personal touch to the subject and message fields?",
-        "\u2022    Create and Share the Link \u2022   Did you generate a shareable link and copy it for distribution?",
-        "Send the Invitation \u2022   Have you sent the email or shared the link through your chosen platform?"
-      ],
-      "semantic": {
-        "tokens": [
+          "Customize",
+          "Message",
           "added",
           "personal",
           "touch",
@@ -241,63 +104,127 @@
           "copy",
           "distribution",
           "Send",
-          "Invitation",
-          "sent",
-          "email",
-          "shared",
+          "Invitation"
+        ],
+        "nouns": [
+          "subject",
+          "message",
+          "invitation",
+          "recipient",
+          "pdf",
+          "distribution",
+          "access",
+          "app",
+          "party",
+          "touch",
+          "field",
+          "address",
+          "document",
           "link",
+          "email"
+        ],
+        "verbs": [
+          "share",
+          "enter",
+          "open",
+          "want",
+          "comment",
+          "decide",
+          "view",
+          "generate",
+          "choose",
+          "customize",
+          "launch",
+          "add",
+          "copy",
+          "send",
+          "need"
+        ],
+        "lemmas": [
+          "subject",
+          "message",
+          "shareable",
+          "recipient",
+          "enter",
+          "Recipients",
+          "pdf",
+          "distribution",
+          "touch",
+          "Permissions",
+          "like",
+          "address",
+          "link",
+          "Create",
+          "want",
+          "generate",
+          "choose",
+          "customize",
+          "add",
+          "Method",
+          "document",
+          "personal",
+          "copy",
+          "send",
+          "share",
+          "open",
+          "comment",
+          "access",
+          "view",
+          "app",
+          "Sharing",
+          "Acrobat",
+          "Teams",
+          "email",
+          "invitation",
+          "WhatsApp",
+          "decide",
+          "Microsoft",
+          "party",
+          "Link",
+          "field",
+          "launch",
+          "Reader",
+          "Set",
+          "need"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-   Have you sent the email or shared the link through your",
+      "page": 2,
+      "paragraphs": [
+        "chosen platform?"
+      ],
+      "keywords": [
+        "chosen platform"
+      ],
+      "sentences": [
+        "chosen platform?"
+      ],
+      "semantic": {
+        "tokens": [
           "chosen",
           "platform"
         ],
         "nouns": [
-          "distribution",
-          "email",
-          "message",
-          "field",
-          "link",
-          "platform",
-          "subject",
-          "invitation",
-          "touch"
+          "platform"
         ],
         "verbs": [
-          "generate",
-          "send",
-          "create",
-          "share",
-          "copy",
-          "add",
           "choose"
         ],
         "lemmas": [
-          "message",
-          "send",
-          "subject",
           "choose",
-          "Link",
-          "field",
-          "link",
-          "create",
-          "shareable",
-          "add",
-          "generate",
-          "share",
-          "invitation",
-          "copy",
-          "touch",
-          "personal",
-          "distribution",
-          "email",
           "platform"
         ]
       }
     },
     {
-      "level": "H1",
-      "text": "\u2022    Follow Up",
+      "level": "H3",
+      "text": "-    Follow Up",
       "page": 2,
       "paragraphs": [
-        "\u2022   Are you tracking who has accessed the document and",
+        "-   Are you tracking who has accessed the document and",
         "following up as needed?"
       ],
       "keywords": [
@@ -306,7 +233,7 @@
         "tracking"
       ],
       "sentences": [
-        "\u2022   Are you tracking who has accessed the document and following up as needed?"
+        "-   Are you tracking who has accessed the document and following up as needed?"
       ],
       "semantic": {
         "tokens": [
@@ -320,48 +247,36 @@
           "document"
         ],
         "verbs": [
-          "access",
           "follow",
-          "need",
-          "track"
+          "access",
+          "track",
+          "need"
         ],
         "lemmas": [
+          "track",
           "access",
           "document",
           "follow",
-          "need",
-          "track"
+          "need"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Professional Tip: Clear Instructions",
       "page": 2,
       "paragraphs": [
-        "Ensure your email instructions are clear and concise to avoid any",
-        "confusion for your recipients.",
-        "Sharing Checklist for Real Estate Professionals",
-        "In the real estate industry, sharing documents efficiently is crucial for",
-        "closing deals and keeping clients informed. Here's a tailored checklist to",
-        "help you manage your PDF sharing needs."
+        "Ensure your email instructions are clear and concise to avoid any"
       ],
       "keywords": [
         "ensure your email",
-        "real estate professionals",
         "email instructions",
         "instructions are clear",
         "clear and concise",
-        "concise to avoid",
-        "avoid any confusion",
-        "real estate industry",
-        "recipients",
-        "keeping clients informed"
+        "concise to avoid"
       ],
       "sentences": [
-        "Ensure your email instructions are clear and concise to avoid any confusion for your recipients.",
-        "Sharing Checklist for Real Estate Professionals In the real estate industry, sharing documents efficiently is crucial for closing deals and keeping clients informed.",
-        "Here's a tailored checklist to help you manage your PDF sharing needs."
+        "Ensure your email instructions are clear and concise to avoid any"
       ],
       "semantic": {
         "tokens": [
@@ -370,9 +285,54 @@
           "instructions",
           "clear",
           "concise",
+          "avoid"
+        ],
+        "nouns": [
+          "instruction",
+          "email"
+        ],
+        "verbs": [
+          "ensure",
+          "avoid"
+        ],
+        "lemmas": [
+          "ensure",
+          "instruction",
+          "clear",
           "avoid",
-          "confusion",
-          "recipients",
+          "concise",
+          "email"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "confusion for your recipients.",
+      "page": 2,
+      "paragraphs": [
+        "Sharing Checklist for Real Estate Professionals",
+        "In the real estate industry, sharing documents efficiently is crucial for",
+        "closing deals and keeping clients informed. Here's a tailored checklist to",
+        "help you manage your PDF sharing needs."
+      ],
+      "keywords": [
+        "real estate professionals",
+        "real estate industry",
+        "keeping clients informed",
+        "sharing documents efficiently",
+        "efficiently is crucial",
+        "crucial for closing",
+        "closing deals",
+        "deals and keeping",
+        "checklist for real",
+        "pdf sharing"
+      ],
+      "sentences": [
+        "Sharing Checklist for Real Estate Professionals In the real estate industry, sharing documents efficiently is crucial for closing deals and keeping clients informed.",
+        "Here's a tailored checklist to help you manage your PDF sharing needs."
+      ],
+      "semantic": {
+        "tokens": [
           "Sharing",
           "Checklist",
           "Real",
@@ -399,97 +359,91 @@
           "needs"
         ],
         "nouns": [
-          "need",
-          "email",
           "sharing",
-          "pdf",
-          "instruction",
-          "deal",
-          "industry",
-          "document",
-          "checklist",
-          "recipient",
-          "confusion",
-          "client",
           "closing",
-          "estate"
+          "client",
+          "industry",
+          "pdf",
+          "deal",
+          "checklist",
+          "estate",
+          "document",
+          "need"
         ],
         "verbs": [
-          "avoid",
-          "inform",
-          "help",
-          "keep",
           "share",
+          "inform",
           "manage",
-          "ensure"
+          "keep",
+          "help"
         ],
         "lemmas": [
-          "inform",
-          "real",
-          "keep",
-          "deal",
-          "clear",
-          "Checklist",
-          "ensure",
-          "efficiently",
-          "confusion",
           "client",
-          "crucial",
-          "sharing",
-          "document",
-          "checklist",
-          "closing",
-          "need",
-          "avoid",
           "pdf",
-          "instruction",
-          "tailored",
-          "share",
-          "recipient",
-          "email",
-          "help",
-          "Professionals",
           "Real",
-          "industry",
-          "manage",
-          "concise",
+          "checklist",
+          "real",
           "Estate",
-          "estate"
+          "keep",
+          "Professionals",
+          "document",
+          "share",
+          "industry",
+          "efficiently",
+          "inform",
+          "crucial",
+          "help",
+          "estate",
+          "tailored",
+          "sharing",
+          "closing",
+          "Checklist",
+          "deal",
+          "manage",
+          "need"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Real Estate Sharing Checklist",
       "page": 2,
-      "paragraphs": [],
-      "keywords": [],
-      "sentences": [],
-      "semantic": {}
-    },
-    {
-      "level": "H1",
-      "text": "\u2022    Open Your Property Document",
-      "page": 2,
       "paragraphs": [
-        "\u2022   Have you launched Acrobat or Acrobat Reader and opened",
-        "the property listing or contract you need to share?"
+        "-    Open Your Property Document",
+        "-   Have you launched Acrobat or Acrobat Reader and opened",
+        "the property listing or contract you need to share?",
+        "-    Choose Your Sharing Method",
+        "-   Are you sharing via email, link, or a third-party app like",
+        "Microsoft Teams or WhatsApp?",
+        "-    Set Permissions",
+        "-   Have you decided if clients can comment on the document or",
+        "just view it?",
+        "-    Add Clients and Stakeholders"
       ],
       "keywords": [
         "acrobat reader",
-        "reader and opened",
         "launched acrobat",
-        "pened the property",
+        "reader and opened",
         "property listing",
-        "listing or contract",
+        "open your property",
+        "property document",
         "acrobat or acrobat",
-        "share"
+        "listing or contract",
+        "pened the property",
+        "microsoft teams"
       ],
       "sentences": [
-        "\u2022   Have you launched Acrobat or Acrobat Reader and opened the property listing or contract you need to share?"
+        "-    Open",
+        "Your Property Document -   Have you launched Acrobat or Acrobat Reader and opened the property listing or contract you need to share?",
+        "Choose Your Sharing Method -   Are you sharing via email, link, or a third-party app like Microsoft Teams or WhatsApp?",
+        "-    Set Permissions -   Have you decided if clients can comment on the document or just view it?",
+        "-    Add Clients and Stakeholders"
       ],
       "semantic": {
         "tokens": [
+          "Open",
+          "Property",
+          "Document",
           "launched",
           "Acrobat",
           "Acrobat",
@@ -499,53 +453,10 @@
           "listing",
           "contract",
           "need",
-          "share"
-        ],
-        "nouns": [
-          "contract",
-          "property",
-          "listing"
-        ],
-        "verbs": [
-          "launch",
           "share",
-          "open",
-          "need"
-        ],
-        "lemmas": [
-          "Acrobat",
-          "contract",
-          "Reader",
-          "share",
-          "listing",
-          "launch",
-          "open",
-          "property",
-          "need"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "\u2022    Choose Your Sharing Method",
-      "page": 2,
-      "paragraphs": [
-        "\u2022   Are you sharing via email, link, or a third-party app like",
-        "Microsoft Teams or WhatsApp?"
-      ],
-      "keywords": [
-        "microsoft teams",
-        "teams or whatsapp",
-        "app like microsoft",
-        "sharing via email",
-        "third-party app",
-        "link"
-      ],
-      "sentences": [
-        "\u2022   Are you sharing via email, link, or a third-party app like Microsoft Teams or WhatsApp?"
-      ],
-      "semantic": {
-        "tokens": [
+          "Choose",
+          "Sharing",
+          "Method",
           "sharing",
           "email",
           "link",
@@ -554,59 +465,9 @@
           "like",
           "Microsoft",
           "Teams",
-          "WhatsApp"
-        ],
-        "nouns": [
-          "app",
-          "email",
-          "link",
-          "party"
-        ],
-        "verbs": [
-          "share"
-        ],
-        "lemmas": [
-          "email",
-          "like",
-          "app",
-          "link",
-          "Microsoft",
-          "party",
-          "share",
           "WhatsApp",
-          "Teams"
-        ]
-      }
-    },
-    {
-      "level": "H1",
-      "text": "\u2022    Set Permissions",
-      "page": 2,
-      "paragraphs": [
-        "\u2022   Have you decided if clients can comment on the document or",
-        "just view it?",
-        "\u2022    Add Clients and Stakeholders",
-        "\u2022   Did you enter the email addresses of clients, agents, and other",
-        "stakeholders?"
-      ],
-      "keywords": [
-        "add clients",
-        "decided if clients",
-        "clients can comment",
-        "document",
-        "view",
-        "agents",
-        "enter the email",
-        "email addresses",
-        "clients and stakeholders",
-        "addresses of clients"
-      ],
-      "sentences": [
-        "\u2022   Have you decided if clients can comment on the document or just view it?",
-        "\u2022    Add Clients and Stakeholders \u2022   Did you enter the email addresses of clients, agents, and other stakeholders?"
-      ],
-      "semantic": {
-        "tokens": [
+          "Set",
+          "Permissions",
           "decided",
           "clients",
           "comment",
@@ -614,74 +475,110 @@
           "view",
           "Add",
           "Clients",
-          "Stakeholders",
-          "enter",
-          "email",
-          "addresses",
-          "clients",
-          "agents",
-          "stakeholders"
+          "Stakeholders"
         ],
         "nouns": [
           "email",
           "client",
-          "document",
-          "agent",
+          "contract",
+          "listing",
+          "app",
+          "party",
           "stakeholder",
-          "address"
+          "document",
+          "link",
+          "property"
         ],
         "verbs": [
+          "share",
+          "open",
+          "comment",
           "decide",
-          "enter",
-          "add",
           "view",
-          "comment"
+          "choose",
+          "launch",
+          "add",
+          "need"
         ],
         "lemmas": [
-          "email",
-          "decide",
-          "Stakeholders",
-          "stakeholder",
-          "view",
-          "enter",
-          "document",
-          "add",
-          "agent",
-          "address",
           "client",
-          "comment"
+          "Document",
+          "Permissions",
+          "like",
+          "listing",
+          "choose",
+          "Set",
+          "add",
+          "Method",
+          "document",
+          "Property",
+          "share",
+          "open",
+          "contract",
+          "comment",
+          "view",
+          "app",
+          "Sharing",
+          "stakeholder",
+          "Acrobat",
+          "Teams",
+          "email",
+          "property",
+          "WhatsApp",
+          "decide",
+          "Microsoft",
+          "party",
+          "launch",
+          "Reader",
+          "link",
+          "need"
         ]
       }
     },
     {
-      "level": "H1",
-      "text": "\u2022    Customize Your Message",
+      "level": "H3",
+      "text": "-   Did you enter the email addresses of clients, agents, and other",
       "page": 3,
       "paragraphs": [
-        "\u2022   Have you added a personal touch to the subject and message",
-        "fields, highlighting key property details?",
-        "\u2022    Create and Share the Link",
-        "\u2022   Did you generate a shareable link and copy it for distribution?",
-        "\u2022    Send the Invitation",
-        "\u2022   Have you sent the email or shared the link through your",
-        "chosen platform?"
+        "stakeholders?"
       ],
       "keywords": [
-        "key property details",
+        "stakeholders"
+      ],
+      "sentences": [
+        "stakeholders?"
+      ],
+      "semantic": {
+        "tokens": [
+          "stakeholders"
+        ],
+        "nouns": [
+          "stakeholder"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "stakeholder"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-    Customize Your Message",
+      "page": 3,
+      "paragraphs": [
+        "-   Have you added a personal touch to the subject and message",
+        "fields, highlighting key property details?"
+      ],
+      "keywords": [
         "highlighting key property",
+        "key property details",
         "message fields",
         "added a personal",
         "personal touch",
-        "subject and message",
-        "create and share",
-        "send the invitation",
-        "share the link",
-        "shareable link"
+        "subject and message"
       ],
       "sentences": [
-        "\u2022   Have you added a personal touch to the subject and message fields, highlighting key property details?",
-        "\u2022    Create and Share the Link \u2022   Did you generate a shareable link and copy it for distribution?",
-        "Send the Invitation \u2022   Have you sent the email or shared the link through your chosen platform?"
+        "-   Have you added a personal touch to the subject and message fields, highlighting key property details?"
       ],
       "semantic": {
         "tokens": [
@@ -694,17 +591,93 @@
           "highlighting",
           "key",
           "property",
-          "details",
-          "Create",
-          "Share",
-          "Link",
+          "details"
+        ],
+        "nouns": [
+          "subject",
+          "message",
+          "detail",
+          "touch",
+          "field",
+          "property"
+        ],
+        "verbs": [
+          "add",
+          "highlight"
+        ],
+        "lemmas": [
+          "subject",
+          "key",
+          "message",
+          "detail",
+          "property",
+          "touch",
+          "field",
+          "add",
+          "personal",
+          "highlight"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-    Create and Share the Link",
+      "page": 3,
+      "paragraphs": [
+        "-   Did you generate a shareable link and copy it for distribution?"
+      ],
+      "keywords": [
+        "generate a shareable",
+        "shareable link",
+        "link and copy",
+        "distribution"
+      ],
+      "sentences": [
+        "-   Did you generate a shareable link and copy it for distribution?"
+      ],
+      "semantic": {
+        "tokens": [
           "generate",
           "shareable",
           "link",
           "copy",
+          "distribution"
+        ],
+        "nouns": [
           "distribution",
-          "Send",
-          "Invitation",
+          "link"
+        ],
+        "verbs": [
+          "copy",
+          "generate"
+        ],
+        "lemmas": [
+          "link",
+          "shareable",
+          "distribution",
+          "generate",
+          "copy"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-    Send the Invitation",
+      "page": 3,
+      "paragraphs": [
+        "-   Have you sent the email or shared the link through your",
+        "chosen platform?"
+      ],
+      "keywords": [
+        "chosen platform",
+        "email or shared",
+        "shared the link"
+      ],
+      "sentences": [
+        "-   Have you sent the email or shared the link through your chosen platform?"
+      ],
+      "semantic": {
+        "tokens": [
           "sent",
           "email",
           "shared",
@@ -713,61 +686,31 @@
           "platform"
         ],
         "nouns": [
-          "distribution",
-          "email",
-          "message",
-          "field",
           "link",
-          "platform",
-          "subject",
-          "invitation",
-          "touch",
-          "detail",
-          "property"
-        ],
-        "verbs": [
-          "generate",
-          "highlight",
-          "send",
-          "create",
-          "share",
-          "copy",
-          "add",
-          "choose"
-        ],
-        "lemmas": [
-          "message",
-          "send",
-          "subject",
-          "choose",
-          "property",
-          "highlight",
-          "Link",
-          "field",
-          "link",
-          "create",
-          "shareable",
-          "add",
-          "generate",
-          "share",
-          "invitation",
-          "copy",
-          "key",
-          "touch",
-          "detail",
-          "personal",
-          "distribution",
           "email",
           "platform"
+        ],
+        "verbs": [
+          "choose",
+          "share",
+          "send"
+        ],
+        "lemmas": [
+          "share",
+          "choose",
+          "platform",
+          "link",
+          "email",
+          "send"
         ]
       }
     },
     {
-      "level": "H1",
-      "text": "\u2022    Follow Up",
+      "level": "H3",
+      "text": "-    Follow Up",
       "page": 3,
       "paragraphs": [
-        "\u2022   Are you tracking who has accessed the document and",
+        "-   Are you tracking who has accessed the document and",
         "following up with clients for feedback or next steps?"
       ],
       "keywords": [
@@ -777,7 +720,7 @@
         "tracking"
       ],
       "sentences": [
-        "\u2022   Are you tracking who has accessed the document and following up with clients for feedback or next steps?"
+        "-   Are you tracking who has accessed the document and following up with clients for feedback or next steps?"
       ],
       "semantic": {
         "tokens": [
@@ -790,45 +733,42 @@
           "steps"
         ],
         "nouns": [
-          "feedback",
-          "document",
           "step",
-          "client"
+          "document",
+          "client",
+          "feedback"
         ],
         "verbs": [
-          "access",
           "follow",
+          "access",
           "track"
         ],
         "lemmas": [
-          "access",
-          "follow",
-          "document",
-          "feedback",
-          "step",
           "client",
-          "track"
+          "track",
+          "access",
+          "step",
+          "document",
+          "follow",
+          "feedback"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H3",
       "text": "Professional Tip: Highlight Key Details",
       "page": 3,
       "paragraphs": [
-        "Make sure to emphasize important property details in your message to",
-        "capture your clients' attention."
+        "Make sure to emphasize important property details in your message to"
       ],
       "keywords": [
         "emphasize important property",
         "important property details",
-        "clients' attention",
-        "message to capture",
-        "capture your clients'",
-        "make"
+        "make",
+        "message"
       ],
       "sentences": [
-        "Make sure to emphasize important property details in your message to capture your clients' attention."
+        "Make sure to emphasize important property details in your message to"
       ],
       "semantic": {
         "tokens": [
@@ -837,37 +777,37 @@
           "important",
           "property",
           "details",
-          "message",
-          "capture",
-          "clients",
-          "attention"
+          "message"
         ],
         "nouns": [
-          "message",
-          "property",
-          "attention",
           "detail",
-          "client"
+          "message",
+          "property"
         ],
         "verbs": [
-          "emphasize",
-          "capture"
+          "emphasize"
         ],
         "lemmas": [
           "message",
-          "capture",
-          "sure",
-          "client",
-          "attention",
-          "emphasize",
           "detail",
-          "property",
-          "important"
+          "important",
+          "emphasize",
+          "sure",
+          "property"
         ]
       }
     },
     {
-      "level": "H1",
+      "level": "H3",
+      "text": "capture your clients' attention.",
+      "page": 3,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
       "text": "Conclusion",
       "page": 3,
       "paragraphs": [
@@ -921,46 +861,46 @@
           "today"
         ],
         "nouns": [
-          "today",
-          "process",
           "sharing",
+          "process",
           "project",
-          "document",
           "checklist",
-          "estate"
+          "estate",
+          "document",
+          "today"
         ],
         "verbs": [
-          "work",
-          "start",
           "share",
-          "manage",
           "ensure",
-          "follow"
+          "manage",
+          "work",
+          "follow",
+          "start"
         ],
         "lemmas": [
-          "Adobe",
-          "real",
-          "professional",
-          "smooth",
-          "today",
-          "sharing",
-          "project",
-          "document",
-          "efficient",
-          "smart",
-          "checklist",
-          "work",
-          "Acrobat",
-          "start",
-          "share",
           "process",
-          "follow",
-          "general",
-          "straightforward",
-          "manage",
-          "ensure",
+          "checklist",
+          "Adobe",
+          "smart",
+          "real",
+          "efficient",
           "PDFs",
-          "estate"
+          "professional",
+          "general",
+          "document",
+          "work",
+          "share",
+          "today",
+          "Acrobat",
+          "estate",
+          "follow",
+          "smooth",
+          "sharing",
+          "ensure",
+          "manage",
+          "straightforward",
+          "project",
+          "start"
         ]
       }
     }
