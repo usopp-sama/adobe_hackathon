@@ -1,93 +1,100 @@
-# Challenge 1b: Multi-Collection PDF Analysis
+# 🧠 Challenge 1B – Semantic Matcher for PDFs
 
-## Overview
-Advanced PDF analysis solution that processes multiple document collections and extracts relevant content based on specific personas and use cases.
+## 🔍 Task Outline
 
-## Project Structure
-```
-Challenge_1b/
-├── Collection 1/                    # Travel Planning
-│   ├── PDFs/                       # South of France guides
-│   ├── challenge1b_input.json      # Input configuration
-│   └── challenge1b_output.json     # Analysis results
-├── Collection 2/                    # Adobe Acrobat Learning
-│   ├── PDFs/                       # Acrobat tutorials
-│   ├── challenge1b_input.json      # Input configuration
-│   └── challenge1b_output.json     # Analysis results
-├── Collection 3/                    # Recipe Collection
-│   ├── PDFs/                       # Cooking guides
-│   ├── challenge1b_input.json      # Input configuration
-│   └── challenge1b_output.json     # Analysis results
-└── README.md
-```
+Given a task description and a set of PDF documents, build a system that:
 
-## Collections
+* Extracts structured semantic content from PDFs
+* Matches the task against document content using semantic similarity
+* Returns top-ranked, summarized sections with metadata in a specified JSON schema
 
-### Collection 1: Travel Planning
-- **Challenge ID**: round_1b_002
-- **Persona**: Travel Planner
-- **Task**: Plan a 4-day trip for 10 college friends to South of France
-- **Documents**: 7 travel guides
+## 🧱 Project Outline
 
-### Collection 2: Adobe Acrobat Learning
-- **Challenge ID**: round_1b_003
-- **Persona**: HR Professional
-- **Task**: Create and manage fillable forms for onboarding and compliance
-- **Documents**: 15 Acrobat guides
+This system processes multiple collections of PDFs to semantically extract and rank relevant sections based on a business task. It includes:
 
-### Collection 3: Recipe Collection
-- **Challenge ID**: round_1b_001
-- **Persona**: Food Contractor
-- **Task**: Prepare vegetarian buffet-style dinner menu for corporate gathering
-- **Documents**: 9 cooking guides
+* Document parsing with heading/paragraph detection
+* NLP-based semantic token extraction
+* Embedding generation and similarity scoring
+* Summarization of matched content
+* Final output formatting in JSON
 
-## Input/Output Format
+## 💡 Explanation of the Idea
 
-### Input JSON Structure
-```json
-{
-  "challenge_info": {
-    "challenge_id": "round_1b_XXX",
-    "test_case_name": "specific_test_case"
-  },
-  "documents": [{"filename": "doc.pdf", "title": "Title"}],
-  "persona": {"role": "User Persona"},
-  "job_to_be_done": {"task": "Use case description"}
-}
-```
-
-### Output JSON Structure
-```json
-{
-  "metadata": {
-    "input_documents": ["list"],
-    "persona": "User Persona",
-    "job_to_be_done": "Task description"
-  },
-  "extracted_sections": [
-    {
-      "document": "source.pdf",
-      "section_title": "Title",
-      "importance_rank": 1,
-      "page_number": 1
-    }
-  ],
-  "subsection_analysis": [
-    {
-      "document": "source.pdf",
-      "refined_text": "Content",
-      "page_number": 1
-    }
-  ]
-}
-```
-
-## Key Features
-- Persona-based content analysis
-- Importance ranking of extracted sections
-- Multi-collection document processing
-- Structured JSON output with metadata
+1. **PDF Parsing**: Each PDF is processed using layout heuristics and font-based heading detection to extract clean, semantically annotated sections.
+2. **Task Matching**: A `job_to_be_done` task is compared with all document sections using Sentence-BERT embeddings (`MiniLM`).
+3. **Summarization**: Top-matched sections are summarized using `Flan-T5-small` to provide a concise business-friendly overview.
+4. **Output**: The results are saved in the required output schema, including metadata, matched sections, and their summaries.
 
 ---
 
-**Note**: This README provides a brief overview of the Challenge 1b solution structure based on available sample data. 
+## 🐳 How to Build and Run
+
+### 🔧 Step 1: Build Docker Image
+
+```bash
+DOCKER_BUILDKIT=0 docker build -t semantic-matcher .
+```
+
+### 🚀 Step 2: Run the Matcher
+
+```bash
+docker run --rm -v $(pwd)/collections:/app/collections \
+           -v $(pwd)/outputs:/app/outputs \
+           semantic-matcher
+```
+
+Make sure you have the `collections/` folder structured with:
+
+```
+collections/
+├── Collection 1/
+│   ├── challenge1b_input.json
+│   ├── PDFs/
+│   └── json_output/    # Will be auto-created
+├── Collection 2/
+├── Collection 3/
+```
+
+---
+
+## 📁 Directory Structure
+
+```
+Challenge_1b/
+├── collections/                 # Input collections of PDFs
+│   ├── Collection 1/
+│   │   ├── challenge1b_input.json
+│   │   ├── PDFs/
+│   │   └── json_output/        # Output JSONs per PDF (auto-filled)
+│   ├── Collection 2/
+│   └── Collection 3/
+├── outputs/                    # Final results saved here
+├── Dockerfile                 # Docker container setup
+├── nlp_utils.py               # NLP utilities (shared with 1A)
+├── pdf_processor_pipeline.py  # PDF parsing and semantic extraction (shared with 1A)
+├── semantic_matcher.py        # Main semantic matching pipeline
+├── requirements.txt           # All Python dependencies
+└── README.md                  # This file
+```
+
+---
+
+## 🔍 Output Schema (Summary)
+
+Each output JSON has:
+
+* `metadata`: input files, persona, job task, timestamp
+* `extracted_sections`: ranked sections with heading and page
+* `subsection_analysis`: summaries per matched section
+
+---
+
+## 👥 Authors
+
+* **Anagh Verma**
+* **Ashutosh Bhardwaj**
+* **Rishit Mohan**
+  Adobe India Hackathon 2025 – Challenge 1B Contributors
+
+---
+

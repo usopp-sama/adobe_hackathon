@@ -13,7 +13,7 @@
     ],
     "persona": "Travel Planner",
     "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
-    "processing_timestamp": "2025-07-28T07:32:16.546029"
+    "processing_timestamp": "2025-07-28T07:46:18.248091"
   },
   "extracted_sections": [
     {
@@ -80,12 +80,12 @@
   "subsection_analysis": [
     {
       "document": "Lunch Ideas.pdf",
-      "refined_text": "Season with salt and pepper.",
+      "refined_text": "Serves cold or reheat before serving.",
       "page_number": 10
     },
     {
       "document": "Lunch Ideas.pdf",
-      "refined_text": "Season with salt and pepper, then toss to combine.",
+      "refined_text": "Ingredients: feta cheese, red onion, and feta cheese.",
       "page_number": 8
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "document": "Dinner Ideas - Mains_1.pdf",
-      "refined_text": "Serve in taco shells or tortillas with desired toppings. General Tso's Chicken",
+      "refined_text": "Cook fish until golden and cooked through. Serve fish in taco shells or tortillas with desired toppings. General Tso's Chicken Important Tokens: bowl mix flour cornmeal paprika cumin salt pepper Dip fish fillets buttermilk coat flour mixture Heat vegetable oil skillet medium Nouns: flour fish oil cornmeal vegetable buttermilk cumin mix heat skillet mixture salt pepper",
       "page_number": 10
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "document": "Dinner Ideas - Mains_2.pdf",
-      "refined_text": "Serves as a garnish.",
+      "refined_text": "Serve with fish and chips.",
       "page_number": 12
     },
     {
@@ -115,17 +115,17 @@
     },
     {
       "document": "Dinner Ideas - Mains_1.pdf",
-      "refined_text": "Serve with lemon wedges.",
+      "refined_text": "Serve with apple wedges.",
       "page_number": 15
     },
     {
       "document": "Dinner Ideas - Sides_4.pdf",
-      "refined_text": "- Ingredients : o 1 pound chicken breast o 1/4 cup coconut milk o 2 tablespoons soy sauce o 2 tablespoons peanut butter o 1 tablespoon curry powder o 1 tablespoon brown sugar o Skewers - Instructions : o Cut chicken into strips and thread onto skewers. o Marinate chicken in the mixture for at least 1 hour. o Grill or broil until cooked through. o Serve with peanut sauce.",
+      "refined_text": "- Ingredients : o 1 pound chicken breast o 1/4 cup coconut milk o 2 tablespoons soy sauce o 2 tablespoons peanut butter o 1 tablespoon curry powder o 1 tablespoon brown sugar o Skewers - Instructions : o Cut chicken into strips and thread onto skewers. o Mix coconut milk, soy sauce, peanut butter, curry powder, and brown sugar in a bowl. Marinate chicken in the mixture for at least 1 hour. o Grill or broil until cooked through. o Serve with peanut sauce.",
       "page_number": 13
     },
     {
       "document": "Lunch Ideas.pdf",
-      "refined_text": "Add the chicken, cheese, and coleslaw mix.",
+      "refined_text": "Roll up the tortilla tightly and slice in half. Important Tokens: Lay tortilla flat spread BBQ sauce evenly Add chicken, cheese, and coleslaw mix.",
       "page_number": 12
     }
   ]

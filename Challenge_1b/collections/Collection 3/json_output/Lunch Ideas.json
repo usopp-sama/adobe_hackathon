@@ -75,48 +75,48 @@
           "crunch"
         ],
         "nouns": [
-          "breast",
-          "crouton",
           "wheat",
           "cup",
-          "tablespoon",
+          "chicken",
+          "breast",
+          "lettuce",
+          "crouton",
+          "cheese",
           "tortilla",
           "crunch",
-          "lettuce",
-          "chicken",
-          "cheese",
-          "romaine"
+          "romaine",
+          "tablespoon"
         ],
         "verbs": [
-          "dress",
-          "cook",
+          "slice",
           "grate",
-          "chop",
-          "slice"
+          "cook",
+          "dress",
+          "chop"
         ],
         "lemmas": [
-          "breast",
-          "crouton",
-          "cook",
-          "2",
-          "tablespoon",
-          "crunch",
-          "extra",
-          "cup",
-          "grate",
-          "Parmesan",
-          "Optional",
-          "Caesar",
-          "chicken",
-          "slice",
-          "dress",
           "wheat",
+          "cup",
+          "Parmesan",
           "1",
-          "tortilla",
-          "chop",
+          "romaine",
+          "2",
+          "cook",
+          "grate",
           "lettuce",
+          "crouton",
+          "extra",
+          "Caesar",
+          "chop",
+          "slice",
           "cheese",
-          "romaine"
+          "tortilla",
+          "crunch",
+          "Optional",
+          "chicken",
+          "breast",
+          "dress",
+          "tablespoon"
         ]
       }
     },
@@ -171,36 +171,36 @@
         ],
         "nouns": [
           "half",
-          "tortilla",
-          "lettuce",
           "chicken",
-          "cheese"
+          "lettuce",
+          "cheese",
+          "tortilla"
         ],
         "verbs": [
-          "dress",
-          "lay",
-          "roll",
           "slice",
           "spread",
-          "add"
+          "roll",
+          "dress",
+          "add",
+          "lay"
         ],
         "lemmas": [
-          "tightly",
-          "dress",
-          "lay",
-          "flat",
-          "Parmesan",
-          "cheese",
-          "roll",
           "slice",
           "half",
-          "tortilla",
-          "Caesar",
-          "evenly",
-          "lettuce",
+          "flat",
+          "tightly",
           "chicken",
+          "lettuce",
           "spread",
-          "add"
+          "evenly",
+          "roll",
+          "dress",
+          "add",
+          "Caesar",
+          "cheese",
+          "tortilla",
+          "Parmesan",
+          "lay"
         ]
       }
     },
@@ -288,56 +288,56 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
           "cup",
-          "onion",
-          "cucumber",
-          "cherry",
-          "tablespoon",
-          "olive",
           "feta",
-          "juice",
           "tomato",
           "oil",
+          "lemon",
+          "juice",
+          "onion",
           "cheese",
-          "lemon"
+          "cherry",
+          "olive",
+          "pepper",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "cook",
           "dice",
+          "cook",
           "chop",
+          "taste",
           "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "cook",
-          "red",
+          "cup",
+          "tomato",
+          "oil",
+          "juice",
+          "1",
+          "feta",
           "2",
+          "red",
+          "cook",
+          "1/2",
+          "onion",
+          "olive",
+          "chop",
+          "cucumber",
+          "quinoa",
+          "cheese",
+          "cherry",
+          "pepper",
           "finely",
+          "halve",
           "tablespoon",
           "dice",
-          "quinoa",
-          "feta",
-          "juice",
-          "oil",
-          "halve",
-          "cup",
-          "onion",
-          "cucumber",
           "Salt",
+          "lemon",
           "1/4",
-          "olive",
-          "crumble",
           "taste",
-          "cherry",
-          "1",
-          "1/2",
-          "chop",
-          "tomato",
-          "cheese",
-          "lemon"
+          "crumble"
         ]
       }
     },
@@ -394,44 +394,44 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
+          "feta",
+          "tomato",
+          "quinoa",
+          "oil",
+          "lemon",
+          "juice",
           "bowl",
           "onion",
-          "season",
-          "olive",
-          "feta",
-          "quinoa",
-          "juice",
-          "salt",
-          "tomato",
-          "oil",
           "cheese",
-          "lemon"
+          "olive",
+          "salt",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "combine",
-          "pepper",
-          "red",
-          "quinoa",
-          "feta",
-          "juice",
-          "oil",
-          "Drizzle",
-          "onion",
-          "cucumber",
-          "season",
-          "bowl",
-          "olive",
-          "large",
-          "toss",
-          "salt",
           "tomato",
+          "oil",
+          "juice",
+          "Drizzle",
+          "season",
+          "feta",
+          "red",
+          "onion",
+          "olive",
+          "cucumber",
+          "combine",
+          "large",
+          "quinoa",
+          "salt",
           "cheese",
-          "lemon"
+          "pepper",
+          "toss",
+          "lemon",
+          "bowl"
         ]
       }
     },
@@ -496,39 +496,39 @@
           "mayo"
         ],
         "nouns": [
-          "breast",
-          "cup",
-          "spinach",
+          "slice",
+          "avocado",
           "bread",
+          "cup",
+          "breast",
+          "spinach",
           "turkey",
-          "tablespoon",
+          "grain",
           "mayo",
           "mustard",
-          "avocado",
-          "slice",
-          "grain"
+          "tablespoon"
         ],
         "verbs": [
           "slice",
           "leave"
         ],
         "lemmas": [
-          "breast",
-          "cup",
-          "grain",
-          "2",
-          "bread",
-          "turkey",
-          "spinach",
-          "1",
-          "tablespoon",
-          "1/2",
-          "mayo",
-          "mustard",
-          "avocado",
-          "leave",
           "slice",
-          "4"
+          "avocado",
+          "bread",
+          "2",
+          "cup",
+          "breast",
+          "1/2",
+          "spinach",
+          "4",
+          "turkey",
+          "grain",
+          "leave",
+          "mayo",
+          "1",
+          "mustard",
+          "tablespoon"
         ]
       }
     },
@@ -577,32 +577,32 @@
           "half"
         ],
         "nouns": [
+          "slice",
           "half",
-          "spinach",
+          "avocado",
           "bread",
+          "spinach",
           "turkey",
           "mayo",
-          "mustard",
-          "slice",
-          "avocado"
+          "mustard"
         ],
         "verbs": [
-          "spread",
-          "cut"
+          "cut",
+          "spread"
         ],
         "lemmas": [
-          "second",
+          "slice",
           "half",
-          "cut",
-          "Layer",
-          "spinach",
+          "avocado",
           "bread",
+          "cut",
+          "spinach",
+          "spread",
           "turkey",
           "mayo",
+          "Layer",
           "mustard",
-          "spread",
-          "slice",
-          "avocado"
+          "second"
         ]
       }
     },
@@ -662,31 +662,31 @@
           "honey"
         ],
         "nouns": [
-          "strawberry",
           "cup",
-          "berry",
-          "tablespoon",
+          "strawberry",
+          "raspberry",
           "honey",
           "blueberry",
-          "raspberry"
+          "berry",
+          "tablespoon"
         ],
         "verbs": [
           "mix"
         ],
         "lemmas": [
-          "strawberry",
-          "Greek",
-          "granola",
-          "cup",
-          "berry",
           "mix",
-          "1",
-          "tablespoon",
+          "cup",
+          "granola",
           "1/2",
-          "blueberry",
+          "strawberry",
+          "yogurt",
+          "Greek",
           "raspberry",
           "honey",
-          "yogurt"
+          "blueberry",
+          "berry",
+          "1",
+          "tablespoon"
         ]
       }
     },
@@ -734,29 +734,29 @@
           "desired"
         ],
         "nouns": [
-          "jar",
-          "berry",
+          "layer",
           "bowl",
+          "jar",
           "honey",
-          "layer"
+          "berry"
         ],
         "verbs": [
           "desire",
           "repeat"
         ],
         "lemmas": [
-          "jar",
-          "Greek",
-          "repeat",
-          "granola",
-          "berry",
-          "bowl",
-          "desire",
-          "honey",
           "mixed",
-          "yogurt",
           "layer",
-          "Drizzle"
+          "yogurt",
+          "bowl",
+          "Greek",
+          "jar",
+          "Drizzle",
+          "honey",
+          "desire",
+          "berry",
+          "granola",
+          "repeat"
         ]
       }
     },
@@ -827,16 +827,16 @@
           "spinach"
         ],
         "nouns": [
-          "pita",
-          "pepper",
-          "carrot",
-          "hummus",
           "wheat",
-          "baby",
           "cup",
-          "cucumber",
           "bread",
+          "carrot",
+          "baby",
+          "pita",
           "spinach",
+          "hummus",
+          "pepper",
+          "cucumber",
           "bell"
         ],
         "verbs": [
@@ -844,22 +844,22 @@
           "shred"
         ],
         "lemmas": [
-          "pita",
-          "pepper",
-          "carrot",
-          "hummus",
+          "slice",
           "wheat",
-          "bell",
-          "1/4",
-          "baby",
-          "cup",
-          "cucumber",
           "bread",
-          "1",
-          "shred",
-          "spinach",
+          "cup",
+          "carrot",
+          "baby",
           "1/2",
-          "slice"
+          "pita",
+          "spinach",
+          "hummus",
+          "pepper",
+          "1/4",
+          "shred",
+          "1",
+          "cucumber",
+          "bell"
         ]
       }
     },
@@ -912,37 +912,37 @@
           "spinach"
         ],
         "nouns": [
-          "pita",
-          "pepper",
-          "carrot",
-          "hummus",
           "half",
-          "pocket",
+          "bread",
+          "carrot",
+          "pita",
           "spinach",
-          "bread"
+          "pocket",
+          "hummus",
+          "pepper"
         ],
         "verbs": [
-          "spread",
+          "cut",
           "fill",
           "create",
-          "cut"
+          "spread"
         ],
         "lemmas": [
-          "pita",
-          "pepper",
-          "carrot",
-          "hummus",
           "half",
-          "cut",
-          "pocket",
           "inside",
-          "cucumber",
           "bread",
-          "spinach",
+          "carrot",
+          "cut",
+          "create",
           "fill",
+          "pita",
+          "spinach",
           "spread",
-          "bell",
-          "create"
+          "pocket",
+          "hummus",
+          "pepper",
+          "cucumber",
+          "bell"
         ]
       }
     },
@@ -1022,51 +1022,51 @@
           "serving"
         ],
         "nouns": [
-          "pepper",
           "cup",
-          "onion",
-          "grain",
           "bread",
-          "tablespoon",
+          "tuna",
+          "onion",
+          "leave",
+          "pepper",
+          "grain",
+          "mayonnaise",
           "celery",
           "mustard",
           "stalk",
-          "tuna",
-          "mayonnaise",
-          "leave"
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
-          "drain",
           "dice",
+          "drain",
+          "serve",
           "chop",
-          "serve"
+          "taste"
         ],
         "lemmas": [
-          "pepper",
-          "red",
+          "cup",
+          "serve",
+          "1",
           "bread",
-          "tablespoon",
+          "red",
+          "drain",
+          "onion",
+          "mayonnaise",
+          "chop",
+          "mustard",
+          "stalk",
+          "tuna",
+          "pepper",
           "finely",
           "celery",
+          "Dijon",
           "dice",
-          "serve",
-          "Lettuce",
-          "cup",
-          "onion",
-          "mustard",
           "Salt",
           "leave",
-          "drain",
+          "grain",
           "1/4",
-          "stalk",
-          "Dijon",
+          "Lettuce",
           "taste",
-          "1",
-          "chop",
-          "tuna",
-          "mayonnaise",
-          "grain"
+          "tablespoon"
         ]
       }
     },
@@ -1109,32 +1109,32 @@
           "pepper"
         ],
         "nouns": [
-          "pepper",
+          "season",
+          "tuna",
           "bowl",
           "onion",
           "salt",
-          "celery",
-          "mustard",
-          "tuna",
+          "pepper",
           "mayonnaise",
-          "season"
+          "celery",
+          "mustard"
         ],
         "verbs": [
           "combine"
         ],
         "lemmas": [
-          "Dijon",
           "combine",
-          "pepper",
+          "season",
+          "red",
+          "tuna",
           "bowl",
           "onion",
-          "red",
           "salt",
+          "pepper",
+          "mayonnaise",
           "celery",
           "mustard",
-          "tuna",
-          "mayonnaise",
-          "season"
+          "Dijon"
         ]
       }
     },
@@ -1164,8 +1164,8 @@
         "nouns": [
           "grain",
           "bread",
-          "leave",
-          "lettuce"
+          "lettuce",
+          "leave"
         ],
         "verbs": [
           "serve"
@@ -1173,9 +1173,9 @@
         "lemmas": [
           "bread",
           "lettuce",
-          "leave",
           "serve",
-          "grain"
+          "grain",
+          "leave"
         ]
       }
     },
@@ -1253,46 +1253,46 @@
           "taste"
         ],
         "nouns": [
+          "slice",
           "glaze",
-          "pepper",
-          "cup",
-          "basil",
-          "mozzarella",
           "bread",
-          "tablespoon",
-          "olive",
-          "salt",
+          "cup",
           "tomato",
+          "mozzarella",
+          "basil",
           "oil",
-          "slice"
+          "salt",
+          "olive",
+          "pepper",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "slice",
-          "leave",
-          "ciabatta"
+          "ciabatta",
+          "taste",
+          "leave"
         ],
         "lemmas": [
-          "pepper",
-          "basil",
-          "2",
-          "bread",
-          "mozzarella",
-          "tablespoon",
-          "oil",
-          "balsamic",
           "cup",
-          "leave",
-          "glaze",
-          "olive",
-          "slice",
-          "taste",
-          "ciabatta",
+          "tomato",
+          "basil",
+          "oil",
           "1",
-          "1/2",
           "fresh",
+          "bread",
+          "2",
+          "1/2",
+          "olive",
+          "balsamic",
+          "slice",
+          "ciabatta",
           "salt",
-          "tomato"
+          "pepper",
+          "glaze",
+          "mozzarella",
+          "leave",
+          "taste",
+          "tablespoon"
         ]
       }
     },
@@ -1352,40 +1352,40 @@
           "half"
         ],
         "nouns": [
+          "slice",
           "glaze",
-          "pepper",
           "half",
-          "basil",
-          "season",
           "bread",
-          "olive",
-          "salt",
+          "basil",
           "oil",
-          "slice"
+          "salt",
+          "olive",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "drizzle",
-          "cut"
+          "cut",
+          "drizzle"
         ],
         "lemmas": [
-          "balsamic",
+          "slice",
           "glaze",
-          "pepper",
-          "second",
           "half",
-          "drizzle",
+          "bread",
+          "tomato",
           "cut",
+          "mozzarella",
           "basil",
+          "oil",
+          "drizzle",
+          "Drizzle",
+          "olive",
+          "balsamic",
+          "salt",
+          "pepper",
           "Layer",
           "season",
-          "mozzarella",
-          "bread",
-          "olive",
-          "salt",
-          "tomato",
-          "oil",
-          "slice",
-          "Drizzle"
+          "second"
         ]
       }
     },
@@ -1465,51 +1465,51 @@
           "serving"
         ],
         "nouns": [
-          "breast",
-          "pepper",
           "cup",
+          "chicken",
+          "breast",
           "grape",
-          "tablespoon",
+          "salt",
+          "leave",
+          "pepper",
+          "mayonnaise",
           "celery",
           "mustard",
           "stalk",
-          "salt",
-          "chicken",
-          "mayonnaise",
-          "leave"
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "cook",
-          "shred",
           "dice",
-          "serve"
+          "cook",
+          "serve",
+          "shred",
+          "taste"
         ],
         "lemmas": [
-          "breast",
-          "pepper",
-          "cook",
-          "red",
-          "tablespoon",
-          "celery",
-          "dice",
-          "serve",
-          "Lettuce",
-          "halve",
           "cup",
+          "serve",
+          "1",
+          "red",
+          "cook",
           "grape",
+          "mayonnaise",
           "mustard",
+          "stalk",
+          "salt",
+          "pepper",
+          "celery",
+          "Dijon",
+          "halve",
+          "chicken",
+          "dice",
+          "breast",
           "leave",
           "1/4",
           "shred",
-          "stalk",
-          "chicken",
-          "Dijon",
+          "Lettuce",
           "taste",
-          "1",
-          "salt",
-          "mayonnaise"
+          "tablespoon"
         ]
       }
     },
@@ -1559,37 +1559,37 @@
           "leaves"
         ],
         "nouns": [
-          "pepper",
-          "bowl",
-          "grape",
-          "celery",
-          "mustard",
-          "lettuce",
-          "salt",
-          "chicken",
-          "mayonnaise",
           "season",
-          "leave"
+          "chicken",
+          "grape",
+          "lettuce",
+          "bowl",
+          "salt",
+          "leave",
+          "pepper",
+          "mayonnaise",
+          "celery",
+          "mustard"
         ],
         "verbs": [
           "combine",
           "serve"
         ],
         "lemmas": [
-          "Dijon",
           "combine",
-          "pepper",
-          "bowl",
-          "serve",
+          "season",
+          "chicken",
           "grape",
+          "lettuce",
+          "bowl",
+          "salt",
+          "serve",
+          "leave",
+          "pepper",
+          "mayonnaise",
           "celery",
           "mustard",
-          "lettuce",
-          "salt",
-          "chicken",
-          "mayonnaise",
-          "season",
-          "leave"
+          "Dijon"
         ]
       }
     },
@@ -1645,28 +1645,28 @@
           "sliced"
         ],
         "nouns": [
-          "pepper",
-          "hummus",
           "wheat",
           "cup",
-          "cucumber",
+          "hummus",
+          "pepper",
           "tortilla",
+          "cucumber",
           "bell"
         ],
         "verbs": [
           "slice"
         ],
         "lemmas": [
-          "pepper",
-          "hummus",
+          "slice",
           "wheat",
-          "bell",
           "cup",
-          "cucumber",
-          "1",
-          "tortilla",
           "1/2",
-          "slice"
+          "hummus",
+          "pepper",
+          "tortilla",
+          "1",
+          "cucumber",
+          "bell"
         ]
       }
     },
@@ -1698,10 +1698,10 @@
           "shred"
         ],
         "lemmas": [
-          "cup",
+          "shred",
           "carrot",
-          "1/4",
-          "shred"
+          "cup",
+          "1/4"
         ]
       }
     },
@@ -1726,15 +1726,15 @@
           "spinach"
         ],
         "nouns": [
+          "baby",
           "cup",
-          "spinach",
-          "baby"
+          "spinach"
         ],
         "verbs": [],
         "lemmas": [
+          "baby",
           "cup",
           "spinach",
-          "baby",
           "1/4"
         ]
       }
@@ -1789,38 +1789,38 @@
           "half"
         ],
         "nouns": [
-          "pepper",
-          "carrot",
-          "hummus",
           "half",
-          "cucumber",
+          "carrot",
           "spinach",
-          "tortilla"
+          "hummus",
+          "pepper",
+          "tortilla",
+          "cucumber"
         ],
         "verbs": [
-          "lay",
+          "slice",
           "roll",
           "spread",
           "add",
-          "slice"
+          "lay"
         ],
         "lemmas": [
-          "tightly",
-          "pepper",
-          "carrot",
-          "hummus",
-          "lay",
-          "flat",
-          "bell",
-          "roll",
           "slice",
           "half",
-          "cucumber",
+          "flat",
+          "tightly",
+          "carrot",
           "spinach",
-          "tortilla",
-          "evenly",
           "spread",
-          "add"
+          "evenly",
+          "roll",
+          "add",
+          "hummus",
+          "pepper",
+          "tortilla",
+          "lay",
+          "cucumber",
+          "bell"
         ]
       }
     },
@@ -1893,48 +1893,48 @@
           "bread"
         ],
         "nouns": [
-          "pepper",
+          "egg",
+          "slice",
           "cup",
-          "grain",
           "bread",
-          "tablespoon",
+          "salt",
+          "grain",
+          "pepper",
+          "mayonnaise",
           "celery",
           "mustard",
           "stalk",
-          "salt",
-          "egg",
-          "slice",
-          "mayonnaise"
+          "tablespoon"
         ],
         "verbs": [
-          "dice",
+          "chop",
           "taste",
           "boil",
-          "chop"
+          "dice"
         ],
         "lemmas": [
-          "pepper",
           "hard",
-          "boil",
-          "2",
-          "bread",
-          "tablespoon",
-          "celery",
-          "dice",
           "cup",
+          "4",
+          "1",
+          "boil",
+          "bread",
+          "2",
+          "mayonnaise",
+          "chop",
           "mustard",
-          "egg",
-          "1/4",
           "stalk",
           "slice",
-          "4",
-          "Dijon",
-          "taste",
-          "1",
-          "chop",
           "salt",
-          "mayonnaise",
-          "grain"
+          "pepper",
+          "celery",
+          "Dijon",
+          "egg",
+          "dice",
+          "grain",
+          "1/4",
+          "taste",
+          "tablespoon"
         ]
       }
     },
@@ -1985,36 +1985,36 @@
           "slice"
         ],
         "nouns": [
-          "pepper",
-          "slice",
-          "bowl",
-          "bread",
-          "celery",
-          "mustard",
-          "salt",
           "egg",
+          "slice",
           "season",
-          "mayonnaise"
+          "bread",
+          "bowl",
+          "salt",
+          "pepper",
+          "mayonnaise",
+          "celery",
+          "mustard"
         ],
         "verbs": [
           "combine",
           "spread"
         ],
         "lemmas": [
-          "second",
-          "Dijon",
-          "combine",
-          "pepper",
+          "egg",
           "slice",
-          "bowl",
+          "combine",
+          "season",
           "bread",
+          "second",
           "spread",
+          "bowl",
+          "salt",
+          "pepper",
+          "mayonnaise",
           "celery",
           "mustard",
-          "salt",
-          "egg",
-          "season",
-          "mayonnaise"
+          "Dijon"
         ]
       }
     },
@@ -2105,59 +2105,59 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
-          "pasta",
-          "wine",
           "cup",
-          "rotini",
-          "vinegar",
-          "cherry",
-          "penne",
-          "cucumber",
-          "tablespoon",
-          "olive",
           "feta",
           "tomato",
+          "penne",
           "oil",
-          "cheese"
+          "pasta",
+          "vinegar",
+          "olive",
+          "cheese",
+          "cherry",
+          "pepper",
+          "rotini",
+          "wine",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
+          "slice",
           "halve",
-          "cook",
           "dice",
-          "crumble",
-          "slice"
+          "cook",
+          "taste",
+          "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "cook",
+          "cup",
+          "tomato",
+          "penne",
+          "oil",
+          "vinegar",
+          "wine",
+          "1",
+          "feta",
           "2",
           "red",
-          "tablespoon",
-          "dice",
-          "feta",
-          "oil",
-          "halve",
-          "cup",
-          "penne",
-          "cucumber",
-          "Salt",
+          "cook",
+          "1/2",
           "pasta",
           "black",
-          "1/4",
-          "vinegar",
           "olive",
-          "crumble",
+          "cucumber",
           "slice",
-          "taste",
-          "wine",
-          "rotini",
+          "cheese",
           "cherry",
-          "1",
-          "1/2",
-          "tomato",
-          "cheese"
+          "pepper",
+          "rotini",
+          "halve",
+          "tablespoon",
+          "dice",
+          "Salt",
+          "1/4",
+          "taste",
+          "crumble"
         ]
       }
     },
@@ -2214,42 +2214,42 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "pasta",
-          "wine",
-          "bowl",
-          "vinegar",
-          "season",
-          "olive",
           "feta",
-          "salt",
           "tomato",
           "oil",
-          "cheese"
+          "pasta",
+          "bowl",
+          "olive",
+          "cheese",
+          "vinegar",
+          "salt",
+          "pepper",
+          "wine",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "combine",
-          "pepper",
-          "pasta",
-          "wine",
-          "bowl",
-          "vinegar",
-          "cucumber",
-          "red",
-          "season",
-          "salt",
-          "olive",
-          "feta",
           "toss",
-          "large",
+          "combine",
+          "feta",
+          "red",
           "tomato",
+          "large",
           "oil",
+          "pasta",
+          "bowl",
+          "olive",
           "cheese",
-          "Drizzle"
+          "Drizzle",
+          "vinegar",
+          "salt",
+          "wine",
+          "pepper",
+          "season",
+          "cucumber"
         ]
       }
     },
@@ -2296,20 +2296,20 @@
           "diced"
         ],
         "nouns": [
+          "breast",
           "cup",
-          "chicken",
-          "breast"
+          "chicken"
         ],
         "verbs": [
           "cook"
         ],
         "lemmas": [
-          "breast",
           "cup",
+          "chicken",
           "cook",
-          "1",
+          "breast",
           "diced",
-          "chicken"
+          "1"
         ]
       }
     },
@@ -2338,9 +2338,9 @@
         ],
         "verbs": [],
         "lemmas": [
-          "diced",
+          "avocado",
           "1/2",
-          "avocado"
+          "diced"
         ]
       }
     },
@@ -2368,18 +2368,18 @@
         ],
         "nouns": [
           "cup",
-          "tomato",
-          "cherry"
+          "cherry",
+          "tomato"
         ],
         "verbs": [
           "halve"
         ],
         "lemmas": [
           "halve",
-          "1/4",
           "cup",
+          "tomato",
           "cherry",
-          "tomato"
+          "1/4"
         ]
       }
     },
@@ -2407,19 +2407,19 @@
           "chopped"
         ],
         "nouns": [
-          "cup",
-          "onion"
+          "onion",
+          "cup"
         ],
         "verbs": [
           "chop"
         ],
         "lemmas": [
-          "1/4",
           "cup",
-          "onion",
           "red",
+          "onion",
           "finely",
-          "chop"
+          "chop",
+          "1/4"
         ]
       }
     },
@@ -2444,16 +2444,16 @@
           "oil"
         ],
         "nouns": [
-          "tablespoon",
           "olive",
-          "oil"
+          "oil",
+          "tablespoon"
         ],
         "verbs": [],
         "lemmas": [
-          "tablespoon",
+          "oil",
           "olive",
           "2",
-          "oil"
+          "tablespoon"
         ]
       }
     },
@@ -2478,16 +2478,16 @@
           "juice"
         ],
         "nouns": [
+          "lemon",
           "tablespoon",
-          "juice",
-          "lemon"
+          "juice"
         ],
         "verbs": [],
         "lemmas": [
-          "tablespoon",
-          "juice",
           "1",
-          "lemon"
+          "lemon",
+          "tablespoon",
+          "juice"
         ]
       }
     },
@@ -2520,8 +2520,8 @@
         ],
         "lemmas": [
           "salt",
-          "pepper",
-          "taste"
+          "taste",
+          "pepper"
         ]
       }
     },
@@ -2575,40 +2575,40 @@
           "combine"
         ],
         "nouns": [
+          "avocado",
+          "chicken",
           "tomato",
+          "oil",
           "lemon",
-          "pepper",
+          "juice",
           "bowl",
           "onion",
           "olive",
-          "juice",
           "salt",
-          "chicken",
-          "oil",
-          "season",
-          "avocado"
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
+          "toss",
+          "avocado",
           "combine",
+          "chicken",
           "tomato",
+          "red",
+          "oil",
           "lemon",
-          "pepper",
+          "juice",
           "bowl",
           "onion",
-          "red",
+          "Drizzle",
           "olive",
-          "juice",
-          "toss",
           "salt",
-          "chicken",
-          "oil",
-          "season",
-          "avocado",
-          "Drizzle"
+          "pepper",
+          "season"
         ]
       }
     },
@@ -2665,31 +2665,31 @@
           "hummus"
         ],
         "nouns": [
-          "breast",
-          "hummus",
-          "baby",
           "slice",
-          "cheddar",
           "cup",
+          "baby",
+          "breast",
+          "cheddar",
           "spinach",
           "turkey",
-          "cheese"
+          "cheese",
+          "hummus"
         ],
         "verbs": [],
         "lemmas": [
-          "breast",
-          "hummus",
-          "baby",
-          "1/4",
           "slice",
-          "cheddar",
+          "Swiss",
           "cup",
-          "spinach",
-          "turkey",
+          "baby",
+          "breast",
           "1/2",
-          "cheese",
+          "cheddar",
+          "spinach",
           "4",
-          "Swiss"
+          "turkey",
+          "cheese",
+          "hummus",
+          "1/4"
         ]
       }
     },
@@ -2742,37 +2742,37 @@
           "ingredients"
         ],
         "nouns": [
-          "hummus",
-          "ingredient",
           "slice",
           "spinach",
+          "ingredient",
           "cheese",
-          "leave"
+          "leave",
+          "hummus"
         ],
         "verbs": [
-          "lay",
-          "repeat",
+          "spread",
           "roll",
           "remain",
-          "spread",
-          "place"
+          "place",
+          "lay",
+          "repeat"
         ],
         "lemmas": [
-          "tightly",
-          "hummus",
-          "lay",
-          "flat",
-          "cheese",
-          "roll",
-          "repeat",
-          "ingredient",
-          "spinach",
-          "turkey",
-          "remain",
-          "spread",
-          "place",
           "slice",
-          "leave"
+          "flat",
+          "tightly",
+          "spinach",
+          "spread",
+          "roll",
+          "remain",
+          "ingredient",
+          "turkey",
+          "place",
+          "cheese",
+          "hummus",
+          "leave",
+          "lay",
+          "repeat"
         ]
       }
     },
@@ -2860,59 +2860,59 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
           "cup",
-          "chickpea",
-          "onion",
-          "cucumber",
-          "cherry",
-          "tablespoon",
-          "olive",
           "feta",
-          "juice",
           "tomato",
           "oil",
+          "lemon",
+          "chickpea",
+          "juice",
+          "onion",
           "cheese",
-          "lemon"
+          "cherry",
+          "olive",
+          "pepper",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "drain",
-          "dice",
-          "chop",
           "rinse",
+          "dice",
+          "drain",
+          "chop",
+          "taste",
           "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "red",
-          "2",
-          "finely",
-          "tablespoon",
-          "dice",
-          "feta",
-          "juice",
-          "rinse",
-          "oil",
-          "halve",
           "cup",
+          "tomato",
+          "oil",
+          "juice",
+          "1",
+          "feta",
+          "2",
+          "red",
+          "1/2",
+          "drain",
           "chickpea",
           "onion",
-          "cucumber",
-          "Salt",
-          "drain",
-          "1/4",
           "olive",
-          "crumble",
-          "taste",
-          "cherry",
-          "1",
-          "1/2",
           "chop",
-          "tomato",
+          "cucumber",
           "cheese",
-          "lemon"
+          "cherry",
+          "pepper",
+          "finely",
+          "halve",
+          "rinse",
+          "tablespoon",
+          "dice",
+          "Salt",
+          "lemon",
+          "1/4",
+          "taste",
+          "crumble"
         ]
       }
     },
@@ -2970,44 +2970,44 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "bowl",
-          "onion",
-          "chickpea",
-          "season",
-          "olive",
           "feta",
-          "juice",
-          "salt",
           "tomato",
           "oil",
+          "lemon",
+          "chickpea",
+          "juice",
+          "bowl",
+          "onion",
           "cheese",
-          "lemon"
+          "olive",
+          "salt",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "combine",
-          "pepper",
-          "red",
-          "feta",
-          "juice",
+          "tomato",
           "oil",
+          "juice",
           "Drizzle",
+          "season",
+          "feta",
+          "red",
           "chickpea",
           "onion",
-          "cucumber",
-          "season",
-          "bowl",
           "olive",
+          "cucumber",
+          "combine",
           "large",
-          "toss",
           "salt",
-          "tomato",
           "cheese",
-          "lemon"
+          "pepper",
+          "toss",
+          "lemon",
+          "bowl"
         ]
       }
     },
@@ -3095,52 +3095,52 @@
           "serving"
         ],
         "nouns": [
-          "breast",
-          "pepper",
-          "rice",
-          "floret",
-          "broccoli",
-          "cup",
-          "teaspoon",
           "tablespoon",
-          "olive",
+          "cup",
           "chicken",
+          "breast",
+          "rice",
           "oil",
+          "broccoli",
           "soy",
+          "floret",
+          "olive",
+          "teaspoon",
+          "pepper",
           "bell"
         ],
         "verbs": [
-          "sauce",
           "slice",
-          "cook",
           "snap",
+          "sauce",
+          "cook",
           "serve"
         ],
         "lemmas": [
-          "breast",
-          "pepper",
-          "cook",
-          "2",
-          "sesame",
-          "tablespoon",
+          "snap",
+          "cup",
           "oil",
           "serve",
-          "sauce",
-          "cup",
-          "teaspoon",
-          "bell",
-          "rice",
-          "floret",
-          "broccoli",
-          "1/4",
-          "olive",
-          "chicken",
-          "slice",
           "1",
-          "peas",
+          "2",
+          "cook",
+          "sauce",
           "1/2",
-          "snap",
-          "soy"
+          "floret",
+          "olive",
+          "slice",
+          "peas",
+          "teaspoon",
+          "pepper",
+          "bell",
+          "sesame",
+          "chicken",
+          "breast",
+          "rice",
+          "broccoli",
+          "soy",
+          "1/4",
+          "tablespoon"
         ]
       }
     },
@@ -3208,52 +3208,52 @@
           "rice"
         ],
         "nouns": [
-          "rice",
-          "pepper",
-          "broccoli",
-          "sauce",
           "heat",
-          "pea",
-          "olive",
-          "tender",
           "fry",
           "chicken",
-          "oil",
-          "soy",
+          "sauce",
           "skillet",
+          "oil",
+          "broccoli",
+          "pea",
+          "tender",
+          "soy",
+          "rice",
+          "olive",
+          "pepper",
           "bell"
         ],
         "verbs": [
+          "snap",
           "combine",
           "serve",
-          "stir",
-          "snap",
-          "add"
+          "add",
+          "stir"
         ],
         "lemmas": [
-          "pepper",
-          "cooked",
-          "combine",
-          "sesame",
-          "tender",
-          "fry",
-          "oil",
-          "serve",
-          "Drizzle",
           "medium",
+          "snap",
+          "oil",
+          "Drizzle",
+          "serve",
           "sauce",
+          "pea",
+          "olive",
+          "cooked",
           "heat",
-          "stir",
+          "fry",
+          "combine",
+          "large",
           "skillet",
-          "bell",
+          "tender",
           "add",
+          "pepper",
+          "stir",
+          "bell",
+          "sesame",
+          "chicken",
           "rice",
           "broccoli",
-          "olive",
-          "large",
-          "chicken",
-          "pea",
-          "snap",
           "soy"
         ]
       }
@@ -3337,55 +3337,55 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
-          "lemon",
+          "avocado",
           "cup",
-          "onion",
-          "cherry",
-          "tablespoon",
-          "olive",
-          "shrimp",
-          "juice",
           "tomato",
+          "shrimp",
           "oil",
-          "avocado"
+          "lemon",
+          "juice",
+          "onion",
+          "olive",
+          "cherry",
+          "pepper",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "cook",
-          "peel",
+          "devein",
           "dice",
+          "peel",
+          "cook",
           "chop",
-          "devein"
+          "taste"
         ],
         "lemmas": [
-          "pepper",
-          "cook",
-          "red",
-          "2",
-          "finely",
-          "tablespoon",
-          "dice",
-          "juice",
-          "devein",
-          "oil",
-          "avocado",
-          "halve",
           "cup",
-          "onion",
-          "Salt",
-          "1/4",
-          "peel",
-          "olive",
-          "taste",
-          "cherry",
-          "1",
-          "1/2",
-          "shrimp",
-          "chop",
           "tomato",
-          "lemon"
+          "oil",
+          "juice",
+          "1",
+          "avocado",
+          "2",
+          "red",
+          "cook",
+          "1/2",
+          "onion",
+          "olive",
+          "chop",
+          "devein",
+          "shrimp",
+          "cherry",
+          "pepper",
+          "finely",
+          "halve",
+          "peel",
+          "dice",
+          "Salt",
+          "lemon",
+          "1/4",
+          "taste",
+          "tablespoon"
         ]
       }
     },
@@ -3439,39 +3439,39 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
+          "tomato",
+          "shrimp",
+          "oil",
+          "lemon",
+          "juice",
           "bowl",
           "onion",
           "olive",
-          "shrimp",
-          "juice",
           "salt",
-          "tomato",
-          "oil",
-          "season",
-          "lemon"
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
+          "toss",
+          "avocado",
           "combine",
+          "red",
+          "tomato",
+          "shrimp",
+          "oil",
           "lemon",
-          "pepper",
+          "juice",
           "bowl",
           "onion",
-          "red",
+          "Drizzle",
           "olive",
-          "shrimp",
-          "juice",
-          "toss",
           "salt",
-          "tomato",
-          "oil",
-          "season",
-          "avocado",
-          "Drizzle"
+          "pepper",
+          "season"
         ]
       }
     },
@@ -3527,33 +3527,33 @@
           "halved"
         ],
         "nouns": [
-          "kernel",
           "cup",
-          "corn",
+          "tomato",
           "bean",
+          "corn",
           "cherry",
-          "tomato"
+          "kernel"
         ],
         "verbs": [
-          "rinse",
           "halve",
+          "rinse",
           "drain"
         ],
         "lemmas": [
-          "kernel",
           "halve",
-          "drain",
-          "black",
+          "rinse",
           "cup",
-          "corn",
-          "bean",
-          "cherry",
-          "1",
+          "tomato",
           "canned",
           "1/2",
+          "drain",
+          "black",
+          "bean",
+          "corn",
+          "cherry",
+          "1",
           "fresh",
-          "rinse",
-          "tomato"
+          "kernel"
         ]
       }
     },
@@ -3581,19 +3581,19 @@
           "chopped"
         ],
         "nouns": [
-          "cup",
-          "onion"
+          "onion",
+          "cup"
         ],
         "verbs": [
           "chop"
         ],
         "lemmas": [
-          "1/4",
           "cup",
-          "onion",
           "red",
+          "onion",
           "finely",
-          "chop"
+          "chop",
+          "1/4"
         ]
       }
     },
@@ -3619,16 +3619,16 @@
           "chopped"
         ],
         "nouns": [
-          "cup",
-          "cilantro"
+          "cilantro",
+          "cup"
         ],
         "verbs": [
           "chop"
         ],
         "lemmas": [
-          "cup",
-          "cilantro",
           "chop",
+          "cilantro",
+          "cup",
           "1/4"
         ]
       }
@@ -3654,16 +3654,16 @@
           "oil"
         ],
         "nouns": [
-          "tablespoon",
           "olive",
-          "oil"
+          "oil",
+          "tablespoon"
         ],
         "verbs": [],
         "lemmas": [
-          "tablespoon",
+          "oil",
           "olive",
           "2",
-          "oil"
+          "tablespoon"
         ]
       }
     },
@@ -3688,16 +3688,16 @@
           "juice"
         ],
         "nouns": [
-          "tablespoon",
           "lime",
+          "tablespoon",
           "juice"
         ],
         "verbs": [],
         "lemmas": [
-          "tablespoon",
-          "juice",
           "lime",
-          "1"
+          "1",
+          "tablespoon",
+          "juice"
         ]
       }
     },
@@ -3730,8 +3730,8 @@
         ],
         "lemmas": [
           "salt",
-          "pepper",
-          "taste"
+          "taste",
+          "pepper"
         ]
       }
     },
@@ -3788,44 +3788,44 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "cilantro",
-          "bowl",
-          "corn",
-          "bean",
-          "onion",
           "lime",
-          "olive",
-          "juice",
-          "salt",
           "tomato",
+          "cilantro",
           "oil",
+          "juice",
+          "bowl",
+          "onion",
+          "bean",
+          "corn",
+          "olive",
+          "salt",
+          "pepper",
           "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "combine",
+          "tomato",
           "cilantro",
-          "pepper",
-          "corn",
-          "bean",
-          "red",
-          "juice",
           "oil",
+          "juice",
           "Drizzle",
-          "onion",
           "season",
+          "red",
           "black",
-          "bowl",
-          "lime",
+          "bean",
+          "onion",
           "olive",
+          "combine",
           "large",
-          "toss",
           "salt",
-          "tomato"
+          "pepper",
+          "lime",
+          "toss",
+          "bowl",
+          "corn"
         ]
       }
     },
@@ -3895,42 +3895,42 @@
           "sliced"
         ],
         "nouns": [
-          "breast",
-          "pepper",
-          "baby",
-          "cup",
-          "pesto",
-          "bread",
-          "spinach",
-          "tablespoon",
-          "chicken",
           "slice",
-          "grain"
+          "bread",
+          "cup",
+          "chicken",
+          "baby",
+          "breast",
+          "spinach",
+          "grain",
+          "pesto",
+          "pepper",
+          "tablespoon"
         ],
         "verbs": [
-          "cook",
           "slice",
-          "roast"
+          "roast",
+          "cook"
         ],
         "lemmas": [
-          "breast",
-          "pepper",
-          "baby",
-          "1/4",
-          "cup",
-          "cook",
-          "2",
-          "1",
+          "slice",
           "bread",
-          "pesto",
-          "tablespoon",
-          "spinach",
+          "2",
+          "cup",
+          "chicken",
+          "cook",
+          "baby",
+          "breast",
           "1/2",
           "red",
+          "spinach",
           "roast",
-          "chicken",
-          "slice",
-          "grain"
+          "grain",
+          "pesto",
+          "1/4",
+          "pepper",
+          "1",
+          "tablespoon"
         ]
       }
     },
@@ -3980,33 +3980,33 @@
           "half"
         ],
         "nouns": [
-          "pepper",
-          "half",
-          "pesto",
-          "bread",
-          "spinach",
-          "chicken",
           "slice",
-          "layer"
+          "half",
+          "layer",
+          "bread",
+          "chicken",
+          "spinach",
+          "pesto",
+          "pepper"
         ],
         "verbs": [
           "cut",
           "roast"
         ],
         "lemmas": [
-          "second",
-          "pepper",
-          "half",
-          "cut",
-          "pesto",
-          "bread",
-          "spinach",
-          "red",
-          "roast",
-          "chicken",
-          "spread",
           "slice",
-          "layer"
+          "half",
+          "layer",
+          "bread",
+          "chicken",
+          "red",
+          "cut",
+          "spinach",
+          "spread",
+          "roast",
+          "pesto",
+          "pepper",
+          "second"
         ]
       }
     },
@@ -4095,57 +4095,57 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
-          "wine",
           "cup",
-          "onion",
-          "vinegar",
-          "cherry",
-          "cucumber",
-          "tablespoon",
-          "olive",
           "feta",
           "tomato",
-          "lentil",
+          "oil",
+          "vinegar",
+          "onion",
           "cheese",
-          "oil"
+          "cherry",
+          "olive",
+          "pepper",
+          "wine",
+          "lentil",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "cook",
           "dice",
+          "cook",
           "chop",
+          "taste",
           "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "cook",
-          "red",
+          "cup",
+          "tomato",
+          "oil",
+          "vinegar",
+          "wine",
+          "1",
+          "feta",
           "2",
+          "red",
+          "cook",
+          "1/2",
+          "onion",
+          "olive",
+          "chop",
+          "cucumber",
+          "cheese",
+          "cherry",
+          "pepper",
           "finely",
+          "lentil",
+          "halve",
           "tablespoon",
           "dice",
-          "feta",
-          "lentil",
-          "oil",
-          "halve",
-          "cup",
-          "onion",
-          "cucumber",
           "Salt",
           "1/4",
-          "vinegar",
-          "olive",
-          "crumble",
           "taste",
-          "wine",
-          "cherry",
-          "1",
-          "1/2",
-          "chop",
-          "tomato",
-          "cheese"
+          "crumble"
         ]
       }
     },
@@ -4203,44 +4203,44 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "wine",
+          "feta",
+          "tomato",
+          "oil",
           "bowl",
           "onion",
-          "vinegar",
-          "season",
-          "olive",
-          "feta",
-          "salt",
-          "tomato",
-          "lentil",
           "cheese",
-          "oil"
+          "olive",
+          "vinegar",
+          "salt",
+          "wine",
+          "pepper",
+          "lentil",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "combine",
-          "pepper",
-          "red",
-          "feta",
-          "oil",
-          "lentil",
-          "Drizzle",
-          "onion",
-          "cucumber",
-          "season",
-          "bowl",
-          "vinegar",
-          "olive",
-          "large",
-          "wine",
-          "toss",
-          "salt",
           "tomato",
-          "cheese"
+          "oil",
+          "Drizzle",
+          "vinegar",
+          "wine",
+          "season",
+          "feta",
+          "red",
+          "onion",
+          "olive",
+          "cucumber",
+          "combine",
+          "large",
+          "salt",
+          "cheese",
+          "pepper",
+          "lentil",
+          "toss",
+          "bowl"
         ]
       }
     },
@@ -4313,46 +4313,46 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
-          "cup",
-          "chickpea",
-          "grain",
-          "cherry",
+          "slice",
+          "avocado",
           "bread",
-          "tablespoon",
-          "olive",
-          "salt",
+          "cup",
           "tomato",
           "oil",
-          "slice",
-          "avocado"
+          "chickpea",
+          "salt",
+          "olive",
+          "grain",
+          "cherry",
+          "pepper",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "mash"
+          "mash",
+          "taste"
         ],
         "lemmas": [
-          "pepper",
-          "2",
-          "bread",
-          "tablespoon",
-          "oil",
-          "avocado",
-          "halve",
           "cup",
+          "tomato",
+          "oil",
+          "1",
+          "avocado",
+          "bread",
+          "2",
+          "1/2",
           "chickpea",
-          "1/4",
           "olive",
           "slice",
           "mash",
-          "taste",
-          "cherry",
-          "1",
-          "1/2",
           "salt",
-          "tomato",
-          "grain"
+          "cherry",
+          "pepper",
+          "halve",
+          "grain",
+          "1/4",
+          "taste",
+          "tablespoon"
         ]
       }
     },
@@ -4412,18 +4412,18 @@
           "bread"
         ],
         "nouns": [
-          "pepper",
-          "bowl",
-          "chickpea",
-          "season",
-          "cherry",
-          "mixture",
-          "bread",
-          "salt",
-          "tomato",
-          "oil",
           "slice",
-          "avocado"
+          "avocado",
+          "bread",
+          "tomato",
+          "mixture",
+          "oil",
+          "chickpea",
+          "bowl",
+          "salt",
+          "cherry",
+          "pepper",
+          "season"
         ],
         "verbs": [
           "combine",
@@ -4431,24 +4431,24 @@
           "drizzle"
         ],
         "lemmas": [
-          "second",
-          "combine",
-          "pepper",
-          "drizzle",
-          "bowl",
-          "chickpea",
-          "season",
-          "cherry",
-          "mixture",
-          "bread",
-          "olive",
-          "mashed",
-          "salt",
-          "tomato",
-          "spread",
           "slice",
           "avocado",
-          "oil"
+          "combine",
+          "bread",
+          "tomato",
+          "mixture",
+          "spread",
+          "drizzle",
+          "chickpea",
+          "oil",
+          "bowl",
+          "olive",
+          "salt",
+          "cherry",
+          "pepper",
+          "mashed",
+          "season",
+          "second"
         ]
       }
     },
@@ -4538,56 +4538,56 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
-          "wine",
           "cup",
-          "onion",
-          "vinegar",
-          "cucumber",
-          "cherry",
-          "tablespoon",
-          "olive",
           "feta",
           "tomato",
           "oil",
-          "cheese"
+          "vinegar",
+          "onion",
+          "olive",
+          "cherry",
+          "cheese",
+          "pepper",
+          "wine",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
+          "slice",
           "halve",
           "dice",
           "chop",
-          "crumble",
-          "slice"
+          "taste",
+          "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "red",
+          "cup",
+          "tomato",
+          "oil",
+          "vinegar",
+          "wine",
+          "1",
+          "feta",
           "2",
+          "red",
+          "1/2",
+          "onion",
+          "black",
+          "olive",
+          "chop",
+          "cucumber",
+          "slice",
+          "cheese",
+          "cherry",
+          "pepper",
           "finely",
+          "halve",
           "tablespoon",
           "dice",
-          "feta",
-          "oil",
-          "halve",
-          "cup",
-          "onion",
-          "cucumber",
           "Salt",
-          "black",
           "1/4",
-          "vinegar",
-          "olive",
-          "crumble",
-          "slice",
           "taste",
-          "wine",
-          "cherry",
-          "1",
-          "1/2",
-          "chop",
-          "tomato",
-          "cheese"
+          "crumble"
         ]
       }
     },
@@ -4645,42 +4645,42 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "wine",
-          "bowl",
-          "onion",
-          "vinegar",
-          "season",
-          "olive",
           "feta",
-          "salt",
           "tomato",
           "oil",
-          "cheese"
+          "bowl",
+          "onion",
+          "olive",
+          "cheese",
+          "vinegar",
+          "salt",
+          "wine",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
+          "toss",
           "combine",
-          "pepper",
-          "wine",
+          "feta",
+          "red",
+          "tomato",
+          "large",
+          "oil",
           "bowl",
           "onion",
-          "vinegar",
-          "cucumber",
-          "red",
-          "season",
-          "salt",
           "olive",
-          "feta",
-          "toss",
-          "large",
-          "tomato",
-          "oil",
           "cheese",
-          "Drizzle"
+          "Drizzle",
+          "vinegar",
+          "wine",
+          "salt",
+          "pepper",
+          "season",
+          "cucumber"
         ]
       }
     },
@@ -4742,41 +4742,41 @@
           "carrots"
         ],
         "nouns": [
-          "breast",
-          "carrot",
+          "slice",
           "wheat",
-          "baby",
           "cup",
+          "carrot",
+          "baby",
+          "breast",
           "spinach",
           "turkey",
-          "tablespoon",
           "tortilla",
-          "slice"
+          "tablespoon"
         ],
         "verbs": [
-          "cranberry",
+          "shred",
           "sauce",
-          "shred"
+          "cranberry"
         ],
         "lemmas": [
-          "breast",
-          "cranberry",
-          "carrot",
-          "wheat",
-          "baby",
-          "sauce",
-          "1/4",
-          "cup",
-          "2",
-          "1",
-          "turkey",
-          "spinach",
-          "tablespoon",
-          "shred",
-          "tortilla",
-          "1/2",
           "slice",
-          "4"
+          "wheat",
+          "2",
+          "cup",
+          "sauce",
+          "baby",
+          "breast",
+          "1/2",
+          "shred",
+          "spinach",
+          "carrot",
+          "4",
+          "turkey",
+          "cranberry",
+          "tortilla",
+          "1",
+          "tablespoon",
+          "1/4"
         ]
       }
     },
@@ -4817,22 +4817,22 @@
           "evenly"
         ],
         "nouns": [
-          "cranberry",
-          "tortilla"
+          "tortilla",
+          "cranberry"
         ],
         "verbs": [
-          "spread",
           "lay",
+          "spread",
           "sauce"
         ],
         "lemmas": [
-          "cranberry",
-          "lay",
           "flat",
           "sauce",
-          "tortilla",
+          "spread",
           "evenly",
-          "spread"
+          "cranberry",
+          "tortilla",
+          "lay"
         ]
       }
     },
@@ -4859,18 +4859,18 @@
           "carrots"
         ],
         "nouns": [
-          "carrot",
+          "turkey",
           "spinach",
-          "turkey"
+          "carrot"
         ],
         "verbs": [
           "add"
         ],
         "lemmas": [
-          "carrot",
-          "spinach",
+          "turkey",
           "add",
-          "turkey"
+          "spinach",
+          "carrot"
         ]
       }
     },
@@ -4907,11 +4907,11 @@
           "roll"
         ],
         "lemmas": [
-          "tightly",
+          "slice",
           "half",
+          "tightly",
           "roll",
-          "tortilla",
-          "slice"
+          "tortilla"
         ]
       }
     },
@@ -4985,45 +4985,45 @@
           "taste"
         ],
         "nouns": [
-          "balsamic",
           "glaze",
-          "pepper",
           "cup",
-          "basil",
-          "cherry",
-          "mozzarella",
-          "tablespoon",
-          "olive",
           "tomato",
-          "oil"
+          "mozzarella",
+          "basil",
+          "oil",
+          "olive",
+          "balsamic",
+          "cherry",
+          "pepper",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "dice",
-          "leave"
+          "taste",
+          "leave",
+          "dice"
         ],
         "lemmas": [
-          "pepper",
-          "basil",
-          "mozzarella",
-          "2",
-          "tablespoon",
-          "dice",
-          "oil",
-          "balsamic",
-          "halve",
           "cup",
+          "tomato",
+          "basil",
+          "oil",
+          "1",
+          "fresh",
+          "2",
+          "1/2",
+          "olive",
+          "balsamic",
+          "cherry",
+          "pepper",
+          "glaze",
+          "halve",
+          "dice",
+          "mozzarella",
           "Salt",
           "leave",
-          "glaze",
-          "olive",
           "taste",
-          "cherry",
-          "1",
-          "1/2",
-          "fresh",
-          "tomato"
+          "tablespoon"
         ]
       }
     },
@@ -5076,35 +5076,35 @@
         ],
         "nouns": [
           "glaze",
-          "pepper",
-          "bowl",
-          "basil",
+          "tomato",
           "mozzarella",
+          "basil",
+          "oil",
+          "bowl",
           "olive",
           "salt",
-          "tomato",
-          "oil",
+          "pepper",
           "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "balsamic",
-          "combine",
           "glaze",
-          "pepper",
-          "bowl",
-          "basil",
-          "mozzarella",
-          "olive",
           "toss",
-          "salt",
+          "combine",
           "tomato",
+          "mozzarella",
+          "basil",
           "oil",
-          "season",
-          "Drizzle"
+          "bowl",
+          "Drizzle",
+          "olive",
+          "balsamic",
+          "salt",
+          "pepper",
+          "season"
         ]
       }
     },
@@ -5187,48 +5187,48 @@
           "taste"
         ],
         "nouns": [
-          "breast",
-          "pepper",
-          "cup",
-          "onion",
-          "zucchini",
           "tablespoon",
-          "olive",
-          "juice",
+          "cup",
           "chicken",
+          "breast",
           "oil",
-          "bell",
-          "lemon"
+          "lemon",
+          "juice",
+          "onion",
+          "olive",
+          "zucchini",
+          "pepper",
+          "bell"
         ],
         "verbs": [
+          "slice",
           "cube",
-          "cook",
           "taste",
-          "slice"
+          "cook"
         ],
         "lemmas": [
-          "breast",
-          "pepper",
-          "cook",
-          "red",
-          "2",
-          "tablespoon",
-          "juice",
-          "oil",
           "cup",
-          "onion",
-          "zucchini",
-          "Salt",
-          "bell",
-          "1/4",
-          "olive",
           "cube",
-          "chicken",
-          "slice",
-          "taste",
+          "oil",
+          "juice",
           "1",
+          "2",
+          "red",
+          "cook",
           "1/2",
-          "lemon"
+          "onion",
+          "olive",
+          "zucchini",
+          "slice",
+          "pepper",
+          "bell",
+          "chicken",
+          "breast",
+          "Salt",
+          "lemon",
+          "1/4",
+          "taste",
+          "tablespoon"
         ]
       }
     },
@@ -5288,41 +5288,41 @@
           "serving"
         ],
         "nouns": [
-          "pepper",
-          "onion",
-          "zucchini",
-          "olive",
           "skewer",
-          "juice",
-          "salt",
           "chicken",
           "oil",
-          "season",
-          "lemon"
+          "lemon",
+          "juice",
+          "salt",
+          "onion",
+          "olive",
+          "zucchini",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "thread",
-          "serve"
+          "serve",
+          "thread"
         ],
         "lemmas": [
-          "pepper",
-          "thread",
-          "onion",
-          "zucchini",
-          "red",
-          "season",
-          "serve",
           "reheat",
-          "olive",
           "skewer",
-          "juice",
-          "salt",
           "chicken",
+          "red",
           "oil",
-          "cold",
-          "bell",
           "lemon",
-          "Drizzle"
+          "cold",
+          "juice",
+          "Drizzle",
+          "onion",
+          "olive",
+          "zucchini",
+          "thread",
+          "pepper",
+          "salt",
+          "serve",
+          "season",
+          "bell"
         ]
       }
     },
@@ -5373,29 +5373,29 @@
           "halved"
         ],
         "nouns": [
+          "avocado",
           "cup",
-          "cherry",
-          "tuna",
           "tomato",
-          "avocado"
+          "tuna",
+          "cherry"
         ],
         "verbs": [
-          "dice",
           "halve",
-          "drain"
+          "drain",
+          "dice"
         ],
         "lemmas": [
           "halve",
-          "drain",
-          "1/4",
+          "avocado",
           "cup",
-          "cherry",
-          "1",
-          "1/2",
-          "dice",
-          "tuna",
           "tomato",
-          "avocado"
+          "dice",
+          "1/2",
+          "tuna",
+          "drain",
+          "cherry",
+          "1/4",
+          "1"
         ]
       }
     },
@@ -5423,19 +5423,19 @@
           "chopped"
         ],
         "nouns": [
-          "cup",
-          "onion"
+          "onion",
+          "cup"
         ],
         "verbs": [
           "chop"
         ],
         "lemmas": [
-          "1/4",
           "cup",
-          "onion",
           "red",
+          "onion",
           "finely",
-          "chop"
+          "chop",
+          "1/4"
         ]
       }
     },
@@ -5460,16 +5460,16 @@
           "oil"
         ],
         "nouns": [
-          "tablespoon",
           "olive",
-          "oil"
+          "oil",
+          "tablespoon"
         ],
         "verbs": [],
         "lemmas": [
-          "tablespoon",
+          "oil",
           "olive",
           "2",
-          "oil"
+          "tablespoon"
         ]
       }
     },
@@ -5494,16 +5494,16 @@
           "juice"
         ],
         "nouns": [
+          "lemon",
           "tablespoon",
-          "juice",
-          "lemon"
+          "juice"
         ],
         "verbs": [],
         "lemmas": [
-          "tablespoon",
-          "juice",
           "1",
-          "lemon"
+          "lemon",
+          "tablespoon",
+          "juice"
         ]
       }
     },
@@ -5536,8 +5536,8 @@
         ],
         "lemmas": [
           "salt",
-          "pepper",
-          "taste"
+          "taste",
+          "pepper"
         ]
       }
     },
@@ -5591,39 +5591,39 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
+          "tomato",
+          "tuna",
+          "oil",
+          "lemon",
+          "juice",
           "bowl",
           "onion",
-          "salt",
           "olive",
-          "juice",
-          "tuna",
-          "tomato",
-          "oil",
-          "season",
-          "lemon"
+          "salt",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
+          "toss",
+          "avocado",
           "combine",
+          "red",
+          "tomato",
+          "tuna",
+          "oil",
           "lemon",
-          "pepper",
+          "juice",
           "bowl",
           "onion",
-          "red",
-          "salt",
+          "Drizzle",
           "olive",
-          "juice",
-          "toss",
-          "tuna",
-          "tomato",
-          "oil",
-          "season",
-          "avocado",
-          "Drizzle"
+          "salt",
+          "pepper",
+          "season"
         ]
       }
     },
@@ -5696,43 +5696,43 @@
           "dipping"
         ],
         "nouns": [
-          "rice",
-          "carrot",
-          "sheet",
-          "sauce",
-          "seaweed",
+          "avocado",
           "cup",
-          "cucumber",
+          "sheet",
+          "carrot",
+          "sauce",
+          "rice",
+          "seaweed",
           "nori",
-          "avocado"
+          "cucumber"
         ],
         "verbs": [
-          "julienne",
+          "slice",
           "dip",
-          "cook",
-          "slice"
+          "julienne",
+          "cook"
         ],
         "lemmas": [
-          "carrot",
-          "sushi",
           "sheet",
-          "Soy",
-          "cook",
-          "2",
-          "avocado",
-          "julienne",
-          "sauce",
           "cup",
-          "cucumber",
-          "nori",
-          "rice",
-          "1/4",
-          "julienned",
-          "slice",
-          "seaweed",
+          "sushi",
           "1",
+          "avocado",
+          "2",
+          "cook",
+          "sauce",
           "1/2",
-          "dip"
+          "cucumber",
+          "julienne",
+          "slice",
+          "Soy",
+          "carrot",
+          "seaweed",
+          "dip",
+          "rice",
+          "nori",
+          "1/4",
+          "julienned"
         ]
       }
     },
@@ -5810,63 +5810,63 @@
           "sauce"
         ],
         "nouns": [
-          "rice",
-          "piece",
-          "carrot",
-          "sheet",
-          "edge",
-          "line",
-          "sauce",
-          "inch",
-          "cucumber",
-          "avocado",
-          "mat",
-          "border",
-          "bite",
-          "nori",
-          "bamboo",
           "slice",
+          "mat",
+          "sheet",
           "layer",
-          "soy"
+          "avocado",
+          "carrot",
+          "sauce",
+          "rice",
+          "nori",
+          "piece",
+          "line",
+          "soy",
+          "edge",
+          "inch",
+          "border",
+          "cucumber",
+          "bamboo",
+          "bite"
         ],
         "verbs": [
-          "lay",
-          "roll",
           "arrange",
+          "roll",
           "spread",
           "serve",
-          "leave"
+          "leave",
+          "lay"
         ],
         "lemmas": [
-          "tightly",
-          "piece",
-          "carrot",
-          "sushi",
-          "lay",
           "sheet",
-          "line",
           "roll",
+          "piece",
           "serve",
-          "avocado",
-          "sauce",
-          "cucumber",
-          "bite",
-          "nori",
-          "inch",
-          "leave",
-          "mat",
-          "rice",
-          "edge",
-          "spread",
-          "arrange",
-          "border",
-          "bamboo",
-          "slice",
-          "1",
-          "sized",
           "thin",
+          "1",
+          "mat",
+          "avocado",
+          "tightly",
+          "sauce",
+          "line",
+          "border",
+          "lay",
+          "cucumber",
+          "slice",
+          "layer",
+          "arrange",
+          "carrot",
+          "edge",
+          "inch",
+          "bamboo",
+          "bite",
+          "sized",
+          "rice",
+          "spread",
+          "nori",
           "soy",
-          "layer"
+          "leave",
+          "sushi"
         ]
       }
     },
@@ -5941,49 +5941,49 @@
           "taste"
         ],
         "nouns": [
-          "pita",
-          "pepper",
           "wheat",
           "cup",
-          "spinach",
           "bread",
-          "cherry",
-          "tablespoon",
-          "olive",
           "feta",
-          "salt",
           "tomato",
+          "pita",
+          "spinach",
           "oil",
-          "cheese"
+          "salt",
+          "olive",
+          "cheese",
+          "cherry",
+          "pepper",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "crumble",
-          "chop"
+          "chop",
+          "taste",
+          "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "bread",
-          "tablespoon",
-          "feta",
-          "oil",
-          "pita",
-          "halve",
+          "wheat",
           "cup",
-          "1/4",
+          "tomato",
+          "oil",
+          "1",
+          "bread",
+          "feta",
+          "1/2",
+          "pita",
+          "spinach",
           "olive",
           "crumble",
-          "taste",
-          "wheat",
-          "spinach",
-          "1",
-          "cherry",
-          "1/2",
           "chop",
           "salt",
-          "tomato",
-          "cheese"
+          "cheese",
+          "cherry",
+          "pepper",
+          "halve",
+          "1/4",
+          "taste",
+          "tablespoon"
         ]
       }
     },
@@ -6046,51 +6046,51 @@
           "pockets"
         ],
         "nouns": [
-          "pita",
-          "pepper",
           "half",
+          "bread",
+          "tomato",
+          "pita",
+          "spinach",
+          "oil",
+          "mixture",
           "pocket",
           "bowl",
-          "stuff",
-          "season",
-          "spinach",
-          "bread",
+          "cheese",
           "cherry",
-          "mixture",
           "olive",
           "salt",
-          "tomato",
-          "oil",
-          "cheese"
+          "pepper",
+          "stuff",
+          "season"
         ],
         "verbs": [
+          "cut",
           "combine",
-          "drizzle",
           "create",
-          "cut"
+          "drizzle"
         ],
         "lemmas": [
-          "combine",
-          "pepper",
-          "stuff",
+          "half",
+          "tomato",
+          "oil",
+          "season",
           "bread",
           "feta",
-          "oil",
           "pita",
-          "pocket",
-          "mixture",
-          "season",
-          "half",
-          "drizzle",
-          "bowl",
-          "olive",
-          "cut",
           "spinach",
-          "cherry",
+          "drizzle",
+          "pocket",
+          "olive",
+          "combine",
+          "cut",
+          "create",
+          "mixture",
           "salt",
-          "tomato",
           "cheese",
-          "create"
+          "cherry",
+          "pepper",
+          "stuff",
+          "bowl"
         ]
       }
     },
@@ -6155,38 +6155,38 @@
           "mix"
         ],
         "nouns": [
-          "breast",
-          "wheat",
-          "sauce",
-          "cup",
           "mix",
-          "tablespoon",
-          "coleslaw",
-          "tortilla",
+          "wheat",
+          "cup",
           "chicken",
-          "cheese"
+          "sauce",
+          "breast",
+          "coleslaw",
+          "cheese",
+          "tortilla",
+          "tablespoon"
         ],
         "verbs": [
-          "cook",
-          "shred"
+          "shred",
+          "cook"
         ],
         "lemmas": [
-          "breast",
-          "wheat",
-          "sauce",
-          "1/4",
-          "cup",
-          "cook",
           "mix",
-          "2",
-          "1",
-          "shred",
-          "tablespoon",
-          "coleslaw",
-          "tortilla",
-          "BBQ",
+          "wheat",
+          "cup",
           "chicken",
-          "cheese"
+          "2",
+          "cook",
+          "shred",
+          "breast",
+          "BBQ",
+          "sauce",
+          "coleslaw",
+          "cheese",
+          "1/4",
+          "tortilla",
+          "1",
+          "tablespoon"
         ]
       }
     },
@@ -6240,38 +6240,38 @@
           "half"
         ],
         "nouns": [
-          "half",
           "mix",
-          "coleslaw",
-          "tortilla",
+          "half",
           "chicken",
-          "cheese"
+          "coleslaw",
+          "cheese",
+          "tortilla"
         ],
         "verbs": [
-          "lay",
-          "roll",
-          "sauce",
           "slice",
+          "sauce",
+          "roll",
           "spread",
-          "add"
+          "add",
+          "lay"
         ],
         "lemmas": [
-          "tightly",
-          "lay",
-          "flat",
-          "sauce",
-          "cheese",
-          "roll",
           "slice",
-          "half",
           "mix",
-          "coleslaw",
-          "tortilla",
-          "BBQ",
-          "evenly",
+          "half",
+          "flat",
+          "tightly",
           "chicken",
+          "sauce",
+          "BBQ",
           "spread",
-          "add"
+          "evenly",
+          "roll",
+          "coleslaw",
+          "add",
+          "cheese",
+          "tortilla",
+          "lay"
         ]
       }
     },
@@ -6359,56 +6359,56 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
           "cup",
-          "onion",
-          "cucumber",
-          "cherry",
-          "tablespoon",
-          "olive",
           "feta",
-          "juice",
           "tomato",
           "oil",
+          "lemon",
+          "juice",
+          "onion",
           "cheese",
-          "lemon"
+          "cherry",
+          "olive",
+          "pepper",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
           "halve",
-          "cook",
           "dice",
+          "cook",
           "chop",
+          "taste",
           "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "cook",
-          "2",
+          "cup",
+          "tomato",
+          "oil",
+          "juice",
           "couscous",
+          "1",
+          "feta",
+          "2",
           "red",
+          "cook",
+          "1/2",
+          "onion",
+          "olive",
+          "chop",
+          "cucumber",
+          "cheese",
+          "cherry",
+          "pepper",
           "finely",
+          "halve",
           "tablespoon",
           "dice",
-          "feta",
-          "juice",
-          "oil",
-          "halve",
-          "cup",
-          "onion",
-          "cucumber",
           "Salt",
+          "lemon",
           "1/4",
-          "olive",
-          "crumble",
           "taste",
-          "cherry",
-          "1",
-          "1/2",
-          "chop",
-          "tomato",
-          "cheese",
-          "lemon"
+          "crumble"
         ]
       }
     },
@@ -6466,43 +6466,43 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "bowl",
-          "onion",
-          "season",
-          "olive",
           "feta",
-          "juice",
-          "salt",
           "tomato",
           "oil",
+          "lemon",
+          "juice",
+          "bowl",
+          "onion",
           "cheese",
-          "lemon"
+          "olive",
+          "salt",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "combine",
-          "pepper",
-          "couscous",
-          "red",
-          "feta",
-          "juice",
-          "oil",
-          "Drizzle",
-          "onion",
-          "cucumber",
-          "season",
-          "bowl",
-          "olive",
-          "large",
-          "toss",
-          "salt",
           "tomato",
+          "oil",
+          "juice",
+          "Drizzle",
+          "couscous",
+          "season",
+          "feta",
+          "red",
+          "onion",
+          "olive",
+          "cucumber",
+          "combine",
+          "large",
+          "salt",
           "cheese",
-          "lemon"
+          "pepper",
+          "toss",
+          "lemon",
+          "bowl"
         ]
       }
     },
@@ -6571,36 +6571,36 @@
           "sliced"
         ],
         "nouns": [
-          "pepper",
-          "hummus",
-          "baby",
-          "cup",
-          "spinach",
-          "bread",
-          "eggplant",
           "slice",
-          "grain"
+          "eggplant",
+          "bread",
+          "cup",
+          "baby",
+          "spinach",
+          "grain",
+          "hummus",
+          "pepper"
         ],
         "verbs": [
           "slice",
           "roast"
         ],
         "lemmas": [
-          "pepper",
-          "hummus",
-          "baby",
-          "1/4",
-          "cup",
-          "2",
-          "bread",
-          "spinach",
-          "red",
-          "1/2",
-          "roast",
-          "eggplant",
-          "roasted",
           "slice",
-          "grain"
+          "eggplant",
+          "bread",
+          "2",
+          "cup",
+          "red",
+          "baby",
+          "1/2",
+          "spinach",
+          "roasted",
+          "roast",
+          "grain",
+          "hummus",
+          "1/4",
+          "pepper"
         ]
       }
     },
@@ -6635,18 +6635,18 @@
           "bread"
         ],
         "nouns": [
+          "slice",
           "bread",
-          "hummus",
-          "slice"
+          "hummus"
         ],
         "verbs": [
           "spread"
         ],
         "lemmas": [
-          "spread",
-          "hummus",
+          "slice",
           "bread",
-          "slice"
+          "hummus",
+          "spread"
         ]
       }
     },
@@ -6679,20 +6679,20 @@
         ],
         "nouns": [
           "eggplant",
-          "pepper",
-          "spinach"
+          "spinach",
+          "pepper"
         ],
         "verbs": [
           "roast"
         ],
         "lemmas": [
-          "pepper",
-          "Layer",
-          "spinach",
-          "red",
-          "roast",
           "eggplant",
-          "roasted"
+          "red",
+          "spinach",
+          "roasted",
+          "roast",
+          "pepper",
+          "Layer"
         ]
       }
     },
@@ -6721,19 +6721,19 @@
           "half"
         ],
         "nouns": [
-          "bread",
+          "slice",
           "half",
-          "slice"
+          "bread"
         ],
         "verbs": [
           "cut"
         ],
         "lemmas": [
-          "second",
+          "slice",
           "half",
-          "cut",
           "bread",
-          "slice"
+          "cut",
+          "second"
         ]
       }
     },
@@ -6815,49 +6815,49 @@
           "taste"
         ],
         "nouns": [
-          "breast",
-          "pepper",
-          "cilantro",
-          "cup",
-          "onion",
-          "tablespoon",
           "lime",
-          "olive",
-          "mango",
-          "juice",
+          "cup",
           "chicken",
-          "oil"
+          "mango",
+          "breast",
+          "cilantro",
+          "oil",
+          "juice",
+          "onion",
+          "olive",
+          "pepper",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
-          "cook",
+          "chop",
           "dice",
-          "chop"
+          "taste",
+          "cook"
         ],
         "lemmas": [
-          "breast",
-          "pepper",
-          "cilantro",
-          "cook",
-          "red",
-          "2",
-          "finely",
-          "tablespoon",
-          "dice",
-          "juice",
-          "oil",
           "cup",
+          "cilantro",
+          "oil",
+          "juice",
+          "1",
+          "2",
+          "red",
+          "cook",
+          "mango",
+          "1/2",
           "onion",
+          "olive",
+          "chop",
+          "pepper",
+          "finely",
+          "lime",
+          "chicken",
+          "dice",
+          "breast",
           "Salt",
           "1/4",
-          "lime",
-          "olive",
-          "chicken",
           "taste",
-          "1",
-          "1/2",
-          "mango",
-          "chop"
+          "tablespoon"
         ]
       }
     },
@@ -6911,39 +6911,39 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "cilantro",
-          "bowl",
-          "onion",
           "lime",
-          "olive",
-          "juice",
-          "salt",
           "chicken",
+          "cilantro",
           "oil",
+          "juice",
+          "bowl",
+          "olive",
+          "onion",
+          "salt",
+          "pepper",
           "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
+          "lime",
+          "toss",
           "combine",
+          "chicken",
+          "red",
+          "mango",
           "cilantro",
-          "pepper",
+          "oil",
+          "juice",
           "bowl",
           "onion",
-          "red",
-          "lime",
+          "Drizzle",
           "olive",
-          "mango",
-          "juice",
-          "toss",
           "salt",
-          "chicken",
-          "oil",
-          "season",
-          "Drizzle"
+          "pepper",
+          "season"
         ]
       }
     },
@@ -7008,34 +7008,34 @@
           "sliced"
         ],
         "nouns": [
-          "pepper",
           "wheat",
-          "cheese",
           "cup",
           "onion",
+          "cheese",
           "zucchini",
+          "pepper",
           "tortilla",
           "bell"
         ],
         "verbs": [
-          "slice",
-          "shred"
+          "shred",
+          "slice"
         ],
         "lemmas": [
-          "pepper",
-          "bell",
-          "wheat",
-          "1/4",
-          "cup",
           "slice",
-          "onion",
-          "zucchini",
+          "wheat",
+          "cup",
           "red",
-          "1",
           "shred",
-          "tortilla",
           "1/2",
-          "cheese"
+          "onion",
+          "cheese",
+          "zucchini",
+          "pepper",
+          "1/4",
+          "tortilla",
+          "1",
+          "bell"
         ]
       }
     },
@@ -7108,51 +7108,51 @@
           "wedges"
         ],
         "nouns": [
-          "pepper",
-          "half",
-          "cheese",
           "slice",
-          "onion",
-          "zucchini",
+          "half",
           "heat",
-          "tortilla",
           "wedge",
           "skillet",
+          "onion",
+          "cheese",
+          "zucchini",
+          "pepper",
+          "tortilla",
           "bell"
         ],
         "verbs": [
-          "lay",
-          "melt",
-          "cook",
-          "sprinkle",
-          "remain",
           "fold",
-          "add"
+          "sprinkle",
+          "cook",
+          "remain",
+          "melt",
+          "add",
+          "lay"
         ],
         "lemmas": [
-          "pepper",
-          "lay",
-          "cook",
-          "red",
           "medium",
+          "half",
+          "remain",
+          "brown",
+          "golden",
+          "wedge",
+          "red",
+          "fold",
+          "cook",
           "melt",
           "onion",
-          "sprinkle",
           "zucchini",
-          "heat",
-          "golden",
-          "skillet",
-          "bell",
-          "add",
-          "half",
-          "wedge",
+          "lay",
           "slice",
-          "flat",
-          "remain",
+          "heat",
+          "sprinkle",
+          "skillet",
+          "cheese",
+          "add",
+          "pepper",
           "tortilla",
-          "brown",
-          "fold",
-          "cheese"
+          "bell",
+          "flat"
         ]
       }
     },
@@ -7194,10 +7194,10 @@
           "mashed"
         ],
         "nouns": [
-          "cup",
-          "chickpea",
           "tortilla",
-          "wheat"
+          "wheat",
+          "cup",
+          "chickpea"
         ],
         "verbs": [
           "mash"
@@ -7205,11 +7205,11 @@
         "lemmas": [
           "wheat",
           "cup",
-          "chickpea",
-          "1",
-          "tortilla",
+          "mash",
           "1/2",
-          "mash"
+          "chickpea",
+          "tortilla",
+          "1"
         ]
       }
     },
@@ -7242,8 +7242,8 @@
           "chop"
         ],
         "lemmas": [
-          "cup",
           "chop",
+          "cup",
           "spinach",
           "1/4"
         ]
@@ -7277,10 +7277,10 @@
           "shred"
         ],
         "lemmas": [
-          "cup",
+          "shred",
           "carrot",
-          "1/4",
-          "shred"
+          "cup",
+          "1/4"
         ]
       }
     },
@@ -7309,9 +7309,9 @@
         ],
         "verbs": [],
         "lemmas": [
+          "1",
           "tablespoon",
-          "tahini",
-          "1"
+          "tahini"
         ]
       }
     },
@@ -7336,16 +7336,16 @@
           "juice"
         ],
         "nouns": [
+          "lemon",
           "tablespoon",
-          "juice",
-          "lemon"
+          "juice"
         ],
         "verbs": [],
         "lemmas": [
-          "tablespoon",
-          "juice",
           "1",
-          "lemon"
+          "lemon",
+          "tablespoon",
+          "juice"
         ]
       }
     },
@@ -7378,8 +7378,8 @@
         ],
         "lemmas": [
           "salt",
-          "pepper",
-          "taste"
+          "taste",
+          "pepper"
         ]
       }
     },
@@ -7442,49 +7442,49 @@
           "half"
         ],
         "nouns": [
-          "pepper",
-          "carrot",
           "half",
-          "bowl",
-          "chickpea",
+          "carrot",
           "spinach",
+          "lemon",
           "mixture",
-          "tortilla",
           "tahini",
+          "chickpea",
           "juice",
+          "bowl",
           "salt",
-          "season",
-          "lemon"
+          "pepper",
+          "tortilla",
+          "season"
         ],
         "verbs": [
+          "slice",
           "combine",
           "spread",
-          "slice",
           "roll"
         ],
         "lemmas": [
+          "half",
+          "roll",
+          "juice",
+          "season",
           "tightly",
+          "spinach",
+          "chickpea",
+          "Lay",
+          "slice",
           "combine",
           "carrot",
-          "pepper",
-          "roll",
-          "mashed",
-          "juice",
-          "evenly",
-          "Lay",
-          "chickpea",
           "mixture",
-          "season",
-          "half",
-          "bowl",
-          "slice",
-          "flat",
-          "spinach",
-          "tortilla",
           "tahini",
           "salt",
+          "pepper",
+          "tortilla",
+          "flat",
+          "lemon",
           "spread",
-          "lemon"
+          "evenly",
+          "bowl",
+          "mashed"
         ]
       }
     },
@@ -7550,41 +7550,41 @@
           "mayo"
         ],
         "nouns": [
-          "breast",
-          "baby",
-          "cup",
-          "spinach",
-          "bread",
-          "turkey",
+          "slice",
           "apple",
-          "tablespoon",
+          "bread",
+          "cup",
+          "baby",
+          "breast",
+          "spinach",
+          "turkey",
+          "grain",
           "mayo",
           "mustard",
-          "slice",
-          "grain"
+          "tablespoon"
         ],
         "verbs": [
           "slice"
         ],
         "lemmas": [
-          "breast",
-          "baby",
-          "1/4",
-          "cup",
-          "grain",
-          "2",
-          "bread",
-          "turkey",
-          "apple",
-          "spinach",
-          "1",
-          "1/2",
-          "tablespoon",
-          "mustard",
-          "mayo",
-          "thinly",
           "slice",
-          "4"
+          "apple",
+          "bread",
+          "2",
+          "cup",
+          "mustard",
+          "baby",
+          "breast",
+          "1/2",
+          "spinach",
+          "4",
+          "turkey",
+          "grain",
+          "mayo",
+          "1/4",
+          "1",
+          "thinly",
+          "tablespoon"
         ]
       }
     },
@@ -7634,32 +7634,32 @@
           "half"
         ],
         "nouns": [
-          "half",
-          "spinach",
-          "bread",
-          "turkey",
+          "slice",
           "apple",
+          "half",
+          "bread",
+          "spinach",
+          "turkey",
           "mayo",
-          "mustard",
-          "slice"
+          "mustard"
         ],
         "verbs": [
-          "spread",
-          "cut"
+          "cut",
+          "spread"
         ],
         "lemmas": [
-          "second",
-          "half",
-          "cut",
-          "Layer",
-          "spinach",
-          "bread",
-          "turkey",
+          "slice",
           "apple",
-          "mayo",
-          "mustard",
+          "half",
+          "bread",
+          "cut",
+          "spinach",
           "spread",
-          "slice"
+          "turkey",
+          "mayo",
+          "Layer",
+          "mustard",
+          "second"
         ]
       }
     },
@@ -7746,53 +7746,53 @@
           "taste"
         ],
         "nouns": [
-          "pepper",
           "cup",
-          "cherry",
-          "cucumber",
-          "tablespoon",
-          "olive",
           "feta",
-          "juice",
-          "tuna",
           "tomato",
+          "tuna",
           "oil",
+          "lemon",
+          "juice",
+          "olive",
           "cheese",
-          "lemon"
+          "cherry",
+          "pepper",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "taste",
+          "slice",
           "halve",
-          "drain",
           "dice",
-          "crumble",
-          "slice"
+          "drain",
+          "taste",
+          "crumble"
         ],
         "lemmas": [
-          "pepper",
-          "2",
-          "tablespoon",
-          "dice",
-          "feta",
-          "juice",
-          "oil",
-          "halve",
           "cup",
-          "cucumber",
-          "Salt",
+          "tomato",
+          "oil",
+          "juice",
+          "1",
+          "feta",
+          "2",
           "drain",
           "black",
-          "1/4",
           "olive",
           "crumble",
+          "cucumber",
           "slice",
-          "taste",
-          "cherry",
-          "1",
           "tuna",
-          "tomato",
           "cheese",
-          "lemon"
+          "cherry",
+          "pepper",
+          "halve",
+          "dice",
+          "Salt",
+          "lemon",
+          "1/4",
+          "taste",
+          "tablespoon"
         ]
       }
     },
@@ -7847,40 +7847,40 @@
           "combine"
         ],
         "nouns": [
-          "pepper",
-          "bowl",
-          "season",
-          "salt",
-          "olive",
           "feta",
-          "juice",
-          "tuna",
           "tomato",
+          "tuna",
           "oil",
+          "lemon",
+          "juice",
+          "bowl",
+          "olive",
           "cheese",
-          "lemon"
+          "salt",
+          "pepper",
+          "season"
         ],
         "verbs": [
-          "combine",
-          "toss"
+          "toss",
+          "combine"
         ],
         "lemmas": [
-          "combine",
-          "pepper",
-          "bowl",
-          "season",
-          "cucumber",
-          "salt",
-          "olive",
-          "feta",
-          "juice",
           "toss",
-          "tuna",
+          "combine",
+          "feta",
           "tomato",
+          "tuna",
           "oil",
-          "cheese",
           "lemon",
-          "Drizzle"
+          "juice",
+          "bowl",
+          "olive",
+          "cheese",
+          "Drizzle",
+          "salt",
+          "pepper",
+          "season",
+          "cucumber"
         ]
       }
     },
@@ -7945,39 +7945,39 @@
           "dressing"
         ],
         "nouns": [
-          "breast",
+          "avocado",
           "wheat",
-          "baby",
           "cup",
-          "spinach",
-          "ranch",
-          "tablespoon",
-          "tortilla",
           "chicken",
-          "avocado"
+          "baby",
+          "breast",
+          "spinach",
+          "tortilla",
+          "tablespoon",
+          "ranch"
         ],
         "verbs": [
-          "cook",
+          "slice",
           "dress",
-          "slice"
+          "cook"
         ],
         "lemmas": [
-          "breast",
-          "dress",
-          "wheat",
-          "baby",
-          "1/4",
-          "cup",
-          "cook",
-          "spinach",
-          "1",
-          "ranch",
-          "tablespoon",
-          "tortilla",
-          "1/2",
-          "chicken",
           "slice",
-          "avocado"
+          "avocado",
+          "wheat",
+          "cup",
+          "chicken",
+          "cook",
+          "baby",
+          "breast",
+          "1/2",
+          "spinach",
+          "dress",
+          "1/4",
+          "tortilla",
+          "1",
+          "tablespoon",
+          "ranch"
         ]
       }
     },
@@ -8031,35 +8031,35 @@
         ],
         "nouns": [
           "half",
-          "spinach",
-          "ranch",
-          "tortilla",
+          "avocado",
           "chicken",
-          "avocado"
+          "spinach",
+          "tortilla",
+          "ranch"
         ],
         "verbs": [
-          "dress",
-          "lay",
-          "roll",
           "slice",
           "spread",
-          "add"
+          "roll",
+          "dress",
+          "add",
+          "lay"
         ],
         "lemmas": [
-          "tightly",
-          "dress",
-          "lay",
-          "flat",
-          "roll",
-          "half",
           "slice",
-          "spinach",
-          "tortilla",
-          "evenly",
-          "chicken",
-          "spread",
+          "half",
           "avocado",
+          "flat",
+          "tightly",
+          "chicken",
+          "spinach",
+          "spread",
+          "evenly",
+          "roll",
+          "dress",
           "add",
+          "tortilla",
+          "lay",
           "ranch"
         ]
       }
@@ -8131,39 +8131,39 @@
           "hummus"
         ],
         "nouns": [
-          "pepper",
-          "carrot",
-          "hummus",
           "wheat",
           "cup",
-          "cucumber",
-          "tablespoon",
+          "carrot",
+          "hummus",
+          "pepper",
           "tortilla",
-          "lentil"
+          "lentil",
+          "cucumber",
+          "tablespoon"
         ],
         "verbs": [
-          "cook",
-          "dice",
           "slice",
-          "shred"
+          "shred",
+          "dice",
+          "cook"
         ],
         "lemmas": [
-          "pepper",
+          "slice",
+          "tablespoon",
+          "wheat",
+          "cup",
+          "cook",
+          "dice",
+          "shred",
+          "1/2",
           "carrot",
           "hummus",
-          "wheat",
+          "pepper",
           "1/4",
-          "cup",
-          "slice",
-          "cook",
-          "cucumber",
-          "1",
-          "shred",
-          "tablespoon",
           "tortilla",
-          "1/2",
-          "dice",
           "lentil",
+          "1",
+          "cucumber",
           "bell"
         ]
       }
@@ -8218,38 +8218,38 @@
           "half"
         ],
         "nouns": [
-          "pepper",
+          "half",
           "carrot",
           "hummus",
-          "half",
-          "cucumber",
+          "pepper",
           "tortilla",
-          "lentil"
+          "lentil",
+          "cucumber"
         ],
         "verbs": [
-          "lay",
+          "slice",
           "roll",
           "spread",
           "add",
-          "slice"
+          "lay"
         ],
         "lemmas": [
-          "tightly",
-          "pepper",
-          "carrot",
-          "hummus",
-          "lay",
-          "flat",
-          "lentil",
-          "bell",
-          "roll",
           "slice",
           "half",
-          "cucumber",
-          "tortilla",
-          "evenly",
+          "flat",
+          "tightly",
+          "carrot",
           "spread",
-          "add"
+          "evenly",
+          "roll",
+          "add",
+          "hummus",
+          "pepper",
+          "tortilla",
+          "lentil",
+          "lay",
+          "cucumber",
+          "bell"
         ]
       }
     },
@@ -8311,35 +8311,35 @@
           "spinach"
         ],
         "nouns": [
-          "breast",
-          "carrot",
-          "hummus",
+          "slice",
           "wheat",
-          "baby",
           "cup",
+          "carrot",
+          "baby",
+          "breast",
           "spinach",
           "turkey",
-          "tortilla",
-          "slice"
+          "hummus",
+          "tortilla"
         ],
         "verbs": [
           "shred"
         ],
         "lemmas": [
-          "breast",
-          "carrot",
-          "hummus",
-          "wheat",
-          "baby",
-          "1/4",
-          "cup",
-          "spinach",
-          "1",
-          "turkey",
-          "shred",
-          "tortilla",
           "slice",
-          "4"
+          "wheat",
+          "cup",
+          "carrot",
+          "shred",
+          "breast",
+          "baby",
+          "spinach",
+          "4",
+          "turkey",
+          "hummus",
+          "1/4",
+          "tortilla",
+          "1"
         ]
       }
     },
@@ -8391,35 +8391,35 @@
           "half"
         ],
         "nouns": [
-          "carrot",
-          "hummus",
           "half",
+          "carrot",
           "spinach",
           "turkey",
+          "hummus",
           "tortilla"
         ],
         "verbs": [
-          "lay",
+          "slice",
           "roll",
           "spread",
           "add",
-          "slice"
+          "lay"
         ],
         "lemmas": [
+          "slice",
+          "half",
+          "flat",
           "tightly",
           "carrot",
-          "hummus",
-          "lay",
-          "flat",
-          "roll",
-          "half",
-          "slice",
           "spinach",
-          "turkey",
-          "tortilla",
-          "evenly",
           "spread",
-          "add"
+          "evenly",
+          "roll",
+          "turkey",
+          "add",
+          "hummus",
+          "tortilla",
+          "lay"
         ]
       }
     }
