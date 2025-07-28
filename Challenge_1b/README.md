@@ -32,6 +32,12 @@ This system processes multiple collections of PDFs to semantically extract and r
 ### 🔧 Step 1: Build Docker Image
 
 ```bash
+docker build -t semantic-matcher .
+```
+
+or
+
+```bash
 DOCKER_BUILDKIT=0 docker build -t semantic-matcher .
 ```
 

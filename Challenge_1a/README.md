@@ -65,6 +65,10 @@ This makes the system robust to unstructured, scanned, or inconsistent PDF forma
 ```bash
 docker build --platform linux/amd64 -t pdf-outline-extractor .
 ```
+or
+```bash
+DOCKER_BUILDKIT=0 docker build --platform linux/amd64 -t pdf-outline-extractor .
+```
 
 ### 🚀 Run PDF Processor
 

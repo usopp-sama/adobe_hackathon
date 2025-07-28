@@ -306,4 +306,3 @@ def extract_document_outline(pdf_path: Path) -> dict:
         "toc": toc,
         "outline": outline
     }
-
