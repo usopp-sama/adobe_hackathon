@@ -93,6 +93,42 @@ Challenge_1a/
 └── README.md                   # Project documentation (this file)
 ```
 
+---
+
+## 🧠 Why Extract Keywords, Semantics, Lemmas, Verbs & Nouns?
+
+Challenge 1A is designed to extract structured outlines from PDFs, but this project goes further by **embedding semantic intelligence** into the extracted sections.
+
+### 🔍 Why Extract This Information?
+
+| Feature      | Purpose                                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| **Keywords** | Capture the essence of each section using unsupervised techniques like YAKE. Helps in identifying core concepts. |
+| **Nouns**    | Reveal entities, topics, and subjects being discussed—crucial for content classification.                        |
+| **Verbs**    | Indicate actions and processes, helping understand what is being done in a section.                              |
+| **Lemmas**   | Provide normalized root forms of words for better semantic comparison and search.                                |
+| **Tokens**   | Help in building embeddings, scoring similarity, and enabling NLP-powered ranking tasks.                         |
+
+---
+
+### 🚀 How This Supports Challenge 1B
+
+Challenge 1B focuses on **semantic matching between task descriptions and relevant PDF sections**.
+
+To enable this:
+
+* The output of Challenge 1A becomes the **input for semantic matching** in 1B.
+* Richly annotated sections (with nouns, verbs, lemmas, and keywords) allow us to:
+
+  * Perform **task-aware matching** using semantic similarity.
+  * Compute **document relevance scores**.
+  * Generate **summaries** aligned with a user's task or persona.
+  * Enable fine-grained filters like “only find procedural sections” or “extract places or food names.”
+
+This design turns the system into not just a structural extractor, but a **semantic foundation** for downstream NLP applications in document understanding.
+
+---
+
 ## 👥 Authors
 
 * **Anagh Verma**
