@@ -1,0 +1,8319 @@
+{
+  "title": "Breakfast Ideas",
+  "toc": [],
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Pancakes",
+      "page": 2,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 2,
+      "paragraphs": [
+        "-",
+        "1 cup all-purpose flour",
+        "-",
+        "2 tablespoons sugar",
+        "-",
+        "1 teaspoon baking powder",
+        "-",
+        "1/2 teaspoon baking soda",
+        "-",
+        "1/4 teaspoon salt",
+        "-",
+        "1 cup buttermilk",
+        "-",
+        "1 large egg",
+        "-",
+        "2 tablespoons melted butter",
+        "-",
+        "1 teaspoon vanilla extract"
+      ],
+      "keywords": [
+        "teaspoon baking powder",
+        "teaspoon baking soda",
+        "teaspoon vanilla extract",
+        "cup all-purpose flour",
+        "tablespoons melted butter",
+        "teaspoon salt",
+        "tablespoons sugar",
+        "cup buttermilk",
+        "large egg"
+      ],
+      "sentences": [
+        "1 cup all-purpose flour 2 tablespoons sugar 1 teaspoon baking powder 1/2 teaspoon baking soda 1/4 teaspoon salt 1 cup buttermilk 1 large egg 2 tablespoons melted butter 1 teaspoon vanilla extract"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "cup",
+          "purpose",
+          "flour",
+          "2",
+          "tablespoons",
+          "sugar",
+          "1",
+          "teaspoon",
+          "baking",
+          "powder",
+          "1/2",
+          "teaspoon",
+          "baking",
+          "soda",
+          "1/4",
+          "teaspoon",
+          "salt",
+          "1",
+          "cup",
+          "buttermilk",
+          "1",
+          "large",
+          "egg",
+          "2",
+          "tablespoons",
+          "melted",
+          "butter",
+          "1",
+          "teaspoon",
+          "vanilla",
+          "extract"
+        ],
+        "nouns": [
+          "soda",
+          "egg",
+          "cup",
+          "powder",
+          "buttermilk",
+          "flour",
+          "butter",
+          "vanilla",
+          "extract",
+          "purpose",
+          "salt",
+          "teaspoon",
+          "tablespoon",
+          "sugar"
+        ],
+        "verbs": [
+          "bake",
+          "melt"
+        ],
+        "lemmas": [
+          "cup",
+          "flour",
+          "bake",
+          "1",
+          "2",
+          "butter",
+          "buttermilk",
+          "vanilla",
+          "1/2",
+          "extract",
+          "melt",
+          "soda",
+          "large",
+          "purpose",
+          "salt",
+          "teaspoon",
+          "sugar",
+          "egg",
+          "powder",
+          "1/4",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 2,
+      "paragraphs": [
+        "-",
+        "In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+        "-",
+        "In another bowl, combine buttermilk, egg, melted butter, and vanilla extract.",
+        "-",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+        "-",
+        "Heat a non-stick skillet over medium heat and lightly grease it.",
+        "-",
+        "Pour 1/4 cup of batter onto the skillet for each pancake.",
+        "-",
+        "Cook until bubbles form on the surface, then flip and cook until golden brown.",
+        "-",
+        "Serve with syrup and your favorite toppings."
+      ],
+      "keywords": [
+        "baking powder",
+        "baking soda",
+        "whisk together flour",
+        "bowl",
+        "sugar",
+        "salt",
+        "combine buttermilk",
+        "melted butter",
+        "vanilla extract",
+        "pour"
+      ],
+      "sentences": [
+        "In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+        "In another bowl, combine buttermilk, egg, melted butter, and vanilla extract.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+        "Heat a non-stick skillet over medium heat and lightly grease it.",
+        "Pour 1/4 cup of batter onto the skillet for each pancake.",
+        "Cook until bubbles form on the surface, then flip and cook until golden brown.",
+        "Serve with syrup and your favorite toppings."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "whisk",
+          "flour",
+          "sugar",
+          "baking",
+          "powder",
+          "baking",
+          "soda",
+          "salt",
+          "bowl",
+          "combine",
+          "buttermilk",
+          "egg",
+          "melted",
+          "butter",
+          "vanilla",
+          "extract",
+          "Pour",
+          "wet",
+          "ingredients",
+          "dry",
+          "ingredients",
+          "stir",
+          "combined",
+          "Heat",
+          "non",
+          "stick",
+          "skillet",
+          "medium",
+          "heat",
+          "lightly",
+          "grease",
+          "Pour",
+          "1/4",
+          "cup",
+          "batter",
+          "skillet",
+          "pancake",
+          "Cook",
+          "bubbles",
+          "form",
+          "surface",
+          "flip",
+          "cook",
+          "golden",
+          "brown",
+          "Serve",
+          "syrup",
+          "favorite",
+          "toppings"
+        ],
+        "nouns": [
+          "form",
+          "surface",
+          "cup",
+          "flour",
+          "brown",
+          "bubble",
+          "batter",
+          "butter",
+          "buttermilk",
+          "vanilla",
+          "extract",
+          "soda",
+          "heat",
+          "skillet",
+          "salt",
+          "sugar",
+          "egg",
+          "powder",
+          "syrup",
+          "ingredient",
+          "bowl",
+          "topping",
+          "pancake"
+        ],
+        "verbs": [
+          "combine",
+          "heat",
+          "whisk",
+          "flip",
+          "bake",
+          "cook",
+          "melt",
+          "serve",
+          "grease",
+          "stir",
+          "pour"
+        ],
+        "lemmas": [
+          "medium",
+          "form",
+          "surface",
+          "cup",
+          "flour",
+          "bake",
+          "brown",
+          "wet",
+          "serve",
+          "stick",
+          "pour",
+          "bubble",
+          "batter",
+          "golden",
+          "whisk",
+          "butter",
+          "buttermilk",
+          "flip",
+          "vanilla",
+          "extract",
+          "cook",
+          "melt",
+          "favorite",
+          "soda",
+          "combine",
+          "heat",
+          "skillet",
+          "salt",
+          "dry",
+          "grease",
+          "stir",
+          "sugar",
+          "egg",
+          "powder",
+          "Cook",
+          "syrup",
+          "ingredient",
+          "non",
+          "bowl",
+          "lightly",
+          "1/4",
+          "topping",
+          "pancake"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Scrambled Eggs",
+      "page": 2,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 2,
+      "paragraphs": [
+        "-",
+        "4 large eggs",
+        "-",
+        "1/4 cup milk",
+        "-",
+        "Salt and pepper to taste",
+        "-",
+        "1 tablespoon butter"
+      ],
+      "keywords": [
+        "cup milk salt",
+        "large eggs",
+        "tablespoon butter",
+        "salt and pepper",
+        "pepper to taste"
+      ],
+      "sentences": [
+        "4 large eggs 1/4 cup milk Salt and pepper to taste 1 tablespoon butter"
+      ],
+      "semantic": {
+        "tokens": [
+          "4",
+          "large",
+          "eggs",
+          "1/4",
+          "cup",
+          "milk",
+          "Salt",
+          "pepper",
+          "taste",
+          "1",
+          "tablespoon",
+          "butter"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "butter",
+          "milk",
+          "pepper",
+          "tablespoon"
+        ],
+        "verbs": [
+          "taste"
+        ],
+        "lemmas": [
+          "egg",
+          "cup",
+          "butter",
+          "large",
+          "Salt",
+          "4",
+          "milk",
+          "pepper",
+          "1/4",
+          "1",
+          "taste",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 2,
+      "paragraphs": [
+        "-",
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "-",
+        "Heat a non-stick skillet over medium heat and melt the butter.",
+        "-",
+        "Pour the egg mixture into the skillet.",
+        "-",
+        "Cook, stirring gently, until the eggs are set but still soft.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "milk",
+        "salt",
+        "bowl",
+        "pepper",
+        "whisk together eggs",
+        "melt the butter",
+        "medium heat",
+        "non-stick skillet",
+        "stirring gently",
+        "egg mixture"
+      ],
+      "sentences": [
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "Heat a non-stick skillet over medium heat and melt the butter.",
+        "Pour the egg mixture into the skillet.",
+        "Cook, stirring gently, until the eggs are set but still soft.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "whisk",
+          "eggs",
+          "milk",
+          "salt",
+          "pepper",
+          "Heat",
+          "non",
+          "stick",
+          "skillet",
+          "medium",
+          "heat",
+          "melt",
+          "butter",
+          "Pour",
+          "egg",
+          "mixture",
+          "skillet",
+          "Cook",
+          "stirring",
+          "gently",
+          "eggs",
+          "set",
+          "soft",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "egg",
+          "heat",
+          "butter",
+          "skillet",
+          "mixture",
+          "milk",
+          "bowl",
+          "salt",
+          "pepper"
+        ],
+        "verbs": [
+          "heat",
+          "whisk",
+          "set",
+          "melt",
+          "serve",
+          "stir",
+          "pour"
+        ],
+        "lemmas": [
+          "medium",
+          "milk",
+          "serve",
+          "stick",
+          "pour",
+          "whisk",
+          "butter",
+          "set",
+          "melt",
+          "gently",
+          "heat",
+          "skillet",
+          "mixture",
+          "salt",
+          "pepper",
+          "stir",
+          "soft",
+          "egg",
+          "Cook",
+          "non",
+          "bowl",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "French Toast",
+      "page": 2,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 2,
+      "paragraphs": [
+        "-",
+        "4 slices of bread",
+        "-",
+        "2 large eggs",
+        "-",
+        "1/2 cup milk",
+        "-",
+        "1 teaspoon vanilla extract"
+      ],
+      "keywords": [
+        "teaspoon vanilla extract",
+        "slices of bread",
+        "large eggs",
+        "cup milk"
+      ],
+      "sentences": [
+        "4 slices of bread 2 large eggs 1/2 cup milk 1 teaspoon vanilla extract"
+      ],
+      "semantic": {
+        "tokens": [
+          "4",
+          "slices",
+          "bread",
+          "2",
+          "large",
+          "eggs",
+          "1/2",
+          "cup",
+          "milk",
+          "1",
+          "teaspoon",
+          "vanilla",
+          "extract"
+        ],
+        "nouns": [
+          "slice",
+          "egg",
+          "bread",
+          "cup",
+          "vanilla",
+          "extract",
+          "milk",
+          "teaspoon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "slice",
+          "egg",
+          "bread",
+          "2",
+          "cup",
+          "large",
+          "1/2",
+          "vanilla",
+          "extract",
+          "4",
+          "milk",
+          "teaspoon",
+          "1"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 3,
+      "paragraphs": [
+        "1/2 teaspoon ground cinnamon"
+      ],
+      "keywords": [
+        "teaspoon ground cinnamon"
+      ],
+      "sentences": [
+        "1/2 teaspoon ground cinnamon"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/2",
+          "teaspoon",
+          "ground",
+          "cinnamon"
+        ],
+        "nouns": [
+          "ground",
+          "teaspoon",
+          "cinnamon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "ground",
+          "1/2",
+          "teaspoon",
+          "cinnamon"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 3,
+      "paragraphs": [
+        "1 tablespoon butter"
+      ],
+      "keywords": [
+        "tablespoon butter"
+      ],
+      "sentences": [
+        "1 tablespoon butter"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "tablespoon",
+          "butter"
+        ],
+        "nouns": [
+          "butter",
+          "tablespoon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "1",
+          "butter",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 3,
+      "paragraphs": [
+        "-",
+        "In a shallow dish, whisk together eggs, milk, vanilla extract, and cinnamon.",
+        "-",
+        "Dip each slice of bread into the egg mixture, coating both sides.",
+        "-",
+        "Heat a non-stick skillet over medium heat and melt the butter.",
+        "-",
+        "Cook the bread slices until golden brown on both sides.",
+        "-",
+        "Serve with syrup and powdered sugar."
+      ],
+      "keywords": [
+        "vanilla extract",
+        "shallow dish",
+        "milk",
+        "whisk together eggs",
+        "coating both sides",
+        "cinnamon",
+        "egg mixture",
+        "heat",
+        "melt the butter",
+        "cook"
+      ],
+      "sentences": [
+        "In a shallow dish, whisk together eggs, milk, vanilla extract, and cinnamon.",
+        "Dip each slice of bread into the egg mixture, coating both sides.",
+        "Heat a non-stick skillet over medium heat and melt the butter.",
+        "Cook the bread slices until golden brown on both sides.",
+        "Serve with syrup and powdered sugar."
+      ],
+      "semantic": {
+        "tokens": [
+          "shallow",
+          "dish",
+          "whisk",
+          "eggs",
+          "milk",
+          "vanilla",
+          "extract",
+          "cinnamon",
+          "Dip",
+          "slice",
+          "bread",
+          "egg",
+          "mixture",
+          "coating",
+          "sides",
+          "Heat",
+          "non",
+          "stick",
+          "skillet",
+          "medium",
+          "heat",
+          "melt",
+          "butter",
+          "Cook",
+          "bread",
+          "slices",
+          "golden",
+          "brown",
+          "sides",
+          "Serve",
+          "syrup",
+          "powdered",
+          "sugar"
+        ],
+        "nouns": [
+          "egg",
+          "slice",
+          "heat",
+          "bread",
+          "butter",
+          "vanilla",
+          "dish",
+          "extract",
+          "mixture",
+          "skillet",
+          "milk",
+          "brown",
+          "syrup",
+          "cinnamon",
+          "side",
+          "sugar"
+        ],
+        "verbs": [
+          "heat",
+          "whisk",
+          "cook",
+          "coat",
+          "melt",
+          "serve"
+        ],
+        "lemmas": [
+          "medium",
+          "milk",
+          "brown",
+          "coat",
+          "serve",
+          "stick",
+          "golden",
+          "bread",
+          "whisk",
+          "butter",
+          "cook",
+          "vanilla",
+          "extract",
+          "melt",
+          "slice",
+          "heat",
+          "powdered",
+          "skillet",
+          "mixture",
+          "shallow",
+          "sugar",
+          "egg",
+          "dip",
+          "dish",
+          "syrup",
+          "non",
+          "cinnamon",
+          "side"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Smoothie Bowl",
+      "page": 3,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 3,
+      "paragraphs": [
+        "-",
+        "1 banana",
+        "-",
+        "1/2 cup frozen berries",
+        "-",
+        "1/2 cup Greek yogurt",
+        "-",
+        "1/4 cup milk",
+        "-",
+        "Toppings: granola, fresh fruit, nuts, seeds"
+      ],
+      "keywords": [
+        "cup greek yogurt",
+        "cup milk toppings",
+        "cup frozen berries",
+        "fresh fruit",
+        "banana",
+        "granola",
+        "nuts",
+        "seeds"
+      ],
+      "sentences": [
+        "1 banana 1/2 cup frozen berries 1/2 cup Greek yogurt 1/4 cup milk Toppings: granola, fresh fruit, nuts, seeds"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "banana",
+          "1/2",
+          "cup",
+          "frozen",
+          "berries",
+          "1/2",
+          "cup",
+          "Greek",
+          "yogurt",
+          "1/4",
+          "cup",
+          "milk",
+          "Toppings",
+          "granola",
+          "fresh",
+          "fruit",
+          "nuts",
+          "seeds"
+        ],
+        "nouns": [
+          "cup",
+          "nut",
+          "banana",
+          "milk",
+          "yogurt",
+          "topping",
+          "berry",
+          "fruit",
+          "seed"
+        ],
+        "verbs": [
+          "freeze"
+        ],
+        "lemmas": [
+          "cup",
+          "nut",
+          "granola",
+          "1/2",
+          "banana",
+          "milk",
+          "yogurt",
+          "topping",
+          "Greek",
+          "fruit",
+          "1/4",
+          "berry",
+          "1",
+          "fresh",
+          "freeze",
+          "seed"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 3,
+      "paragraphs": [
+        "-",
+        "In a blender, combine banana, frozen berries, Greek yogurt, and milk.",
+        "-",
+        "Blend until smooth.",
+        "-",
+        "Pour into a bowl and top with granola, fresh fruit, nuts, and seeds."
+      ],
+      "keywords": [
+        "greek yogurt",
+        "combine banana",
+        "frozen berries",
+        "blend until smooth",
+        "blender",
+        "milk",
+        "fresh fruit",
+        "top with granola",
+        "nuts",
+        "bowl and top"
+      ],
+      "sentences": [
+        "In a blender, combine banana, frozen berries, Greek yogurt, and milk.",
+        "Blend until smooth.",
+        "Pour into a bowl and top with granola, fresh fruit, nuts, and seeds."
+      ],
+      "semantic": {
+        "tokens": [
+          "blender",
+          "combine",
+          "banana",
+          "frozen",
+          "berries",
+          "Greek",
+          "yogurt",
+          "milk",
+          "Blend",
+          "smooth",
+          "Pour",
+          "bowl",
+          "granola",
+          "fresh",
+          "fruit",
+          "nuts",
+          "seeds"
+        ],
+        "nouns": [
+          "nut",
+          "blender",
+          "milk",
+          "yogurt",
+          "bowl",
+          "berry",
+          "fruit",
+          "seed"
+        ],
+        "verbs": [
+          "pour",
+          "combine",
+          "blend"
+        ],
+        "lemmas": [
+          "combine",
+          "seed",
+          "blend",
+          "nut",
+          "blender",
+          "smooth",
+          "banana",
+          "milk",
+          "yogurt",
+          "bowl",
+          "Greek",
+          "pour",
+          "berry",
+          "granola",
+          "fresh",
+          "fruit",
+          "frozen"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Avocado Toast",
+      "page": 3,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 3,
+      "paragraphs": [
+        "-",
+        "2 slices of bread",
+        "-",
+        "1 ripe avocado",
+        "-",
+        "Salt and pepper to taste",
+        "-",
+        "Optional toppings: cherry tomatoes, red pepper flakes, poached egg"
+      ],
+      "keywords": [
+        "ripe avocado salt",
+        "taste optional toppings",
+        "red pepper flakes",
+        "slices of bread",
+        "cherry tomatoes",
+        "poached egg",
+        "salt and pepper",
+        "pepper to taste"
+      ],
+      "sentences": [
+        "2 slices of bread 1 ripe avocado Salt and pepper to taste Optional toppings: cherry tomatoes, red pepper flakes, poached egg"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "slices",
+          "bread",
+          "1",
+          "ripe",
+          "avocado",
+          "Salt",
+          "pepper",
+          "taste",
+          "Optional",
+          "toppings",
+          "cherry",
+          "tomatoes",
+          "red",
+          "pepper",
+          "flakes",
+          "poached",
+          "egg"
+        ],
+        "nouns": [
+          "slice",
+          "egg",
+          "avocado",
+          "bread",
+          "tomato",
+          "flake",
+          "cherry",
+          "pepper",
+          "topping"
+        ],
+        "verbs": [
+          "taste",
+          "poach"
+        ],
+        "lemmas": [
+          "slice",
+          "egg",
+          "avocado",
+          "bread",
+          "2",
+          "red",
+          "tomato",
+          "Salt",
+          "optional",
+          "flake",
+          "cherry",
+          "pepper",
+          "ripe",
+          "topping",
+          "1",
+          "taste",
+          "poach"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 3,
+      "paragraphs": [
+        "-",
+        "Toast the bread slices.",
+        "-",
+        "Mash the avocado in a bowl and season with salt and pepper.",
+        "-",
+        "Spread the mashed avocado on the toast.",
+        "-",
+        "Add optional toppings if desired."
+      ],
+      "keywords": [
+        "bread slices",
+        "toast the bread",
+        "salt and pepper",
+        "bowl and season",
+        "season with salt",
+        "spread the mashed",
+        "mashed avocad",
+        "mash the avocad",
+        "add optional toppings",
+        "toppings if desired"
+      ],
+      "sentences": [
+        "Toast the bread slices.",
+        "Mash the avocado in a bowl and season with salt and pepper.",
+        "Spread the mashed avocado on the toast.",
+        "Add optional toppings if desired."
+      ],
+      "semantic": {
+        "tokens": [
+          "Toast",
+          "bread",
+          "slices",
+          "Mash",
+          "avocado",
+          "bowl",
+          "season",
+          "salt",
+          "pepper",
+          "Spread",
+          "mashed",
+          "avocado",
+          "toast",
+          "Add",
+          "optional",
+          "toppings",
+          "desired"
+        ],
+        "nouns": [
+          "slice",
+          "avocado",
+          "mash",
+          "bread",
+          "toast",
+          "bowl",
+          "salt",
+          "pepper",
+          "topping",
+          "season"
+        ],
+        "verbs": [
+          "desire",
+          "toast",
+          "add",
+          "spread"
+        ],
+        "lemmas": [
+          "slice",
+          "avocado",
+          "mash",
+          "toast",
+          "bread",
+          "optional",
+          "spread",
+          "bowl",
+          "salt",
+          "add",
+          "desire",
+          "pepper",
+          "mashed",
+          "topping",
+          "season"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Burrito",
+      "page": 3,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 3,
+      "paragraphs": [
+        "-",
+        "2 large eggs",
+        "-",
+        "1/4 cup shredded cheese"
+      ],
+      "keywords": [
+        "cup shredded cheese",
+        "large eggs"
+      ],
+      "sentences": [
+        "2 large eggs 1/4 cup shredded cheese"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "large",
+          "eggs",
+          "1/4",
+          "cup",
+          "shredded",
+          "cheese"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "cheese"
+        ],
+        "verbs": [
+          "shred"
+        ],
+        "lemmas": [
+          "egg",
+          "cup",
+          "2",
+          "large",
+          "cheese",
+          "1/4",
+          "shred"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 4,
+      "paragraphs": [
+        "1/4 cup cooked sausage or bacon"
+      ],
+      "keywords": [
+        "cup cooked sausage",
+        "sausage or bacon"
+      ],
+      "sentences": [
+        "1/4 cup cooked sausage or bacon"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/4",
+          "cup",
+          "cooked",
+          "sausage",
+          "bacon"
+        ],
+        "nouns": [
+          "cup",
+          "sausage",
+          "bacon"
+        ],
+        "verbs": [
+          "cook"
+        ],
+        "lemmas": [
+          "cup",
+          "cook",
+          "sausage",
+          "1/4",
+          "bacon"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 4,
+      "paragraphs": [
+        "1/4 cup diced bell pepper"
+      ],
+      "keywords": [
+        "cup diced bell",
+        "diced bell pepper"
+      ],
+      "sentences": [
+        "1/4 cup diced bell pepper"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/4",
+          "cup",
+          "diced",
+          "bell",
+          "pepper"
+        ],
+        "nouns": [
+          "pepper",
+          "cup",
+          "bell"
+        ],
+        "verbs": [
+          "dice"
+        ],
+        "lemmas": [
+          "cup",
+          "dice",
+          "pepper",
+          "1/4",
+          "bell"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 4,
+      "paragraphs": [
+        "1/4 cup diced onion"
+      ],
+      "keywords": [
+        "cup diced onion"
+      ],
+      "sentences": [
+        "1/4 cup diced onion"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/4",
+          "cup",
+          "diced",
+          "onion"
+        ],
+        "nouns": [
+          "onion",
+          "cup"
+        ],
+        "verbs": [
+          "dice"
+        ],
+        "lemmas": [
+          "onion",
+          "dice",
+          "cup",
+          "1/4"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 4,
+      "paragraphs": [
+        "1 large flour tortilla"
+      ],
+      "keywords": [
+        "large flour tortilla"
+      ],
+      "sentences": [
+        "1 large flour tortilla"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "large",
+          "flour",
+          "tortilla"
+        ],
+        "nouns": [
+          "flour",
+          "tortilla"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "flour",
+          "large",
+          "1",
+          "tortilla"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 4,
+      "paragraphs": [
+        "Salsa for serving"
+      ],
+      "keywords": [
+        "salsa for serving"
+      ],
+      "sentences": [
+        "Salsa for serving"
+      ],
+      "semantic": {
+        "tokens": [
+          "Salsa",
+          "serving"
+        ],
+        "nouns": [],
+        "verbs": [
+          "serve",
+          "salsa"
+        ],
+        "lemmas": [
+          "serve",
+          "salsa"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 4,
+      "paragraphs": [
+        "-",
+        "In a bowl, whisk the eggs and cook them in a skillet over medium heat.",
+        "-",
+        "Add cheese, sausage or bacon, bell pepper, and onion to the eggs.",
+        "-",
+        "Cook until the eggs are set and the vegetables are tender.",
+        "-",
+        "Place the egg mixture in the center of the tortilla and roll it up.",
+        "-",
+        "Serve with salsa."
+      ],
+      "keywords": [
+        "medium heat",
+        "skillet over medium",
+        "whisk the eggs",
+        "bowl",
+        "add cheese",
+        "sausage or bacon",
+        "bell pepper",
+        "place the egg",
+        "egg mixture",
+        "vegetables are tender"
+      ],
+      "sentences": [
+        "In a bowl, whisk the eggs and cook them in a skillet over medium heat.",
+        "Add cheese, sausage or bacon, bell pepper, and onion to the eggs.",
+        "Cook until the eggs are set and the vegetables are tender.",
+        "Place the egg mixture in the center of the tortilla and roll it up.",
+        "Serve with salsa."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "whisk",
+          "eggs",
+          "cook",
+          "skillet",
+          "medium",
+          "heat",
+          "Add",
+          "cheese",
+          "sausage",
+          "bacon",
+          "bell",
+          "pepper",
+          "onion",
+          "eggs",
+          "Cook",
+          "eggs",
+          "set",
+          "vegetables",
+          "tender",
+          "Place",
+          "egg",
+          "mixture",
+          "center",
+          "tortilla",
+          "roll",
+          "Serve",
+          "salsa"
+        ],
+        "nouns": [
+          "egg",
+          "heat",
+          "vegetable",
+          "skillet",
+          "sausage",
+          "mixture",
+          "center",
+          "bowl",
+          "onion",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bacon"
+        ],
+        "verbs": [
+          "set",
+          "whisk",
+          "cook",
+          "roll",
+          "place",
+          "serve",
+          "add"
+        ],
+        "lemmas": [
+          "medium",
+          "sausage",
+          "roll",
+          "center",
+          "serve",
+          "bacon",
+          "whisk",
+          "set",
+          "cook",
+          "vegetable",
+          "onion",
+          "heat",
+          "skillet",
+          "mixture",
+          "tender",
+          "place",
+          "add",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "salsa",
+          "egg",
+          "Cook",
+          "bowl"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Oatmeal",
+      "page": 4,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 4,
+      "paragraphs": [
+        "-",
+        "1 cup rolled oats",
+        "-",
+        "2 cups water or milk",
+        "-",
+        "1/4 teaspoon salt",
+        "-",
+        "Toppings: fresh fruit, nuts, honey, cinnamon"
+      ],
+      "keywords": [
+        "teaspoon salt toppings",
+        "cup rolled oats",
+        "fresh fruit",
+        "water or milk",
+        "cups water",
+        "nuts",
+        "honey",
+        "cinnamon"
+      ],
+      "sentences": [
+        "1 cup rolled oats 2 cups water or milk 1/4 teaspoon salt Toppings: fresh fruit, nuts, honey, cinnamon"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "cup",
+          "rolled",
+          "oats",
+          "2",
+          "cups",
+          "water",
+          "milk",
+          "1/4",
+          "teaspoon",
+          "salt",
+          "Toppings",
+          "fresh",
+          "fruit",
+          "nuts",
+          "honey",
+          "cinnamon"
+        ],
+        "nouns": [
+          "cup",
+          "nut",
+          "milk",
+          "water",
+          "salt",
+          "teaspoon",
+          "honey",
+          "topping",
+          "fruit",
+          "oat"
+        ],
+        "verbs": [
+          "roll"
+        ],
+        "lemmas": [
+          "cup",
+          "2",
+          "nut",
+          "roll",
+          "milk",
+          "water",
+          "salt",
+          "teaspoon",
+          "cinnamon",
+          "honey",
+          "1/4",
+          "topping",
+          "1",
+          "fresh",
+          "fruit",
+          "oat"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 4,
+      "paragraphs": [
+        "-",
+        "In a saucepan, bring water or milk to a boil.",
+        "-",
+        "Add oats and salt, reduce heat to low, and simmer for 5 minutes, stirring occasionally.",
+        "-",
+        "Remove from heat and let sit for a few minutes.",
+        "-",
+        "Serve with your favorite toppings."
+      ],
+      "keywords": [
+        "bring water",
+        "water or milk",
+        "saucepan",
+        "boil",
+        "stirring occasionally",
+        "minutes",
+        "add oats",
+        "ats and salt",
+        "reduce heat",
+        "heat to low"
+      ],
+      "sentences": [
+        "In a saucepan, bring water or milk to a boil.",
+        "Add oats and salt, reduce heat to low, and simmer for 5 minutes, stirring occasionally.",
+        "Remove from heat and let sit for a few minutes.",
+        "Serve with your favorite toppings."
+      ],
+      "semantic": {
+        "tokens": [
+          "saucepan",
+          "bring",
+          "water",
+          "milk",
+          "boil",
+          "Add",
+          "oats",
+          "salt",
+          "reduce",
+          "heat",
+          "low",
+          "simmer",
+          "5",
+          "minutes",
+          "stirring",
+          "occasionally",
+          "Remove",
+          "heat",
+          "let",
+          "sit",
+          "minutes",
+          "Serve",
+          "favorite",
+          "toppings"
+        ],
+        "nouns": [
+          "saucepan",
+          "heat",
+          "milk",
+          "water",
+          "salt",
+          "minute",
+          "topping",
+          "boil",
+          "oat"
+        ],
+        "verbs": [
+          "let",
+          "sit",
+          "reduce",
+          "bring",
+          "remove",
+          "simmer",
+          "serve",
+          "add",
+          "stir",
+          "low"
+        ],
+        "lemmas": [
+          "saucepan",
+          "reduce",
+          "milk",
+          "minute",
+          "serve",
+          "low",
+          "boil",
+          "occasionally",
+          "let",
+          "sit",
+          "favorite",
+          "5",
+          "heat",
+          "remove",
+          "water",
+          "salt",
+          "add",
+          "stir",
+          "bring",
+          "simmer",
+          "topping",
+          "oat"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Yogurt Parfait",
+      "page": 4,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 4,
+      "paragraphs": [
+        "-",
+        "1 cup Greek yogurt",
+        "-",
+        "1/2 cup granola",
+        "-",
+        "1/2 cup fresh berries",
+        "-",
+        "Honey for drizzling"
+      ],
+      "keywords": [
+        "cup greek yogurt",
+        "fresh berries honey",
+        "cup fresh berries",
+        "honey for drizzling",
+        "cup granola"
+      ],
+      "sentences": [
+        "1 cup Greek yogurt 1/2 cup granola 1/2 cup fresh berries Honey for drizzling"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "cup",
+          "Greek",
+          "yogurt",
+          "1/2",
+          "cup",
+          "granola",
+          "1/2",
+          "cup",
+          "fresh",
+          "berries",
+          "Honey",
+          "drizzling"
+        ],
+        "nouns": [
+          "berry",
+          "cup"
+        ],
+        "verbs": [
+          "drizzle"
+        ],
+        "lemmas": [
+          "cup",
+          "granola",
+          "1/2",
+          "drizzle",
+          "yogurt",
+          "Greek",
+          "Honey",
+          "berry",
+          "1",
+          "fresh"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 4,
+      "paragraphs": [
+        "-",
+        "In a glass or bowl, layer Greek yogurt, granola, and fresh berries.",
+        "-",
+        "Drizzle with honey.",
+        "-",
+        "Repeat layers if desired."
+      ],
+      "keywords": [
+        "layer greek yogurt",
+        "glass or bowl",
+        "fresh berries",
+        "granola",
+        "drizzle with honey",
+        "repeat layers",
+        "layers if desired"
+      ],
+      "sentences": [
+        "In a glass or bowl, layer Greek yogurt, granola, and fresh berries.",
+        "Drizzle with honey.",
+        "Repeat layers if desired."
+      ],
+      "semantic": {
+        "tokens": [
+          "glass",
+          "bowl",
+          "layer",
+          "Greek",
+          "yogurt",
+          "granola",
+          "fresh",
+          "berries",
+          "Drizzle",
+          "honey",
+          "Repeat",
+          "layers",
+          "desired"
+        ],
+        "nouns": [
+          "layer",
+          "bowl",
+          "honey",
+          "glass",
+          "berry"
+        ],
+        "verbs": [
+          "desire",
+          "repeat"
+        ],
+        "lemmas": [
+          "layer",
+          "yogurt",
+          "bowl",
+          "Greek",
+          "Drizzle",
+          "desire",
+          "honey",
+          "glass",
+          "berry",
+          "granola",
+          "fresh",
+          "repeat"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Sandwich",
+      "page": 5,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 5,
+      "paragraphs": [
+        "-",
+        "1 English muffin, split and toasted",
+        "-",
+        "1 large egg",
+        "-",
+        "1 slice of cheese",
+        "-",
+        "1 slice of ham or bacon",
+        "-",
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "english muffin",
+        "slice of cheese",
+        "slice of ham",
+        "split and toasted",
+        "large egg",
+        "bacon salt",
+        "salt and pepper",
+        "pepper to taste",
+        "ham or bacon"
+      ],
+      "sentences": [
+        "1 English muffin, split and toasted 1 large egg 1 slice of cheese 1 slice of ham or bacon Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "English",
+          "muffin",
+          "split",
+          "toasted",
+          "1",
+          "large",
+          "egg",
+          "1",
+          "slice",
+          "cheese",
+          "1",
+          "slice",
+          "ham",
+          "bacon",
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "egg",
+          "slice",
+          "muffin",
+          "cheese",
+          "pepper",
+          "bacon",
+          "ham"
+        ],
+        "verbs": [
+          "toast",
+          "taste",
+          "split"
+        ],
+        "lemmas": [
+          "egg",
+          "slice",
+          "toast",
+          "english",
+          "muffin",
+          "large",
+          "Salt",
+          "taste",
+          "cheese",
+          "split",
+          "pepper",
+          "1",
+          "bacon",
+          "ham"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 5,
+      "paragraphs": [
+        "-",
+        "Cook the egg in a skillet over medium heat, seasoning with salt and pepper.",
+        "-",
+        "Place the cheese on top of the egg to melt.",
+        "-",
+        "Assemble the sandwich with the egg, cheese, and ham or bacon between the English",
+        "muffin halves."
+      ],
+      "keywords": [
+        "medium heat",
+        "seasoning with salt",
+        "salt and pepper",
+        "skillet over medium",
+        "cook the egg",
+        "english muffin halves",
+        "egg to melt",
+        "assemble the sandwich",
+        "place the cheese",
+        "ham or bacon"
+      ],
+      "sentences": [
+        "Cook the egg in a skillet over medium heat, seasoning with salt and pepper.",
+        "Place the cheese on top of the egg to melt.",
+        "Assemble the sandwich with the egg, cheese, and ham or bacon between the English muffin halves."
+      ],
+      "semantic": {
+        "tokens": [
+          "Cook",
+          "egg",
+          "skillet",
+          "medium",
+          "heat",
+          "seasoning",
+          "salt",
+          "pepper",
+          "Place",
+          "cheese",
+          "egg",
+          "melt",
+          "Assemble",
+          "sandwich",
+          "egg",
+          "cheese",
+          "ham",
+          "bacon",
+          "English",
+          "muffin",
+          "halves"
+        ],
+        "nouns": [
+          "egg",
+          "half",
+          "heat",
+          "muffin",
+          "skillet",
+          "sandwich",
+          "salt",
+          "cheese",
+          "pepper",
+          "bacon"
+        ],
+        "verbs": [
+          "assemble",
+          "cook",
+          "melt",
+          "place",
+          "season"
+        ],
+        "lemmas": [
+          "egg",
+          "medium",
+          "heat",
+          "half",
+          "cook",
+          "assemble",
+          "muffin",
+          "skillet",
+          "sandwich",
+          "English",
+          "salt",
+          "place",
+          "cheese",
+          "melt",
+          "pepper",
+          "season",
+          "bacon",
+          "ham"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Chia Pudding",
+      "page": 5,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 5,
+      "paragraphs": [
+        "-",
+        "1/4 cup chia seeds",
+        "-",
+        "1 cup almond milk",
+        "-",
+        "1 tablespoon honey or maple syrup",
+        "-",
+        "1/2 teaspoon vanilla extract",
+        "-",
+        "Toppings: fresh fruit, nuts, coconut flakes"
+      ],
+      "keywords": [
+        "vanilla extract toppings",
+        "cup chia seeds",
+        "cup almond milk",
+        "teaspoon vanilla extract",
+        "fresh fruit",
+        "coconut flakes",
+        "tablespoon honey",
+        "maple syrup",
+        "honey or maple",
+        "nuts"
+      ],
+      "sentences": [
+        "1/4 cup chia seeds 1 cup almond milk 1 tablespoon honey or maple syrup 1/2 teaspoon vanilla extract Toppings: fresh fruit, nuts, coconut flakes"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/4",
+          "cup",
+          "chia",
+          "seeds",
+          "1",
+          "cup",
+          "almond",
+          "milk",
+          "1",
+          "tablespoon",
+          "honey",
+          "maple",
+          "syrup",
+          "1/2",
+          "teaspoon",
+          "vanilla",
+          "extract",
+          "Toppings",
+          "fresh",
+          "fruit",
+          "nuts",
+          "coconut",
+          "flakes"
+        ],
+        "nouns": [
+          "cup",
+          "nut",
+          "vanilla",
+          "flake",
+          "syrup",
+          "coconut",
+          "milk",
+          "maple",
+          "teaspoon",
+          "honey",
+          "topping",
+          "almond",
+          "fruit",
+          "tablespoon"
+        ],
+        "verbs": [
+          "extract",
+          "seed"
+        ],
+        "lemmas": [
+          "cup",
+          "milk",
+          "maple",
+          "1",
+          "fresh",
+          "chia",
+          "vanilla",
+          "1/2",
+          "extract",
+          "flake",
+          "coconut",
+          "honey",
+          "almond",
+          "fruit",
+          "seed",
+          "teaspoon",
+          "nut",
+          "syrup",
+          "1/4",
+          "topping",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 5,
+      "paragraphs": [
+        "-",
+        "In a bowl, whisk together chia seeds, almond milk, honey or maple syrup, and vanilla",
+        "extract.",
+        "-",
+        "Cover and refrigerate for at least 4 hours or overnight.",
+        "-",
+        "Stir well before serving and top with your favorite toppings."
+      ],
+      "keywords": [
+        "almond milk",
+        "whisk together chia",
+        "chia seeds",
+        "honey or maple",
+        "maple syrup",
+        "vanilla extract",
+        "hours or overnight",
+        "bowl",
+        "cover and refrigerate",
+        "favorite toppings"
+      ],
+      "sentences": [
+        "In a bowl, whisk together chia seeds, almond milk, honey or maple syrup, and vanilla extract.",
+        "Cover and refrigerate for at least 4 hours or overnight.",
+        "Stir well before serving and top with your favorite toppings."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "whisk",
+          "chia",
+          "seeds",
+          "almond",
+          "milk",
+          "honey",
+          "maple",
+          "syrup",
+          "vanilla",
+          "extract",
+          "Cover",
+          "refrigerate",
+          "4",
+          "hours",
+          "overnight",
+          "Stir",
+          "serving",
+          "favorite",
+          "toppings"
+        ],
+        "nouns": [
+          "hour",
+          "vanilla",
+          "extract",
+          "syrup",
+          "milk",
+          "bowl",
+          "maple",
+          "honey",
+          "topping",
+          "cover"
+        ],
+        "verbs": [
+          "refrigerate",
+          "serve",
+          "whisk",
+          "stir"
+        ],
+        "lemmas": [
+          "milk",
+          "4",
+          "maple",
+          "serve",
+          "chia",
+          "whisk",
+          "vanilla",
+          "extract",
+          "seeds",
+          "favorite",
+          "honey",
+          "almond",
+          "hour",
+          "overnight",
+          "stir",
+          "refrigerate",
+          "cover",
+          "syrup",
+          "bowl",
+          "topping"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Quesadilla",
+      "page": 5,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 5,
+      "paragraphs": [
+        "-",
+        "1 large flour tortilla",
+        "-",
+        "2 large eggs",
+        "-",
+        "1/4 cup shredded cheese",
+        "-",
+        "1/4 cup cooked sausage or bacon",
+        "-",
+        "1/4 cup diced bell pepper",
+        "-",
+        "Salsa for serving"
+      ],
+      "keywords": [
+        "bell pepper salsa",
+        "large flour tortilla",
+        "cup shredded cheese",
+        "cup cooked sausage",
+        "cup diced bell",
+        "diced bell pepper",
+        "salsa for serving",
+        "large eggs",
+        "sausage or bacon"
+      ],
+      "sentences": [
+        "1 large flour tortilla 2 large eggs 1/4 cup shredded cheese 1/4 cup cooked sausage or bacon 1/4 cup diced bell pepper Salsa for serving"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "large",
+          "flour",
+          "tortilla",
+          "2",
+          "large",
+          "eggs",
+          "1/4",
+          "cup",
+          "shredded",
+          "cheese",
+          "1/4",
+          "cup",
+          "cooked",
+          "sausage",
+          "bacon",
+          "1/4",
+          "cup",
+          "diced",
+          "bell",
+          "pepper",
+          "Salsa",
+          "serving"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "flour",
+          "sausage",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "bacon"
+        ],
+        "verbs": [
+          "shred",
+          "dice",
+          "serve",
+          "cook"
+        ],
+        "lemmas": [
+          "egg",
+          "cup",
+          "2",
+          "cook",
+          "flour",
+          "large",
+          "shred",
+          "dice",
+          "sausage",
+          "Salsa",
+          "serve",
+          "cheese",
+          "pepper",
+          "1/4",
+          "tortilla",
+          "1",
+          "bell",
+          "bacon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 5,
+      "paragraphs": [
+        "-",
+        "In a bowl, whisk the eggs and cook them in a skillet over medium heat.",
+        "-",
+        "Add cheese, sausage or bacon, and bell pepper to the eggs.",
+        "-",
+        "Cook until the eggs are set and the vegetables are tender.",
+        "-",
+        "Place the egg mixture on one half of the tortilla and fold the other half over."
+      ],
+      "keywords": [
+        "medium heat",
+        "skillet over medium",
+        "whisk the eggs",
+        "bowl",
+        "add cheese",
+        "sausage or bacon",
+        "place the egg",
+        "egg mixture",
+        "bell pepper",
+        "half"
+      ],
+      "sentences": [
+        "In a bowl, whisk the eggs and cook them in a skillet over medium heat.",
+        "Add cheese, sausage or bacon, and bell pepper to the eggs.",
+        "Cook until the eggs are set and the vegetables are tender.",
+        "Place the egg mixture on one half of the tortilla and fold the other half over."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "whisk",
+          "eggs",
+          "cook",
+          "skillet",
+          "medium",
+          "heat",
+          "Add",
+          "cheese",
+          "sausage",
+          "bacon",
+          "bell",
+          "pepper",
+          "eggs",
+          "Cook",
+          "eggs",
+          "set",
+          "vegetables",
+          "tender",
+          "Place",
+          "egg",
+          "mixture",
+          "half",
+          "tortilla",
+          "fold",
+          "half"
+        ],
+        "nouns": [
+          "egg",
+          "half",
+          "heat",
+          "vegetable",
+          "skillet",
+          "sausage",
+          "mixture",
+          "bowl",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "bacon"
+        ],
+        "verbs": [
+          "set",
+          "whisk",
+          "cook",
+          "fold",
+          "place",
+          "add"
+        ],
+        "lemmas": [
+          "medium",
+          "half",
+          "sausage",
+          "bacon",
+          "whisk",
+          "set",
+          "cook",
+          "vegetable",
+          "fold",
+          "heat",
+          "skillet",
+          "mixture",
+          "tender",
+          "place",
+          "add",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "egg",
+          "Cook",
+          "bowl"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 6,
+      "paragraphs": [
+        "Cook in the skillet until the tortilla is golden brown and crispy."
+      ],
+      "keywords": [
+        "brown and crispy",
+        "tortilla is golden",
+        "golden brown",
+        "cook",
+        "skillet"
+      ],
+      "sentences": [
+        "Cook in the skillet until the tortilla is golden brown and crispy."
+      ],
+      "semantic": {
+        "tokens": [
+          "Cook",
+          "skillet",
+          "tortilla",
+          "golden",
+          "brown",
+          "crispy"
+        ],
+        "nouns": [
+          "tortilla",
+          "skillet",
+          "crispy"
+        ],
+        "verbs": [
+          "cook"
+        ],
+        "lemmas": [
+          "cook",
+          "skillet",
+          "crispy",
+          "brown",
+          "tortilla",
+          "golden"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 6,
+      "paragraphs": [
+        "Serve with salsa."
+      ],
+      "keywords": [
+        "serve with salsa"
+      ],
+      "sentences": [
+        "Serve with salsa."
+      ],
+      "semantic": {
+        "tokens": [
+          "Serve",
+          "salsa"
+        ],
+        "nouns": [],
+        "verbs": [
+          "serve"
+        ],
+        "lemmas": [
+          "serve",
+          "salsa"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Banana Bread",
+      "page": 6,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 6,
+      "paragraphs": [
+        "-",
+        "3 ripe bananas, mashed",
+        "-",
+        "1/3 cup melted butter",
+        "-",
+        "1/2 cup sugar",
+        "-",
+        "1 large egg, beaten",
+        "-",
+        "1 teaspoon vanilla extract",
+        "-",
+        "1 teaspoon baking soda",
+        "-",
+        "Pinch of salt",
+        "-",
+        "1 1/2 cups all-purpose flour"
+      ],
+      "keywords": [
+        "baking soda pinch",
+        "cup melted butter",
+        "cups all-purpose flour",
+        "teaspoon vanilla extract",
+        "teaspoon baking soda",
+        "pinch of salt",
+        "cup sugar",
+        "ripe bananas",
+        "large egg",
+        "mashed"
+      ],
+      "sentences": [
+        "3 ripe bananas, mashed 1/3 cup melted butter 1/2 cup sugar 1 large egg, beaten 1 teaspoon vanilla extract 1 teaspoon baking soda Pinch of salt 1 1/2 cups all-purpose flour"
+      ],
+      "semantic": {
+        "tokens": [
+          "3",
+          "ripe",
+          "bananas",
+          "mashed",
+          "1/3",
+          "cup",
+          "melted",
+          "butter",
+          "1/2",
+          "cup",
+          "sugar",
+          "1",
+          "large",
+          "egg",
+          "beaten",
+          "1",
+          "teaspoon",
+          "vanilla",
+          "extract",
+          "1",
+          "teaspoon",
+          "baking",
+          "soda",
+          "Pinch",
+          "salt",
+          "1",
+          "1/2",
+          "cups",
+          "purpose",
+          "flour"
+        ],
+        "nouns": [
+          "egg",
+          "soda",
+          "cup",
+          "butter",
+          "flour",
+          "vanilla",
+          "banana",
+          "purpose",
+          "salt",
+          "teaspoon",
+          "sugar"
+        ],
+        "verbs": [
+          "mash",
+          "bake",
+          "extract",
+          "melt",
+          "beat"
+        ],
+        "lemmas": [
+          "cup",
+          "bake",
+          "flour",
+          "Pinch",
+          "3",
+          "1",
+          "butter",
+          "1/3",
+          "vanilla",
+          "1/2",
+          "extract",
+          "melt",
+          "soda",
+          "mash",
+          "large",
+          "purpose",
+          "beat",
+          "teaspoon",
+          "salt",
+          "ripe",
+          "sugar",
+          "egg",
+          "banana"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 6,
+      "paragraphs": [
+        "-",
+        "Preheat oven to 350F (175C).",
+        "-",
+        "In a bowl, mix mashed bananas and melted butter.",
+        "-",
+        "Add sugar, beaten egg, and vanilla extract, and mix well.",
+        "-",
+        "Stir in baking soda, salt, and flour until just combined.",
+        "-",
+        "Pour the batter into a greased loaf pan.",
+        "-",
+        "Bake for 60 minutes or until a toothpick inserted into the center comes out clean.",
+        "-",
+        "Let cool before slicing."
+      ],
+      "keywords": [
+        "preheat oven",
+        "mix mashed bananas",
+        "melted butter",
+        "bananas and melted",
+        "add sugar",
+        "beaten egg",
+        "vanilla extract",
+        "bowl",
+        "salt",
+        "stir in baking"
+      ],
+      "sentences": [
+        "Preheat oven to 350F (175C).",
+        "In a bowl, mix mashed bananas and melted butter.",
+        "Add sugar, beaten egg, and vanilla extract, and mix well.",
+        "Stir in baking soda, salt, and flour until just combined.",
+        "Pour the batter into a greased loaf pan.",
+        "Bake for 60 minutes or until a toothpick inserted into the center comes out clean.",
+        "Let cool before slicing."
+      ],
+      "semantic": {
+        "tokens": [
+          "Preheat",
+          "oven",
+          "350F",
+          "175C",
+          "bowl",
+          "mix",
+          "mashed",
+          "bananas",
+          "melted",
+          "butter",
+          "Add",
+          "sugar",
+          "beaten",
+          "egg",
+          "vanilla",
+          "extract",
+          "mix",
+          "Stir",
+          "baking",
+          "soda",
+          "salt",
+          "flour",
+          "combined",
+          "Pour",
+          "batter",
+          "greased",
+          "loaf",
+          "pan",
+          "Bake",
+          "60",
+          "minutes",
+          "toothpick",
+          "inserted",
+          "center",
+          "comes",
+          "clean",
+          "Let",
+          "cool",
+          "slicing"
+        ],
+        "nouns": [
+          "egg",
+          "soda",
+          "loaf",
+          "pan",
+          "toothpick",
+          "butter",
+          "flour",
+          "vanilla",
+          "extract",
+          "slicing",
+          "banana",
+          "preheat",
+          "center",
+          "bowl",
+          "salt",
+          "minute",
+          "batter",
+          "sugar"
+        ],
+        "verbs": [
+          "mix",
+          "combine",
+          "mash",
+          "let",
+          "bake",
+          "come",
+          "insert",
+          "beat",
+          "add",
+          "grease",
+          "stir",
+          "pour",
+          "oven"
+        ],
+        "lemmas": [
+          "bake",
+          "flour",
+          "come",
+          "slicing",
+          "melted",
+          "minute",
+          "center",
+          "pour",
+          "350F",
+          "batter",
+          "toothpick",
+          "let",
+          "butter",
+          "vanilla",
+          "extract",
+          "Bake",
+          "60",
+          "oven",
+          "175C",
+          "soda",
+          "mix",
+          "combine",
+          "mash",
+          "loaf",
+          "pan",
+          "insert",
+          "beat",
+          "salt",
+          "add",
+          "grease",
+          "stir",
+          "clean",
+          "sugar",
+          "egg",
+          "cool",
+          "banana",
+          "preheat",
+          "bowl"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Tacos",
+      "page": 6,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 6,
+      "paragraphs": [
+        "-",
+        "2 large eggs",
+        "-",
+        "1/4 cup shredded cheese",
+        "-",
+        "1/4 cup cooked sausage or bacon",
+        "-",
+        "1/4 cup diced bell pepper",
+        "-",
+        "1/4 cup diced onions",
+        "-",
+        "2 small flour tortillas",
+        "-",
+        "Salsa for serving"
+      ],
+      "keywords": [
+        "cup shredded cheese",
+        "cup diced onions",
+        "flour tortillas salsa",
+        "cup cooked sausage",
+        "cup diced bell",
+        "small flour tortillas",
+        "diced bell pepper",
+        "salsa for serving",
+        "large eggs",
+        "sausage or bacon"
+      ],
+      "sentences": [
+        "2 large eggs 1/4 cup shredded cheese 1/4 cup cooked sausage or bacon 1/4 cup diced bell pepper 1/4 cup diced onions",
+        "2 small flour tortillas Salsa for serving"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "large",
+          "eggs",
+          "1/4",
+          "cup",
+          "shredded",
+          "cheese",
+          "1/4",
+          "cup",
+          "cooked",
+          "sausage",
+          "bacon",
+          "1/4",
+          "cup",
+          "diced",
+          "bell",
+          "pepper",
+          "1/4",
+          "cup",
+          "diced",
+          "onions",
+          "2",
+          "small",
+          "flour",
+          "tortillas",
+          "Salsa",
+          "serving"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "flour",
+          "sausage",
+          "onion",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "bacon"
+        ],
+        "verbs": [
+          "shred",
+          "dice",
+          "serve",
+          "cook"
+        ],
+        "lemmas": [
+          "cup",
+          "flour",
+          "sausage",
+          "Salsa",
+          "serve",
+          "small",
+          "bacon",
+          "2",
+          "cook",
+          "onion",
+          "large",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "egg",
+          "dice",
+          "1/4",
+          "shred"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 6,
+      "paragraphs": [
+        "-",
+        "In a bowl, whisk the eggs and cook them in a skillet over medium heat.",
+        "-",
+        "Add cheese, sausage or bacon, onions and bell pepper to the eggs.",
+        "-",
+        "Cook until the eggs are set and the vegetables are tender.",
+        "-",
+        "Divide the egg mixture between the tortillas.",
+        "-",
+        "Serve with salsa."
+      ],
+      "keywords": [
+        "medium heat",
+        "skillet over medium",
+        "whisk the eggs",
+        "bowl",
+        "add cheese",
+        "sausage or bacon",
+        "divide the egg",
+        "nions and bell",
+        "egg mixture",
+        "bell pepper"
+      ],
+      "sentences": [
+        "In a bowl, whisk the eggs and cook them in a skillet over medium heat.",
+        "Add cheese, sausage or bacon, onions and bell pepper to the eggs.",
+        "Cook until the eggs are set and the vegetables are tender.",
+        "Divide the egg mixture between the tortillas.",
+        "Serve with salsa."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "whisk",
+          "eggs",
+          "cook",
+          "skillet",
+          "medium",
+          "heat",
+          "Add",
+          "cheese",
+          "sausage",
+          "bacon",
+          "onions",
+          "bell",
+          "pepper",
+          "eggs",
+          "Cook",
+          "eggs",
+          "set",
+          "vegetables",
+          "tender",
+          "Divide",
+          "egg",
+          "mixture",
+          "tortillas",
+          "Serve",
+          "salsa"
+        ],
+        "nouns": [
+          "egg",
+          "heat",
+          "vegetable",
+          "skillet",
+          "sausage",
+          "mixture",
+          "bowl",
+          "onion",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "bacon"
+        ],
+        "verbs": [
+          "set",
+          "whisk",
+          "divide",
+          "cook",
+          "serve",
+          "add"
+        ],
+        "lemmas": [
+          "medium",
+          "sausage",
+          "serve",
+          "bacon",
+          "whisk",
+          "set",
+          "cook",
+          "vegetable",
+          "onion",
+          "heat",
+          "divide",
+          "skillet",
+          "mixture",
+          "tender",
+          "add",
+          "cheese",
+          "pepper",
+          "tortilla",
+          "bell",
+          "salsa",
+          "egg",
+          "Cook",
+          "bowl"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Granola Bars",
+      "page": 7,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 7,
+      "paragraphs": [
+        "-",
+        "2 cups rolled oats",
+        "-",
+        "1/2 cup honey or maple syrup",
+        "-",
+        "1/2 cup peanut butter",
+        "-",
+        "1/2 cup chopped nuts",
+        "-",
+        "1/2 cup dried fruit",
+        "-",
+        "1 teaspoon vanilla extract"
+      ],
+      "keywords": [
+        "teaspoon vanilla extract",
+        "cups rolled oats",
+        "cup peanut butter",
+        "cup chopped nuts",
+        "cup dried fruit",
+        "maple syrup",
+        "cup honey",
+        "honey or maple"
+      ],
+      "sentences": [
+        "2 cups rolled oats 1/2 cup honey or maple syrup 1/2 cup peanut butter 1/2 cup chopped nuts 1/2 cup dried fruit 1 teaspoon vanilla extract"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "cups",
+          "rolled",
+          "oats",
+          "1/2",
+          "cup",
+          "honey",
+          "maple",
+          "syrup",
+          "1/2",
+          "cup",
+          "peanut",
+          "butter",
+          "1/2",
+          "cup",
+          "chopped",
+          "nuts",
+          "1/2",
+          "cup",
+          "dried",
+          "fruit",
+          "1",
+          "teaspoon",
+          "vanilla",
+          "extract"
+        ],
+        "nouns": [
+          "cup",
+          "butter",
+          "vanilla",
+          "extract",
+          "syrup",
+          "maple",
+          "teaspoon",
+          "honey",
+          "peanut",
+          "fruit"
+        ],
+        "verbs": [
+          "chop",
+          "roll",
+          "dry"
+        ],
+        "lemmas": [
+          "1",
+          "cup",
+          "2",
+          "oats",
+          "butter",
+          "vanilla",
+          "1/2",
+          "syrup",
+          "extract",
+          "roll",
+          "maple",
+          "dry",
+          "teaspoon",
+          "honey",
+          "peanut",
+          "chop",
+          "fruit",
+          "nuts"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 7,
+      "paragraphs": [
+        "-",
+        "Preheat oven to 350F (175C).",
+        "-",
+        "In a bowl, mix oats, honey or maple syrup, peanut butter, nuts, dried fruit, and vanilla",
+        "extract.",
+        "-",
+        "Press the mixture into a greased baking dish.",
+        "-",
+        "Bake for 20-25 minutes or until golden brown.",
+        "-",
+        "Let cool before cutting into bars."
+      ],
+      "keywords": [
+        "preheat oven",
+        "mix oats",
+        "peanut butter",
+        "dried fruit",
+        "nuts",
+        "honey or maple",
+        "maple syrup",
+        "vanilla extract",
+        "bowl",
+        "press the mixture"
+      ],
+      "sentences": [
+        "Preheat oven to 350F (175C).",
+        "In a bowl, mix oats, honey or maple syrup, peanut butter, nuts, dried fruit, and vanilla extract.",
+        "Press the mixture into a greased baking dish.",
+        "Bake for 20-25 minutes or until golden brown.",
+        "Let cool before cutting into bars."
+      ],
+      "semantic": {
+        "tokens": [
+          "Preheat",
+          "oven",
+          "350F",
+          "175C",
+          "bowl",
+          "mix",
+          "oats",
+          "honey",
+          "maple",
+          "syrup",
+          "peanut",
+          "butter",
+          "nuts",
+          "dried",
+          "fruit",
+          "vanilla",
+          "extract",
+          "Press",
+          "mixture",
+          "greased",
+          "baking",
+          "dish",
+          "Bake",
+          "20",
+          "25",
+          "minutes",
+          "golden",
+          "brown",
+          "Let",
+          "cool",
+          "cutting",
+          "bars"
+        ],
+        "nouns": [
+          "mix",
+          "oats",
+          "butter",
+          "bar",
+          "vanilla",
+          "extract",
+          "syrup",
+          "mixture",
+          "dish",
+          "preheat",
+          "brown",
+          "bowl",
+          "maple",
+          "minute",
+          "honey",
+          "peanut",
+          "baking",
+          "fruit"
+        ],
+        "verbs": [
+          "press",
+          "let",
+          "cut",
+          "dry",
+          "grease",
+          "oven"
+        ],
+        "lemmas": [
+          "press",
+          "20",
+          "brown",
+          "minute",
+          "maple",
+          "baking",
+          "350F",
+          "golden",
+          "let",
+          "oats",
+          "butter",
+          "vanilla",
+          "extract",
+          "Bake",
+          "honey",
+          "oven",
+          "fruit",
+          "175C",
+          "mix",
+          "25",
+          "bar",
+          "cut",
+          "mixture",
+          "dry",
+          "grease",
+          "cool",
+          "dish",
+          "syrup",
+          "preheat",
+          "bowl",
+          "peanut",
+          "nuts"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Smoothie",
+      "page": 7,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 7,
+      "paragraphs": [
+        "-",
+        "1 banana",
+        "-",
+        "1/2 cup frozen berries",
+        "-",
+        "1/2 cup Greek yogurt",
+        "-",
+        "1/2 cup milk",
+        "-",
+        "1 tablespoon honey"
+      ],
+      "keywords": [
+        "cup greek yogurt",
+        "cup frozen berries",
+        "tablespoon honey",
+        "cup milk",
+        "banana"
+      ],
+      "sentences": [
+        "1 banana 1/2 cup frozen berries 1/2 cup Greek yogurt 1/2 cup milk 1 tablespoon honey"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "banana",
+          "1/2",
+          "cup",
+          "frozen",
+          "berries",
+          "1/2",
+          "cup",
+          "Greek",
+          "yogurt",
+          "1/2",
+          "cup",
+          "milk",
+          "1",
+          "tablespoon",
+          "honey"
+        ],
+        "nouns": [
+          "cup",
+          "banana",
+          "milk",
+          "yogurt",
+          "honey",
+          "berry",
+          "tablespoon"
+        ],
+        "verbs": [
+          "freeze"
+        ],
+        "lemmas": [
+          "cup",
+          "1/2",
+          "banana",
+          "milk",
+          "yogurt",
+          "Greek",
+          "honey",
+          "berry",
+          "1",
+          "freeze",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 7,
+      "paragraphs": [
+        "-",
+        "In a blender, combine banana, frozen berries, Greek yogurt, milk, and honey.",
+        "-",
+        "Blend until smooth.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "greek yogurt",
+        "combine banana",
+        "frozen berries",
+        "milk",
+        "blender",
+        "honey",
+        "blend until smooth",
+        "serve immediately"
+      ],
+      "sentences": [
+        "In a blender, combine banana, frozen berries, Greek yogurt, milk, and honey.",
+        "Blend until smooth.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "blender",
+          "combine",
+          "banana",
+          "frozen",
+          "berries",
+          "Greek",
+          "yogurt",
+          "milk",
+          "honey",
+          "Blend",
+          "smooth",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "blender",
+          "milk",
+          "yogurt",
+          "honey",
+          "berry"
+        ],
+        "verbs": [
+          "combine",
+          "serve",
+          "blend"
+        ],
+        "lemmas": [
+          "combine",
+          "blend",
+          "blender",
+          "smooth",
+          "banana",
+          "milk",
+          "yogurt",
+          "Greek",
+          "serve",
+          "honey",
+          "berry",
+          "immediately",
+          "frozen"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Pizza",
+      "page": 7,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 7,
+      "paragraphs": [
+        "-",
+        "1 pre-made pizza crust",
+        "-",
+        "1/2 cup marinara sauce",
+        "-",
+        "1 cup shredded mozzarella cheese",
+        "-",
+        "2 large eggs",
+        "-",
+        "1/4 cup cooked sausage or bacon",
+        "-",
+        "1/4 cup diced bell pepper"
+      ],
+      "keywords": [
+        "pre-made pizza crust",
+        "cup marinara sauce",
+        "shredded mozzarella cheese",
+        "diced bell pepper",
+        "cup shredded mozzarella",
+        "cup cooked sausage",
+        "cup diced bell",
+        "large eggs",
+        "sausage or bacon"
+      ],
+      "sentences": [
+        "1 pre-made pizza crust 1/2 cup marinara sauce 1 cup shredded mozzarella cheese 2 large eggs 1/4 cup cooked sausage or bacon 1/4 cup diced bell pepper"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "pre",
+          "pizza",
+          "crust",
+          "1/2",
+          "cup",
+          "marinara",
+          "sauce",
+          "1",
+          "cup",
+          "shredded",
+          "mozzarella",
+          "cheese",
+          "2",
+          "large",
+          "eggs",
+          "1/4",
+          "cup",
+          "cooked",
+          "sausage",
+          "bacon",
+          "1/4",
+          "cup",
+          "diced",
+          "bell",
+          "pepper"
+        ],
+        "nouns": [
+          "marinara",
+          "egg",
+          "cup",
+          "sausage",
+          "cheese",
+          "pepper",
+          "bacon",
+          "crust",
+          "bell",
+          "pizza"
+        ],
+        "verbs": [
+          "shred",
+          "cook",
+          "dice",
+          "sauce"
+        ],
+        "lemmas": [
+          "cup",
+          "sausage",
+          "1",
+          "bacon",
+          "2",
+          "sauce",
+          "cook",
+          "1/2",
+          "large",
+          "pre",
+          "cheese",
+          "pepper",
+          "bell",
+          "pizza",
+          "marinara",
+          "egg",
+          "dice",
+          "mozzarella",
+          "1/4",
+          "shred",
+          "crust"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 8,
+      "paragraphs": [
+        "-",
+        "Preheat oven to 425F (220C).",
+        "-",
+        "Spread marinara sauce over the pizza crust.",
+        "-",
+        "Sprinkle mozzarella cheese on top.",
+        "-",
+        "Crack the eggs onto the pizza.",
+        "-",
+        "Add sausage or bacon and bell pepper.",
+        "-",
+        "Bake for 10-12 minutes or until the eggs are set and the cheese is melted.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "preheat oven",
+        "spread marinara sauce",
+        "pizza crust",
+        "sprinkle mozzarella cheese",
+        "crack the eggs",
+        "top",
+        "add sausage",
+        "bell pepper",
+        "serve immediately",
+        "bake for 10-12"
+      ],
+      "sentences": [
+        "Preheat oven to 425F (220C).",
+        "Spread marinara sauce over the pizza crust.",
+        "Sprinkle mozzarella cheese on top.",
+        "Crack the eggs onto the pizza.",
+        "Add sausage or bacon and bell pepper.",
+        "Bake for 10-12 minutes or until the eggs are set and the cheese is melted.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Preheat",
+          "oven",
+          "425F",
+          "220C",
+          "Spread",
+          "marinara",
+          "sauce",
+          "pizza",
+          "crust",
+          "Sprinkle",
+          "mozzarella",
+          "cheese",
+          "Crack",
+          "eggs",
+          "pizza",
+          "Add",
+          "sausage",
+          "bacon",
+          "bell",
+          "pepper",
+          "Bake",
+          "10",
+          "12",
+          "minutes",
+          "eggs",
+          "set",
+          "cheese",
+          "melted",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "marinara",
+          "egg",
+          "sauce",
+          "mozzarella",
+          "sausage",
+          "preheat",
+          "minute",
+          "cheese",
+          "pepper",
+          "bacon",
+          "crust",
+          "bell",
+          "pizza"
+        ],
+        "verbs": [
+          "crack",
+          "sprinkle",
+          "set",
+          "spread",
+          "melt",
+          "serve",
+          "add",
+          "oven"
+        ],
+        "lemmas": [
+          "12",
+          "sausage",
+          "minute",
+          "serve",
+          "bacon",
+          "crack",
+          "set",
+          "sauce",
+          "Bake",
+          "220C",
+          "melt",
+          "oven",
+          "sprinkle",
+          "10",
+          "cheese",
+          "add",
+          "pepper",
+          "bell",
+          "pizza",
+          "marinara",
+          "egg",
+          "mozzarella",
+          "spread",
+          "preheat",
+          "crust",
+          "immediately",
+          "425f"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Muffins",
+      "page": 8,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 8,
+      "paragraphs": [
+        "-",
+        "2 cups all-purpose flour",
+        "-",
+        "1/2 cup sugar",
+        "-",
+        "1 tablespoon baking powder",
+        "-",
+        "1/2 teaspoon salt",
+        "-",
+        "1 cup milk",
+        "-",
+        "1/4 cup vegetable oil",
+        "-",
+        "1 large egg",
+        "-",
+        "1 teaspoon vanilla extract",
+        "-",
+        "1 cup fresh or frozen berries"
+      ],
+      "keywords": [
+        "cups all-purpose flour",
+        "cup vegetable oil",
+        "teaspoon vanilla extract",
+        "tablespoon baking powder",
+        "cup sugar",
+        "cup milk",
+        "teaspoon salt",
+        "large egg",
+        "cup fresh",
+        "frozen berries"
+      ],
+      "sentences": [
+        "2 cups all-purpose flour 1/2 cup sugar 1 tablespoon baking powder 1/2 teaspoon salt 1 cup milk 1/4 cup vegetable oil 1 large egg 1 teaspoon vanilla extract 1 cup fresh or frozen berries"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "cups",
+          "purpose",
+          "flour",
+          "1/2",
+          "cup",
+          "sugar",
+          "1",
+          "tablespoon",
+          "baking",
+          "powder",
+          "1/2",
+          "teaspoon",
+          "salt",
+          "1",
+          "cup",
+          "milk",
+          "1/4",
+          "cup",
+          "vegetable",
+          "oil",
+          "1",
+          "large",
+          "egg",
+          "1",
+          "teaspoon",
+          "vanilla",
+          "extract",
+          "1",
+          "cup",
+          "fresh",
+          "frozen",
+          "berries"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "powder",
+          "vegetable",
+          "flour",
+          "vanilla",
+          "berry",
+          "oil",
+          "milk",
+          "purpose",
+          "salt",
+          "teaspoon",
+          "baking",
+          "tablespoon",
+          "sugar"
+        ],
+        "verbs": [
+          "extract"
+        ],
+        "lemmas": [
+          "cup",
+          "flour",
+          "oil",
+          "milk",
+          "baking",
+          "1",
+          "fresh",
+          "2",
+          "vegetable",
+          "vanilla",
+          "1/2",
+          "extract",
+          "berry",
+          "large",
+          "purpose",
+          "salt",
+          "teaspoon",
+          "sugar",
+          "egg",
+          "powder",
+          "frozen",
+          "1/4",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 8,
+      "paragraphs": [
+        "-",
+        "Preheat oven to 375F (190C).",
+        "-",
+        "In a bowl, mix flour, sugar, baking powder, and salt.",
+        "-",
+        "In another bowl, combine milk, vegetable oil, egg, and vanilla extract.",
+        "-",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+        "-",
+        "Fold in the berries.",
+        "-",
+        "Divide the batter evenly among a greased muffin tin.",
+        "-",
+        "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+        "-",
+        "Let cool before serving."
+      ],
+      "keywords": [
+        "preheat oven",
+        "mix flour",
+        "baking powder",
+        "bowl",
+        "combine milk",
+        "vegetable oil",
+        "sugar",
+        "vanilla extract",
+        "salt",
+        "egg"
+      ],
+      "sentences": [
+        "Preheat oven to 375F (190C).",
+        "In a bowl, mix flour, sugar, baking powder, and salt.",
+        "In another bowl, combine milk, vegetable oil, egg, and vanilla extract.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+        "Fold in the berries.",
+        "Divide the batter evenly among a greased muffin tin.",
+        "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+        "Let cool before serving."
+      ],
+      "semantic": {
+        "tokens": [
+          "Preheat",
+          "oven",
+          "375F",
+          "190C",
+          "bowl",
+          "mix",
+          "flour",
+          "sugar",
+          "baking",
+          "powder",
+          "salt",
+          "bowl",
+          "combine",
+          "milk",
+          "vegetable",
+          "oil",
+          "egg",
+          "vanilla",
+          "extract",
+          "Pour",
+          "wet",
+          "ingredients",
+          "dry",
+          "ingredients",
+          "stir",
+          "combined",
+          "Fold",
+          "berries",
+          "Divide",
+          "batter",
+          "evenly",
+          "greased",
+          "muffin",
+          "tin",
+          "Bake",
+          "20",
+          "25",
+          "minutes",
+          "toothpick",
+          "inserted",
+          "center",
+          "comes",
+          "clean",
+          "Let",
+          "cool",
+          "serving"
+        ],
+        "nouns": [
+          "flour",
+          "oil",
+          "milk",
+          "center",
+          "minute",
+          "batter",
+          "toothpick",
+          "vegetable",
+          "vanilla",
+          "extract",
+          "berry",
+          "mix",
+          "salt",
+          "tin",
+          "sugar",
+          "egg",
+          "powder",
+          "muffin",
+          "ingredient",
+          "preheat",
+          "bowl"
+        ],
+        "verbs": [
+          "combine",
+          "let",
+          "fold",
+          "divide",
+          "bake",
+          "come",
+          "insert",
+          "serve",
+          "grease",
+          "stir",
+          "pour",
+          "oven"
+        ],
+        "lemmas": [
+          "20",
+          "flour",
+          "bake",
+          "come",
+          "oil",
+          "milk",
+          "center",
+          "minute",
+          "wet",
+          "serve",
+          "pour",
+          "batter",
+          "toothpick",
+          "let",
+          "fold",
+          "vegetable",
+          "vanilla",
+          "extract",
+          "Bake",
+          "berry",
+          "oven",
+          "mix",
+          "combine",
+          "25",
+          "375F",
+          "divide",
+          "insert",
+          "salt",
+          "dry",
+          "grease",
+          "tin",
+          "stir",
+          "clean",
+          "sugar",
+          "egg",
+          "cool",
+          "powder",
+          "muffin",
+          "ingredient",
+          "preheat",
+          "evenly",
+          "bowl",
+          "190c"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Casserole",
+      "page": 8,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 8,
+      "paragraphs": [
+        "-",
+        "6 large eggs",
+        "-",
+        "1 cup milk",
+        "-",
+        "1 cup shredded cheese",
+        "-",
+        "1/2 cup cooked sausage or bacon",
+        "-",
+        "1/2 cup diced bell pepper",
+        "-",
+        "1/2 cup diced onion"
+      ],
+      "keywords": [
+        "cup shredded cheese",
+        "cup diced onion",
+        "diced bell pepper",
+        "cup cooked sausage",
+        "cup diced bell",
+        "large eggs",
+        "cup milk",
+        "sausage or bacon"
+      ],
+      "sentences": [
+        "6 large eggs 1 cup milk 1 cup shredded cheese 1/2 cup cooked sausage or bacon 1/2 cup diced bell pepper 1/2 cup diced onion"
+      ],
+      "semantic": {
+        "tokens": [
+          "6",
+          "large",
+          "eggs",
+          "1",
+          "cup",
+          "milk",
+          "1",
+          "cup",
+          "shredded",
+          "cheese",
+          "1/2",
+          "cup",
+          "cooked",
+          "sausage",
+          "bacon",
+          "1/2",
+          "cup",
+          "diced",
+          "bell",
+          "pepper",
+          "1/2",
+          "cup",
+          "diced",
+          "onion"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "sausage",
+          "milk",
+          "onion",
+          "cheese",
+          "pepper",
+          "bell",
+          "bacon"
+        ],
+        "verbs": [
+          "shred",
+          "dice",
+          "cook"
+        ],
+        "lemmas": [
+          "egg",
+          "cup",
+          "6",
+          "cook",
+          "dice",
+          "large",
+          "1/2",
+          "sausage",
+          "milk",
+          "onion",
+          "cheese",
+          "pepper",
+          "shred",
+          "1",
+          "bell",
+          "bacon"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 9,
+      "paragraphs": [
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "salt and pepper",
+        "pepper to taste"
+      ],
+      "sentences": [
+        "Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "salt",
+          "pepper"
+        ],
+        "verbs": [
+          "taste"
+        ],
+        "lemmas": [
+          "salt",
+          "taste",
+          "pepper"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 9,
+      "paragraphs": [
+        "-",
+        "Preheat oven to 350F (175C).",
+        "-",
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "-",
+        "Stir in cheese, sausage or bacon, bell pepper, and onion.",
+        "-",
+        "Pour the mixture into a greased baking dish.",
+        "-",
+        "Bake for 30-35 minutes or until the eggs are set.",
+        "-",
+        "Let cool slightly before serving."
+      ],
+      "keywords": [
+        "preheat oven",
+        "milk",
+        "salt",
+        "bell pepper",
+        "eggs",
+        "stir in cheese",
+        "sausage or bacon",
+        "bowl",
+        "whisk",
+        "nion"
+      ],
+      "sentences": [
+        "Preheat oven to 350F (175C).",
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "Stir in cheese, sausage or bacon, bell pepper, and onion.",
+        "Pour the mixture into a greased baking dish.",
+        "Bake for 30-35 minutes or until the eggs are set.",
+        "Let cool slightly before serving."
+      ],
+      "semantic": {
+        "tokens": [
+          "Preheat",
+          "oven",
+          "350F",
+          "175C",
+          "bowl",
+          "whisk",
+          "eggs",
+          "milk",
+          "salt",
+          "pepper",
+          "Stir",
+          "cheese",
+          "sausage",
+          "bacon",
+          "bell",
+          "pepper",
+          "onion",
+          "Pour",
+          "mixture",
+          "greased",
+          "baking",
+          "dish",
+          "Bake",
+          "30",
+          "35",
+          "minutes",
+          "eggs",
+          "set",
+          "Let",
+          "cool",
+          "slightly",
+          "serving"
+        ],
+        "nouns": [
+          "egg",
+          "dish",
+          "sausage",
+          "mixture",
+          "milk",
+          "preheat",
+          "bowl",
+          "salt",
+          "cheese",
+          "onion",
+          "pepper",
+          "minute",
+          "baking",
+          "bacon"
+        ],
+        "verbs": [
+          "let",
+          "whisk",
+          "set",
+          "serve",
+          "grease",
+          "stir",
+          "pour",
+          "oven"
+        ],
+        "lemmas": [
+          "sausage",
+          "milk",
+          "minute",
+          "serve",
+          "pour",
+          "baking",
+          "350F",
+          "bacon",
+          "let",
+          "slightly",
+          "whisk",
+          "set",
+          "Bake",
+          "onion",
+          "oven",
+          "175C",
+          "mixture",
+          "salt",
+          "cheese",
+          "grease",
+          "pepper",
+          "stir",
+          "bell",
+          "cool",
+          "egg",
+          "30",
+          "35",
+          "dish",
+          "preheat",
+          "bowl"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Bagel with Cream Cheese",
+      "page": 9,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 9,
+      "paragraphs": [
+        "-",
+        "1 bagel, sliced and toasted",
+        "-",
+        "2 tablespoons cream cheese",
+        "-",
+        "Optional toppings: smoked salmon, capers, red onion, tomato slices"
+      ],
+      "keywords": [
+        "cheese optional toppings",
+        "cream cheese optional",
+        "tablespoons cream cheese",
+        "sliced and toasted",
+        "smoked salmon",
+        "red onion",
+        "tomato slices",
+        "bagel",
+        "capers"
+      ],
+      "sentences": [
+        "1 bagel, sliced and toasted 2 tablespoons cream cheese Optional toppings: smoked salmon, capers, red onion, tomato slices"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "bagel",
+          "sliced",
+          "toasted",
+          "2",
+          "tablespoons",
+          "cream",
+          "cheese",
+          "Optional",
+          "toppings",
+          "smoked",
+          "salmon",
+          "capers",
+          "red",
+          "onion",
+          "tomato",
+          "slices"
+        ],
+        "nouns": [
+          "caper",
+          "slice",
+          "tomato",
+          "bagel",
+          "cream",
+          "salmon",
+          "onion",
+          "topping",
+          "tablespoon"
+        ],
+        "verbs": [
+          "slice",
+          "toast",
+          "cheese",
+          "smoke"
+        ],
+        "lemmas": [
+          "slice",
+          "caper",
+          "toast",
+          "2",
+          "red",
+          "tomato",
+          "bagel",
+          "cream",
+          "optional",
+          "salmon",
+          "onion",
+          "cheese",
+          "topping",
+          "1",
+          "smoke",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 9,
+      "paragraphs": [
+        "-",
+        "Spread cream cheese on each half of the toasted bagel.",
+        "-",
+        "Add optional toppings if desired.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "spread cream cheese",
+        "toasted bagel",
+        "half",
+        "toppings if desired",
+        "serve immediately",
+        "add optional toppings"
+      ],
+      "sentences": [
+        "Spread cream cheese on each half of the toasted bagel.",
+        "Add optional toppings if desired.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Spread",
+          "cream",
+          "cheese",
+          "half",
+          "toasted",
+          "bagel",
+          "Add",
+          "optional",
+          "toppings",
+          "desired",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "half",
+          "bagel",
+          "cream",
+          "cheese",
+          "topping"
+        ],
+        "verbs": [
+          "toast",
+          "spread",
+          "desire",
+          "serve",
+          "add"
+        ],
+        "lemmas": [
+          "half",
+          "toast",
+          "bagel",
+          "cream",
+          "optional",
+          "spread",
+          "desire",
+          "serve",
+          "cheese",
+          "add",
+          "topping",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Skillet",
+      "page": 9,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 9,
+      "paragraphs": [
+        "-",
+        "2 large eggs",
+        "-",
+        "1/2 cup diced potatoes",
+        "-",
+        "1/4 cup diced bell pepper",
+        "-",
+        "1/4 cup diced onion",
+        "-",
+        "1/4 cup cooked sausage or bacon",
+        "-",
+        "Salt and pepper to taste",
+        "-",
+        "1 tablespoon olive oil"
+      ],
+      "keywords": [
+        "cup diced potatoes",
+        "cup diced onion",
+        "cup cooked sausage",
+        "cup diced bell",
+        "tablespoon olive oil",
+        "diced bell pepper",
+        "bacon salt",
+        "large eggs",
+        "sausage or bacon",
+        "salt and pepper"
+      ],
+      "sentences": [
+        "2 large eggs 1/2 cup diced potatoes 1/4 cup diced bell pepper 1/4 cup diced onion 1/4 cup cooked sausage or bacon Salt and pepper to taste 1 tablespoon olive oil"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "large",
+          "eggs",
+          "1/2",
+          "cup",
+          "diced",
+          "potatoes",
+          "1/4",
+          "cup",
+          "diced",
+          "bell",
+          "pepper",
+          "1/4",
+          "cup",
+          "diced",
+          "onion",
+          "1/4",
+          "cup",
+          "cooked",
+          "sausage",
+          "bacon",
+          "Salt",
+          "pepper",
+          "taste",
+          "1",
+          "tablespoon",
+          "olive",
+          "oil"
+        ],
+        "nouns": [
+          "egg",
+          "tablespoon",
+          "cup",
+          "sausage",
+          "oil",
+          "onion",
+          "olive",
+          "potato",
+          "pepper",
+          "bell",
+          "bacon"
+        ],
+        "verbs": [
+          "cook",
+          "taste",
+          "dice"
+        ],
+        "lemmas": [
+          "cup",
+          "sausage",
+          "oil",
+          "1",
+          "bacon",
+          "2",
+          "cook",
+          "1/2",
+          "onion",
+          "olive",
+          "potato",
+          "large",
+          "pepper",
+          "bell",
+          "egg",
+          "dice",
+          "Salt",
+          "1/4",
+          "taste",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 9,
+      "paragraphs": [
+        "-",
+        "Heat olive oil in a skillet over medium heat.",
+        "-",
+        "Add potatoes, bell pepper, and onion, and cook until tender.",
+        "-",
+        "Add sausage or bacon and cook until heated through.",
+        "-",
+        "Make two wells in the mixture and crack an egg into each well.",
+        "-",
+        "Cover and cook until the eggs are set.",
+        "-",
+        "Season with salt and pepper."
+      ],
+      "keywords": [
+        "heat olive oil",
+        "medium heat",
+        "skillet over medium",
+        "cook until tender",
+        "add potatoes",
+        "bacon and cook",
+        "cook until heated",
+        "cover and cook",
+        "bell pepper",
+        "add sausage"
+      ],
+      "sentences": [
+        "Heat olive oil in a skillet over medium heat.",
+        "Add potatoes, bell pepper, and onion, and cook until tender.",
+        "Add sausage or bacon and cook until heated through.",
+        "Make two wells in the mixture and crack an egg into each well.",
+        "Cover and cook until the eggs are set.",
+        "Season with salt and pepper."
+      ],
+      "semantic": {
+        "tokens": [
+          "Heat",
+          "olive",
+          "oil",
+          "skillet",
+          "medium",
+          "heat",
+          "Add",
+          "potatoes",
+          "bell",
+          "pepper",
+          "onion",
+          "cook",
+          "tender",
+          "Add",
+          "sausage",
+          "bacon",
+          "cook",
+          "heated",
+          "wells",
+          "mixture",
+          "crack",
+          "egg",
+          "Cover",
+          "cook",
+          "eggs",
+          "set",
+          "Season",
+          "salt",
+          "pepper"
+        ],
+        "nouns": [
+          "egg",
+          "heat",
+          "cook",
+          "skillet",
+          "oil",
+          "tender",
+          "sausage",
+          "mixture",
+          "salt",
+          "olive",
+          "add",
+          "onion",
+          "potato",
+          "pepper",
+          "well",
+          "season",
+          "bell",
+          "bacon"
+        ],
+        "verbs": [
+          "heat",
+          "crack",
+          "set",
+          "cook",
+          "add",
+          "cover"
+        ],
+        "lemmas": [
+          "medium",
+          "oil",
+          "sausage",
+          "season",
+          "bacon",
+          "crack",
+          "set",
+          "cook",
+          "olive",
+          "onion",
+          "potato",
+          "heat",
+          "skillet",
+          "mixture",
+          "tender",
+          "salt",
+          "add",
+          "pepper",
+          "cover",
+          "bell",
+          "egg",
+          "well"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 10,
+      "paragraphs": [
+        "Serve immediately."
+      ],
+      "keywords": [
+        "serve immediately"
+      ],
+      "sentences": [
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [],
+        "verbs": [
+          "serve"
+        ],
+        "lemmas": [
+          "serve",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Bowl",
+      "page": 10,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 10,
+      "paragraphs": [
+        "-",
+        "1/2 cup cooked quinoa",
+        "-",
+        "1/4 cup black beans, rinsed and drained",
+        "-",
+        "1/4 cup diced avocado",
+        "-",
+        "1/4 cup cherry tomatoes, halved",
+        "-",
+        "1 large egg, poached or fried",
+        "-",
+        "Salt and pepper to taste",
+        "-",
+        "1 tablespoon olive oil"
+      ],
+      "keywords": [
+        "cup cooked quinoa",
+        "cup black beans",
+        "cup diced avocad",
+        "cup cherry tomatoes",
+        "tablespoon olive oil",
+        "fried salt",
+        "salt and pepper",
+        "rinsed and drained",
+        "large egg",
+        "poached or fried"
+      ],
+      "sentences": [
+        "1/2 cup cooked quinoa 1/4 cup black beans, rinsed and drained 1/4 cup diced avocado 1/4 cup cherry tomatoes, halved 1 large egg, poached or fried Salt and pepper to taste 1 tablespoon olive oil"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/2",
+          "cup",
+          "cooked",
+          "quinoa",
+          "1/4",
+          "cup",
+          "black",
+          "beans",
+          "rinsed",
+          "drained",
+          "1/4",
+          "cup",
+          "diced",
+          "avocado",
+          "1/4",
+          "cup",
+          "cherry",
+          "tomatoes",
+          "halved",
+          "1",
+          "large",
+          "egg",
+          "poached",
+          "fried",
+          "Salt",
+          "pepper",
+          "taste",
+          "1",
+          "tablespoon",
+          "olive",
+          "oil"
+        ],
+        "nouns": [
+          "egg",
+          "avocado",
+          "cup",
+          "tomato",
+          "oil",
+          "salt",
+          "bean",
+          "olive",
+          "cherry",
+          "pepper",
+          "tablespoon"
+        ],
+        "verbs": [
+          "halve",
+          "rinse",
+          "fry",
+          "dice",
+          "cook",
+          "drain",
+          "taste",
+          "poach"
+        ],
+        "lemmas": [
+          "cup",
+          "tomato",
+          "oil",
+          "1",
+          "avocado",
+          "cook",
+          "1/2",
+          "drain",
+          "black",
+          "bean",
+          "olive",
+          "poach",
+          "fry",
+          "large",
+          "quinoa",
+          "salt",
+          "cherry",
+          "pepper",
+          "egg",
+          "halve",
+          "rinse",
+          "dice",
+          "1/4",
+          "taste",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 10,
+      "paragraphs": [
+        "-",
+        "In a bowl, combine quinoa, black beans, avocado, and cherry tomatoes.",
+        "-",
+        "Top with the poached or fried egg.",
+        "-",
+        "Drizzle with olive oil and season with salt and pepper.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "combine quinoa",
+        "black beans",
+        "cherry tomatoes",
+        "avocad",
+        "bowl",
+        "fried egg",
+        "poached or fried",
+        "serve immediately",
+        "drizzle with olive",
+        "salt and pepper"
+      ],
+      "sentences": [
+        "In a bowl, combine quinoa, black beans, avocado, and cherry tomatoes.",
+        "Top with the poached or fried egg.",
+        "Drizzle with olive oil and season with salt and pepper.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "combine",
+          "quinoa",
+          "black",
+          "beans",
+          "avocado",
+          "cherry",
+          "tomatoes",
+          "poached",
+          "fried",
+          "egg",
+          "Drizzle",
+          "olive",
+          "oil",
+          "season",
+          "salt",
+          "pepper",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "egg",
+          "tomato",
+          "oil",
+          "bowl",
+          "bean",
+          "olive",
+          "cherry",
+          "salt",
+          "pepper",
+          "season"
+        ],
+        "verbs": [
+          "avocado",
+          "combine",
+          "serve"
+        ],
+        "lemmas": [
+          "tomato",
+          "fried",
+          "oil",
+          "Drizzle",
+          "serve",
+          "poached",
+          "season",
+          "avocado",
+          "bean",
+          "black",
+          "olive",
+          "combine",
+          "quinoa",
+          "salt",
+          "cherry",
+          "pepper",
+          "egg",
+          "bowl",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Croissant",
+      "page": 10,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 10,
+      "paragraphs": [
+        "-",
+        "1 croissant, sliced in half",
+        "-",
+        "1 large egg",
+        "-",
+        "1 slice of cheese",
+        "-",
+        "1 slice of ham or bacon",
+        "-",
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "slice of cheese",
+        "sliced in half",
+        "large egg",
+        "slice of ham",
+        "bacon salt",
+        "salt and pepper",
+        "pepper to taste",
+        "ham or bacon",
+        "croissant"
+      ],
+      "sentences": [
+        "1 croissant, sliced in half 1 large egg 1 slice of cheese 1 slice of ham or bacon Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "croissant",
+          "sliced",
+          "half",
+          "1",
+          "large",
+          "egg",
+          "1",
+          "slice",
+          "cheese",
+          "1",
+          "slice",
+          "ham",
+          "bacon",
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "egg",
+          "slice",
+          "cheese",
+          "pepper",
+          "ham",
+          "bacon"
+        ],
+        "verbs": [
+          "slice",
+          "taste"
+        ],
+        "lemmas": [
+          "slice",
+          "half",
+          "egg",
+          "croissant",
+          "large",
+          "Salt",
+          "taste",
+          "cheese",
+          "pepper",
+          "1",
+          "bacon",
+          "ham"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 10,
+      "paragraphs": [
+        "-",
+        "Cook the egg in a skillet over medium heat, seasoning with salt and pepper.",
+        "-",
+        "Place the cheese on top of the egg to melt.",
+        "-",
+        "Assemble the sandwich with the egg, cheese, and ham or bacon between the",
+        "croissant halves.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "medium heat",
+        "seasoning with salt",
+        "salt and pepper",
+        "skillet over medium",
+        "cook the egg",
+        "egg to melt",
+        "assemble the sandwich",
+        "croissant halves",
+        "serve immediately",
+        "place the cheese"
+      ],
+      "sentences": [
+        "Cook the egg in a skillet over medium heat, seasoning with salt and pepper.",
+        "Place the cheese on top of the egg to melt.",
+        "Assemble the sandwich with the egg, cheese, and ham or bacon between the croissant halves.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Cook",
+          "egg",
+          "skillet",
+          "medium",
+          "heat",
+          "seasoning",
+          "salt",
+          "pepper",
+          "Place",
+          "cheese",
+          "egg",
+          "melt",
+          "Assemble",
+          "sandwich",
+          "egg",
+          "cheese",
+          "ham",
+          "bacon",
+          "croissant",
+          "halves",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "egg",
+          "half",
+          "heat",
+          "skillet",
+          "sandwich",
+          "salt",
+          "cheese",
+          "pepper",
+          "bacon"
+        ],
+        "verbs": [
+          "assemble",
+          "cook",
+          "melt",
+          "place",
+          "serve",
+          "season"
+        ],
+        "lemmas": [
+          "medium",
+          "half",
+          "sandwich",
+          "serve",
+          "season",
+          "bacon",
+          "cook",
+          "melt",
+          "heat",
+          "croissant",
+          "assemble",
+          "skillet",
+          "salt",
+          "place",
+          "cheese",
+          "pepper",
+          "ham",
+          "egg",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Frittata",
+      "page": 10,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 10,
+      "paragraphs": [
+        "-",
+        "6 large eggs",
+        "-",
+        "1/4 cup milk",
+        "-",
+        "1/2 cup shredded cheese",
+        "-",
+        "1/4 cup diced bell pepper"
+      ],
+      "keywords": [
+        "cup shredded cheese",
+        "diced bell pepper",
+        "cup diced bell",
+        "large eggs",
+        "cup milk"
+      ],
+      "sentences": [
+        "6 large eggs 1/4 cup milk 1/2 cup shredded cheese 1/4 cup diced bell pepper"
+      ],
+      "semantic": {
+        "tokens": [
+          "6",
+          "large",
+          "eggs",
+          "1/4",
+          "cup",
+          "milk",
+          "1/2",
+          "cup",
+          "shredded",
+          "cheese",
+          "1/4",
+          "cup",
+          "diced",
+          "bell",
+          "pepper"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "milk",
+          "cheese",
+          "pepper",
+          "bell"
+        ],
+        "verbs": [
+          "shred",
+          "dice"
+        ],
+        "lemmas": [
+          "egg",
+          "cup",
+          "6",
+          "dice",
+          "large",
+          "1/2",
+          "milk",
+          "cheese",
+          "pepper",
+          "1/4",
+          "shred",
+          "bell"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 11,
+      "paragraphs": [
+        "1/4 cup diced onion"
+      ],
+      "keywords": [
+        "cup diced onion"
+      ],
+      "sentences": [
+        "1/4 cup diced onion"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/4",
+          "cup",
+          "diced",
+          "onion"
+        ],
+        "nouns": [
+          "onion",
+          "cup"
+        ],
+        "verbs": [
+          "dice"
+        ],
+        "lemmas": [
+          "onion",
+          "dice",
+          "cup",
+          "1/4"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 11,
+      "paragraphs": [
+        "1/4 cup cooked sausage or bacon"
+      ],
+      "keywords": [
+        "cup cooked sausage",
+        "sausage or bacon"
+      ],
+      "sentences": [
+        "1/4 cup cooked sausage or bacon"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/4",
+          "cup",
+          "cooked",
+          "sausage",
+          "bacon"
+        ],
+        "nouns": [
+          "cup",
+          "sausage",
+          "bacon"
+        ],
+        "verbs": [
+          "cook"
+        ],
+        "lemmas": [
+          "cup",
+          "cook",
+          "sausage",
+          "1/4",
+          "bacon"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 11,
+      "paragraphs": [
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "salt and pepper",
+        "pepper to taste"
+      ],
+      "sentences": [
+        "Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "salt",
+          "pepper"
+        ],
+        "verbs": [
+          "taste"
+        ],
+        "lemmas": [
+          "salt",
+          "taste",
+          "pepper"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 11,
+      "paragraphs": [
+        "1 tablespoon olive oil"
+      ],
+      "keywords": [
+        "tablespoon olive oil"
+      ],
+      "sentences": [
+        "1 tablespoon olive oil"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "tablespoon",
+          "olive",
+          "oil"
+        ],
+        "nouns": [
+          "olive",
+          "oil",
+          "tablespoon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "1",
+          "oil",
+          "olive",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 11,
+      "paragraphs": [
+        "-",
+        "Preheat oven to 350F (175C).",
+        "-",
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "-",
+        "Stir in cheese, bell pepper, onion, and sausage or bacon.",
+        "-",
+        "Heat olive oil in a skillet over medium heat.",
+        "-",
+        "Pour the egg mixture into the skillet and cook until the edges are set.",
+        "-",
+        "Transfer the skillet to the oven and bake for 15-20 minutes or until the eggs are set.",
+        "-",
+        "Let cool slightly before slicing and serving."
+      ],
+      "keywords": [
+        "preheat oven",
+        "skillet",
+        "bell pepper",
+        "stir in cheese",
+        "milk",
+        "salt",
+        "edges are set",
+        "sausage or bacon",
+        "bowl",
+        "nion"
+      ],
+      "sentences": [
+        "Preheat oven to 350F (175C).",
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "Stir in cheese, bell pepper, onion, and sausage or bacon.",
+        "Heat olive oil in a skillet over medium heat.",
+        "Pour the egg mixture into the skillet and cook until the edges are set.",
+        "Transfer the skillet to the oven and bake for 15-20 minutes or until the eggs are set.",
+        "Let cool slightly before slicing and serving."
+      ],
+      "semantic": {
+        "tokens": [
+          "Preheat",
+          "oven",
+          "350F",
+          "175C",
+          "bowl",
+          "whisk",
+          "eggs",
+          "milk",
+          "salt",
+          "pepper",
+          "Stir",
+          "cheese",
+          "bell",
+          "pepper",
+          "onion",
+          "sausage",
+          "bacon",
+          "Heat",
+          "olive",
+          "oil",
+          "skillet",
+          "medium",
+          "heat",
+          "Pour",
+          "egg",
+          "mixture",
+          "skillet",
+          "cook",
+          "edges",
+          "set",
+          "Transfer",
+          "skillet",
+          "oven",
+          "bake",
+          "15",
+          "20",
+          "minutes",
+          "eggs",
+          "set",
+          "Let",
+          "cool",
+          "slightly",
+          "slicing",
+          "serving"
+        ],
+        "nouns": [
+          "sausage",
+          "oil",
+          "milk",
+          "minute",
+          "bacon",
+          "cook",
+          "onion",
+          "olive",
+          "heat",
+          "skillet",
+          "mixture",
+          "salt",
+          "cheese",
+          "edge",
+          "pepper",
+          "bell",
+          "egg",
+          "preheat",
+          "bowl"
+        ],
+        "verbs": [
+          "slice",
+          "let",
+          "set",
+          "whisk",
+          "bake",
+          "serve",
+          "transfer",
+          "stir",
+          "pour",
+          "oven"
+        ],
+        "lemmas": [
+          "medium",
+          "20",
+          "bake",
+          "sausage",
+          "oil",
+          "milk",
+          "minute",
+          "serve",
+          "pour",
+          "350F",
+          "bacon",
+          "let",
+          "slightly",
+          "whisk",
+          "set",
+          "cook",
+          "onion",
+          "olive",
+          "transfer",
+          "oven",
+          "175C",
+          "slice",
+          "heat",
+          "skillet",
+          "mixture",
+          "salt",
+          "cheese",
+          "edge",
+          "pepper",
+          "stir",
+          "bell",
+          "cool",
+          "egg",
+          "preheat",
+          "bowl",
+          "15"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Breakfast Bagel Sandwich",
+      "page": 11,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 11,
+      "paragraphs": [
+        "-",
+        "1 bagel, sliced and toasted",
+        "-",
+        "1 large egg",
+        "-",
+        "1 slice of cheese",
+        "-",
+        "1 slice of ham or bacon",
+        "-",
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "slice of cheese",
+        "sliced and toasted",
+        "large egg",
+        "slice of ham",
+        "bacon salt",
+        "salt and pepper",
+        "pepper to taste",
+        "ham or bacon",
+        "bagel"
+      ],
+      "sentences": [
+        "1 bagel, sliced and toasted 1 large egg 1 slice of cheese 1 slice of ham or bacon Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "bagel",
+          "sliced",
+          "toasted",
+          "1",
+          "large",
+          "egg",
+          "1",
+          "slice",
+          "cheese",
+          "1",
+          "slice",
+          "ham",
+          "bacon",
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "egg",
+          "slice",
+          "bagel",
+          "cheese",
+          "pepper",
+          "bacon",
+          "ham"
+        ],
+        "verbs": [
+          "slice",
+          "toast",
+          "taste"
+        ],
+        "lemmas": [
+          "slice",
+          "egg",
+          "toast",
+          "bagel",
+          "large",
+          "Salt",
+          "taste",
+          "cheese",
+          "pepper",
+          "1",
+          "bacon",
+          "ham"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 11,
+      "paragraphs": [
+        "-",
+        "Cook the egg in a skillet over medium heat, seasoning with salt and pepper.",
+        "-",
+        "Place the cheese on top of the egg to melt.",
+        "-",
+        "Assemble the sandwich with the egg, cheese, and ham or bacon between the bagel",
+        "halves.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "medium heat",
+        "seasoning with salt",
+        "salt and pepper",
+        "skillet over medium",
+        "cook the egg",
+        "egg to melt",
+        "assemble the sandwich",
+        "bagel halves",
+        "serve immediately",
+        "place the cheese"
+      ],
+      "sentences": [
+        "Cook the egg in a skillet over medium heat, seasoning with salt and pepper.",
+        "Place the cheese on top of the egg to melt.",
+        "Assemble the sandwich with the egg, cheese, and ham or bacon between the bagel halves.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Cook",
+          "egg",
+          "skillet",
+          "medium",
+          "heat",
+          "seasoning",
+          "salt",
+          "pepper",
+          "Place",
+          "cheese",
+          "egg",
+          "melt",
+          "Assemble",
+          "sandwich",
+          "egg",
+          "cheese",
+          "ham",
+          "bacon",
+          "bagel",
+          "halves",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "egg",
+          "half",
+          "heat",
+          "skillet",
+          "sandwich",
+          "salt",
+          "cheese",
+          "pepper",
+          "bacon"
+        ],
+        "verbs": [
+          "assemble",
+          "cook",
+          "melt",
+          "place",
+          "serve",
+          "season"
+        ],
+        "lemmas": [
+          "medium",
+          "half",
+          "sandwich",
+          "serve",
+          "season",
+          "bacon",
+          "cook",
+          "bagel",
+          "melt",
+          "heat",
+          "assemble",
+          "skillet",
+          "salt",
+          "place",
+          "cheese",
+          "pepper",
+          "ham",
+          "egg",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Overnight Oats",
+      "page": 11,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 11,
+      "paragraphs": [
+        "-",
+        "1/2 cup rolled oats",
+        "-",
+        "1/2 cup almond milk",
+        "-",
+        "1 tablespoon chia seeds",
+        "-",
+        "1 tablespoon honey or maple syrup",
+        "-",
+        "1/2 teaspoon vanilla extract",
+        "-",
+        "Toppings: fresh fruit, nuts, seeds"
+      ],
+      "keywords": [
+        "vanilla extract toppings",
+        "tablespoon chia seeds",
+        "cup rolled oats",
+        "cup almond milk",
+        "teaspoon vanilla extract",
+        "fresh fruit",
+        "tablespoon honey",
+        "maple syrup",
+        "honey or maple",
+        "nuts"
+      ],
+      "sentences": [
+        "1/2 cup rolled oats 1/2 cup almond milk 1 tablespoon chia seeds 1 tablespoon honey or maple syrup 1/2 teaspoon vanilla extract Toppings: fresh fruit, nuts, seeds"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/2",
+          "cup",
+          "rolled",
+          "oats",
+          "1/2",
+          "cup",
+          "almond",
+          "milk",
+          "1",
+          "tablespoon",
+          "chia",
+          "seeds",
+          "1",
+          "tablespoon",
+          "honey",
+          "maple",
+          "syrup",
+          "1/2",
+          "teaspoon",
+          "vanilla",
+          "extract",
+          "Toppings",
+          "fresh",
+          "fruit",
+          "nuts",
+          "seeds"
+        ],
+        "nouns": [
+          "chia",
+          "cup",
+          "seed",
+          "nut",
+          "vanilla",
+          "syrup",
+          "milk",
+          "maple",
+          "teaspoon",
+          "honey",
+          "topping",
+          "almond",
+          "fruit",
+          "tablespoon"
+        ],
+        "verbs": [
+          "extract",
+          "roll",
+          "seed"
+        ],
+        "lemmas": [
+          "cup",
+          "roll",
+          "milk",
+          "maple",
+          "1",
+          "fresh",
+          "chia",
+          "oats",
+          "vanilla",
+          "1/2",
+          "extract",
+          "honey",
+          "almond",
+          "fruit",
+          "seed",
+          "teaspoon",
+          "nut",
+          "syrup",
+          "topping",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 11,
+      "paragraphs": [
+        "-",
+        "In a jar, combine oats, almond milk, chia seeds, honey or maple syrup, and vanilla",
+        "extract.",
+        "-",
+        "Stir well, cover, and refrigerate overnight."
+      ],
+      "keywords": [
+        "combine oats",
+        "almond milk",
+        "chia seeds",
+        "honey or maple",
+        "maple syrup",
+        "vanilla extract",
+        "jar",
+        "cover",
+        "refrigerate overnight",
+        "stir"
+      ],
+      "sentences": [
+        "In a jar, combine oats, almond milk, chia seeds, honey or maple syrup, and vanilla extract.",
+        "Stir well, cover, and refrigerate overnight."
+      ],
+      "semantic": {
+        "tokens": [
+          "jar",
+          "combine",
+          "oats",
+          "almond",
+          "milk",
+          "chia",
+          "seeds",
+          "honey",
+          "maple",
+          "syrup",
+          "vanilla",
+          "extract",
+          "Stir",
+          "cover",
+          "refrigerate",
+          "overnight"
+        ],
+        "nouns": [
+          "vanilla",
+          "extract",
+          "syrup",
+          "milk",
+          "jar",
+          "maple",
+          "honey",
+          "oat"
+        ],
+        "verbs": [
+          "combine",
+          "cover",
+          "refrigerate",
+          "stir"
+        ],
+        "lemmas": [
+          "combine",
+          "chia",
+          "vanilla",
+          "extract",
+          "syrup",
+          "milk",
+          "jar",
+          "maple",
+          "seeds",
+          "overnight",
+          "honey",
+          "stir",
+          "refrigerate",
+          "cover",
+          "almond",
+          "oat"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 12,
+      "paragraphs": [
+        "In the morning, stir again and add your favorite toppings."
+      ],
+      "keywords": [
+        "favorite toppings",
+        "add your favorite",
+        "morning",
+        "stir"
+      ],
+      "sentences": [
+        "In the morning, stir again and add your favorite toppings."
+      ],
+      "semantic": {
+        "tokens": [
+          "morning",
+          "stir",
+          "add",
+          "favorite",
+          "toppings"
+        ],
+        "nouns": [
+          "topping",
+          "morning"
+        ],
+        "verbs": [
+          "add",
+          "stir"
+        ],
+        "lemmas": [
+          "morning",
+          "add",
+          "favorite",
+          "stir",
+          "topping"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Egg Muffins",
+      "page": 12,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 12,
+      "paragraphs": [
+        "-",
+        "6 large eggs",
+        "-",
+        "1/4 cup milk",
+        "-",
+        "1/2 cup diced bell pepper",
+        "-",
+        "1/2 cup diced spinach",
+        "-",
+        "1/4 cup shredded cheese",
+        "-",
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "shredded cheese salt",
+        "cup diced spinach",
+        "cup shredded cheese",
+        "cup diced bell",
+        "diced bell pepper",
+        "large eggs",
+        "cup milk",
+        "salt and pepper",
+        "pepper to taste"
+      ],
+      "sentences": [
+        "6 large eggs 1/4 cup milk 1/2 cup diced bell pepper 1/2 cup diced spinach 1/4 cup shredded cheese Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "6",
+          "large",
+          "eggs",
+          "1/4",
+          "cup",
+          "milk",
+          "1/2",
+          "cup",
+          "diced",
+          "bell",
+          "pepper",
+          "1/2",
+          "cup",
+          "diced",
+          "spinach",
+          "1/4",
+          "cup",
+          "shredded",
+          "cheese",
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "egg",
+          "cup",
+          "spinach",
+          "milk",
+          "salt",
+          "cheese",
+          "pepper",
+          "bell"
+        ],
+        "verbs": [
+          "shred",
+          "taste",
+          "dice"
+        ],
+        "lemmas": [
+          "egg",
+          "cup",
+          "6",
+          "dice",
+          "large",
+          "1/2",
+          "spinach",
+          "milk",
+          "salt",
+          "cheese",
+          "pepper",
+          "1/4",
+          "shred",
+          "taste",
+          "bell"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 12,
+      "paragraphs": [
+        "-",
+        "Preheat oven to 350F (175C).",
+        "-",
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "-",
+        "Stir in bell pepper, spinach, and cheese.",
+        "-",
+        "Pour the mixture into a greased muffin tin.",
+        "-",
+        "Bake for 20-25 minutes or until the eggs are set.",
+        "-",
+        "Let cool before removing from the tin."
+      ],
+      "keywords": [
+        "preheat oven",
+        "milk",
+        "salt",
+        "bell pepper",
+        "spinach",
+        "bowl",
+        "stir in bell",
+        "cheese",
+        "pour the mixture",
+        "set"
+      ],
+      "sentences": [
+        "Preheat oven to 350F (175C).",
+        "In a bowl, whisk together eggs, milk, salt, and pepper.",
+        "Stir in bell pepper, spinach, and cheese.",
+        "Pour the mixture into a greased muffin tin.",
+        "Bake for 20-25 minutes or until the eggs are set.",
+        "Let cool before removing from the tin."
+      ],
+      "semantic": {
+        "tokens": [
+          "Preheat",
+          "oven",
+          "350F",
+          "175C",
+          "bowl",
+          "whisk",
+          "eggs",
+          "milk",
+          "salt",
+          "pepper",
+          "Stir",
+          "bell",
+          "pepper",
+          "spinach",
+          "cheese",
+          "Pour",
+          "mixture",
+          "greased",
+          "muffin",
+          "tin",
+          "Bake",
+          "20",
+          "25",
+          "minutes",
+          "eggs",
+          "set",
+          "Let",
+          "cool",
+          "removing",
+          "tin"
+        ],
+        "nouns": [
+          "egg",
+          "muffin",
+          "spinach",
+          "mixture",
+          "milk",
+          "preheat",
+          "bowl",
+          "salt",
+          "cheese",
+          "minute",
+          "pepper",
+          "tin"
+        ],
+        "verbs": [
+          "let",
+          "whisk",
+          "set",
+          "remove",
+          "grease",
+          "stir",
+          "pour",
+          "oven"
+        ],
+        "lemmas": [
+          "20",
+          "milk",
+          "minute",
+          "pour",
+          "350F",
+          "let",
+          "whisk",
+          "set",
+          "Bake",
+          "spinach",
+          "oven",
+          "175C",
+          "25",
+          "mixture",
+          "remove",
+          "salt",
+          "cheese",
+          "grease",
+          "pepper",
+          "stir",
+          "tin",
+          "bell",
+          "cool",
+          "egg",
+          "muffin",
+          "preheat",
+          "bowl"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Apple Peanut Butter Sandwiches",
+      "page": 12,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 12,
+      "paragraphs": [
+        "-",
+        "1 apple, cored and sliced into rings",
+        "-",
+        "2 tablespoons peanut butter",
+        "-",
+        "Optional toppings: granola, raisins, coconut flakes"
+      ],
+      "keywords": [
+        "butter optional toppings",
+        "peanut butter optional",
+        "tablespoons peanut butter",
+        "coconut flakes",
+        "apple",
+        "granola",
+        "raisins",
+        "cored and sliced",
+        "sliced into rings"
+      ],
+      "sentences": [
+        "1 apple, cored and sliced into rings 2 tablespoons peanut butter",
+        "Optional toppings: granola, raisins, coconut flakes"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "apple",
+          "cored",
+          "sliced",
+          "rings",
+          "2",
+          "tablespoons",
+          "peanut",
+          "butter",
+          "Optional",
+          "toppings",
+          "granola",
+          "raisins",
+          "coconut",
+          "flakes"
+        ],
+        "nouns": [
+          "apple",
+          "ring",
+          "butter",
+          "flake",
+          "coconut",
+          "raisin",
+          "peanut",
+          "topping",
+          "tablespoon"
+        ],
+        "verbs": [
+          "slice",
+          "core"
+        ],
+        "lemmas": [
+          "apple",
+          "slice",
+          "ring",
+          "2",
+          "Optional",
+          "butter",
+          "granola",
+          "flake",
+          "core",
+          "coconut",
+          "raisin",
+          "peanut",
+          "topping",
+          "1",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 12,
+      "paragraphs": [
+        "-",
+        "Spread peanut butter on one side of each apple ring.",
+        "-",
+        "Add optional toppings if desired.",
+        "-",
+        "Sandwich two apple rings together with the peanut butter sides facing in."
+      ],
+      "keywords": [
+        "spread peanut butter",
+        "toppings if desired",
+        "add optional toppings",
+        "apple ring",
+        "peanut butter sides",
+        "rings",
+        "butter sides facing",
+        "sandwich two apple"
+      ],
+      "sentences": [
+        "Spread peanut butter on one side of each apple ring.",
+        "Add optional toppings if desired.",
+        "Sandwich two apple rings together with the peanut butter sides facing in."
+      ],
+      "semantic": {
+        "tokens": [
+          "Spread",
+          "peanut",
+          "butter",
+          "apple",
+          "ring",
+          "Add",
+          "optional",
+          "toppings",
+          "desired",
+          "Sandwich",
+          "apple",
+          "rings",
+          "peanut",
+          "butter",
+          "sides",
+          "facing"
+        ],
+        "nouns": [
+          "apple",
+          "ring",
+          "butter",
+          "side",
+          "sandwich",
+          "peanut",
+          "topping"
+        ],
+        "verbs": [
+          "face",
+          "desire",
+          "add",
+          "spread"
+        ],
+        "lemmas": [
+          "apple",
+          "ring",
+          "butter",
+          "side",
+          "optional",
+          "spread",
+          "sandwich",
+          "face",
+          "desire",
+          "add",
+          "peanut",
+          "topping"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Protein Smoothie",
+      "page": 12,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 12,
+      "paragraphs": [
+        "-",
+        "1 banana",
+        "-",
+        "1/2 cup Greek yogurt",
+        "-",
+        "1/2 cup almond milk",
+        "-",
+        "1 scoop protein powder",
+        "-",
+        "1 tablespoon peanut butter"
+      ],
+      "keywords": [
+        "cup greek yogurt",
+        "cup almond milk",
+        "scoop protein powder",
+        "tablespoon peanut butter",
+        "banana"
+      ],
+      "sentences": [
+        "1 banana 1/2 cup Greek yogurt 1/2 cup almond milk 1 scoop protein powder 1 tablespoon peanut butter"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "banana",
+          "1/2",
+          "cup",
+          "Greek",
+          "yogurt",
+          "1/2",
+          "cup",
+          "almond",
+          "milk",
+          "1",
+          "scoop",
+          "protein",
+          "powder",
+          "1",
+          "tablespoon",
+          "peanut",
+          "butter"
+        ],
+        "nouns": [
+          "cup",
+          "powder",
+          "butter",
+          "scoop",
+          "banana",
+          "protein",
+          "milk",
+          "yogurt",
+          "peanut",
+          "almond",
+          "tablespoon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "cup",
+          "powder",
+          "butter",
+          "scoop",
+          "1/2",
+          "banana",
+          "protein",
+          "milk",
+          "yogurt",
+          "Greek",
+          "peanut",
+          "1",
+          "almond",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 12,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 13,
+      "paragraphs": [
+        "In a blender, combine banana, Greek yogurt, almond milk, protein powder, and",
+        "peanut butter."
+      ],
+      "keywords": [
+        "greek yogurt",
+        "combine banana",
+        "almond milk",
+        "protein powder",
+        "peanut butter",
+        "blender"
+      ],
+      "sentences": [
+        "In a blender, combine banana, Greek yogurt, almond milk, protein powder, and peanut butter."
+      ],
+      "semantic": {
+        "tokens": [
+          "blender",
+          "combine",
+          "banana",
+          "Greek",
+          "yogurt",
+          "almond",
+          "milk",
+          "protein",
+          "powder",
+          "peanut",
+          "butter"
+        ],
+        "nouns": [
+          "powder",
+          "butter",
+          "blender",
+          "protein",
+          "milk",
+          "peanut",
+          "almond"
+        ],
+        "verbs": [
+          "combine"
+        ],
+        "lemmas": [
+          "combine",
+          "powder",
+          "butter",
+          "blender",
+          "banana",
+          "protein",
+          "milk",
+          "yogurt",
+          "Greek",
+          "peanut",
+          "almond"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 13,
+      "paragraphs": [
+        "Blend until smooth."
+      ],
+      "keywords": [
+        "blend until smooth"
+      ],
+      "sentences": [
+        "Blend until smooth."
+      ],
+      "semantic": {
+        "tokens": [
+          "Blend",
+          "smooth"
+        ],
+        "nouns": [],
+        "verbs": [],
+        "lemmas": [
+          "smooth",
+          "Blend"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 13,
+      "paragraphs": [
+        "Serve immediately."
+      ],
+      "keywords": [
+        "serve immediately"
+      ],
+      "sentences": [
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [],
+        "verbs": [
+          "serve"
+        ],
+        "lemmas": [
+          "serve",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Cottage Cheese and Fruit",
+      "page": 13,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 13,
+      "paragraphs": [
+        "-",
+        "1 cup cottage cheese",
+        "-",
+        "1/2 cup fresh berries",
+        "-",
+        "1 tablespoon honey"
+      ],
+      "keywords": [
+        "cup cottage cheese",
+        "cup fresh berries",
+        "tablespoon honey"
+      ],
+      "sentences": [
+        "1 cup cottage cheese 1/2 cup fresh berries 1 tablespoon honey"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "cup",
+          "cottage",
+          "cheese",
+          "1/2",
+          "cup",
+          "fresh",
+          "berries",
+          "1",
+          "tablespoon",
+          "honey"
+        ],
+        "nouns": [
+          "cup",
+          "cottage",
+          "cheese",
+          "honey",
+          "berry",
+          "tablespoon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "cup",
+          "1/2",
+          "cottage",
+          "cheese",
+          "honey",
+          "berry",
+          "1",
+          "fresh",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 13,
+      "paragraphs": [
+        "-",
+        "In a bowl, combine cottage cheese and fresh berries.",
+        "-",
+        "Drizzle with honey.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "combine cottage cheese",
+        "fresh berries",
+        "cheese and fresh",
+        "bowl",
+        "drizzle with honey",
+        "serve immediately"
+      ],
+      "sentences": [
+        "In a bowl, combine cottage cheese and fresh berries.",
+        "Drizzle with honey.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "combine",
+          "cottage",
+          "cheese",
+          "fresh",
+          "berries",
+          "Drizzle",
+          "honey",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "cottage",
+          "bowl",
+          "cheese",
+          "honey",
+          "berry"
+        ],
+        "verbs": [
+          "combine",
+          "serve"
+        ],
+        "lemmas": [
+          "combine",
+          "cottage",
+          "bowl",
+          "Drizzle",
+          "cheese",
+          "serve",
+          "honey",
+          "berry",
+          "fresh",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Veggie Wrap",
+      "page": 13,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 13,
+      "paragraphs": [
+        "-",
+        "1 large whole wheat tortilla",
+        "-",
+        "1/4 cup hummus",
+        "-",
+        "1/4 cup shredded carrots",
+        "-",
+        "1/4 cup sliced cucumber",
+        "-",
+        "1/4 cup baby spinach",
+        "-",
+        "1/4 cup sliced bell pepper"
+      ],
+      "keywords": [
+        "cup sliced cucumber",
+        "cup shredded carrots",
+        "cup baby spinach",
+        "cup sliced bell",
+        "sliced bell pepper",
+        "cup hummus",
+        "large whole wheat",
+        "wheat tortilla"
+      ],
+      "sentences": [
+        "1 large whole wheat tortilla 1/4 cup hummus 1/4 cup shredded carrots 1/4 cup sliced cucumber 1/4 cup baby spinach 1/4 cup sliced bell pepper"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "large",
+          "wheat",
+          "tortilla",
+          "1/4",
+          "cup",
+          "hummus",
+          "1/4",
+          "cup",
+          "shredded",
+          "carrots",
+          "1/4",
+          "cup",
+          "sliced",
+          "cucumber",
+          "1/4",
+          "cup",
+          "baby",
+          "spinach",
+          "1/4",
+          "cup",
+          "sliced",
+          "bell",
+          "pepper"
+        ],
+        "nouns": [
+          "wheat",
+          "cup",
+          "carrot",
+          "baby",
+          "spinach",
+          "hummus",
+          "pepper",
+          "tortilla",
+          "bell"
+        ],
+        "verbs": [
+          "shred",
+          "slice"
+        ],
+        "lemmas": [
+          "slice",
+          "wheat",
+          "cup",
+          "carrot",
+          "shred",
+          "large",
+          "baby",
+          "spinach",
+          "hummus",
+          "pepper",
+          "1/4",
+          "tortilla",
+          "1",
+          "cucumber",
+          "bell"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 13,
+      "paragraphs": [
+        "-",
+        "Spread hummus on the tortilla.",
+        "-",
+        "Layer with shredded carrots, cucumber, spinach, and bell pepper.",
+        "-",
+        "Roll up the tortilla tightly.",
+        "-",
+        "Slice in half and serve."
+      ],
+      "keywords": [
+        "spread hummus",
+        "cucumber",
+        "spinach",
+        "layer with shredded",
+        "shredded carrots",
+        "bell pepper",
+        "tortilla tightly",
+        "roll",
+        "slice in half",
+        "half and serve"
+      ],
+      "sentences": [
+        "Spread hummus on the tortilla.",
+        "Layer with shredded carrots, cucumber, spinach, and bell pepper.",
+        "Roll up the tortilla tightly.",
+        "Slice in half and serve."
+      ],
+      "semantic": {
+        "tokens": [
+          "Spread",
+          "hummus",
+          "tortilla",
+          "Layer",
+          "shredded",
+          "carrots",
+          "cucumber",
+          "spinach",
+          "bell",
+          "pepper",
+          "Roll",
+          "tortilla",
+          "tightly",
+          "Slice",
+          "half",
+          "serve"
+        ],
+        "nouns": [
+          "slice",
+          "half",
+          "layer",
+          "carrot",
+          "spinach",
+          "hummus",
+          "pepper",
+          "tortilla",
+          "bell"
+        ],
+        "verbs": [
+          "roll",
+          "serve",
+          "spread"
+        ],
+        "lemmas": [
+          "slice",
+          "half",
+          "layer",
+          "tightly",
+          "carrot",
+          "shredded",
+          "spinach",
+          "spread",
+          "roll",
+          "serve",
+          "hummus",
+          "pepper",
+          "tortilla",
+          "cucumber",
+          "bell"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Almond Butter Banana Toast",
+      "page": 13,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 13,
+      "paragraphs": [
+        "-",
+        "2 slices whole grain bread, toasted",
+        "-",
+        "2 tablespoons almond butter",
+        "-",
+        "1 banana, sliced",
+        "-",
+        "1 teaspoon chia seeds"
+      ],
+      "keywords": [
+        "tablespoons almond butter",
+        "teaspoon chia seeds",
+        "slices whole grain",
+        "grain bread",
+        "toasted",
+        "banana",
+        "sliced"
+      ],
+      "sentences": [
+        "2 slices whole grain bread, toasted 2 tablespoons almond butter 1 banana, sliced 1 teaspoon chia seeds"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "slices",
+          "grain",
+          "bread",
+          "toasted",
+          "2",
+          "tablespoons",
+          "almond",
+          "butter",
+          "1",
+          "banana",
+          "sliced",
+          "1",
+          "teaspoon",
+          "chia",
+          "seeds"
+        ],
+        "nouns": [
+          "slice",
+          "bread",
+          "seed",
+          "butter",
+          "banana",
+          "teaspoon",
+          "grain",
+          "almond",
+          "tablespoon"
+        ],
+        "verbs": [
+          "slice",
+          "toast"
+        ],
+        "lemmas": [
+          "slice",
+          "toast",
+          "bread",
+          "2",
+          "butter",
+          "chia",
+          "seed",
+          "banana",
+          "teaspoon",
+          "grain",
+          "1",
+          "almond",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 13,
+      "paragraphs": [
+        "-",
+        "Spread almond butter on the toasted bread."
+      ],
+      "keywords": [
+        "spread almond butter",
+        "toasted bread"
+      ],
+      "sentences": [
+        "Spread almond butter on the toasted bread."
+      ],
+      "semantic": {
+        "tokens": [
+          "Spread",
+          "almond",
+          "butter",
+          "toasted",
+          "bread"
+        ],
+        "nouns": [
+          "bread",
+          "butter"
+        ],
+        "verbs": [
+          "spread"
+        ],
+        "lemmas": [
+          "bread",
+          "butter",
+          "toasted",
+          "spread",
+          "almond"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 14,
+      "paragraphs": [
+        "Top with banana slices and sprinkle with chia seeds."
+      ],
+      "keywords": [
+        "top with banana",
+        "chia seeds",
+        "banana slices",
+        "slices and sprinkle",
+        "sprinkle with chia"
+      ],
+      "sentences": [
+        "Top with banana slices and sprinkle with chia seeds."
+      ],
+      "semantic": {
+        "tokens": [
+          "banana",
+          "slices",
+          "sprinkle",
+          "chia",
+          "seeds"
+        ],
+        "nouns": [
+          "slice",
+          "banana",
+          "seed"
+        ],
+        "verbs": [
+          "sprinkle"
+        ],
+        "lemmas": [
+          "slice",
+          "chia",
+          "sprinkle",
+          "banana",
+          "seed"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 14,
+      "paragraphs": [
+        "Serve immediately."
+      ],
+      "keywords": [
+        "serve immediately"
+      ],
+      "sentences": [
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [],
+        "verbs": [
+          "serve"
+        ],
+        "lemmas": [
+          "serve",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Greek Yogurt with Honey and Nuts",
+      "page": 14,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 14,
+      "paragraphs": [
+        "-",
+        "1 cup Greek yogurt",
+        "-",
+        "1 tablespoon honey",
+        "-",
+        "1/4 cup mixed nuts"
+      ],
+      "keywords": [
+        "cup greek yogurt",
+        "cup mixed nuts",
+        "tablespoon honey"
+      ],
+      "sentences": [
+        "1 cup Greek yogurt 1 tablespoon honey 1/4 cup mixed nuts"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "cup",
+          "Greek",
+          "yogurt",
+          "1",
+          "tablespoon",
+          "honey",
+          "1/4",
+          "cup",
+          "mixed",
+          "nuts"
+        ],
+        "nouns": [
+          "honey",
+          "cup",
+          "tablespoon",
+          "nut"
+        ],
+        "verbs": [
+          "mix"
+        ],
+        "lemmas": [
+          "mix",
+          "cup",
+          "nut",
+          "yogurt",
+          "Greek",
+          "honey",
+          "1/4",
+          "1",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 14,
+      "paragraphs": [
+        "-",
+        "In a bowl, combine Greek yogurt and honey.",
+        "-",
+        "Top with mixed nuts.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "combine greek yogurt",
+        "yogurt and honey",
+        "bowl",
+        "top with mixed",
+        "mixed nuts",
+        "serve immediately"
+      ],
+      "sentences": [
+        "In a bowl, combine Greek yogurt and honey.",
+        "Top with mixed nuts.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "combine",
+          "Greek",
+          "yogurt",
+          "honey",
+          "mixed",
+          "nuts",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "bowl",
+          "honey",
+          "nut"
+        ],
+        "verbs": [
+          "combine",
+          "serve"
+        ],
+        "lemmas": [
+          "mixed",
+          "combine",
+          "nut",
+          "yogurt",
+          "bowl",
+          "Greek",
+          "serve",
+          "honey",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Avocado and Egg Toast",
+      "page": 14,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 14,
+      "paragraphs": [
+        "-",
+        "2 slices whole grain bread, toasted",
+        "-",
+        "1 ripe avocado",
+        "-",
+        "1 large egg, poached or fried",
+        "-",
+        "Crushed red pepper flakes to taste",
+        "-",
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "fried crushed red",
+        "crushed red pepper",
+        "red pepper flakes",
+        "ripe avocad",
+        "large egg",
+        "taste salt",
+        "slices whole grain",
+        "grain bread",
+        "poached or fried",
+        "flakes to taste"
+      ],
+      "sentences": [
+        "2 slices whole grain bread, toasted 1 ripe avocado 1 large egg, poached or fried Crushed red pepper flakes to taste Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "2",
+          "slices",
+          "grain",
+          "bread",
+          "toasted",
+          "1",
+          "ripe",
+          "avocado",
+          "1",
+          "large",
+          "egg",
+          "poached",
+          "fried",
+          "Crushed",
+          "red",
+          "pepper",
+          "flakes",
+          "taste",
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "slice",
+          "egg",
+          "avocado",
+          "bread",
+          "flake",
+          "salt",
+          "grain",
+          "pepper"
+        ],
+        "verbs": [
+          "fry",
+          "toast",
+          "taste",
+          "poach"
+        ],
+        "lemmas": [
+          "slice",
+          "egg",
+          "avocado",
+          "toast",
+          "bread",
+          "2",
+          "fry",
+          "red",
+          "large",
+          "flake",
+          "salt",
+          "crushed",
+          "grain",
+          "pepper",
+          "ripe",
+          "1",
+          "taste",
+          "poach"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 14,
+      "paragraphs": [
+        "-",
+        "Mash the avocado and spread it on the toasted bread.",
+        "-",
+        "Top with the poached or fried egg.",
+        "-",
+        "Season with crushed red pepper flakes + salt and pepper.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "mash the avocad",
+        "toasted bread",
+        "avocado and spread",
+        "fried egg",
+        "poached or fried",
+        "red pepper flakes",
+        "serve immediately",
+        "season with crushed",
+        "top",
+        "crushed red pepper"
+      ],
+      "sentences": [
+        "Mash the avocado and spread it on the toasted bread.",
+        "Top with the poached or fried egg.",
+        "Season with crushed red pepper flakes + salt and pepper.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Mash",
+          "avocado",
+          "spread",
+          "toasted",
+          "bread",
+          "poached",
+          "fried",
+          "egg",
+          "Season",
+          "crushed",
+          "red",
+          "pepper",
+          "flakes",
+          "+",
+          "salt",
+          "pepper",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "egg",
+          "avocado",
+          "mash",
+          "bread",
+          "flake",
+          "salt",
+          "pepper",
+          "season"
+        ],
+        "verbs": [
+          "crush",
+          "serve",
+          "spread"
+        ],
+        "lemmas": [
+          "egg",
+          "avocado",
+          "mash",
+          "bread",
+          "red",
+          "+",
+          "toasted",
+          "fried",
+          "crush",
+          "flake",
+          "spread",
+          "salt",
+          "serve",
+          "pepper",
+          "poached",
+          "season",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Quinoa Breakfast Bowl",
+      "page": 14,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 14,
+      "paragraphs": [
+        "-",
+        "1/2 cup cooked quinoa",
+        "-",
+        "1/4 cup diced avocado",
+        "-",
+        "1/4 cup cherry tomatoes, halved",
+        "-",
+        "1 large egg, poached or fried",
+        "-",
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "cup cooked quinoa",
+        "cup diced avocad",
+        "cup cherry tomatoes",
+        "large egg",
+        "fried salt",
+        "salt and pepper",
+        "poached or fried",
+        "pepper to taste",
+        "halved"
+      ],
+      "sentences": [
+        "1/2 cup cooked quinoa 1/4 cup diced avocado 1/4 cup cherry tomatoes, halved 1 large egg, poached or fried Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/2",
+          "cup",
+          "cooked",
+          "quinoa",
+          "1/4",
+          "cup",
+          "diced",
+          "avocado",
+          "1/4",
+          "cup",
+          "cherry",
+          "tomatoes",
+          "halved",
+          "1",
+          "large",
+          "egg",
+          "poached",
+          "fried",
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "egg",
+          "avocado",
+          "cup",
+          "tomato",
+          "salt",
+          "cherry",
+          "pepper"
+        ],
+        "verbs": [
+          "halve",
+          "fry",
+          "dice",
+          "cook",
+          "taste",
+          "poach"
+        ],
+        "lemmas": [
+          "egg",
+          "halve",
+          "avocado",
+          "cup",
+          "fry",
+          "tomato",
+          "cook",
+          "dice",
+          "large",
+          "1/2",
+          "quinoa",
+          "salt",
+          "cherry",
+          "pepper",
+          "1/4",
+          "1",
+          "taste",
+          "poach"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 14,
+      "paragraphs": [
+        "-",
+        "In a bowl, combine cooked quinoa, avocado, and cherry tomatoes.",
+        "-",
+        "Top with the poached or fried egg.",
+        "-",
+        "Season with salt and pepper."
+      ],
+      "keywords": [
+        "combine cooked quinoa",
+        "cherry tomatoes",
+        "avocad",
+        "bowl",
+        "fried egg",
+        "poached or fried",
+        "season with salt",
+        "salt and pepper",
+        "top"
+      ],
+      "sentences": [
+        "In a bowl, combine cooked quinoa, avocado, and cherry tomatoes.",
+        "Top with the poached or fried egg.",
+        "Season with salt and pepper."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "combine",
+          "cooked",
+          "quinoa",
+          "avocado",
+          "cherry",
+          "tomatoes",
+          "poached",
+          "fried",
+          "egg",
+          "Season",
+          "salt",
+          "pepper"
+        ],
+        "nouns": [
+          "egg",
+          "tomato",
+          "bowl",
+          "salt",
+          "cherry",
+          "pepper",
+          "season"
+        ],
+        "verbs": [
+          "avocado",
+          "cook"
+        ],
+        "lemmas": [
+          "egg",
+          "avocado",
+          "combine",
+          "tomato",
+          "cook",
+          "fried",
+          "quinoa",
+          "bowl",
+          "salt",
+          "cherry",
+          "pepper",
+          "poached",
+          "season"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 15,
+      "paragraphs": [
+        "Serve immediately."
+      ],
+      "keywords": [
+        "serve immediately"
+      ],
+      "sentences": [
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [],
+        "verbs": [
+          "serve"
+        ],
+        "lemmas": [
+          "serve",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Berry and Spinach Smoothie",
+      "page": 15,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 15,
+      "paragraphs": [
+        "-",
+        "1/2 cup frozen berries",
+        "-",
+        "1/2 cup spinach",
+        "-",
+        "1/2 cup Greek yogurt",
+        "-",
+        "1/2 cup almond milk",
+        "-",
+        "1 tablespoon honey"
+      ],
+      "keywords": [
+        "cup greek yogurt",
+        "cup frozen berries",
+        "cup almond milk",
+        "tablespoon honey",
+        "cup spinach"
+      ],
+      "sentences": [
+        "1/2 cup frozen berries 1/2 cup spinach 1/2 cup Greek yogurt 1/2 cup almond milk 1 tablespoon honey"
+      ],
+      "semantic": {
+        "tokens": [
+          "1/2",
+          "cup",
+          "frozen",
+          "berries",
+          "1/2",
+          "cup",
+          "spinach",
+          "1/2",
+          "cup",
+          "Greek",
+          "yogurt",
+          "1/2",
+          "cup",
+          "almond",
+          "milk",
+          "1",
+          "tablespoon",
+          "honey"
+        ],
+        "nouns": [
+          "cup",
+          "milk",
+          "yogurt",
+          "honey",
+          "berry",
+          "almond",
+          "tablespoon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "tablespoon",
+          "cup",
+          "1/2",
+          "spinach",
+          "milk",
+          "yogurt",
+          "Greek",
+          "honey",
+          "berry",
+          "1",
+          "almond",
+          "frozen"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 15,
+      "paragraphs": [
+        "-",
+        "In a blender, combine frozen berries, spinach, Greek yogurt, almond milk, and honey.",
+        "-",
+        "Blend until smooth.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "greek yogurt",
+        "combine frozen berries",
+        "almond milk",
+        "spinach",
+        "blender",
+        "honey",
+        "blend until smooth",
+        "serve immediately"
+      ],
+      "sentences": [
+        "In a blender, combine frozen berries, spinach, Greek yogurt, almond milk, and honey.",
+        "Blend until smooth.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "blender",
+          "combine",
+          "frozen",
+          "berries",
+          "spinach",
+          "Greek",
+          "yogurt",
+          "almond",
+          "milk",
+          "honey",
+          "Blend",
+          "smooth",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "blender",
+          "spinach",
+          "milk",
+          "yogurt",
+          "honey",
+          "berry",
+          "almond"
+        ],
+        "verbs": [
+          "combine",
+          "serve",
+          "blend"
+        ],
+        "lemmas": [
+          "combine",
+          "blend",
+          "blender",
+          "smooth",
+          "spinach",
+          "milk",
+          "yogurt",
+          "Greek",
+          "serve",
+          "honey",
+          "immediately",
+          "berry",
+          "almond",
+          "frozen"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Fruit and Nut Bars",
+      "page": 15,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 15,
+      "paragraphs": [
+        "-",
+        "1 cup dates, pitted",
+        "-",
+        "1 cup mixed nuts",
+        "-",
+        "1/4 cup dried fruit",
+        "-",
+        "1 tablespoon honey"
+      ],
+      "keywords": [
+        "cup mixed nuts",
+        "cup dried fruit",
+        "tablespoon honey",
+        "cup dates",
+        "pitted"
+      ],
+      "sentences": [
+        "1 cup dates, pitted 1 cup mixed nuts 1/4 cup dried fruit 1 tablespoon honey"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "cup",
+          "dates",
+          "pitted",
+          "1",
+          "cup",
+          "mixed",
+          "nuts",
+          "1/4",
+          "cup",
+          "dried",
+          "fruit",
+          "1",
+          "tablespoon",
+          "honey"
+        ],
+        "nouns": [
+          "cup",
+          "date",
+          "honey",
+          "fruit",
+          "tablespoon"
+        ],
+        "verbs": [
+          "mix",
+          "dry",
+          "pit"
+        ],
+        "lemmas": [
+          "mix",
+          "tablespoon",
+          "cup",
+          "date",
+          "pit",
+          "dry",
+          "honey",
+          "1/4",
+          "1",
+          "fruit",
+          "nuts"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 15,
+      "paragraphs": [
+        "-",
+        "In a food processor, combine dates, mixed nuts, dried fruit, and honey.",
+        "-",
+        "Process until the mixture comes together.",
+        "-",
+        "Press the mixture into a greased baking dish.",
+        "-",
+        "Refrigerate for at least 1 hour before cutting into bars.",
+        "-",
+        "Store in an airtight container."
+      ],
+      "keywords": [
+        "combine dates",
+        "mixed nuts",
+        "dried fruit",
+        "food processor",
+        "honey",
+        "press the mixture",
+        "refrigerate",
+        "store",
+        "container",
+        "hour before cutting"
+      ],
+      "sentences": [
+        "In a food processor, combine dates, mixed nuts, dried fruit, and honey.",
+        "Process until the mixture comes together.",
+        "Press the mixture into a greased baking dish.",
+        "Refrigerate for at least 1 hour before cutting into bars.",
+        "Store in an airtight container."
+      ],
+      "semantic": {
+        "tokens": [
+          "food",
+          "processor",
+          "combine",
+          "dates",
+          "mixed",
+          "nuts",
+          "dried",
+          "fruit",
+          "honey",
+          "Process",
+          "mixture",
+          "comes",
+          "Press",
+          "mixture",
+          "greased",
+          "baking",
+          "dish",
+          "Refrigerate",
+          "1",
+          "hour",
+          "cutting",
+          "bars",
+          "Store",
+          "airtight",
+          "container"
+        ],
+        "nouns": [
+          "processor",
+          "airtight",
+          "store",
+          "hour",
+          "nut",
+          "bar",
+          "dish",
+          "date",
+          "mixture",
+          "process",
+          "food",
+          "honey",
+          "baking",
+          "refrigerate",
+          "container",
+          "fruit"
+        ],
+        "verbs": [
+          "press",
+          "combine",
+          "cut",
+          "come",
+          "dry",
+          "grease"
+        ],
+        "lemmas": [
+          "press",
+          "come",
+          "baking",
+          "1",
+          "container",
+          "airtight",
+          "store",
+          "date",
+          "process",
+          "honey",
+          "fruit",
+          "combine",
+          "hour",
+          "bar",
+          "cut",
+          "mixture",
+          "dry",
+          "grease",
+          "refrigerate",
+          "processor",
+          "mixed",
+          "nut",
+          "dish",
+          "food"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Peanut Butter and Banana Smoothie",
+      "page": 15,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 15,
+      "paragraphs": [
+        "-",
+        "1 banana",
+        "-",
+        "1/2 cup Greek yogurt",
+        "-",
+        "1/2 cup almond milk",
+        "-",
+        "1 tablespoon peanut butter",
+        "-",
+        "1 tablespoon honey"
+      ],
+      "keywords": [
+        "cup greek yogurt",
+        "cup almond milk",
+        "tablespoon peanut butter",
+        "tablespoon honey",
+        "banana"
+      ],
+      "sentences": [
+        "1 banana 1/2 cup Greek yogurt 1/2 cup almond milk 1 tablespoon peanut butter 1 tablespoon honey"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "banana",
+          "1/2",
+          "cup",
+          "Greek",
+          "yogurt",
+          "1/2",
+          "cup",
+          "almond",
+          "milk",
+          "1",
+          "tablespoon",
+          "peanut",
+          "butter",
+          "1",
+          "tablespoon",
+          "honey"
+        ],
+        "nouns": [
+          "cup",
+          "butter",
+          "banana",
+          "milk",
+          "yogurt",
+          "honey",
+          "peanut",
+          "almond",
+          "tablespoon"
+        ],
+        "verbs": [],
+        "lemmas": [
+          "cup",
+          "butter",
+          "1/2",
+          "banana",
+          "milk",
+          "yogurt",
+          "Greek",
+          "honey",
+          "peanut",
+          "1",
+          "almond",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 15,
+      "paragraphs": [
+        "-",
+        "In a blender, combine banana, Greek yogurt, almond milk, peanut butter, and honey.",
+        "-",
+        "Blend until smooth."
+      ],
+      "keywords": [
+        "greek yogurt",
+        "combine banana",
+        "almond milk",
+        "peanut butter",
+        "blender",
+        "honey",
+        "blend until smooth"
+      ],
+      "sentences": [
+        "In a blender, combine banana, Greek yogurt, almond milk, peanut butter, and honey.",
+        "Blend until smooth."
+      ],
+      "semantic": {
+        "tokens": [
+          "blender",
+          "combine",
+          "banana",
+          "Greek",
+          "yogurt",
+          "almond",
+          "milk",
+          "peanut",
+          "butter",
+          "honey",
+          "Blend",
+          "smooth"
+        ],
+        "nouns": [
+          "butter",
+          "blender",
+          "milk",
+          "honey",
+          "peanut",
+          "almond"
+        ],
+        "verbs": [
+          "combine",
+          "blend"
+        ],
+        "lemmas": [
+          "combine",
+          "blend",
+          "butter",
+          "blender",
+          "smooth",
+          "banana",
+          "milk",
+          "yogurt",
+          "Greek",
+          "honey",
+          "peanut",
+          "almond"
+        ]
+      }
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 16,
+      "paragraphs": [
+        "Serve immediately."
+      ],
+      "keywords": [
+        "serve immediately"
+      ],
+      "sentences": [
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [],
+        "verbs": [
+          "serve"
+        ],
+        "lemmas": [
+          "serve",
+          "immediately"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Cottage Cheese and Veggie Bowl",
+      "page": 16,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 16,
+      "paragraphs": [
+        "-",
+        "1 cup cottage cheese",
+        "-",
+        "1/4 cup diced cucumber",
+        "-",
+        "1/4 cup cherry tomatoes, halved",
+        "-",
+        "1/4 cup diced bell pepper",
+        "-",
+        "Salt and pepper to taste"
+      ],
+      "keywords": [
+        "cup cottage cheese",
+        "cup cherry tomatoes",
+        "cup diced cucumber",
+        "bell pepper salt",
+        "cup diced bell",
+        "diced bell pepper",
+        "salt and pepper",
+        "pepper to taste",
+        "halved"
+      ],
+      "sentences": [
+        "1 cup cottage cheese 1/4 cup diced cucumber 1/4 cup cherry tomatoes, halved 1/4 cup diced bell pepper Salt and pepper to taste"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "cup",
+          "cottage",
+          "cheese",
+          "1/4",
+          "cup",
+          "diced",
+          "cucumber",
+          "1/4",
+          "cup",
+          "cherry",
+          "tomatoes",
+          "halved",
+          "1/4",
+          "cup",
+          "diced",
+          "bell",
+          "pepper",
+          "Salt",
+          "pepper",
+          "taste"
+        ],
+        "nouns": [
+          "cup",
+          "tomato",
+          "cottage",
+          "salt",
+          "cheese",
+          "cherry",
+          "pepper",
+          "bell"
+        ],
+        "verbs": [
+          "halve",
+          "taste",
+          "dice"
+        ],
+        "lemmas": [
+          "halve",
+          "cup",
+          "tomato",
+          "dice",
+          "cottage",
+          "salt",
+          "taste",
+          "cheese",
+          "cherry",
+          "pepper",
+          "1/4",
+          "1",
+          "cucumber",
+          "bell"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 16,
+      "paragraphs": [
+        "-",
+        "In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.",
+        "-",
+        "Season with salt and pepper.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "combine cottage cheese",
+        "cherry tomatoes",
+        "cucumber",
+        "bell pepper",
+        "bowl",
+        "season with salt",
+        "serve immediately",
+        "salt and pepper"
+      ],
+      "sentences": [
+        "In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.",
+        "Season with salt and pepper.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "bowl",
+          "combine",
+          "cottage",
+          "cheese",
+          "cucumber",
+          "cherry",
+          "tomatoes",
+          "bell",
+          "pepper",
+          "Season",
+          "salt",
+          "pepper",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "tomato",
+          "cottage",
+          "bowl",
+          "salt",
+          "cheese",
+          "cherry",
+          "pepper",
+          "season",
+          "bell"
+        ],
+        "verbs": [
+          "combine",
+          "serve"
+        ],
+        "lemmas": [
+          "combine",
+          "tomato",
+          "cottage",
+          "immediately",
+          "bowl",
+          "salt",
+          "cheese",
+          "cherry",
+          "pepper",
+          "serve",
+          "season",
+          "cucumber",
+          "bell"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Almond Butter and Apple Slices",
+      "page": 16,
+      "paragraphs": [],
+      "keywords": [],
+      "sentences": [],
+      "semantic": {}
+    },
+    {
+      "level": "H2",
+      "text": "Ingredients:",
+      "page": 16,
+      "paragraphs": [
+        "-",
+        "1 apple, sliced",
+        "-",
+        "2 tablespoons almond butter"
+      ],
+      "keywords": [
+        "tablespoons almond butter",
+        "apple",
+        "sliced"
+      ],
+      "sentences": [
+        "1 apple, sliced 2 tablespoons almond butter"
+      ],
+      "semantic": {
+        "tokens": [
+          "1",
+          "apple",
+          "sliced",
+          "2",
+          "tablespoons",
+          "almond",
+          "butter"
+        ],
+        "nouns": [
+          "apple",
+          "butter",
+          "almond",
+          "tablespoon"
+        ],
+        "verbs": [
+          "slice"
+        ],
+        "lemmas": [
+          "apple",
+          "slice",
+          "2",
+          "butter",
+          "1",
+          "almond",
+          "tablespoon"
+        ]
+      }
+    },
+    {
+      "level": "H2",
+      "text": "Instructions:",
+      "page": 16,
+      "paragraphs": [
+        "-",
+        "Spread almond butter on each apple slice.",
+        "-",
+        "Serve immediately."
+      ],
+      "keywords": [
+        "spread almond butter",
+        "apple slice",
+        "serve immediately"
+      ],
+      "sentences": [
+        "Spread almond butter on each apple slice.",
+        "Serve immediately."
+      ],
+      "semantic": {
+        "tokens": [
+          "Spread",
+          "almond",
+          "butter",
+          "apple",
+          "slice",
+          "Serve",
+          "immediately"
+        ],
+        "nouns": [
+          "apple",
+          "butter",
+          "slice"
+        ],
+        "verbs": [
+          "serve",
+          "spread"
+        ],
+        "lemmas": [
+          "apple",
+          "slice",
+          "butter",
+          "spread",
+          "serve",
+          "almond",
+          "immediately"
+        ]
+      }
+    }
+  ]
+}
